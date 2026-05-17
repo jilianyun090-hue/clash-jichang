@@ -71,10 +71,7 @@ head:
   flex-direction: column;
   gap: 10px;
 }
-.account-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0,0,0,.1);
-}
+.account-card:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,.1); }
 .card-header { display: flex; justify-content: space-between; align-items: center; }
 .card-email { font-size: 1em; font-weight: 600; color: var(--c-text); word-break: break-all; }
 .card-status { font-size: .82em; color: #10b981; display: flex; align-items: center; gap: 4px; white-space: nowrap; }
@@ -99,123 +96,113 @@ head:
   transition: all .2s;
 }
 .aid-refresh-btn:hover { border-color: #2563eb; color: #2563eb; background: var(--c-bg-mute); }
-.aid-countdown { font-size: .78em; color: var(--c-text-light); margin-left: 6px; }
 </style>
 
 <script>
-(function () {
-  function maskEmail(email) {
-    if (!email) return '';
-    const at = email.indexOf('@');
-    if (at <= 2) return email;
-    return email.slice(0, 2) + '***' + email.slice(at);
-  }
+// SSR 保护：仅在浏览器端执行，避免 VuePress 构建时 Node.js 报 window is not defined
+if (typeof window !== 'undefined') {
+  (function () {
+    function maskEmail(e) {
+      if (!e) return '';
+      var at = e.indexOf('@');
+      return at <= 2 ? e : e.slice(0, 2) + '***' + e.slice(at);
+    }
 
-  function copyText(text, btn) {
-    (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject())
-      .catch(() => {
-        const ta = document.createElement('textarea');
+    function copyText(text, btn) {
+      var p = navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject();
+      p.catch(function () {
+        var ta = document.createElement('textarea');
         ta.value = text; document.body.appendChild(ta);
         ta.select(); document.execCommand('copy'); document.body.removeChild(ta);
-      })
-      .then(() => {
-        const orig = btn.textContent;
+      }).then(function () {
+        var orig = btn.textContent;
         btn.textContent = '✅ 已复制'; btn.classList.add('copied');
-        setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 2000);
+        setTimeout(function () { btn.textContent = orig; btn.classList.remove('copied'); }, 2000);
       });
-  }
+    }
 
-  function renderCards(accounts) {
-    const grid = document.getElementById('accountsGrid');
-    if (!grid) return;
-    grid.innerHTML = '';
-    accounts.forEach(acc => {
-      const card = document.createElement('div');
-      card.className = 'account-card';
-      card.innerHTML = `
-        <div class="card-header">
-          <div class="card-email">${maskEmail(acc.fullEmail || acc.email || '')}</div>
-          <div class="card-status">${acc.status || '正常'}</div>
-        </div>
-        <div class="card-meta">
-          <span class="region-badge">【${acc.regionName || acc.region || '未知'}】</span>
-          <span class="update-time">检测: ${(acc.checkTime || '').slice(11, 19) || '--'}</span>
-        </div>
-        <div class="card-actions">
-          <button class="btn-copy" data-val="${acc.fullEmail || acc.email || ''}">复制账号</button>
-          <button class="btn-copy" data-val="${acc.password || ''}">复制密码</button>
-        </div>`;
-      card.querySelectorAll('.btn-copy').forEach(btn => {
-        btn.addEventListener('click', () => copyText(btn.dataset.val, btn));
+    function renderCards(accounts) {
+      var grid = document.getElementById('accountsGrid');
+      if (!grid) return;
+      grid.innerHTML = '';
+      accounts.forEach(function (acc) {
+        var card = document.createElement('div');
+        card.className = 'account-card';
+        var email = acc.fullEmail || acc.email || '';
+        var pw = acc.password || '';
+        var region = acc.regionName || acc.region || '未知';
+        var t = (acc.checkTime || '').slice(11, 19) || '--';
+        card.innerHTML =
+          '<div class="card-header">' +
+            '<div class="card-email">' + maskEmail(email) + '</div>' +
+            '<div class="card-status">' + (acc.status || '正常') + '</div>' +
+          '</div>' +
+          '<div class="card-meta">' +
+            '<span class="region-badge">【' + region + '】</span>' +
+            '<span class="update-time">检测: ' + t + '</span>' +
+          '</div>' +
+          '<div class="card-actions">' +
+            '<button class="btn-copy" data-val="' + email + '">复制账号</button>' +
+            '<button class="btn-copy" data-val="' + pw + '">复制密码</button>' +
+          '</div>';
+        card.querySelectorAll('.btn-copy').forEach(function (btn) {
+          btn.addEventListener('click', function () { copyText(btn.dataset.val, btn); });
+        });
+        grid.appendChild(card);
       });
-      grid.appendChild(card);
-    });
-  }
+    }
 
-  // 自动刷新间隔：5 分钟
-  const REFRESH_INTERVAL = 5 * 60;
-  let countdown = REFRESH_INTERVAL;
-  let timer = null;
+    var REFRESH_INTERVAL = 5 * 60;
+    var countdown = REFRESH_INTERVAL;
+    var timer = null;
 
-  function loadAccounts() {
-    const status = document.getElementById('aid-status');
-    const btn = document.getElementById('aid-refresh-btn');
-    if (btn) btn.disabled = true;
-    if (status) { status.classList.remove('aid-error'); status.textContent = '⏳ 正在更新...'; }
+    function loadAccounts() {
+      var status = document.getElementById('aid-status');
+      var btn = document.getElementById('aid-refresh-btn');
+      if (btn) btn.disabled = true;
+      if (status) { status.classList.remove('aid-error'); status.textContent = '⏳ 正在更新...'; }
 
-    // 优先调用 CF Function 代理；本地开发时直连源接口（需浏览器支持 CORS）
-    const url = location.hostname === 'localhost' || location.hostname === '127.0.0.1'
-      ? 'https://fanqiangnan.com/data_sync.php'
-      : '/api/appleid';
+      var url = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+        ? 'https://fanqiangnan.com/data_sync.php'
+        : '/api/appleid';
 
-    fetch(url)
-      .then(r => r.json())
-      .then(json => {
-        if (!json.success || !json.data) throw new Error('数据格式错误');
-        // 只取 accounts，过滤掉 vpn_ads 节点广告
-        const all = [];
-        const groups = json.data.accounts || {};
-        Object.values(groups).forEach(g => { if (Array.isArray(g)) all.push(...g); });
-        if (all.length === 0) throw new Error('暂无可用账号，请稍后重试');
-        if (status) status.textContent =
-          `✅ 共 ${all.length} 个账号  |  更新于 ${new Date().toLocaleTimeString('zh-CN')}  |  5分钟后自动刷新`;
-        renderCards(all);
-        // 重置倒计时
-        countdown = REFRESH_INTERVAL;
-      })
-      .catch(err => {
-        if (status) {
-          status.textContent = '❌ 加载失败：' + err.message;
-          status.classList.add('aid-error');
-        }
-      })
-      .finally(() => {
-        if (btn) btn.disabled = false;
-      });
-  }
+      fetch(url)
+        .then(function (r) { return r.json(); })
+        .then(function (json) {
+          if (!json.success || !json.data) throw new Error('数据格式错误');
+          var all = [];
+          var groups = json.data.accounts || {};
+          Object.values(groups).forEach(function (g) { if (Array.isArray(g)) all = all.concat(g); });
+          if (all.length === 0) throw new Error('暂无可用账号，请稍后重试');
+          if (status) status.textContent =
+            '✅ 共 ' + all.length + ' 个账号  |  更新于 ' + new Date().toLocaleTimeString('zh-CN') + '  |  5分钟后自动刷新';
+          renderCards(all);
+          countdown = REFRESH_INTERVAL;
+        })
+        .catch(function (err) {
+          if (status) { status.textContent = '❌ 加载失败：' + err.message; status.classList.add('aid-error'); }
+        })
+        .finally(function () { if (btn) btn.disabled = false; });
+    }
 
-  // 暴露给刷新按钮的 onclick
-  window._aidLoad = loadAccounts;
+    window._aidLoad = loadAccounts;
 
-  // 倒计时 & 自动刷新
-  function startTimer() {
-    if (timer) clearInterval(timer);
-    timer = setInterval(() => {
-      countdown--;
-      if (countdown <= 0) {
-        countdown = REFRESH_INTERVAL;
-        loadAccounts();
-      }
-    }, 1000);
-  }
+    function startTimer() {
+      if (timer) clearInterval(timer);
+      timer = setInterval(function () {
+        countdown--;
+        if (countdown <= 0) { countdown = REFRESH_INTERVAL; loadAccounts(); }
+      }, 1000);
+    }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => { loadAccounts(); startTimer(); });
-  } else {
-    loadAccounts();
-    startTimer();
-  }
-})();
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', function () { loadAccounts(); startTimer(); });
+    } else {
+      loadAccounts();
+      startTimer();
+    }
+  })();
+}
 </script>
 
 ---
