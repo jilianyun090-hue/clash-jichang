@@ -99,6 +99,7 @@ export default hopeTheme({
                     { text: "2026 Windows电脑端 Clash Verge Rev 科学上网客户端下载与配置教程", link: "client-windows" },
                     { text: "2026 Android安卓手机端 Clash Meta 科学上网客户端下载与配置教程", link: "client-android" },
                     { text: "2026 iOS苹果手机端 Shadowrocket 小火箭科学上网客户端下载与配置教程", link: "client-ios" },
+                    { text: "【免费】2026 小火箭共享账号 | 美区苹果ID共享 (已购Shadowrocket) - 每日更新", link: "apple-id-shared" },
                 ],
             },
         ],
