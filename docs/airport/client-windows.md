@@ -1,5 +1,5 @@
 ---
-title: "2026 Windows 电脑端 Clash Verge Rev 科学上网客户端下载与配置教程"
+title: "2026 Windows 电脑端 Clash Verge Rev 科学上网客户端完整下载与配置教程（附截图）"
 description: "Clash Verge Rev下载与配置教程，支持Windows、macOS、Linux三平台，附国内加速下载链接、订阅导入步骤、TUN模式开启方法。为您量身定制的2026最新评测与实战教程方案，涵盖详细平台配置指导与实用有效避坑建议，助您全面优化安全数字生活体验。 本指南为您量身定制了最新的评测数。"
 head:
   - - meta

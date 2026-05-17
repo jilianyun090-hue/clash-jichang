@@ -1,5 +1,5 @@
 ---
-title: "OpenClaw（小龙虾）史上最全手把手的保姆级安装配置教程（2026年3月10日最新版）"
+title: "2026 OpenClaw（小龙虾）最全保姆级安装配置教程：AI 聚合工具完整使用指南"
 description: "2026年最新 OpenClaw 安装教程，涵盖 Windows、macOS 与 Linux 平台，手把手教你配置 API Key、接入飞书/Telegram 机器人，打造你的个人 AI 智能体。本指南专门为您量身定制了最新的评测数据与全方位的实战教程，内容涵盖详细的网络平台配置指导、主流客户端的细致使..."
 head:
   - - meta
@@ -18,7 +18,7 @@ tag:
 
 **发布日期：2026年3月10日 (最新版)**
 
-**OpenClaw** (俗称“小龙虾”) 是一个开源的 AI 智能体网络，它可以让你轻松地把各类大模型 (ChatGPT, Claude, Kimi 等) 接入到你常用的聊天软件（飞书、Telegram、WhatsApp 等）中，打造属于你自己的 7x24 小时在线 AI 助理。
+**OpenClaw** (俗称"小龙虾") 是一个开源的 AI 智能体网络，它可以让你轻松地把各类大模型 (ChatGPT, Claude, Kimi 等) 接入到你常用的聊天软件（飞书、Telegram、WhatsApp 等）中，打造属于你自己的 7x24 小时在线 AI 助理。
 
 本教程整合了全网最新资源，旨在通过最通俗易懂的语言，带你从零开始完成 OpenClaw 的部署。
 
@@ -69,11 +69,12 @@ OpenClaw 基于 Node.js 运行，因此你的电脑必须先安装合适的环�
 如果你熟悉 npm 或 pnpm，也可以直接安装：
 ```bash
 npm install -g openclaw@latest
-# 或者
-pnpm add -g openclaw@latest
 ```
 
-![安装过程示意图](/assets/img/guide/openclaw/install.png)
+或者使用 pnpm：
+```bash
+pnpm add -g openclaw@latest
+```
 
 ---
 
@@ -109,11 +110,11 @@ openclaw plugins install @m1heng-clawd/feishu
 1. 访问 [飞书开放平台](https://open.feishu.cn/)，创建一个自建应用。
 2. **启用机器人**：在应用详情页开启机器人功能。
 3. **获取密钥**：复制 `App ID` 和 `App Secret` 粘贴到 OpenClaw 配置中。
-4. **权限申请**：进入“权限管理”，选择批量导入，粘贴以下 JSON 权限包：
+4. **权限申请**：进入"权限管理"，选择批量导入，粘贴以下 JSON 权限包：
    ```json
    { "scopes": { "tenant": [ "im:message", "im:message:send_as_bot", "im:chat:readonly" ] } }
    ```
-5. **事件订阅**：选择“长连接”接收事件，并添加 `im.message.receive_v1` 事件。
+5. **事件订阅**：选择"长连接"接收事件，并添加 `im.message.receive_v1` 事件。
 6. **版本发布**：创建版本并申请上线。
 
 ![飞书配置示意图](/assets/img/guide/openclaw/feishu_config.png)
@@ -131,12 +132,12 @@ openclaw plugins install @m1heng-clawd/feishu
 | :--- | :--- |
 | **Node 版本报错** | 确认 `node -v` 结果为 22+。 |
 | **端口 18789 被占用** | 使用 `openclaw gateway --port 18790` 更换端口。 |
-| **飞书不回消息** | 检查“事件订阅”里的长连接是否处于“已连接”状态。 |
+| **飞书不回消息** | 检查"事件订阅"里的长连接是否处于"已连接"状态。 |
 | **Windows 路径失效** | 尝试关闭当前窗口并重新用管理员权限打开 PowerShell。 |
 
 ---
 
-> **💡 小贴士**：OpenClaw 的强大之处在于其 **Skill (技能)** 系统。你可以随着深入使用，慢慢给它添加“联网搜索”、“生成图片”等各种超能力。
+> **💡 小贴士**：OpenClaw 的强大之处在于其 **Skill (技能)** 系统。你可以随着深入使用，慢慢给它添加"联网搜索"、"生成图片"等各种超能力。
 
 ---
 

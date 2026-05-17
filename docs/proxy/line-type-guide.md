@@ -1,5 +1,5 @@
 ---
-title: "什么是 IEPL/IPLC 专线？深度揭秘单/多线程测速区别 - 3分钟辨别真假专线"
+title: "什么是 IEPL/IPLC 专线机场？2026深度揭秘单/多线程测速区别与真假专线鉴别指南"
 description: "2026 机场线路科普：什么是 IEPL/IPLC 专线？三分钟教你识破假专线机场。深度揭秘单/多线程测速数据背后的区别，涵盖 Traceroute 路由追踪、IP 归属分析与 ASN 验证实操，助你选对高品质机场。本指南专门为您量身定制了最新的评测数据与全方位的实战教程，内容涵盖详细的网络平台配置指导..."
 head:
   - - meta
@@ -54,10 +54,10 @@ tag:
 使用 `tracert` (Windows) 或 `traceroute` (Linux/macOS) 命令，观察数据包从你的电脑到机场服务器的路径：
 
 ```bash
-# Windows
+## Windows
 tracert your-ss-server.com
 
-# Linux / macOS
+## Linux / macOS
 traceroute your-ss-server.com
 ```
 

@@ -190,7 +190,23 @@ export default hopeTheme({
             customHead: (head, page, app) => {
                 // 为自动生成的博客聚合页面（标签、分类、文章列表等）提供独特且足够长的 meta description
                 if (page.path.startsWith('/tag/') || page.path.startsWith('/category/') || page.path.startsWith('/article/') || page.path.startsWith('/timeline/') || page.path.startsWith('/star/')) {
-                    const desc = `这是【${page.title}】的相关内容归档。2026年最新科学上网机场推荐与翻墙指南，为您精选稳定高速的翻墙机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT 等前沿 AI 工具使用攻略。`;
+                    const pageName = page.title || '科学上网';
+                    
+                    // 根据不同页面类型生成差异化描述
+                    let desc;
+                    if (page.path.startsWith('/tag/')) {
+                        desc = `浏览「${pageName}」相关文章合集。本站收录2026年最新科学上网机场推荐与翻墙指南，精选稳定高速的VPN机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT 等前沿 AI 工具使用攻略。标签：${pageName}。`;
+                    } else if (page.path.startsWith('/category/')) {
+                        desc = `「${pageName}」分类下的全部文章。2026年最新科学上网机场推荐与翻墙指南，精选稳定高速的VPN机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT、Claude 等前沿 AI 工具使用攻略。`;
+                    } else if (page.path.startsWith('/article/')) {
+                        desc = `2026年科学上网机场推荐全部文章列表。精选稳定高速的翻墙机场评测，提供 Netflix、Disney+、YouTube 4K 流媒体解锁教程与合租方案，分享 ChatGPT、Claude、Gemini 等前沿 AI 工具使用攻略，助您畅享全球互联网自由。`;
+                    } else if (page.path.startsWith('/timeline/')) {
+                        desc = `按时间线浏览2026年最新科学上网机场推荐与翻墙指南文章。持续更新稳定高速的VPN机场评测、Netflix/Disney+ 流媒体解锁教程与 ChatGPT 等 AI 工具使用攻略，记录每一次重要评测与资源分享。`;
+                    } else if (page.path.startsWith('/star/')) {
+                        desc = `精选推荐文章合集：2026年最具价值的科学上网机场推荐、翻墙攻略与流媒体解锁指南。经过严格筛选的高性价比VPN机场评测、Netflix合租技巧与 ChatGPT 使用攻略，助您快速找到最优方案。`;
+                    } else {
+                        desc = `这是「${pageName}」的相关内容归档。2026年最新科学上网机场推荐与翻墙指南，为您精选稳定高速的翻墙机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT 等前沿 AI 工具使用攻略。`;
+                    }
                     
                     const metaIndex = head.findIndex(item => item[0] === 'meta' && item[1].name === 'description');
                     if (metaIndex !== -1) {
