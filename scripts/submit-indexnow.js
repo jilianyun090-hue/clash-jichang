@@ -5,7 +5,7 @@
  */
 import https from "https";
 
-const INDEXNOW_KEY = "35CCAB205AEAD2FDC8BEB03EB1519F89";
+const INDEXNOW_KEY = "7ed17addd6714c9bb9398a7251d90866";
 const HOST = "clash-jichang.com";
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`;
 
