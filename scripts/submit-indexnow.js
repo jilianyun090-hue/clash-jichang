@@ -65,6 +65,10 @@ const urlList = [
   `https://${HOST}/proxy/letsvpn-shutdown.html`,
   `https://${HOST}/proxy/pc-guide.html`,
   `https://${HOST}/proxy/phone-guide.html`,
+  // 其他页面
+  `https://${HOST}/airport/apple-id-shared.html`,
+  `https://${HOST}/links.html`,
+  `https://${HOST}/stats.html`,
 ];
 
 const payload = JSON.stringify({

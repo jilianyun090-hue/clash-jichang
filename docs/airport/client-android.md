@@ -1,6 +1,6 @@
 ---
 title: "2026 Android 安卓手机端 Clash Meta 科学上网客户端完整下载与配置教程（含截图）"
-description: "Clash Meta for Android下载与配置教程，附国内加速APK下载链接、订阅导入步骤、代理模式说明与常见问题解答。为您量身定制的2026最新评测与实战教程方案，涵盖详细平台配置指导与实用有效避坑建议，助您全面优化安全数字生活体验。 本指南为您量身定制了最新的评测数据与全方位的实战教程，。"
+description: "2026年 Android 安卓手机 Clash Meta 完整下载安装与使用教程：APK 下载、订阅链接导入、规则配置一步到位。包含 CMFA（Clash Meta for Android）的界面功能详解、节点切换、分应用代理设置，以及常见连接问题（VPN 权限、移动数据不通）的排查解决方法，帮你快速完成安卓手机科学上网配置。"
 head:
   - - meta
     - name: keywords

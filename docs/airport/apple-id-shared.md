@@ -1,6 +1,6 @@
 ---
 title: "【免费】2026 小火箭共享账号 | 美区ID / 苹果ID共享 (已购Shadowrocket) - 每日更新"
-description: "2026年最新免费共享美区Apple ID账号实时自动更新，包含账号密码及使用须知。共享账号可用于从美区App Store下载Shadowrocket等代理软件，请勿修改密码或绑定支付信息，建议使用后及时退出账号，保护个人设备与数据安全。"
+description: "2026年免费美区苹果ID共享账号（已购 Shadowrocket 小火箭）每日更新。提供可直接使用的港区/美区 Apple ID 及密码，登录 App Store 后即可免费下载 Shadowrocket、Quantumult X 等科学上网工具。附账号使用注意事项与常见登录报错解决方法，不建议绑定个人信息。"
 category:
   - 客户端下载
   - 机场工具

@@ -1,6 +1,6 @@
 ---
 title: "2026 Midjourney AI 绘画完整教程：注册、参数设置与实战案例全面解析"
-description: "2026年Midjourney AI绘画完整教程，包含注册方法、Prompt提示词技巧、参数设置、风格调整与实用案例，适合设计师和创意工作者。为您量身定制的2026最新评测与实战教程方案，涵盖详细平台配置指导与实用有效避坑建议，助您全面优化安全数字生活体验。 本指南为您量身定制了最新的评测数据与全方。"
+description: "2026年 Midjourney AI 绘图完整使用指南：账号注册、Prompt 提示词写作技巧、V6 版本新功能详解与订阅方案性价比分析。涵盖常用参数（--ar、--style、--no）的使用方法、以图生图技巧，以及与 DALL-E 3、Stable Diffusion 的对比。帮助设计师和创作者高效利用 Midjourney 生成高质量 AI 图片。"
 head:
   - - meta
     - name: keywords

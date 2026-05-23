@@ -1,6 +1,6 @@
 ---
 title: "2026 iOS 苹果手机端 Shadowrocket 小火箭科学上网客户端完整下载与配置教程"
-description: "Shadowrocket(小火箭)下载与配置教程，附免费美区Apple ID共享账号获取、App Store安全登录步骤、订阅导入与常见问题解答。为您量身定制的2026最新评测与实战教程方案，涵盖详细平台配置指导与实用有效避坑建议，助您全面优化安全数字生活体验。 本指南为您量身定制了最新的评测数据与。"
+description: "2026年 iOS 苹果手机 Shadowrocket 小火箭完整使用教程：如何获取美区 Apple ID 购买小火箭、订阅链接导入与一键连接配置。覆盖规则模式设置、分应用代理、HTTPS 证书安装等进阶功能，以及常见问题（无法连接、订阅过期、UDP 转发失败）的解决方案，助你快速实现 iPhone/iPad 科学上网。"
 head:
   - - meta
     - name: keywords

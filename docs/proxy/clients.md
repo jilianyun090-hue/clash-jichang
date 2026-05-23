@@ -1,7 +1,7 @@
 ---
 title: "2026最全 MetaCubeX 核心及兼容客户端完整列表：代理软件维护状态与 GitHub 下载地址汇总"
 shortTitle: 客户端维护清单
-description: "2026年最全的 MetaCubeX 核心及兼容客户端列表，包含 Windows、macOS、Android、iOS、路由器及鸿蒙等各平台代理软件的最新维护状态和 GitHub 下载地址。本指南专门为您量身定制了最新的评测数据与全方位的实战教程，内容涵盖详细的网络平台配置指导、主流客户端的细致使用方法与..."
+description: "2026年最全 MetaCubeX 核心及兼容客户端列表，涵盖 Windows、macOS、Android、iOS、路由器及鸿蒙等各平台代理软件的维护状态、下载地址与核心特性对比。帮助你选择适合自己平台的最新稳定版客户端，避免使用停更的过时版本。"
 head:
   - - meta
     - name: keywords

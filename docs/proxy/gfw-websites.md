@@ -1,6 +1,6 @@
 ---
 title: "2026 被防火长城封锁的网站大全：Google、YouTube、Twitter等平台访问状态详细指南"
-description: "翻墙后能访问的网站完整指南：按类别深度介绍 ChatGPT、YouTube、Google、Netflix、GitHub 等国外主流网站，包含官网链接、核心功能、使用技巧与内链推荐。本指南专门为您量身定制了最新的评测数据与全方位的实战教程，内容涵盖详细的网络平台配置指导、主流客户端的细致使用方法与诸多实用..."
+description: "翻墙后必看的境外网站完整推荐清单，按类别深度介绍 ChatGPT、YouTube、Google、Netflix、GitHub、Twitter/X 等国外主流网站的官网链接、核心功能与使用场景，覆盖科技、社交、娱乐、学术、工具等20+品类，帮你充分利用科学上网的价值。"
 head:
   - - meta
     - name: keywords

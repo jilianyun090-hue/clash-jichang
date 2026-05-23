@@ -1,6 +1,6 @@
 ---
 title: "2026 Google Gemini 最强多模态 AI 模型国内直连使用全攻略：注册与使用教程"
-description: "Google 最强多模态 AI 模型 Gemini 使用全攻略。包含国内直连镜像版与海外官网版对比及使用建议。为您量身定制的2026最新评测与实战教程方案，涵盖详细平台配置指导与实用有效避坑建议，助您全面优化安全数字生活体验。 本指南为您量身定制了最新的评测数据与全方位的实战教程，内容涵盖详细的网络。"
+description: "2026年 Google Gemini 使用完整指南：Gemini Ultra/Pro/Nano 版本差异、国内访问方法、账号注册教程，以及 Gemini Advanced 订阅与 Google One 会员的性价比分析。覆盖 Gemini 在多模态理解、代码生成、Google 全家桶集成方面的核心优势，帮你判断是否值得从 ChatGPT 切换到 Gemini。"
 head:
   - - meta
     - name: keywords
