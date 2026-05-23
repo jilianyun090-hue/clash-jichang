@@ -15,6 +15,9 @@ const urlList = [
   `https://${HOST}/`,
   // 机场推荐
   `https://${HOST}/airport/`,
+  `https://${HOST}/airport/best-airport-2026.html`,
+  `https://${HOST}/airport/cheap-airport.html`,
+  `https://${HOST}/airport/iepl-iplc.html`,
   `https://${HOST}/airport/choose-guide.html`,
   `https://${HOST}/airport/software.html`,
   `https://${HOST}/airport/client-windows.html`,

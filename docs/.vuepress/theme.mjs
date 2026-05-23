@@ -90,6 +90,9 @@ export default hopeTheme({
                 text: "机场推荐",
                 children: [
                     { text: "2026 最新翻墙机场推荐评测：便宜好用、稳定高速梯子与科学上网VPN指南 (长期更新)", link: "" },
+                    { text: "2026 机场推荐排行榜：21家精选实测评分（持续更新）", link: "best-airport-2026" },
+                    { text: "学生党便宜机场推荐：月付8元起高性价比精选", link: "cheap-airport" },
+                    { text: "IEPL vs IPLC vs BGP：机场线路类型深度对比指南", link: "iepl-iplc" },
                     { text: "2026 机场避坑指南：购买前必须看的 3 个硬指标", link: "choose-guide" },
                 ],
             },
