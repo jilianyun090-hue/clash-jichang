@@ -91,8 +91,8 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 名称 | 官网地址 | 试用 | 最便宜订阅 | 不限时 | 群 | 详情 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
-| [**瞬云机场**](#瞬云机场) | [直达官网](https://bbb.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
-| [**寰宇云**](#寰宇云机场) | [直达官网](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
+| [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
+| [**寰宇云**](#寰宇云机场) | [直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**极速云机场**](#极速云机场) | [直达官网](https://tg.sintotgch.com/#/register?code=RENHYxqv) | 无 | 8.25元 800GB/月（年付） | ✅ | [TG](https://t.me/jisuyunchat8) | [前往](#极速云机场) |
 | [**山水云**](#山水云) | [直达官网](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) | 无 | 14.99元 100GB/月 | ✅ | [TG](https://t.me/ssy5999) | [前往](#山水云) |
@@ -139,7 +139,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 2. 瞬云机场 {#瞬云机场}
 
-瞬云机场官网地址：[syjccloud.com](https://aaa.jichang.best/#/register?code=o4I4kToe)
+瞬云机场官网地址：[ccc.jichang.best](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
 最便宜的订阅有 **8.25元 59G/月**（年付）。
 
@@ -159,13 +159,13 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 纵横 | 300G/月 | ¥36.00/月 | 适合大多数流媒体爱好者。仅限个人使用，不限速，ANYCAST高速节点 |
 | 凌霄 | 600G/月 | ¥68.00/月 | 大流量及重度办公/下载需求首选。仅限个人使用，不限速，ANYCAST高速节点 |
 
-👉 [立即注册瞬云机场](https://bbb.jichang.best/#/register?code=o4I4kToe)
+👉 [立即注册瞬云机场](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
 ---
 
 ### 3. 寰宇云机场 {#寰宇云机场}
 
-寰宇云机场官网地址：[dashboard.huanyuyunvip.com](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2)
+寰宇云机场官网地址：[vip3.huanyuyunbest.com](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
 最便宜的订阅有 **89元/年 60G/月**（折合约¥7.4/月）。
 
@@ -187,7 +187,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 巨量不限时 | 2000G | ¥268.00/一次性 | 按量计费，购买即永久有效 |
 | 海量不限时 | 4000G | ¥398.00/一次性 | 超大流量包，购买即永久有效 |
 
-👉 [立即注册寰宇云机场](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2)
+👉 [立即注册寰宇云机场](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
 ---
 
