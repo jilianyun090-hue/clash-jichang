@@ -94,12 +94,12 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**瞬云机场**](#瞬云机场) | [直达官网](https://bbb.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
 | [**寰宇云**](#寰宇云机场) | [直达官网](https://dashboard.huanyuyunvip.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
-| [**极速云机场**](#极速云机场) | [直达官网](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv) | 无 | 8.25元 800GB/月（年付） | ✅ | [TG](https://t.me/jisuyunchat8) | [前往](#极速云机场) |
+| [**极速云机场**](#极速云机场) | [直达官网](https://tg.sintotgch.com/#/register?code=RENHYxqv) | 无 | 8.25元 800GB/月（年付） | ✅ | [TG](https://t.me/jisuyunchat8) | [前往](#极速云机场) |
 | [**山水云**](#山水云) | [直达官网](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) | 无 | 14.99元 100GB/月 | ✅ | [TG](https://t.me/ssy5999) | [前往](#山水云) |
 | [**秒秒云**](#秒秒云) | [直达官网](https://dl1.mmy8.com/#/register?code=g3bq7bpK) | 无 | 14元 128GB/月 | ✅ | [TG](https://t.me/mmy7777) | [前往](#秒秒云) |
 | [**迅达VPN**](#迅达VPN) | [直达官网](https://sulianproxy.com/register?code=lfITU4zy) | 无 | 15元 150GB/月 | ❌ | 暂无 | [前往](#迅达VPN) |
 | [**Edge-X机场**](#Edge-X机场) | [直达官网](https://edge-invite.com/#/register?code=73ienU2h) | 无 | 16.8元 100GB/月 | ✅ | 暂无 | [前往](#Edge-X机场) |
-| [**可达加速器**](#可达加速器) | [直达官网](https://1.mkd997.com/?page=register&code=5KnBzRqS) | 无 | 10元 100GB/月 | ❌ | 暂无 | [前往](#可达加速器) |
+| [**可达加速器**](#可达加速器) | [直达官网](https://1.mkd997.com/#/register?code=JgTY5JiT) | 无 | 10元 100GB/月 | ❌ | 暂无 | [前往](#可达加速器) |
 | [**奈云**](#奈云) | [直达官网](https://airportgo.org/go.php) | 无 | 10.6元 168GB/月 | ✅ | [TG](https://t.me/v2naiun) | [前往](#奈云) |
 | [**隐云**](#隐云) | [直达官网](https://airportgo.org/go.php) | 无 | 25元 150GB/月 | ❌ | 暂无 | [前往](#隐云) |
 | [**山海机场**](#山海机场) | [直达官网](https://shanhai.sbs/#/register?code=qVTbPfWP) | 无 | 6元 45GB/月 | ✅ | [TG](https://t.me/shanhai_me) | [前往](#山海机场) |
@@ -212,7 +212,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 5. 极速云机场 {#极速云机场}
 
-极速云机场官网地址：[极速云](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv)
+极速云机场官网地址：[极速云](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
 最便宜的订阅有 **8.25元 800G/月**（年付折算）。
 
@@ -238,7 +238,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 > 💡 **8折优惠码**：`jisu666`，TG群：[@jisuyunchat8](https://t.me/jisuyunchat8)
 
-👉 [立即注册极速云机场](https://ask.xsccusm.com:8888/#/register?code=RENHYxqv)
+👉 [立即注册极速云机场](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
 ---
 
@@ -365,7 +365,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ### 10. 可达加速器 {#可达加速器}
 
-可达加速器官网地址：[mkd997.com](https://1.mkd997.com/?page=register&code=5KnBzRqS)
+可达加速器官网地址：[mkd997.com](https://1.mkd997.com/#/register?code=JgTY5JiT)
 
 最便宜的订阅有 **10元 100GB/月**（Basic 月付）。
 
@@ -383,7 +383,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 | Standard | ¥18/月 | 200GB/月 | 日常中度使用推荐 |
 | Premium | ¥25/月 | 300GB/月 | 重度用户首选，大流量高速体验 |
 
-👉 [立即注册可达加速器](https://1.mkd997.com/?page=register&code=5KnBzRqS)
+👉 [立即注册可达加速器](https://1.mkd997.com/#/register?code=JgTY5JiT)
 
 ---
 
