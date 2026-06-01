@@ -94,6 +94,8 @@ export default hopeTheme({
                     { text: "学生党便宜机场推荐：月付8元起高性价比精选", link: "cheap-airport" },
                     { text: "IEPL vs IPLC vs BGP：机场线路类型深度对比指南", link: "iepl-iplc" },
                     { text: "2026 机场避坑指南：购买前必须看的 3 个硬指标", link: "choose-guide" },
+                    { text: "Edge-X 机场深度评测：IEPL高速专线+流媒体全解锁，入门仅需¥16.8/月", link: "edge-x" },
+                    { text: "边界云机场评测：IEPL优化线路+Netflix解锁，年付仅需¥148", link: "bianjiyun" },
                 ],
             },
             {
