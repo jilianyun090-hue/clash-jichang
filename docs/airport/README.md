@@ -99,6 +99,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**秒秒云**](#秒秒云) | [直达官网](https://dl1.mmy8.com/#/register?code=g3bq7bpK) | 无 | 14元 128GB/月 | ✅ | [TG](https://t.me/mmy7777) | [前往](#秒秒云) |
 | [**迅达VPN**](#迅达VPN) | [直达官网](https://sulianproxy.com/register?code=lfITU4zy) | 无 | 15元 150GB/月 | ❌ | 暂无 | [前往](#迅达VPN) |
 | [**Edge-X机场**](#Edge-X机场) | [直达官网](https://edge-invite.com/#/register?code=73ienU2h) | 无 | 16.8元 100GB/月 | ✅ | 暂无 | [前往](#Edge-X机场) |
+| [**边界云**](#边界云机场) | [直达官网](https://www.lvpn.cc/r/6UQDZT) | 无 | 12.33元 50GB/月（年付） | ✅ | [TG](https://t.me/lvpnchat) | [前往](#边界云机场) |
 | [**可达加速器**](#可达加速器) | [直达官网](https://1.mkd997.com/#/register?code=JgTY5JiT) | 无 | 10元 100GB/月 | ❌ | 暂无 | [前往](#可达加速器) |
 | [**奈云**](#奈云) | [直达官网](https://airportgo.org/go.php) | 无 | 10.6元 168GB/月 | ✅ | [TG](https://t.me/v2naiun) | [前往](#奈云) |
 | [**隐云**](#隐云) | [直达官网](https://airportgo.org/go.php) | 无 | 25元 150GB/月 | ❌ | 暂无 | [前往](#隐云) |
@@ -363,7 +364,36 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ---
 
-### 10. 可达加速器 {#可达加速器}
+### 10. 边界云机场 {#边界云机场}
+
+边界云机场官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)
+
+最便宜的订阅有 **12.33元 50GB/月**（年付折算）。
+
+边界云是一家专注高性价比科学上网服务的机场，采用 IEPL 优化线路，提供 50+ 全球节点覆盖。全套餐支持 UDP 协议，主流流媒体（Netflix / Hulu）全线解锁，最高带宽可达 1000Mbps。所有套餐均附带 3 天无理由全额退款保证，支持支付宝等国内常见支付方式。
+
+**核心特性：**
+- ✅ IEPL 优化线路，50+ 全球节点
+- ✅ 最高 1000Mbps 带宽
+- ✅ 解锁 Netflix / Hulu 及主流流媒体
+- ✅ 支持 UDP 协议
+- ✅ 3 天无理由全额退款保证
+- ✅ 主流流媒体支持（Mini 套餐）
+
+| 套餐名称 | 类型 | 价格 | 流量 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- |
+| Mini | 月付 | ¥15.00/月 | 50GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+| Lite | 年付 | ¥148.00/年（¥12.33/月） | 50GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+| Pro Semi-Annual | 半年付 | ¥148.00/半年（¥24.67/月） | 100GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+| Pro | 年付 | ¥298.00/年（¥24.83/月） | 100GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+
+> 💡 **推荐入手**：Lite 年付套餐 50GB/¥148（折合¥12.33/月），IEPL 优化线路，附带 Netflix/Hulu 解锁，性价比出众。
+
+👉 [立即注册边界云机场](https://www.lvpn.cc/r/6UQDZT) | 💬 TG群组：[@lvpnchat](https://t.me/lvpnchat)
+
+---
+
+### 11. 可达加速器 {#可达加速器}
 
 可达加速器官网地址：[mkd997.com](https://1.mkd997.com/#/register?code=JgTY5JiT)
 
@@ -387,7 +417,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ---
 
-### 11. 奈云 {#奈云}
+### 12. 奈云 {#奈云}
 
 奈云官网地址：[v2naiun.com](https://airportgo.org/go.php)
 
@@ -406,7 +436,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ---
 
-### 12. 隐云 {#隐云}
+### 13. 隐云 {#隐云}
 
 隐云机场官网地址：[airportgo.org](https://airportgo.org/go.php)
 
@@ -427,7 +457,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ---
 
-### 13. 山海机场 {#山海机场}
+### 14. 山海机场 {#山海机场}
 
 山海机场官网地址：[shanhai.sbs](https://shanhai.sbs/#/register?code=qVTbPfWP)
 
@@ -450,7 +480,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ---
 
-### 14. LiZione {#LiZione}
+### 15. LiZione {#LiZione}
 
 LiZione 官网地址：[lizione.vip](https://lizione.vip?path=register&code=Wmf3jYMy)
 
@@ -467,7 +497,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ---
 
-### 15. 光速云 {#光速云}
+### 16. 光速云 {#光速云}
 
 光速云官网地址：[gsyvipaff.cc](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)
 
@@ -486,7 +516,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ---
 
-### 16. 全球云 {#全球云}
+### 17. 全球云 {#全球云}
 
 全球云官网地址：[gcvipaff.cc](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4)
 
@@ -504,7 +534,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ---
 
-### 17. 星岛梦 {#星岛梦}
+### 18. 星岛梦 {#星岛梦}
 
 星岛梦官网地址：[xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
@@ -522,7 +552,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ---
 
-### 18. 哆啦A梦 {#哆啦A梦}
+### 19. 哆啦A梦 {#哆啦A梦}
 
 哆啦A梦官网地址：[yyds2-doraemon.site](https://store.yyds2-doraemon.site/login/register?invite_code=5VxQMw0k)
 
@@ -541,7 +571,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ---
 
-### 19. 大哥云 {#大哥云}
+### 20. 大哥云 {#大哥云}
 
 大哥云官网地址：[airportgo.org](https://airportgo.org/go.php)
 
