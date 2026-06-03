@@ -7,7 +7,7 @@ head:
     - name: keywords
       content: 机场推荐, 科学上网, 翻墙机场, 高性价比机场, IEPL专线, IPLC专线, 3元机场, 学生党机场, AI工具教程, 流媒体合租, 2026机场推荐, VPN推荐, 翻墙教程, Clash Verge, V2Ray, 节点购买, Netflix解锁, 代理软件, 科学上网工具, 路由器翻墙, 流媒体解锁, ChatGPT, 翻墙指南, 最新机场测评, 免费节点
 heroImage: /globe.png
-heroText: 2026 机场推荐排行（5月更新）
+heroText: 2026 机场推荐排行（6月更新）
 tagline: 2026 科学上网指南：目前最稳的专线机场推荐。专为小白、学生党及 AI 研究者量身打造，涵盖流媒体 4K 极速解锁与 AI 工具全场景，拒绝跑路坑，畅享极致自由。
 actions:
   - text: 优质机场汇总
