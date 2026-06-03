@@ -1,0 +1,100 @@
+﻿=== MULTI H1 (5) ===
+{"file":"airport/best-airport-2026.md","count":2,"h1InBody":1,"h1Lines":["# 2026骞存満鍦烘帹鑽愭帓琛屾锛?1瀹剁簿閫夊疄娴嬭瘎鍒嗭紙鎸佺画鏇存柊锛?]}
+{"file":"airport/bianjiyun.md","count":2,"h1InBody":1,"h1Lines":["# 杈圭晫浜戞満鍦鸿瘎娴嬶細IEPL浼樺寲绾胯矾锛屽勾浠樎?48锛孨etflix/Hulu鍏ㄨВ閿?]}
+{"file":"airport/cheap-airport.md","count":2,"h1InBody":1,"h1Lines":["# 2026瀛︾敓鍏氫究瀹滄満鍦烘帹鑽愶細鏈堜粯8鍏冭捣鐨勯珮鎬т环姣擵PN绮鹃€?]}
+{"file":"airport/edge-x.md","count":2,"h1InBody":1,"h1Lines":["# Edge-X鏈哄満娣卞害璇勬祴锛欼EPL楂橀€熶笓绾匡紝鍏ラ棬楼16.8/鏈?]}
+{"file":"airport/iepl-iplc.md","count":2,"h1InBody":1,"h1Lines":["# IEPL涓撶嚎 vs IPLC涓撶嚎 vs BGP涓浆锛?026骞存満鍦虹嚎璺畬鍏ㄥ姣旀寚鍗?]}
+
+=== MISSING H1 (0) ===
+
+=== SHORT TITLE <50 chars (47) ===
+{"file":"account/how-to-share.md","title":"2026 娴佸獟浣撹处鍙峰悎绉熼伩鍧戝疄鎴樻寚鍗楋細濡備綍闃查獥闃茶窇璺紝鏂版墜蹇呯湅鍏ㄦ敾鐣?,"len":34}
+{"file":"account/platforms.md","title":"2026 鍙潬鐨勬祦濯掍綋涓?AI 璐﹀彿鍚堢骞冲彴鎺ㄨ崘锛氶摱娌冲綍鍍忓眬銆佸椋炲皬閾虹瓑娣卞害瀵规瘮","len":40}
+{"file":"ai/chatgpt.md","title":"2026 鏈€鏂?ChatGPT 娣卞害浣跨敤鎸囧崡锛氬畼缃戞极娓哥绫嶃€佸浗鍐呴暅鍍忕珯涓庤繘闃舵彁绀鸿瘝鎶€宸у畬鍏ㄦ帹鑽?,"len":47}
+{"file":"ai/claude-guide.md","title":"2026 Claude 3.5 Sonnet 娉ㄥ唽銆佸浗鍐呰闂笌楂樼骇浣跨敤鏀荤暐锛氭渶寮哄啓浣淎I瀹屾暣鏁欑▼","len":48}
+{"file":"ai/cursor-guide.md","title":"2026 Cursor AI 鏅鸿兘浠ｇ爜缂栬緫鍣ㄥ畬鏁存暀绋嬩笌瀹炴垬鎸囧崡锛氭彁鍗?0鍊嶇紪绋嬫晥鐜囩殑AI宸ュ叿","len":46}
+{"file":"ai/gemini.md","title":"2026 Google Gemini 鏈€寮哄妯℃€?AI 妯″瀷鍥藉唴鐩磋繛浣跨敤鍏ㄦ敾鐣ワ細娉ㄥ唽涓庝娇鐢ㄦ暀绋?,"len":47}
+{"file":"ai/midjourney-guide.md","title":"2026 Midjourney AI 缁樼敾瀹屾暣鏁欑▼锛氭敞鍐屻€佸弬鏁拌缃笌瀹炴垬妗堜緥鍏ㄩ潰瑙ｆ瀽","len":42}
+{"file":"ai/openclaw-guide.md","title":"2026 OpenClaw锛堝皬榫欒櫨锛夋渶鍏ㄤ繚濮嗙骇瀹夎閰嶇疆鏁欑▼锛欰I 鑱氬悎宸ュ叿瀹屾暣浣跨敤鎸囧崡","len":43}
+{"file":"airport/best-airport-2026.md","title":"2026骞存満鍦烘帹鑽愭帓琛屾锛?1瀹剁ǔ瀹氶珮鎬т环姣擵PN绉戝涓婄綉姊瓙绮鹃€夛紙鎸佺画瀹炴祴鏇存柊锛?,"len":41}
+{"file":"airport/bianjiyun.md","title":"杈圭晫浜戞満鍦鸿瘎娴嬶細IEPL浼樺寲绾胯矾锛屽勾浠樎?48锛孨etflix/Hulu鍏ㄨВ閿?,"len":39}
+{"file":"airport/cheap-airport.md","title":"2026瀛︾敓鍏氫究瀹滄満鍦烘帹鑽愶細鏈堜粯鏈€浣?鍏冪殑楂樻€т环姣擵PN姊瓙绮鹃€夛紙瀹炴祴绋冲畾锛?,"len":38}
+{"file":"airport/choose-guide.md","title":"2026 鏈哄満閬垮潙鎸囧崡锛氳喘涔癡PN鏈哄満鍓嶅繀椤荤湅鐨?3 涓‖鎸囨爣锛屾嫆缁濊窇璺潙淇濆钩瀹?,"len":40}
+{"file":"airport/client-ios.md","title":"2026 iOS 鑻规灉鎵嬫満绔?Shadowrocket 灏忕伀绠瀛︿笂缃戝鎴风瀹屾暣涓嬭浇涓庨厤缃暀绋?,"len":47}
+{"file":"airport/edge-x.md","title":"Edge-X鏈哄満娣卞害璇勬祴锛欼EPL楂橀€熶笓绾?娴佸獟浣撳叏瑙ｉ攣锛屽叆闂ㄤ粎闇€楼16.8/鏈?,"len":40}
+{"file":"airport/iepl-iplc.md","title":"IEPL涓撶嚎 vs IPLC涓撶嚎 vs BGP涓浆锛?026骞存満鍦虹嚎璺被鍨嬫繁搴﹀姣斾笌閫夎喘鎸囧崡","len":46}
+{"file":"airport/README.md","title":"2026骞翠究瀹滃ソ鐢╒PN鏈哄満鎺ㄨ崘锛氱ǔ瀹氬畨鍏ㄩ珮鎬т环姣旂炕澧欐瀛愮簿閫夛紝绉戝涓婄綉鎸佺画鏇存柊璇勬祴","len":42}
+{"file":"airport/software.md","title":"2026 鍏ㄥ钩鍙扮瀛︿笂缃戝鎴风涓嬭浇鎸囧崡锛欳lash銆丼hadowrocket 绛変富娴佷唬鐞嗚蒋浠舵帹鑽?,"len":48}
+{"file":"index.md","title":"2026 绮鹃€夌瀛︿笂缃戞満鍦烘帹鑽愶細瀹炴祴鏈€绋充笓绾挎満鍦轰笌缈诲姊瓙鎺ㄨ崘 - 閬撲竴鍗氬","len":38}
+{"file":"links.md","title":"鍙嬫儏閾炬帴涓庡悎浣滀紮浼?- 2026 绉戝涓婄綉鏈哄満鎺ㄨ崘鎺掕浼樿川璧勬簮鍏变韩涓庡弸閾句氦鎹?,"len":38}
+{"file":"proxy/after-fanqiang-guide.md","title":"缈诲鍚庡仛浠€涔堬紵2026骞磋€佸徃鏈虹簿蹇冩暣鐞嗙殑蹇呴€涙捣澶栫儹闂ㄧ綉绔欎笌瀹炵敤璧勬簮澶у叏","len":35}
+{"file":"proxy/apple-id-guide.md","title":"2026 濡備綍姝ｅ紡娉ㄥ唽缇庡尯 Apple ID 瀹屾暣鏁欑▼锛堝厤淇＄敤鍗★紝鍚ぜ鍝佸崱鍏呭€兼柟娉曪級","len":42}
+{"file":"proxy/backup-airport-guide.md","title":"澶囩敤鏈哄満鐨勯噸瑕佹€э細涓轰粈涔堢炕澧欒€佹墜鑷冲皯淇濈暀涓や釜璁㈤槄锛?026鍙屾満鍦虹瓥鐣ユ寚鍗楋級","len":37}
+{"file":"proxy/custom-client-guide.md","title":"鏈哄満鑷爺瀹㈡埛绔?vs 寮€婧愯蒋浠跺叏闈㈠姣旓細鏂版墜璇ョ敤鍝釜锛?026 璇﹁В涓庨€夋嫨寤鸿","len":39}
+{"file":"proxy/fanqiang-guide.md","title":"浠€涔堟槸缈诲锛?026骞碈lash浠ｇ悊宸ュ叿瀹屾暣浣跨敤鎸囧崡锛氭柊鎵嬩粠闆跺浼氱瀛︿笂缃戞暀绋?,"len":39}
+{"file":"proxy/hysteria-guide.md","title":"2026 Hysteria 鍗忚璇﹁В锛氫负浠€涔堝畠鏄洰鍓嶆渶蹇殑缈诲鍗忚锛熷師鐞嗕笌鏈哄満閰嶇疆鎸囧崡","len":43}
+{"file":"proxy/isp-speed-differences.md","title":"鐢典俊銆佽仈閫氥€佺Щ鍔ㄧ炕澧欓€熷害涓轰綍宸窛澶э紵2026杩愯惀鍟嗗嚭娴疯矾鐢辨繁搴﹁В鏋愪笌浼樺寲寤鸿","len":38}
+{"file":"proxy/letsvpn-shutdown.md","title":"鏈哄満璺戣矾纭锛氫粠杈熻埃鍒癨"鎷旂\"锛屽揩杩濾PN瀹ｅ竷鍋滄杩愯惀娲楃墝鍐呭箷涓庢浛浠ｅ搧鎺ㄨ崘","len":37}
+{"file":"proxy/line-type-guide.md","title":"浠€涔堟槸 IEPL/IPLC 涓撶嚎鏈哄満锛?026娣卞害鎻鍗?澶氱嚎绋嬫祴閫熷尯鍒笌鐪熷亣涓撶嚎閴村埆鎸囧崡","len":45}
+{"file":"proxy/pc-guide.md","title":"鐢佃剳濡備綍缈诲绉戝涓婄綉锛?026 骞?Windows 涓?Mac 缈诲鏂版墜淇濆绾ч厤缃寚鍗?,"len":43}
+{"file":"proxy/phone-guide.md","title":"鎵嬫満濡備綍缈诲绉戝涓婄綉锛?026 骞存渶鏂?Android 涓?iOS 绉戝涓婄綉瀹屾暣淇濆绾ф暀绋?,"len":45}
+{"file":"proxy/protocol-comparison.md","title":"2026骞?SSR銆乂LESS 涓?Trojan 缈诲鍗忚娣卞害瀵规瘮锛氬摢绉嶅崗璁€熷害鏈€蹇姉灏侀攣鏈€寮猴紵","len":48}
+{"file":"proxy/README.md","title":"绉戝涓婄綉涓庣炕澧欏熀纭€鐭ヨ瘑鍏ㄩ潰鎸囧崡锛?026骞存渶鏂版洿鏂帮級锛氭満鍦洪€夋嫨銆佸崗璁В鏋愪笌宸ュ叿鎺ㄨ崘","len":41}
+{"file":"proxy/relay-crackdown-2026.md","title":"2026骞?鏈堟満鍦轰腑杞嫈绾挎疆鍗囩骇鍏ㄨВ鏋愶細涓撶嚎鏋銆佹棤IP鍙崲锛岀炕澧欒涓氳繘鍏ユ礂鐗屽€掕鏃?,"len":42}
+{"file":"proxy/relay-darkest-hour.md","title":"鍥藉唴涓浆鏈哄満鐨勮嚦鏆楁椂鍒绘繁搴﹁В鏋愶細绯荤粺鎬ф墦鍑讳笅绉戝涓婄綉鐢ㄦ埛濡備綍绐佸洿涓庡鎵剧ǔ瀹氭柟妗?,"len":39}
+{"file":"proxy/router-vpn-guide.md","title":"2026 璺敱鍣ㄧ炕澧欑瀛︿笂缃戞暀绋嬶細鏈€浣宠矾鐢卞櫒 VPN 閰嶇疆鏂规硶淇濆绾у浘鏂囧畬鏁存寚鍗?,"len":40}
+{"file":"proxy/telegram-bot.md","title":"2026 Telegram 鎼滅储鏈哄櫒浜哄畬鏁存帹鑽愶細鏋佹悳銆佹悳鎼溿€佺椹悳绱㈢瓑楂樻晥 Bot 浣跨敤鏁欑▼","len":46}
+{"file":"proxy/telegram-guide.md","title":"2026 骞?Telegram 鐢垫姤鍥藉唴鏈€鏂版敞鍐屾祦绋嬩笌瀹夊叏浣跨敤瀹屾暣璇﹀敖鏁欑▼锛堝惈闅愮璁剧疆锛?,"len":44}
+{"file":"proxy/vpn-guide.md","title":"2026 骞?VPN 鏈哄満閫夎喘瀹炴垬閬垮潙瀹屾暣鎸囧崡锛氬浣曡瘑鍒紭璐ㄧ嚎璺笌闃茶窇璺ǔ瀹氭満鍦虹瓥鐣?,"len":42}
+{"file":"stats.md","title":"绉戝涓婄綉鏈哄満涓庢祦濯掍綋璐﹀彿璇勬祴缃戠珯璁块棶鏁版嵁鍏ㄩ潰缁熻鍥捐〃锛?026瀹炴椂鏇存柊锛?,"len":36}
+{"file":"streaming/disney-guide.md","title":"2026 Disney+ 鍚堢璁㈤槄瀹屾暣瑙傜湅鎸囧崡锛氭极濞佹槦鎴?K瑙ｉ攣鏂规硶涓庝綆浠峰悎绉熸妧宸?,"len":41}
+{"file":"streaming/hbo-max-guide.md","title":"2026 HBO Max/Go 鍥藉唴鍚堢瑙傜湅瀹屾暣鎸囧崡锛氱編鍓?K瑙ｉ攣銆佷环鏍煎姣斾笌鏈€浣冲悎绉熸柟妗?,"len":45}
+{"file":"streaming/hulu-hbo-guide.md","title":"2026 Hulu 涓?HBO Max 鍥藉唴瀹屾暣瑙傜湅鎸囧崡锛氬惈缇庡尯瑙ｉ攣銆佹満鍦烘帹鑽愪笌浣庝环鍚堢鏂规","len":46}
+{"file":"streaming/netflix-guide.md","title":"2026 Netflix 濂堥瀹屾暣瑙傜湅鎸囧崡锛氬浗鍐呭浣曠湅 4K 楂樻竻锛熼伩鍧戞敾鐣ヤ笌鎾斁璁剧疆鍏ㄨВ鏋?,"len":46}
+{"file":"streaming/spotify-guide.md","title":"2026 Spotify Premium 璐﹀彿鍚堢缁堟瀬瀹屾暣鎸囧崡锛氫綆浠锋嫾杞︺€侀珮闊宠川涓庤法鍖哄悎绉熸渶浣虫柟妗?,"len":49}
+{"file":"streaming/youtube-guide.md","title":"2026 YouTube Premium 浼氬憳鏉冪泭鍙婅闃呯粓鏋佸畬鏁存寚鍗楋細浣庝环鍚堢涓?K瑙ｉ攣鍏ㄦ敾鐣?,"len":47}
+{"file":"tag/README.md","title":"瀹屾暣鏍囩绱㈠紩 - 2026绉戝涓婄綉銆佹祦濯掍綋瑙ｉ攣銆丄I 宸ュ叿涓庣炕澧欐満鍦烘帹鑽愬叏鍒嗙被瀵艰埅","len":41}
+{"file":"tools/README.md","title":"2026娴佸獟浣撲笌 AI 璐﹀彿鍚堢宸ュ叿鎺ㄨ崘銆佷环鏍肩洃鎺у強绮鹃€夊钩鍙扮患鍚堣瘎娴嬩笌浣跨敤鎸囧崡","len":39}
+
+=== SHORT/MISSING DESC (39) ===
+{"file":"account/how-to-share.md","len":135,"missing":false}
+{"file":"account/price.md","len":145,"missing":false}
+{"file":"ai/openclaw-guide.md","len":146,"missing":false}
+{"file":"airport/best-airport-2026.md","len":140,"missing":false}
+{"file":"airport/bianjiyun.md","len":113,"missing":false}
+{"file":"airport/cheap-airport.md","len":144,"missing":false}
+{"file":"airport/choose-guide.md","len":134,"missing":false}
+{"file":"airport/edge-x.md","len":104,"missing":false}
+{"file":"airport/iepl-iplc.md","len":130,"missing":false}
+{"file":"proxy/after-fanqiang-guide.md","len":120,"missing":false}
+{"file":"proxy/apple-id-guide.md","len":121,"missing":false}
+{"file":"proxy/backup-airport-guide.md","len":96,"missing":false}
+{"file":"proxy/clients.md","len":123,"missing":false}
+{"file":"proxy/custom-client-guide.md","len":112,"missing":false}
+{"file":"proxy/fanqiang-guide.md","len":123,"missing":false}
+{"file":"proxy/gfw-websites.md","len":133,"missing":false}
+{"file":"proxy/hysteria-guide.md","len":130,"missing":false}
+{"file":"proxy/isp-speed-differences.md","len":108,"missing":false}
+{"file":"proxy/letsvpn-shutdown.md","len":122,"missing":false}
+{"file":"proxy/line-type-guide.md","len":130,"missing":false}
+{"file":"proxy/pc-guide.md","len":135,"missing":false}
+{"file":"proxy/phone-guide.md","len":138,"missing":false}
+{"file":"proxy/protocol-comparison.md","len":146,"missing":false}
+{"file":"proxy/README.md","len":133,"missing":false}
+{"file":"proxy/relay-crackdown-2026.md","len":117,"missing":false}
+{"file":"proxy/relay-darkest-hour.md","len":115,"missing":false}
+{"file":"proxy/router-vpn-guide.md","len":131,"missing":false}
+{"file":"proxy/streaming-unlock-guide.md","len":130,"missing":false}
+{"file":"proxy/telegram-bot.md","len":132,"missing":false}
+{"file":"proxy/telegram-guide.md","len":126,"missing":false}
+{"file":"proxy/vpn-guide.md","len":127,"missing":false}
+{"file":"stats.md","len":125,"missing":false}
+{"file":"streaming/disney-guide.md","len":134,"missing":false}
+{"file":"streaming/hbo-max-guide.md","len":139,"missing":false}
+{"file":"streaming/hulu-hbo-guide.md","len":132,"missing":false}
+{"file":"streaming/netflix-guide.md","len":143,"missing":false}
+{"file":"streaming/spotify-guide.md","len":138,"missing":false}
+{"file":"streaming/youtube-guide.md","len":147,"missing":false}
+{"file":"tag/README.md","len":143,"missing":false}
+
+=== MISSING ALT (0) ===

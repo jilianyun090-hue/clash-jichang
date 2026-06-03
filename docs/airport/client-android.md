@@ -11,7 +11,7 @@ tag:
   - 翻墙教程
 ---
 
-本教程以 **Clash Meta for Android** 为例，手把手教您在安卓手机上完成科学上网配置。Clash Meta for Android 是目前安卓端最主流的代理客户端，操作简单，适合新手。
+本教程以 **Clash Meta for Android** 为例，手把手教您在安卓手机上完成科学上网配置。Clash Meta for Android 是目前安卓端最主流的代理客户端，操作简单，适合新手。在配置客户端之前，你需要先通过 [2026年稳定便宜好用机场推荐列表](./README.md) 或 [学生党高性价比便宜机场推荐](./cheap-airport.md) 获取科学上网订阅链接。
 
 ## 下载安装
 

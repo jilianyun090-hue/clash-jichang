@@ -6,12 +6,6 @@ head:
     - name: keywords
       content: 电信联通移动翻墙速度, 运营商出海路由, 跨网互联, BGP多线入口, 机场测速差异, 移动宽带翻墙, 联通翻墙, 电信翻墙, 国际出口带宽, 科学上网运营商
   - - meta
-    - property: og:title
-      content: "电信、联通、移动翻墙速度差距大的真相：运营商出海路由深度解析"
-  - - meta
-    - property: og:description
-      content: "同样的机场节点，为什么电信快、联通丝滑、移动卡到崩溃？三大运营商出海路由差异全解析，一文搞懂跨网互联的真相。"
-  - - meta
     - name: geo.region
       content: CN
   - - meta

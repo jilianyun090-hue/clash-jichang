@@ -12,7 +12,7 @@ tag:
   - 翻墙教程
 ---
 
-本教程以 **Shadowrocket (小火箭)** 为例，手把手教您在 iPhone / iPad 上完成科学上网配置。Shadowrocket 是 iOS 端最普及、最易用的代理客户端。
+本教程以 **Shadowrocket (小火箭)** 为例，手把手教您在 iPhone / iPad 上完成科学上网配置。Shadowrocket 是 iOS 端最普及、最易用的代理客户端。在使用本软件前，你需要有可用的机场节点订阅，可以从 [2026年稳定便宜好用机场推荐列表](./README.md) 或专为学生推荐的 [学生党高性价比便宜机场精选](./cheap-airport.md) 中获取。
 
 <br/>
 

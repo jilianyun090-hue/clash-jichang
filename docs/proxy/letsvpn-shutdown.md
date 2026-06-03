@@ -6,12 +6,6 @@ head:
     - name: keywords
       content: 快连VPN,LetsVPN,快连跑路,快连替代品,VPN停运退款,2026靠谱机场,机场推荐,加速器,代理软件,科学上网
   - - meta
-    - property: og:title
-      content: "【机场跑路确认】从辟谣到“拔管”：快连VPN宣布停止运营与洗牌内幕"
-  - - meta
-    - property: og:description
-      content: "快连VPN宣布停运，深度复盘行业洗牌内幕，为您提供防失联的2026稳定机场推荐及快连替代品指南。"
-  - - meta
     - name: geo.region
       content: CN
   - - meta

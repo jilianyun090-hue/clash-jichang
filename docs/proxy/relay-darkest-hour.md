@@ -8,12 +8,7 @@ head:
   - - meta
     - name: author
       content: 推荐机场
-  - - meta
-    - property: og:title
-      content: "国内中转机场的至暗时刻：系统性打击下如何突围"
-  - - meta
-    - property: og:description
-      content: "IP段连坐、IDC主动清退、专线全面沦陷——深度解析2026中转机场行业海啸根源与用户突围实战方案。"
+
   - - meta
     - property: og:type
       content: article

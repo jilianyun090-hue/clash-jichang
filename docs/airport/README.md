@@ -43,11 +43,10 @@ tag:
 
 ## 什么是VPN和机场？如何选择科学上网工具？
 
-::: details VPN vs 机场：区别与选择建议
+### VPN vs 机场：区别与选择建议
 VPN（虚拟专用网络）是一种加密的网络连接技术，可以保护您的在线隐私和数据安全。而机场（也称为代理服务）是国内用户常用的科学上网工具，通常基于Shadowsocks、V2Ray、Trojan等协议。
 - **VPN**：商业VPN服务通常价格较高（月费20-80元），但提供完整的网络加密和多平台支持，适合对隐私要求高的用户。
 - **机场**：价格更实惠（低至1-15元/月），专注于突破网络限制，性价比更高，适合日常科学上网需求。
-:::
 
 ## ⚡ 2分钟闭眼选购速查卡（不想看长文直接看这里）
 
@@ -61,15 +60,14 @@ VPN（虚拟专用网络）是一种加密的网络连接技术，可以保护�
 
 > 💡 **选购铁律**：新用户必选月付套餐，先用再续费，防止踩坑。
 
-::: details 1元机场与低价机场推荐标准
+### 1元机场与低价机场推荐标准
 在我们的VPN推荐评测中，性价比是很多用户关注的重点。特别是1元机场，凭借极低的价格吸引了大量用户。
 - ✅ 价格透明，无隐藏费用
 - ✅ 节点稳定，不频繁掉线
 - ✅ 支持主流客户端（Clash、V2Ray、Shadowrocket等）
 - ✅ 可访问Netflix、ChatGPT、YouTube等海外服务
-:::
 
-::: details 科学上网常见问题解答(FAQ)
+### 科学上网常见问题解答(FAQ)
 **Q1: 使用VPN和机场安全吗？**
 A: 选择正规服务商，不在敏感时期进行敏感操作，风险较低。不要使用免费VPN，选择口碑好、运营时间长的机场。
 
@@ -78,7 +76,6 @@ A: 轻度使用（网页、社交）：50-100GB/月；中度使用（视频、�
 
 **Q3: 哪些设备可以使用？**
 A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
-:::
 
 ## 机场推荐说明
 - 机场运营 2 年及以上。
@@ -90,8 +87,8 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 | 名称 | 官网地址 | 试用 | 最便宜订阅 | 不限时 | 群 | 详情 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
-| [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
+| [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](/airport/jilianyun.html) |
+| [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](/airport/shunyun.html) |
 | [**寰宇云**](#寰宇云机场) | [直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**极速云机场**](#极速云机场) | [直达官网](https://tg.sintotgch.com/#/register?code=RENHYxqv) | 无 | 8.25元 800GB/月（年付） | ✅ | [TG](https://t.me/jisuyunchat8) | [前往](#极速云机场) |
@@ -125,6 +122,8 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 最便宜的订阅有 **8元 60G/月**。
 
+👉 **[前往极连云独立深度评测与测速报告](/airport/jilianyun.html)**
+
 极连云提供高性价比的 IEPL 专线 VPN 服务，支持 Trojan 和 Shadowsocks 协议，全线解锁 Netflix、YouTube、ChatGPT、Gemini 等主流平台。套餐无倍率、不限速、不限制设备数量，支持支付宝、微信、USDT 支付。拥有 7×24 小时多渠道售后支持，海外技术团队实时维护巡检，节点状态异常会自动切换，是专线路线中性价比较高的选择。本站长期 8 折优惠码：`JLY888`。
 
 | 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
@@ -143,6 +142,8 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 瞬云机场官网地址：[ccc.jichang.best](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
 最便宜的订阅有 **8.25元 59G/月**（年付）。
+
+👉 **[前往瞬云机场独立深度评测与测速报告](/airport/shunyun.html)**
 
 瞬云机场支持解锁各大流媒体，解锁 ChatGPT、Gemini 等 AI 服务，轻松满足跨境电商、直播运营、远程办公及日常冲浪等多场景需求。网络采用直连加专线架构，搭配主流国家 ANYCAST 高速节点，确保连接的低延迟与高稳定性。套餐均承诺无倍率、不限速，且价格透明实在，是专线路线中不可多得的高性价比之选。
 

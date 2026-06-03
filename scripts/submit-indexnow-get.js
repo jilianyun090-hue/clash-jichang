@@ -22,14 +22,13 @@ const priorityUrls = [
 ];
 
 let completed = 0;
-
-function submitUrl(url) {
+function submitUrl(url, apiHost) {
   return new Promise((resolve) => {
     const encodedUrl = encodeURIComponent(url);
     const path = `/indexnow?url=${encodedUrl}&key=${KEY}`;
     
     const options = {
-      hostname: "www.bing.com",
+      hostname: apiHost,
       path: path,
       method: "GET",
     };
@@ -40,27 +39,28 @@ function submitUrl(url) {
       res.on("end", () => {
         const status = res.statusCode;
         const icon = (status === 200 || status === 202) ? "✅" : status === 429 ? "⏳" : "❌";
-        console.log(`${icon} [${status}] ${url}`);
+        console.log(`${icon} [${apiHost}] [${status}] ${url}`);
         resolve(status);
       });
     });
 
     req.on("error", (e) => {
-      console.log(`❌ [ERROR] ${url}: ${e.message}`);
+      console.log(`❌ [${apiHost}] [ERROR] ${url}: ${e.message}`);
       resolve(0);
     });
     req.end();
   });
 }
 
-console.log(`[IndexNow] 正在逐个提交 ${priorityUrls.length} 个优先URL...\n`);
+console.log(`[IndexNow] 正在通过 GET 逐个提交 ${priorityUrls.length} 个优先URL...\n`);
 
 (async () => {
   for (const url of priorityUrls) {
-    await submitUrl(url);
-    // 每次提交间隔300ms，避免限频
-    await new Promise(r => setTimeout(r, 300));
+    for (const host of ["yandex.com", "www.bing.com"]) {
+      await submitUrl(url, host);
+      // 每次提交间隔200ms
+      await new Promise(r => setTimeout(r, 200));
+    }
   }
   console.log(`\n✅ 全部提交完成！`);
-  console.log(`\n📌 提示：若全部显示202，说明Bing已接受请求，将在数小时内重新抓取这些页面。`);
 })();

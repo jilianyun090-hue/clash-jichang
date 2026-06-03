@@ -9,12 +9,6 @@ head:
     - name: author
       content: 推荐机场
   - - meta
-    - property: og:title
-      content: "2026年4月机场拔线潮升级：专线枯竭、无IP可换，行业进入大洗牌"
-  - - meta
-    - property: og:description
-      content: "国内专项治理升级，IPLC/IEPL专线遭通报即清退，无新IP资源可购，机场行业陷入绝境。深度解析拔线潮现状与用户应对策略。"
-  - - meta
     - property: og:type
       content: article
   - - meta

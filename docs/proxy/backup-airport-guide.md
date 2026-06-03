@@ -6,12 +6,6 @@ head:
     - name: keywords
       content: 备用机场, 主备机场策略, 按量付费机场, 不限时流量包, 机场防断网, 备用订阅, 科学上网稳定性, 机场订阅策略
   - - meta
-    - property: og:title
-      content: "备用机场的重要性：为什么老手至少保留两个订阅"
-  - - meta
-    - property: og:description
-      content: "只有一个机场就像只有一条裤子——一旦出问题全线瘫痪。老手的主备双机场策略详解。"
-  - - meta
     - name: geo.region
       content: CN
   - - meta

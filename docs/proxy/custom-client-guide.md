@@ -6,12 +6,6 @@ head:
     - name: keywords
       content: 机场自研客户端, 一键连, Clash替代品, 科学上网客户端, 开源代理软件, 机场客户端推荐, 新手科学上网, 翻墙软件
   - - meta
-    - property: og:title
-      content: "机场自研客户端 vs 开源软件：新手该用哪个？"
-  - - meta
-    - property: og:description
-      content: "刚接触科学上网不会配 Clash？一文看懂自研客户端的优势与局限，帮你找到最适合自己的工具。"
-  - - meta
     - name: geo.region
       content: CN
   - - meta

@@ -79,37 +79,51 @@ const payload = JSON.stringify({
   key: INDEXNOW_KEY,
   keyLocation: KEY_LOCATION,
   urlList,
-});
+});const targets = ["yandex.com", "www.bing.com", "api.indexnow.org"];
 
-const options = {
-  hostname: "www.bing.com",
-  path: "/indexnow",
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json; charset=utf-8",
-    "Content-Length": Buffer.byteLength(payload),
-  },
-};
+async function submitToTarget(apiHost) {
+  return new Promise((resolve) => {
+    const options = {
+      hostname: apiHost,
+      path: "/indexnow",
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+        "Content-Length": Buffer.byteLength(payload),
+      },
+    };
 
-console.log(`[IndexNow] 正在提交 ${urlList.length} 个 URL 到 Bing...`);
+    console.log(`[IndexNow] 正在提交 ${urlList.length} 个 URL 到 ${apiHost}...`);
 
-const req = https.request(options, (res) => {
-  console.log(`[IndexNow] 响应状态: ${res.statusCode}`);
-  if (res.statusCode === 200 || res.statusCode === 202) {
-    console.log("[IndexNow] ✅ 提交成功！Bing 将加快收录以上页面。");
-  } else if (res.statusCode === 422) {
-    console.log("[IndexNow] ⚠️ URL 格式有误，请检查 urlList 中的地址。");
-  } else if (res.statusCode === 429) {
-    console.log("[IndexNow] ⚠️ 请求过于频繁，每天提交一次即可。");
-  } else {
-    console.log(`[IndexNow] ❌ 提交失败，状态码: ${res.statusCode}`);
+    const req = https.request(options, (res) => {
+      let body = "";
+      res.on("data", (chunk) => body += chunk);
+      res.on("end", () => {
+        console.log(`[IndexNow] ${apiHost} 响应状态: ${res.statusCode}`);
+        if (res.statusCode === 200 || res.statusCode === 202) {
+          console.log(`[IndexNow] ✅ ${apiHost} 提交成功！`);
+        } else {
+          console.log(`[IndexNow] ❌ ${apiHost} 提交失败，状态码: ${res.statusCode}`);
+          if (body) {
+            console.log(`[IndexNow] ${apiHost} 详情: ${body}`);
+          }
+        }
+        resolve(res.statusCode);
+      });
+    });
+
+    req.on("error", (e) => {
+      console.error(`[IndexNow] ${apiHost} 请求错误: ${e.message}`);
+      resolve(0);
+    });
+
+    req.write(payload);
+    req.end();
+  });
+}
+
+(async () => {
+  for (const target of targets) {
+    await submitToTarget(target);
   }
-  res.on("data", (d) => process.stdout.write(d));
-});
-
-req.on("error", (e) => {
-  console.error(`[IndexNow] 请求错误: ${e.message}`);
-});
-
-req.write(payload);
-req.end();
+})();
