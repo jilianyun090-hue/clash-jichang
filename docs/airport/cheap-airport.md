@@ -103,7 +103,7 @@ tag:
 
 ## 相关阅读
 
-- [2026年机场完整推荐列表（21家精选）](/airport/)
+- [2026年机场完整推荐列表（24家精选）](/airport/)
 - [IEPL专线是什么？为什么便宜机场也能是专线？](/airport/iepl-iplc.html)
 - [Clash Verge Rev 下载与配置教程](/airport/software.html)
 - [机场选购避坑指南](/airport/choose-guide.html)
