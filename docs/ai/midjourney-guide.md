@@ -1,5 +1,5 @@
 ---
-title: "2026 Midjourney AI 绘画完整教程：注册、参数设置与实战案例全面解析"
+title: "Midjourney国内怎么用？2026最新Midjourney注册、参数设置与AI绘图教程"
 description: "2026年 Midjourney AI 绘图完整使用指南：账号注册、Prompt 提示词写作技巧、V6 版本新功能详解与订阅方案性价比分析。涵盖常用参数（--ar、--style、--no）的使用方法、以图生图技巧，以及与 DALL-E 3、Stable Diffusion 的对比。帮助设计师和创作者高效利用 Midjourney 生成高质量 AI 图片。"
 head:
   - - meta

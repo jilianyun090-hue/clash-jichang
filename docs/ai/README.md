@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT/Grok 4 专用机场推荐：原生 IP 完美解锁不锁区 - 2026 AI 必备工具导航"
+title: "ChatGPT与Claude专用机场推荐：2026原生住宅IP完美解锁AI工具指南"
 description: "2026年 AI 工具实战使用完整指南：ChatGPT、Claude、Gemini、Grok、Midjourney、Cursor 等主流 AI 工具的国内访问方法、账号注册教程与深度使用技巧。包含各 AI 平台的功能对比、免费版 vs 付费版差异分析，以及科学上网节点选择建议，助你高效利用全球顶尖 AI 工具提升工作效率。"
 ---
 

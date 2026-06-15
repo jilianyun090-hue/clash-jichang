@@ -1,5 +1,5 @@
 ---
-title: "2026年 SSR、VLESS 与 Trojan 翻墙协议深度对比：哪种协议速度最快抗封锁最强？"
+title: "SSR/VLESS/Trojan翻墙协议对比：2026哪种协议速度最快抗封锁最强？"
 description: "2026年翻墙协议深度横评：SSR（ShadowsocksR）、VLESS 与 Trojan 三大主流协议的速度、稳定性与抗 GFW 检测能力全面对比，附 Hysteria2、NaïveProxy 等新兴协议分析。帮助你根据网络环境与使用场景选择最合适的翻墙协议，提升科学上网的稳定性与速度。"
 head:
   - - meta

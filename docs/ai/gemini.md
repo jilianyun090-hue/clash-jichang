@@ -1,5 +1,5 @@
 ---
-title: "2026 Google Gemini 最强多模态 AI 模型国内直连使用全攻略：注册与使用教程"
+title: "Google Gemini国内怎么用？2026最新Gemini多模态AI模型直连使用指南"
 description: "2026年 Google Gemini 使用完整指南：Gemini Ultra/Pro/Nano 版本差异、国内访问方法、账号注册教程，以及 Gemini Advanced 订阅与 Google One 会员的性价比分析。覆盖 Gemini 在多模态理解、代码生成、Google 全家桶集成方面的核心优势，帮你判断是否值得从 ChatGPT 切换到 Gemini。"
 head:
   - - meta

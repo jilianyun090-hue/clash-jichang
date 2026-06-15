@@ -4,75 +4,45 @@
  * 手动运行: node scripts/submit-indexnow.js
  */
 import https from "https";
+import fs from "fs";
+import path from "path";
 
 const INDEXNOW_KEY = "7ed17addd6714c9bb9398a7251d90866";
 const HOST = "clash-jichang.com";
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`;
 
-// 网站所有页面 URL 列表
-const urlList = [
-  // 首页
-  `https://${HOST}/`,
-  // 机场推荐
-  `https://${HOST}/airport/`,
-  `https://${HOST}/airport/best-airport-2026.html`,
-  `https://${HOST}/airport/cheap-airport.html`,
-  `https://${HOST}/airport/iepl-iplc.html`,
-  `https://${HOST}/airport/choose-guide.html`,
-  `https://${HOST}/airport/software.html`,
-  `https://${HOST}/airport/client-windows.html`,
-  `https://${HOST}/airport/client-android.html`,
-  `https://${HOST}/airport/client-ios.html`,
-  // 流媒体
-  `https://${HOST}/streaming/`,
-  `https://${HOST}/streaming/netflix-guide.html`,
-  `https://${HOST}/streaming/disney-guide.html`,
-  `https://${HOST}/streaming/youtube-guide.html`,
-  `https://${HOST}/streaming/spotify-guide.html`,
-  `https://${HOST}/streaming/hbo-max-guide.html`,
-  `https://${HOST}/streaming/hulu-hbo-guide.html`,
-  `https://${HOST}/streaming/sms-guide.html`,
-  // 账号合租
-  `https://${HOST}/account/platforms.html`,
-  `https://${HOST}/account/price.html`,
-  `https://${HOST}/account/how-to-share.html`,
-  // AI 指南
-  `https://${HOST}/ai/`,
-  `https://${HOST}/ai/chatgpt.html`,
-  `https://${HOST}/ai/claude-guide.html`,
-  `https://${HOST}/ai/gemini.html`,
-  `https://${HOST}/ai/grok-guide.html`,
-  `https://${HOST}/ai/midjourney-guide.html`,
-  `https://${HOST}/ai/cursor-guide.html`,
-  `https://${HOST}/ai/openclaw-guide.html`,
-  // 科学上网知识库
-  `https://${HOST}/proxy/`,
-  `https://${HOST}/proxy/vpn-guide.html`,
-  `https://${HOST}/proxy/fanqiang-guide.html`,
-  `https://${HOST}/proxy/backup-airport-guide.html`,
-  `https://${HOST}/proxy/after-fanqiang-guide.html`,
-  `https://${HOST}/proxy/gfw-websites.html`,
-  `https://${HOST}/proxy/line-type-guide.html`,
-  `https://${HOST}/proxy/isp-speed-differences.html`,
-  `https://${HOST}/proxy/streaming-unlock-guide.html`,
-  `https://${HOST}/proxy/protocol-comparison.html`,
-  `https://${HOST}/proxy/hysteria-guide.html`,
-  `https://${HOST}/proxy/clients.html`,
-  `https://${HOST}/proxy/custom-client-guide.html`,
-  `https://${HOST}/proxy/router-vpn-guide.html`,
-  `https://${HOST}/proxy/apple-id-guide.html`,
-  `https://${HOST}/proxy/telegram-guide.html`,
-  `https://${HOST}/proxy/telegram-bot.html`,
-  `https://${HOST}/proxy/relay-crackdown-2026.html`,
-  `https://${HOST}/proxy/relay-darkest-hour.html`,
-  `https://${HOST}/proxy/letsvpn-shutdown.html`,
-  `https://${HOST}/proxy/pc-guide.html`,
-  `https://${HOST}/proxy/phone-guide.html`,
-  // 其他页面
-  `https://${HOST}/airport/apple-id-shared.html`,
-  `https://${HOST}/links.html`,
-  `https://${HOST}/stats.html`,
-];
+// 动态从构建后的 sitemap.xml 中读取所有 URL
+const sitemapPath = path.resolve("docs/.vuepress/dist/sitemap.xml");
+let urlList = [];
+
+if (fs.existsSync(sitemapPath)) {
+  try {
+    const sitemapContent = fs.readFileSync(sitemapPath, "utf8");
+    const locRegex = /<loc>(.*?)<\/loc>/g;
+    let match;
+    while ((match = locRegex.exec(sitemapContent)) !== null) {
+      const url = match[1].trim();
+      // 排除不必要的系统页面（如果需要），这里全部提交以加速收录
+      urlList.push(url);
+    }
+    console.log(`[IndexNow] 成功从 sitemap.xml 解析出 ${urlList.length} 个 URL`);
+  } catch (err) {
+    console.error("[IndexNow] 读取/解析 sitemap.xml 失败，采用备用 URL 列表:", err);
+  }
+}
+
+if (urlList.length === 0) {
+  console.log("[IndexNow] ⚠️ 警告: 未能从 sitemap.xml 中提取到 URL。使用基础 URL 列表进行兜底提交。");
+  urlList = [
+    `https://${HOST}/`,
+    `https://${HOST}/airport/`,
+    `https://${HOST}/streaming/`,
+    `https://${HOST}/account/platforms.html`,
+    `https://${HOST}/ai/`,
+    `https://${HOST}/proxy/`,
+  ];
+}
+
 
 const payload = JSON.stringify({
   host: HOST,

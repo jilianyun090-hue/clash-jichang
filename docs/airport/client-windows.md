@@ -1,5 +1,5 @@
 ---
-title: "2026 Windows 电脑端 Clash Verge Rev 科学上网客户端完整下载与配置教程（附截图）"
+title: "Clash Verge Rev Windows配置教程：电脑端科学上网保姆级指南"
 description: "2026年 Windows 电脑 Clash Verge Rev 完整下载安装与使用教程：从官网下载、安装配置到导入机场订阅链接、开启系统代理，全程图文指导。涵盖常用功能（规则模式、全局模式、节点测速、流量统计）的使用说明，以及内核切换、TUN模式等进阶配置方法，10分钟轻松完成 Windows 科学上网配置。"
 head:
   - - meta

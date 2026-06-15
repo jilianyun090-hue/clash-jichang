@@ -1,5 +1,5 @@
 ---
-title: "Grok 4 完整使用指南：Think Mode/DeepSearch/Grok Ani 功能与国内访问教程（2026）"
+title: "Grok AI国内怎么用？2026最新Grok 2.0官网使用与注册保姆级教程"
 description: "2026年 Grok 使用完整指南：X（Twitter）平台旗下 Grok AI 的账号注册、国内访问方法、与 ChatGPT 和 Claude 的功能对比。解析 Grok 的实时联网搜索、幽默对话风格与无内容审查特性，以及 Grok 3 的最新能力升级。适合希望体验 Elon Musk 旗下 AI 产品的用户参考。"
 head:
   - - meta

@@ -1,5 +1,5 @@
 ---
-title: "2026 Hysteria 协议详解：为什么它是目前最快的翻墙协议？原理与机场配置指南"
+title: "Hysteria2协议详解：为什么它是最快的翻墙协议？2026原理与机场配置"
 description: "2026年 Hysteria2 协议完整深度解析：基于 QUIC 协议的新一代翻墙方案，高丢包率环境下速度超越传统 TCP 协议3-5倍。本文涵盖 Hysteria2 的工作原理、与 Trojan/VLESS 的性能对比、支持该协议的机场推荐及客户端配置教程。"
 head:
   - - meta
