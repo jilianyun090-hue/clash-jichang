@@ -90,7 +90,7 @@ export default hopeTheme({
             {
                 text: "推荐与测评指南",
                 children: [
-                    { text: "翻墙机场与梯子推荐", link: "" },
+                    { text: "便宜机场VPN与梯子推荐", link: "" },
                     { text: "稳定机场推荐排行榜", link: "best-airport-2026" },
                     { text: "便宜机场推荐 (学生党首选)", link: "cheap-airport" },
                     { text: "科学上网机场避坑指南", link: "choose-guide" },
@@ -99,7 +99,7 @@ export default hopeTheme({
             },
             {
                 text: "客户端下载与配置",
-                collapsible: true,
+                collapsible: false,
                 children: [
                     { text: "全平台客户端下载汇总指南", link: "software" },
                     { text: "Windows 端 Clash Verge 教程", link: "client-windows" },
