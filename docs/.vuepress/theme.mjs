@@ -146,6 +146,7 @@ export default hopeTheme({
                     { text: "机场流媒体解锁原理解析", link: "streaming-unlock-guide" },
                     { text: "SSR与Trojan协议性能对比", link: "protocol-comparison" },
                     { text: "Hysteria2最快协议详解", link: "hysteria-guide" },
+                    { text: "AnyTLS新协议原理与配置", link: "anytls-guide" },
                 ],
             },
             {

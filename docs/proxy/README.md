@@ -56,6 +56,10 @@ description: "科学上网翻墙完整知识库（2026年持续更新）：涵�
     <div class="card-title">Hysteria 协议全面解析</div>
     <div class="card-desc">基于 UDP/QUIC 的新一代高速翻墙协议，高丢包网络下速度最快，了解其原理与优势。</div>
   </a>
+  <a class="card-item" href="/proxy/anytls-guide.html">
+    <div class="card-title">AnyTLS 新协议深度指南</div>
+    <div class="card-desc">由 sing-box 维护的全新 TLS 代理协议，通过自定义填充与空闲会话预热，兼顾安全隐蔽与极速响应。</div>
+  </a>
   <a class="card-item" href="/proxy/after-fanqiang-guide.html">
     <div class="card-title">翻墙后必逛的海外热门网站</div>
     <div class="card-desc">老司机精心整理：社交APP、视频平台、音乐、游戏、购物、学习等必备海外资源导航。</div>

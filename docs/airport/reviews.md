@@ -40,6 +40,11 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">老牌稳定代理，经典 SS 协议低延迟，抗封锁能力优异，最便宜的年付折合仅需 ¥7.5/月。</div>
   </a>
 
+  <a class="card-item" href="/airport/jinyun.html">
+    <div class="card-title">锦云机场测评</div>
+    <div class="card-desc">全节点支持高性价比专线，月付低至 ¥6 提供 50GB 流量，多端配置一键导入，TG专属群支持。</div>
+  </a>
+
   <a class="card-item" href="/airport/jisuyun.html">
     <div class="card-title">极速云机场测评</div>
     <div class="card-desc">大流量用户的福音，入门套餐即享 800GB 超大带宽流量，年付月均资费低至 ¥8.25/月。</div>
