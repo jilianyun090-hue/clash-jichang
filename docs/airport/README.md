@@ -89,9 +89,10 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 名称 | 官网地址 | 试用 | 最便宜订阅 | 不限时 | 群 | 详情 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
+| [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
+| [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
 | [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
 | [**寰宇云**](#寰宇云机场) | [直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
-| [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**锦云**](#锦云) | [直达官网](https://w2.whengdl.com/#/register?code=BIGc8qrQ) | 无 | 6元 50GB/月 | ❌ | [TG](https://t.me/jyun555) | [前往](#锦云) |
 | [**极速云机场**](#极速云机场) | [直达官网](https://tg.sintotgch.com/#/register?code=RENHYxqv) | 无 | 8.25元 800GB/月（年付） | ✅ | [TG](https://t.me/jisuyunchat8) | [前往](#极速云机场) |
 | [**山水云**](#山水云) | [直达官网](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) | 无 | 14.99元 100GB/月 | ✅ | [TG](https://t.me/ssy5999) | [前往](#山水云) |
@@ -139,7 +140,56 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 2. 瞬云机场 {#瞬云机场}
+### 2. 光年梯 {#光年梯}
+
+光年梯官网地址：[gntvipaff.cc](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44)
+
+最便宜的订阅有 **7.5元 50G/月**（年付）。
+
+光年梯是由资深团队运营的高品质翻墙机场，拥有多年稳定运营历史和丰富技术经验。全线采用 IPLC 专线，高峰期满速不降速。其自有机房和全球节点网络确保用户能够享受到快速、稳定的网络连接。对于需要全天候高质量连接的用户，光年梯是可靠之选。支持支付宝和加密货币支付。
+
+| 套餐名称 | 月费 | 流量 | 特性 | 适用人群 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 入门版(年付) | ¥90.00/年（折合¥7.5/月） | 50GB/月 | 全IPLC专线，SS协议，不限速，不限客户端 | 极致省钱用户 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+| 入门版 | ¥18.00/月 | 110GB/月 | 全IPLC专线，SS协议，不限速，不限客户端 | 轻度/入门 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+| 晋级版 | ¥34.00/月 | 220GB/月 | 全节点 x1 · 高峰满速 | 进阶使用 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+| 专业版 | ¥68.00/月 | 450GB/月 | 全节点 x1 · 高峰满速 | 主力使用 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+| 至尊版 | ¥130.00/月 | 900GB/月 | 全节点 x1 · 高峰满速 | 重度用户 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+| 独享私人专线 | ¥680.00/月 | 500GB/月 | 独立带宽，独立公网IP，全程独享 | 企业/极致 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
+
+---
+
+### 3. 飞猫云 {#飞猫云}
+
+飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
+
+最便宜的订阅有 **¥84.00/年（学生版）**，月流量 50GB。
+
+飞猫云采用全 IPLC 专线网络，提供最高 2.5Gbps 稳定速率，原生 IP 线路，轻松解锁 Netflix、Disney+、ChatGPT、TikTok 等服务，高峰时段不降速。套餐不限制设备连接数量，支持多端同时登录使用，并具备智能流量分配与路由优化功能。支持支付宝付款，提供年付 8 折、两年付 7 折、三年付 6 折的长期优惠。
+
+**核心特性：**
+- ✅ 全 IPLC 专线网络，最高 2.5Gbps 稳定速率
+- ✅ 原生 IP 线路，解锁 Netflix、Disney+、ChatGPT、TikTok 等
+- ✅ 所有节点 x1 倍率，高峰时段不降速
+- ✅ 不限制设备连接数量，多端同时登录
+- ✅ 智能流量分配与路由优化
+- ✅ 季付及以上用户，购买日起每 30 天自动刷新流量
+
+**全球节点覆盖：** 香港 x20、台湾 x10、日本 x10、新加坡 x10、美国 x10、韩国 x3、马来西亚、越南、菲律宾、泰国、印度、英国、法国、德国、阿根廷等
+
+| 套餐名称 | 价格 | 月流量 | 说明 |
+| :--- | :--- | :--- | :--- |
+| 飞猫·学生版 | ¥84.00/年（折合¥7/月） | 50GB/月 | 年费小包，适合低流量用户/学生党，月付自动刷新 |
+| 飞猫·星耀版 | ¥25.00/月 | 150GB/月 | 季付及以上用户购买日起每30天刷新流量 |
+| 飞猫·星环版 | ¥45.00/月 | 300GB/月 | 季付及以上用户购买日起每30天刷新流量 |
+
+> 💡 **长期优惠**：年付 8 折 \| 两年付 7 折 \| 三年付 6 折，长期使用更省钱。
+
+👉 [立即注册飞猫云](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
+
+---
+
+### 4. 瞬云机场 {#瞬云机场}
 
 瞬云机场官网地址：[ccc.jichang.best](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
@@ -167,7 +217,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 3. 寰宇云机场 {#寰宇云机场}
+### 5. 寰宇云机场 {#寰宇云机场}
 
 寰宇云机场官网地址：[vip3.huanyuyunbest.com](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
@@ -195,26 +245,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 4. 光年梯 {#光年梯}
-
-光年梯官网地址：[gntvipaff.cc](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44)
-
-最便宜的订阅有 **7.5元 50G/月**（年付）。
-
-光年梯是由资深团队运营的高品质翻墙机场，拥有多年稳定运营历史和丰富技术经验。全线采用 IPLC 专线，高峰期满速不降速。其自有机房和全球节点网络确保用户能够享受到快速、稳定的网络连接。对于需要全天候高质量连接的用户，光年梯是可靠之选。支持支付宝和加密货币支付。
-
-| 套餐名称 | 月费 | 流量 | 特性 | 适用人群 | 购买链接 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 入门版(年付) | ¥90.00/年（折合¥7.5/月） | 50GB/月 | 全IPLC专线，SS协议，不限速，不限客户端 | 极致省钱用户 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| 入门版 | ¥18.00/月 | 110GB/月 | 全IPLC专线，SS协议，不限速，不限客户端 | 轻度/入门 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| 晋级版 | ¥34.00/月 | 220GB/月 | 全节点 x1 · 高峰满速 | 进阶使用 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| 专业版 | ¥68.00/月 | 450GB/月 | 全节点 x1 · 高峰满速 | 主力使用 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| 至尊版 | ¥130.00/月 | 900GB/月 | 全节点 x1 · 高峰满速 | 重度用户 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| 独享私人专线 | ¥680.00/月 | 500GB/月 | 独立带宽，独立公网IP，全程独享 | 企业/极致 | [购买链接](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-
----
-
-### 5. 锦云机场 {#锦云}
+### 6. 锦云机场 {#锦云}
 
 锦云官网地址：[直达官网](https://w2.whengdl.com/#/register?code=BIGc8qrQ)
 
@@ -239,7 +270,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 6. 极速云机场 {#极速云机场}
+### 7. 极速云机场 {#极速云机场}
 
 极速云机场官网地址：[极速云](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
@@ -271,7 +302,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 7. 山水云 {#山水云}
+### 8. 山水云 {#山水云}
 
 山水云官网地址：[ss2.byvvcsx.com](https://ss2.byvvcsx.com/#/register?code=jkziWeb8)
 
@@ -672,7 +703,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ---
 
-### 25. 花云机场 (FlowerCloud) {#花云机场}
+### 26. 花云机场 (FlowerCloud) {#花云机场}
 
 花云机场官网地址：[api-flowercloud.com](https://api-flowercloud.com/aff.php?aff=16018)
 
