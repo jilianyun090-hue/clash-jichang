@@ -1,11 +1,11 @@
 ---
 title: "机场测评报告合集：2026精选稳定科学上网翻墙机场测速深度报告"
-description: "欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 24 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。"
+description: "欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 34 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。"
 ---
 
 # 2026年独立机场测评报告合集
 
-欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 24 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。
+欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 34 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。
 
 ---
 
@@ -13,6 +13,51 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
   <a class="card-item" href="/airport/jilianyun.html">
     <div class="card-title">极连云机场测评</div>
     <div class="card-desc">IPLC物理内网专线，不限并发设备数。敏感时期稳如磐石，全节点1.0倍率，资费低至 ¥8/月。提供全线 8 折优惠码：JLY888。</div>
+  </a>
+
+  <a class="card-item" href="/airport/guangnianti.html">
+    <div class="card-title">光年梯机场测评</div>
+    <div class="card-desc">老牌稳定代理，经典 SS 协议低延迟，抗封锁能力优异，最便宜的年付折合仅需 ¥7.5/月。</div>
+  </a>
+
+  <a class="card-item" href="/airport/feimaoyun.html">
+    <div class="card-title">飞猫云机场测评</div>
+    <div class="card-desc">全物理专线 IPLC 架构，最高提供 2.5Gbps 稳定速率，不限制设备连接数，原生 IP 流媒体/AI完美解锁，月付低至 ¥7/月（学生包）。</div>
+  </a>
+
+  <a class="card-item" href="/airport/kexinyun.html">
+    <div class="card-title">可信云机场测评</div>
+    <div class="card-desc">IEPL专线不限速不限设备，覆盖60+顶级专线节点，原生IP流媒体与AI完美解锁，最低套餐折合 ¥8/月起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/sujie.html">
+    <div class="card-title">速界机场测评</div>
+    <div class="card-desc">高速大带宽代理线路，自研客户端一键配置登录，不限速不限设备，年付折合约 ¥7.5/月起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/kuaili.html">
+    <div class="card-title">快狸机场测评</div>
+    <div class="card-desc">专属自研傻瓜式一键客户端，60+全球优质专线节点，完美解锁流媒体与AI服务，低至 ¥10/月起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/bianyuanjiedian.html">
+    <div class="card-title">边缘节点机场测评</div>
+    <div class="card-desc">稳定低延迟BGP中转加速，官方专属自研客户端一键登录，退款机制健全，月费折合低至 ¥9/月起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/guangshuyun.html">
+    <div class="card-title">光速云机场测评</div>
+    <div class="card-desc">智能动态选路设计，针对香港/日本/新加坡优化。大流量，月付低至 ¥8.25 起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/xingdaomeng.html">
+    <div class="card-title">星岛梦机场测评</div>
+    <div class="card-desc">多线 BGP 中转大带宽设计，解锁 Netflix/ChatGPT/Disney+ 原生区域视频，月付 ¥16 起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/quanqiuyun.html">
+    <div class="card-title">全球云机场测评</div>
+    <div class="card-desc">IEPL 国际专线外贸办公专用，大内网隔离防泄密，多台设备在线支持，月付 ¥20 起。</div>
   </a>
 
   <a class="card-item" href="/airport/shunyun.html">
@@ -25,19 +70,29 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">IEPL国际全专线，精选原生住宅 IP 级出口。对 ChatGPT, Claude 解锁极佳，有效降低封号滑块几率，资费低至 ¥7.4/月。</div>
   </a>
 
-  <a class="card-item" href="/airport/edge-x.html">
-    <div class="card-title">Edge-X 机场测评</div>
-    <div class="card-desc">企业级IEPL高端专线，全流媒体及ChatGPT解锁支持，套餐月付 ¥16.8 起，无套路超速运行。</div>
-  </a>
-
   <a class="card-item" href="/airport/bianjiyun.html">
     <div class="card-title">边界云机场测评</div>
     <div class="card-desc">老牌 IEPL 中转网络优化，主打新手 3 天内无理由退款保障，折合年付套餐低至 ¥12.33/月。</div>
   </a>
 
-  <a class="card-item" href="/airport/guangnianti.html">
-    <div class="card-title">光年梯机场测评</div>
-    <div class="card-desc">老牌稳定代理，经典 SS 协议低延迟，抗封锁能力优异，最便宜的年付折合仅需 ¥7.5/月。</div>
+  <a class="card-item" href="/airport/yingzi.html">
+    <div class="card-title">影子机场测评</div>
+    <div class="card-desc">高端高速 IEPL 跨境专线，原生解锁 Netflix/Disney+/AI 平台，稳定性极高，最低 ¥18.8/月。</div>
+  </a>
+
+  <a class="card-item" href="/airport/lumina.html">
+    <div class="card-title">Lumina 机场测评</div>
+    <div class="card-desc">Hysteria2直连与AnyTLS中转混合，不限设备并发，限速1000Mbps大带宽，高性价比月付 ¥10 起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/pinhaolian.html">
+    <div class="card-title">拼好连机场测评</div>
+    <div class="card-desc">拼团共享高性价比代表，不限客户端连接，200M/400M甚至不限速带宽，晚高峰4K秒开，月付 ¥9.9 起。</div>
+  </a>
+
+  <a class="card-item" href="/airport/99bar.html">
+    <div class="card-title">99吧机场测评</div>
+    <div class="card-desc">SS 协议加密通道，支持多达 99 台设备同时在线，支持 ChatGPT 等 AI 及各种流媒体解锁，年付低至 ¥7.5/月起。</div>
   </a>
 
   <a class="card-item" href="/airport/jinyun.html">
@@ -65,6 +120,11 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">主打海外音视频流媒体解锁，原生 IP 节点极多，晚高峰 YouTube 自动秒开 4K，月付 ¥15 起。</div>
   </a>
 
+  <a class="card-item" href="/airport/edge-x.html">
+    <div class="card-title">Edge-X 机场测评</div>
+    <div class="card-desc">企业级IEPL高端专线，全流媒体及ChatGPT解锁支持，套餐月付 ¥16.8 起，无套路超速运行。</div>
+  </a>
+
   <a class="card-item" href="/airport/keda.html">
     <div class="card-title">可达加速器测评</div>
     <div class="card-desc">极简轻量级直连优化，适合查资料和网页检索的轻度科学上网用户，门槛极低仅 ¥10/月。</div>
@@ -88,21 +148,6 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
   <a class="card-item" href="/airport/lizione.html">
     <div class="card-title">LiZione 机场测评</div>
     <div class="card-desc">纯正 BGP 专线直达，流媒体解锁线路针对性配置，多端配置傻瓜式导入，月付 ¥10 起。</div>
-  </a>
-
-  <a class="card-item" href="/airport/guangshuyun.html">
-    <div class="card-title">光速云机场测评</div>
-    <div class="card-desc">智能动态选路设计，针对香港/日本/新加坡优化。大流量，月付低至 ¥8.25 起。</div>
-  </a>
-
-  <a class="card-item" href="/airport/quanqiuyun.html">
-    <div class="card-title">全球云机场测评</div>
-    <div class="card-desc">IEPL 国际专线外贸办公专用，大内网隔离防泄密，多台设备在线支持，月付 ¥20 起。</div>
-  </a>
-
-  <a class="card-item" href="/airport/xingdaomeng.html">
-    <div class="card-title">星岛梦机场测评</div>
-    <div class="card-desc">多线 BGP 中转大带宽设计，解锁 Netflix/ChatGPT/Disney+ 原生区域视频，月付 ¥16 起。</div>
   </a>
 
   <a class="card-item" href="/airport/duolaameng.html">
