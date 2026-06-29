@@ -43,6 +43,7 @@ const FIXED_DESCRIPTIONS = {
   'airport/software.md': '2026年全平台科学上网客户端下载与推荐：Windows/macOS 首选 Clash Verge Rev，Android 推荐 Clash Meta for Android，iOS 推荐 Shadowrocket 小火箭。提供各客户端的官方/镜像下载链接、版本对比与快速配置三步走指南，适合各平台新手快速上手科学上网代理软件。',
   'airport/choose-guide.md': '2026年VPN机场选购完整避坑指南：月付优先、线路质量优先、实测数据优先三大核心消费策略，教你通过晚高峰测速评估法和跑路征兆预警识别优劣机场。深度解析 IEPL/IPLC 专线与 BGP 中转的性价比差异，及如何配置主备双机场方案规避断网风险，适合新手与老用户参考。',
   'airport/apple-id-shared.md': '2026年免费美区苹果ID共享账号（已购 Shadowrocket 小火箭）每日更新。提供可直接使用的港区/美区 Apple ID 及密码，登录 App Store 后即可免费下载 Shadowrocket、Quantumult X 等科学上网工具。附账号使用注意事项与常见登录报错解决方法，不建议绑定个人信息。',
+  'airport/subscription-guide.md': '2026年最新科学上网新手教程：详解什么是翻墙机场、订阅链接、Clash/小火箭客户端，对比传统VPN与节点订阅的优缺点，并提供主流客户端（Clash Verge/Shadowrocket）的导入与配置指南、选购避坑原则及常见网络连接问题（如节点超时、全红）排查方法。',
   
   // ai/
   'ai/README.md': '2026年 AI 工具实战使用完整指南：ChatGPT、Claude、Gemini、Grok、Midjourney、Cursor 等主流 AI 工具的国内访问方法、账号注册教程与深度使用技巧。包含各 AI 平台的功能对比、免费版 vs 付费版差异分析，以及科学上网节点选择建议，助你高效利用全球顶尖 AI 工具提升工作效率。',

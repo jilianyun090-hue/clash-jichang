@@ -72,6 +72,7 @@ const FIXED_TITLES = {
   'airport/iepl-iplc.md': 'IEPL专线 vs IPLC专线 vs BGP中转：2026年机场线路类型深度对比',
   'airport/reviews.md': '机场测评报告合集：2026精选稳定科学上网翻墙机场测速深度报告',
   'airport/cheap-airport.md': '学生党便宜机场推荐：2026月付8元起的高性价比科学上网梯子',
+  'airport/subscription-guide.md': '如何购买与配置翻墙机场？2026最新科学上网新手订阅导入保姆级教程',
 
   // 24 individual airport reviews
   'airport/bianjiyun.md': '边界云怎么样？2026边界云机场稳定高速IEPL优化线路深度测评',
