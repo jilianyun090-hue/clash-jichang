@@ -1,5 +1,5 @@
 ---
-title: "Telegram搜索机器人推荐：2026高效影视/资源搜索Bot汇总"
+title: "2026 Telegram 搜索机器人完整推荐：极搜、搜搜、神马搜索等高效 Bot 使用教程"
 description: "2026年 Telegram 搜索机器人完整推荐与使用教程：介绍极搜、搜搜、神马搜索等高效 Telegram Bot，帮助用户快速查找频道、群组、资源文件与联系人。附各 Bot 的功能对比、搜索技巧与隐私注意事项，让你充分利用 Telegram 生态中的海量资源。"
 head:
   - - meta

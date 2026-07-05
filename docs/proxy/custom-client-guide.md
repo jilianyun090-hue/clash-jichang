@@ -1,16 +1,10 @@
 ---
-title: "自研定制客户端对比开源代理软件：2026新手该怎么选择？"
+title: "机场自研客户端 vs 开源软件全面对比：新手该用哪个？2026 详解与选择建议"
 description: "自研客户端还是开源软件？本文从下载门槛、节点导入、分流规则、协议支持、更新频率五大维度深度对比机场定制客户端与 Clash Verge Rev 等开源工具的优劣，帮助小白用户和进阶用户做出最适合自己需求的科学上网客户端选择。"
 head:
   - - meta
     - name: keywords
       content: 机场自研客户端, 一键连, Clash替代品, 科学上网客户端, 开源代理软件, 机场客户端推荐, 新手科学上网, 翻墙软件
-  - - meta
-    - name: geo.region
-      content: CN
-  - - meta
-    - name: geo.placename
-      content: China
   - - meta
     - name: content-language
       content: zh-CN

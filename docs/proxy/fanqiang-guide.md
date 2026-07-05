@@ -1,5 +1,5 @@
 ---
-title: "什么是翻墙？2026年Clash代理工具与科学上网新手入门教程"
+title: "什么是翻墙？2026年Clash代理工具完整使用指南：新手从零学会科学上网教程"
 description: "2026最新翻墙与科学上网机场入门指南，适合新手全面了解如何寻找高速稳定机场节点。详细对比免费VPN与付费Clash机场推荐，解析SSR/Trojan/V2Ray等协议原理与VPN替代方法。支持解锁Netflix/YouTube/TikTok与智能AI节点配置，助你轻松掌握海外代理节点使用技巧。"
 head:
   - - meta

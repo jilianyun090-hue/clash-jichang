@@ -1,5 +1,5 @@
 ---
-title: "科学上网客户端下载：2026主流 Clash/Shadowrocket/Sing-box 代理软件推荐"
+title: "2026 全平台科学上网客户端下载指南：Clash、Shadowrocket 等主流代理软件推荐"
 description: "2026年全平台科学上网客户端下载与推荐：Windows/macOS 首选 Clash Verge Rev，Android 推荐 Clash Meta for Android，iOS 推荐 Shadowrocket 小火箭。提供各客户端的官方/镜像下载链接、版本对比与快速配置三步走指南，适合各平台新手快速上手科学上网代理软件。"
 ---
 

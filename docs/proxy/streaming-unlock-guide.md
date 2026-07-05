@@ -1,5 +1,5 @@
 ---
-title: "机场是如何解锁奈飞的？2026最新DNS解锁与流媒体解锁原理解析"
+title: "2026 流媒体解锁原理深度解析：机场如何解锁 Netflix、Disney+、ChatGPT 详细指南"
 description: "深入解析机场流媒体解锁原理：Netflix、Disney+、YouTube、HBO Max 等平台如何识别用户地区？什么是原生 IP、DNS 解锁与 IPTV 解锁？本文教你看懂解锁检测工具的结果，判断机场节点是否真正解锁，以及为何同样的节点有时能看有时不行。"
 head:
   - - meta

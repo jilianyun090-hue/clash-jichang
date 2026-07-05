@@ -18,11 +18,7 @@ export default defineUserConfig({
         ["meta", { name: "msvalidate.01", content: "35CCAB205AEAD2FDC8BEB03EB1519F89" }],
         // Google site verification
         ["meta", { name: "google-site-verification", content: "i49oHfS9JgaALfrt4GdHxUT4_XE0tAIKXPuSJNdp9F8" }],
-        // Geo Tags for SEO
-        ["meta", { name: "geo.region", content: "CN" }],
-        ["meta", { name: "geo.placename", content: "China" }],
-        ["meta", { name: "geo.position", content: "39.9042;116.4074" }],
-        ["meta", { name: "ICBM", content: "39.9042, 116.4074" }],
+        // Language declaration for SEO
         ["meta", { name: "content-language", content: "zh-CN" }],
     ],
     theme,

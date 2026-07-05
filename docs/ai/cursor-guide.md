@@ -1,5 +1,5 @@
 ---
-title: "Cursor AI怎么用？2026最新Cursor智能代码编辑器实战与配置教程"
+title: "2026 Cursor AI 智能代码编辑器完整教程与实战指南：提升10倍编程效率的AI工具"
 description: "2026年 Cursor AI 代码编辑器完整使用指南：Cursor 的安装配置、GPT-4 加持的代码补全功能、Chat 对话编程技巧，以及与 GitHub Copilot 的深度对比。涵盖 Python、JavaScript、Go 等主流语言的 Cursor 实战案例，帮助开发者提升编程效率，并解析 Cursor Pro 会员的性价比。"
 head:
   - - meta

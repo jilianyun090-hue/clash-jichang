@@ -1,5 +1,5 @@
 ---
-title: "2026常用翻墙机场与便宜机场VPN推荐：稳定高速科学上网梯子测评指南"
+title: "2026年便宜好用VPN机场推荐：稳定安全高性价比翻墙梯子精选，科学上网持续更新评测"
 description: "2026稳定高速机场推荐与便宜机场精选，深度测评极连云、瞬云等34家翻墙机场。对比IEPL/IPLC专线、SSR机场、Trojan机场、V2Ray机场及Shadowsocks机场的线路质量与设备数限制。支持Netflix/YouTube/TikTok/ChatGPT解锁，为您提供性价比极高的海外代理节点与VPN替代订阅配置方案。"
 head:
   - - meta

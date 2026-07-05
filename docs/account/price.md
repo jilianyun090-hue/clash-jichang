@@ -1,5 +1,5 @@
 ---
-title: "奈飞/ChatGPT合租价格行情表：2026最新各大流媒体与AI账号合租省钱攻略"
+title: "2026 最新流媒体与 AI 账号合租价格行情参考表：Netflix、ChatGPT 等平台最低价攻略"
 description: "2026年主流流媒体与 AI 账号合租价格行情一览：Netflix、Disney+、YouTube Premium、Spotify、ChatGPT Plus 等平台的月均合租费用对比，以及各合租平台的优惠活动汇总。帮你掌握账号合租的合理价格区间，避免被高价坑骗，以最低成本享受优质订阅服务。"
 ---
 

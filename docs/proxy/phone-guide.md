@@ -1,5 +1,5 @@
 ---
-title: "手机如何翻墙科学上网？2026最新Android与iOS客户端配置教程"
+title: "手机如何翻墙科学上网？2026 年最新 Android 与 iOS 科学上网完整保姆级教程"
 description: "2026最新手机端翻墙科学上网保姆级教程，包含安卓及苹果手机配置高速稳定机场的实用指南。手把手教你配置Clash客户端与小火箭（Shadowrocket），完美适配Shadowsocks/Trojan等机场节点，支持解锁Netflix与运营TikTok。包含免费美区Apple ID获取，是移动端极佳的VPN替代和海外节点订阅教程。"
 ---
 

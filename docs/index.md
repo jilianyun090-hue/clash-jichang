@@ -1,6 +1,6 @@
 ---
 home: true
-title: "稳定便宜机场推荐：2026精选实测最稳专线机场与翻墙梯子推荐 - 道一博客"
+title: "2026 精选科学上网机场推荐：实测最稳专线机场与翻墙梯子推荐 - 道一博客"
 description: "2026最新科学上网机场推荐排行指南，为新手、学生党及外贸人员精选稳定高速机场节点。提供性价比IEPL/IPLC专线Clash机场推荐，无缝解锁Netflix、YouTube及TikTok。融入SSR、Trojan、V2Ray等协议科普，是极佳的免费VPN替代与海外代理节点选购指南，助您畅享4K视频与智能AI加速。"
 head:
   - - meta

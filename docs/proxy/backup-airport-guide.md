@@ -1,16 +1,10 @@
 ---
-title: "为什么翻墙老手需要备用机场？2026双机场备用订阅策略"
+title: "备用机场的重要性：为什么翻墙老手至少保留两个订阅（2026双机场策略指南）"
 description: "为什么你需要备用机场？本文深度解析「双订阅策略」，手把手教你建立主力机场+备用机场的组合方案，彻底告别因单一机场跑路或故障导致的断网窘境，确保在敏感时期与高峰期始终保持稳定可靠的科学上网连接。"
 head:
   - - meta
     - name: keywords
       content: 备用机场, 主备机场策略, 按量付费机场, 不限时流量包, 机场防断网, 备用订阅, 科学上网稳定性, 机场订阅策略
-  - - meta
-    - name: geo.region
-      content: CN
-  - - meta
-    - name: geo.placename
-      content: China
   - - meta
     - name: content-language
       content: zh-CN
