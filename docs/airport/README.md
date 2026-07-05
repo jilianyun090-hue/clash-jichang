@@ -99,6 +99,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
+| [**边界云**](#边界云机场) | [直达官网](https://www.lvpn.cc/r/6UQDZT) | 无 | 12.33元 50GB/月（年付） | ✅ | [TG](https://t.me/lvpnchat) | [前往](#边界云机场) |
 | [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
 | [**可信云**](#可信云) | [直达官网](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
 | [**速界**](#速界) | [直达官网](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
@@ -109,7 +110,6 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**全球云**](#全球云) | [直达官网](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) | 无 | 20元 120GB/月 | ✅ | [TG](https://t.me/quanqiuyun001) | [前往](#全球云) |
 | [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
 | [**寰宇云**](#寰宇云机场) | [直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
-| [**边界云**](#边界云机场) | [直达官网](https://www.lvpn.cc/r/6UQDZT) | 无 | 12.33元 50GB/月（年付） | ✅ | [TG](https://t.me/lvpnchat) | [前往](#边界云机场) |
 | [**影子**](#影子) | [直达官网](https://www.yingzi01.com/register?code=X7XPN1cS) | 无 | 18.8元 150GB/月 | ❌ | 暂无 | [前往](#影子) |
 | [**Lumina**](#Lumina) | [直达官网](https://luminak.net/?token=lumina#/register?code=dCgHyjFi) | 无 | 10元 200GB/月 | ❌ | 暂无 | [前往](#Lumina) |
 | [**拼好连**](#拼好连) | [直达官网](https://sxzofrnamc.runwayhz.com/#/register?code=A63zaSvx) | 无 | 9.9元 100GB/月 | ✅ | 暂无 | [前往](#拼好连) |
@@ -179,7 +179,39 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 3. 飞猫云 {#飞猫云}
+### 3. 边界云机场 {#边界云机场}
+
+边界云机场官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)
+
+最便宜的订阅有 **12.33元 50GB/月**（年付折算）。
+
+👉 **[前往边界云机场独立深度评测与测速报告](/airport/bianjiyun.html)**
+
+
+边界云是一家专注高性价比科学上网服务的机场，采用 IEPL 优化线路，提供 50+ 全球节点覆盖。全套餐支持 UDP 协议，主流流媒体（Netflix / Hulu）全线解锁，最高带宽可达 1000Mbps。所有套餐均附带 3 天无理由全额退款保证，支持支付宝等国内常见支付方式。
+
+**核心特性：**
+- ✅ IEPL 优化线路，50+ 全球节点
+- ✅ 最高 1000Mbps 带宽
+- ✅ 解锁 Netflix / Hulu 及主流流媒体
+- ✅ 支持 UDP 协议
+- ✅ 3 天无理由全额退款保证
+- ✅ 主流流媒体支持（Mini 套餐）
+
+| 套餐名称 | 类型 | 价格 | 流量 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- |
+| Mini | 月付 | ¥15.00/月 | 50GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+| Lite | 年付 | ¥148.00/年（¥12.33/月） | 50GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+| Pro Semi-Annual | 半年付 | ¥148.00/半年（¥24.67/月） | 100GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+| Pro | 年付 | ¥298.00/年（¥24.83/月） | 100GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
+
+> 💡 **推荐入手**：Lite 年付套餐 50GB/¥148（折合¥12.33/月），IEPL 优化线路，附带 Netflix/Hulu 解锁，性价比出众。
+
+👉 [立即注册边界云机场](https://www.lvpn.cc/r/6UQDZT) | 💬 TG群组：[@lvpnchat](https://t.me/lvpnchat)
+
+---
+
+### 4. 飞猫云 {#飞猫云}
 
 飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
 
@@ -212,7 +244,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 4. 可信云 {#可信云}
+### 5. 可信云 {#可信云}
 
 可信云官网地址：[varnexa.kexintttt.xyz](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde)
 
@@ -235,7 +267,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 5. 速界 {#速界}
+### 6. 速界 {#速界}
 
 速界官网地址：[speed-world.cc](https://trevona.speed-world.cc/#/register?code=r7IOqoY7)
 
@@ -258,7 +290,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 6. 快狸 {#快狸}
+### 7. 快狸 {#快狸}
 
 快狸官网地址：[kuailitttt.homes](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto)
 
@@ -281,7 +313,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 7. 边缘节点 {#边缘节点}
+### 8. 边缘节点 {#边缘节点}
 
 边缘节点官网地址：[bianyuanjiediantttt.sbs](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ)
 
@@ -304,7 +336,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 8. 光速云 {#光速云}
+### 9. 光速云 {#光速云}
 
 光速云官网地址：[gsyvipaff.cc](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)
 
@@ -326,7 +358,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 9. 星岛梦 {#星岛梦}
+### 10. 星岛梦 {#星岛梦}
 
 星岛梦官网地址：[xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
@@ -347,7 +379,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 10. 全球云 {#全球云}
+### 11. 全球云 {#全球云}
 
 全球云官网地址：[gcvipaff.cc](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4)
 
@@ -368,7 +400,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 11. 瞬云机场 {#瞬云机场}
+### 12. 瞬云机场 {#瞬云机场}
 
 瞬云机场官网地址：[ccc.jichang.best](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
@@ -396,7 +428,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 12. 寰宇云机场 {#寰宇云机场}
+### 13. 寰宇云机场 {#寰宇云机场}
 
 寰宇云机场官网地址：[vip3.huanyuyunbest.com](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
@@ -424,38 +456,6 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 海量不限时 | 4000G | ¥398.00/一次性 | 超大流量包，购买即永久有效 |
 
 👉 [立即注册寰宇云机场](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
-
----
-
-### 13. 边界云机场 {#边界云机场}
-
-边界云机场官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)
-
-最便宜的订阅有 **12.33元 50GB/月**（年付折算）。
-
-👉 **[前往边界云机场独立深度评测与测速报告](/airport/bianjiyun.html)**
-
-
-边界云是一家专注高性价比科学上网服务的机场，采用 IEPL 优化线路，提供 50+ 全球节点覆盖。全套餐支持 UDP 协议，主流流媒体（Netflix / Hulu）全线解锁，最高带宽可达 1000Mbps。所有套餐均附带 3 天无理由全额退款保证，支持支付宝等国内常见支付方式。
-
-**核心特性：**
-- ✅ IEPL 优化线路，50+ 全球节点
-- ✅ 最高 1000Mbps 带宽
-- ✅ 解锁 Netflix / Hulu 及主流流媒体
-- ✅ 支持 UDP 协议
-- ✅ 3 天无理由全额退款保证
-- ✅ 主流流媒体支持（Mini 套餐）
-
-| 套餐名称 | 类型 | 价格 | 流量 | 购买链接 |
-| :--- | :--- | :--- | :--- | :--- |
-| Mini | 月付 | ¥15.00/月 | 50GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
-| Lite | 年付 | ¥148.00/年（¥12.33/月） | 50GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
-| Pro Semi-Annual | 半年付 | ¥148.00/半年（¥24.67/月） | 100GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
-| Pro | 年付 | ¥298.00/年（¥24.83/月） | 100GB/月 | [购买链接](https://www.lvpn.cc/r/6UQDZT) |
-
-> 💡 **推荐入手**：Lite 年付套餐 50GB/¥148（折合¥12.33/月），IEPL 优化线路，附带 Netflix/Hulu 解锁，性价比出众。
-
-👉 [立即注册边界云机场](https://www.lvpn.cc/r/6UQDZT) | 💬 TG群组：[@lvpnchat](https://t.me/lvpnchat)
 
 ---
 
