@@ -99,6 +99,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
+| [**影子**](#影子) | [直达官网](https://www.yingzi01.com/register?code=X7XPN1cS) | 无 | 18.8元 150GB/月 | ❌ | 暂无 | [前往](#影子) |
 | [**边界云**](#边界云机场) | [直达官网](https://www.lvpn.cc/r/6UQDZT) | 无 | 12.33元 50GB/月（年付） | ✅ | [TG](https://t.me/lvpnchat) | [前往](#边界云机场) |
 | [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
 | [**可信云**](#可信云) | [直达官网](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
@@ -110,7 +111,6 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**全球云**](#全球云) | [直达官网](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) | 无 | 20元 120GB/月 | ✅ | [TG](https://t.me/quanqiuyun001) | [前往](#全球云) |
 | [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
 | [**寰宇云**](#寰宇云机场) | [直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
-| [**影子**](#影子) | [直达官网](https://www.yingzi01.com/register?code=X7XPN1cS) | 无 | 18.8元 150GB/月 | ❌ | 暂无 | [前往](#影子) |
 | [**Lumina**](#Lumina) | [直达官网](https://luminak.net/?token=lumina#/register?code=dCgHyjFi) | 无 | 10元 200GB/月 | ❌ | 暂无 | [前往](#Lumina) |
 | [**拼好连**](#拼好连) | [直达官网](https://sxzofrnamc.runwayhz.com/#/register?code=A63zaSvx) | 无 | 9.9元 100GB/月 | ✅ | 暂无 | [前往](#拼好连) |
 | [**99吧**](#99吧) | [直达官网](https://99vpn.bar/#/register?code=Uni7IOJh) | 无 | 7.5元 66GB/月（年付） | ✅ | 暂无 | [前往](#99吧) |
@@ -179,7 +179,29 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 3. 边界云机场 {#边界云机场}
+### 3. 影子 {#影子}
+
+影子官网地址：[yingzi01.com](https://www.yingzi01.com/register?code=X7XPN1cS)
+
+最便宜的订阅有 **18.80元 150GB/月**。
+
+👉 **[前往影子独立深度评测与测速报告](/airport/yingzi.html)**
+
+影子是一家专注于高端 IEPL 跨境专线的机场服务商。其采用企业级专线过境，具有极低延迟和极低丢包的表现，能完美绕过敏感时期的封锁，对 Netflix、Disney+、TikTok、ChatGPT 做到全线原生解锁。
+
+- ✅ 全高速专线 IEPL 跨境，稳定性高、延迟低
+- ✅ 完美解锁 Netflix, Disney+, Tiktok, ChatGPT
+- ✅ 仅限个人使用，无退款政策，介意勿买
+
+| 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- |
+| 基础套餐·月付 | ¥18.80/月 | 150GB/月 | 全高速专线IEPL跨境，流媒体/AI解锁 | [购买链接](https://www.yingzi01.com/register?code=X7XPN1cS) |
+| 标准套餐·月付 | ¥38.80/月 | 350GB/月 | 全高速专线IEPL跨境，日常影音办公首选 | [购买链接](https://www.yingzi01.com/register?code=X7XPN1cS) |
+| 高级套餐·月付 | ¥84.80/月 | 850GB/月 | 全高速专线IEPL跨境，大流量/多设备推荐 | [购买链接](https://www.yingzi01.com/register?code=X7XPN1cS) |
+
+---
+
+### 4. 边界云机场 {#边界云机场}
 
 边界云机场官网地址：[lvpn.cc](https://www.lvpn.cc/r/6UQDZT)
 
@@ -211,7 +233,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 4. 飞猫云 {#飞猫云}
+### 5. 飞猫云 {#飞猫云}
 
 飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
 
@@ -244,7 +266,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 5. 可信云 {#可信云}
+### 6. 可信云 {#可信云}
 
 可信云官网地址：[varnexa.kexintttt.xyz](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde)
 
@@ -267,7 +289,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 6. 速界 {#速界}
+### 7. 速界 {#速界}
 
 速界官网地址：[speed-world.cc](https://trevona.speed-world.cc/#/register?code=r7IOqoY7)
 
@@ -290,7 +312,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 7. 快狸 {#快狸}
+### 8. 快狸 {#快狸}
 
 快狸官网地址：[kuailitttt.homes](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto)
 
@@ -313,7 +335,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 8. 边缘节点 {#边缘节点}
+### 9. 边缘节点 {#边缘节点}
 
 边缘节点官网地址：[bianyuanjiediantttt.sbs](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ)
 
@@ -336,7 +358,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 9. 光速云 {#光速云}
+### 10. 光速云 {#光速云}
 
 光速云官网地址：[gsyvipaff.cc](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)
 
@@ -358,7 +380,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 10. 星岛梦 {#星岛梦}
+### 11. 星岛梦 {#星岛梦}
 
 星岛梦官网地址：[xdmvipaff.cc](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
@@ -379,7 +401,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 11. 全球云 {#全球云}
+### 12. 全球云 {#全球云}
 
 全球云官网地址：[gcvipaff.cc](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4)
 
@@ -400,7 +422,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 12. 瞬云机场 {#瞬云机场}
+### 13. 瞬云机场 {#瞬云机场}
 
 瞬云机场官网地址：[ccc.jichang.best](https://ccc.jichang.best/#/register?code=o4I4kToe)
 
@@ -428,7 +450,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 13. 寰宇云机场 {#寰宇云机场}
+### 14. 寰宇云机场 {#寰宇云机场}
 
 寰宇云机场官网地址：[vip3.huanyuyunbest.com](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
@@ -456,28 +478,6 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 海量不限时 | 4000G | ¥398.00/一次性 | 超大流量包，购买即永久有效 |
 
 👉 [立即注册寰宇云机场](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
-
----
-
-### 14. 影子 {#影子}
-
-影子官网地址：[yingzi01.com](https://www.yingzi01.com/register?code=X7XPN1cS)
-
-最便宜的订阅有 **18.80元 150GB/月**。
-
-👉 **[前往影子独立深度评测与测速报告](/airport/yingzi.html)**
-
-影子是一家专注于高端 IEPL 跨境专线的机场服务商。其采用企业级专线过境，具有极低延迟和极低丢包的表现，能完美绕过敏感时期的封锁，对 Netflix、Disney+、TikTok、ChatGPT 做到全线原生解锁。
-
-- ✅ 全高速专线 IEPL 跨境，稳定性高、延迟低
-- ✅ 完美解锁 Netflix, Disney+, Tiktok, ChatGPT
-- ✅ 仅限个人使用，无退款政策，介意勿买
-
-| 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
-| :--- | :--- | :--- | :--- | :--- |
-| 基础套餐·月付 | ¥18.80/月 | 150GB/月 | 全高速专线IEPL跨境，流媒体/AI解锁 | [购买链接](https://www.yingzi01.com/register?code=X7XPN1cS) |
-| 标准套餐·月付 | ¥38.80/月 | 350GB/月 | 全高速专线IEPL跨境，日常影音办公首选 | [购买链接](https://www.yingzi01.com/register?code=X7XPN1cS) |
-| 高级套餐·月付 | ¥84.80/月 | 850GB/月 | 全高速专线IEPL跨境，大流量/多设备推荐 | [购买链接](https://www.yingzi01.com/register?code=X7XPN1cS) |
 
 ---
 
