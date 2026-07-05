@@ -71,12 +71,6 @@ head:
     - name: keywords
       content: 小火箭共享账号, 美区ID共享, 苹果ID共享, Shadowrocket, 免费Apple ID, 小火箭下载, 科学上网, 2026苹果ID, 免费节点
   - - meta
-    - name: geo.region
-      content: "CN"
-  - - meta
-    - name: geo.placename
-      content: "China"
-  - - meta
     - name: author
       content: "道一博客"
 ---
