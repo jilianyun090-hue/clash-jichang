@@ -19,6 +19,10 @@ tag:
 | 科学上网知识库 | [clashmac.cn.com](https://clashmac.cn.com) | Clash 教程与科学上网知识 |
 | 墙外有网 | [outsideweb.net](https://outsideweb.net) | 翻墙资讯与工具推荐 |
 | clash机场排行榜 | [clashvpns.com](https://clashvpns.com/) | Clash 机场测评与排行榜 |
+| 机场SEO | [jichangseo.cc](http://jichangseo.cc/) | 机场SEO资讯与推荐 |
+| 机场节点 | [jichangnode.com](http://jichangnode.com/) | 机场节点评测与推荐 |
+| 机场推荐 | [jichangtuijian.cloud](https://jichangtuijian.cloud) | 机场推荐与对比 |
+| 机场选 | [jichangxuan.com](http://jichangxuan.com/) | 机场选购指南 |
 
 
 ## 申请友链
