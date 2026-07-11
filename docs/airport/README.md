@@ -63,7 +63,7 @@ tag:
 | :--- | :--- | :--- | :--- |
 | **预算有限 / 学生党** | [极连云](/airport/#极连云) | ¥8 | IPLC专线，不限速不限设备，性价比天花板，解锁流媒体机场（支持Netflix与YouTube 4K播放）、ChatGPT节点推荐 |
 | **要求稳定 / 追剧4K** | [瞬云机场](/airport/#瞬云机场) | ¥8.25 | ANYCAST专线，4K机场与高速机场推荐，解锁TikTok运营机场及YouTube/Netflix视频 |
-| **ChatGPT / Claude** | [寰宇云](/airport/#寰宇云机场) | ¥7.4 | IEPL全专线，原生IP，AI工具专用无封号，ChatGPT/Claude节点推荐，防封号利器 |
+| **ChatGPT / Claude** | [飞猫云](/airport/#飞猫云) | ¥7 | 全IPLC专线，原生IP线路，解锁Netflix/ChatGPT/TikTok，高峰期不降速，不限设备数 |
 | **刚从快连/LetsVPN迁移** | [光年梯](/airport/#光年梯) | ¥7.5 | 物理内网专线，高峰期满速不降速，10分钟内恢复科学上网 |
 | **要求极致速度** | [边界云](/airport/#边界云机场) | ¥12.33 | IEPL优化专线，支持3天无理由退款，稳定性有保障 |
 
