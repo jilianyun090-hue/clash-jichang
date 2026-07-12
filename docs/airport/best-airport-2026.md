@@ -179,7 +179,7 @@ date: 2026-06-28
 
 13. **[Edge-X机场](/airport/edge-x.html)** (最低 ¥16.8/月)
     * **定位**：高端企业级 IEPL 极端宽带，全节点零超售，提供 12 小时退款保障。
-    * **直达官网**：[直达官网](https://edge-invite.com/#/register?code=73ienU2h)
+    * **直达官网**：[直达官网](https://edge-invite.net/#/register?code=73ienU2h)
 
 14. **[可达加速器](/airport/keda.html)** (最低 ¥10/月)
     * **定位**：低成本直连优化。适合偶尔查查文献、上 Google 的轻度使用群体。

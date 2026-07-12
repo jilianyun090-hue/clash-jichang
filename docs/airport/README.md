@@ -119,7 +119,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**山水云**](#山水云) | [直达官网](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) | 无 | 14.99元 100GB/月 | ✅ | [TG](https://t.me/ssy5999) | [前往](#山水云) |
 | [**秒秒云**](#秒秒云) | [直达官网](https://dl1.mmy8.com/#/register?code=g3bq7bpK) | 无 | 14元 128GB/月 | ✅ | [TG](https://t.me/mmy7777) | [前往](#秒秒云) |
 | [**迅达VPN**](#迅达VPN) | [直达官网](https://sulianproxy.com/register?code=lfITU4zy) | 无 | 15元 150GB/月 | ❌ | 暂无 | [前往](#迅达VPN) |
-| [**Edge-X机场**](#Edge-X机场) | [直达官网](https://edge-invite.com/#/register?code=73ienU2h) | 无 | 16.8元 100GB/月 | ✅ | 暂无 | [前往](#Edge-X机场) |
+| [**Edge-X机场**](#Edge-X机场) | [直达官网](https://edge-invite.net/#/register?code=73ienU2h) | 无 | 16.8元 100GB/月 | ✅ | 暂无 | [前往](#Edge-X机场) |
 | [**可达加速器**](#可达加速器) | [直达官网](https://1.mkd997.com/#/register?code=JgTY5JiT) | 无 | 10元 100GB/月 | ❌ | 暂无 | [前往](#可达加速器) |
 | [**奈云**](#奈云) | [直达官网](https://airportgo.org/go.php) | 无 | 10.6元 168GB/月 | ✅ | [TG](https://t.me/v2naiun) | [前往](#奈云) |
 | [**隐云**](#隐云) | [直达官网](https://airportgo.org/go.php) | 无 | 25元 150GB/月 | ❌ | 暂无 | [前往](#隐云) |
@@ -711,7 +711,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 23. Edge-X机场 {#Edge-X机场}
 
-Edge-X 机场官网地址：[edge-invite.com](https://edge-invite.com/#/register?code=73ienU2h)
+Edge-X 机场官网地址：[edge-invite.net](https://edge-invite.net/#/register?code=73ienU2h)
 
 最便宜的订阅有 **16.8元 100GB/月**。
 
@@ -731,9 +731,9 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 | 套餐名称 | 类型 | 价格 | 流量 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| 标准版 - 循环 - 100GB | 周期订阅（推荐） | ¥16.80/月 | 100GB/月 | [购买链接](https://edge-invite.com/#/register?code=73ienU2h) |
-| 标准版 - 循环 - 200GB | 周期订阅 | ¥22.80/月 | 200GB/月 | [购买链接](https://edge-invite.com/#/register?code=73ienU2h) |
-| 团队版 - 循环 - 600GB | 周期订阅 | ¥56.80/月 | 600GB/月 | [购买链接](https://edge-invite.com/#/register?code=73ienU2h) |
+| 标准版 - 循环 - 100GB | 周期订阅（推荐） | ¥16.80/月 | 100GB/月 | [购买链接](https://edge-invite.net/#/register?code=73ienU2h) |
+| 标准版 - 循环 - 200GB | 周期订阅 | ¥22.80/月 | 200GB/月 | [购买链接](https://edge-invite.net/#/register?code=73ienU2h) |
+| 团队版 - 循环 - 600GB | 周期订阅 | ¥56.80/月 | 600GB/月 | [购买链接](https://edge-invite.net/#/register?code=73ienU2h) |
 
 > 💡 **推荐入手**：标准版 100GB/¥16.80，性价比高，IEPL 专线稳定，适合日常个人使用。
 

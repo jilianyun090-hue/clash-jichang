@@ -87,7 +87,7 @@ Edge-X 采用 IEPL/IPLC 企业级专线，在晚高峰（20:00-24:00）表现稳
 
 ## 注册教程
 
-1. 点击 👉 [Edge-X 官方注册通道](https://edge-invite.com/#/register?code=73ienU2h)
+1. 点击 👉 [Edge-X 官方注册通道](https://edge-invite.net/#/register?code=73ienU2h)
 2. 邮箱注册，选择套餐，支付宝付款
 3. 获取订阅链接，导入 Clash Verge Rev / Shadowrocket 即可使用
 
@@ -95,4 +95,4 @@ Edge-X 采用 IEPL/IPLC 企业级专线，在晚高峰（20:00-24:00）表现稳
 
 ---
 
-👉 [立即注册 Edge-X 机场](https://edge-invite.com/#/register?code=73ienU2h)
+👉 [立即注册 Edge-X 机场](https://edge-invite.net/#/register?code=73ienU2h)
