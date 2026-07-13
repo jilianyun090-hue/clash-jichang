@@ -35,11 +35,11 @@ date: 2026-06-28
 
 | 套餐名称 | 每月流量 | 价格 | 限制 | 适用建议 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **限时年付** | 45GB/月 | ¥108.00/年 | 不限速不限制设备数 | 折合 ¥9/月，适合轻度用户，两年付9折 | [购买链接](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) |
-| **极界·标准套餐** | 120GB/月 | ¥25.00/月 | 不限速不限制设备数 | 日常主力首选，多周期优惠方案 | [购买链接](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) |
-| **极界·进阶套餐** | 250GB/月 | ¥50.00/月 | 不限速不限制设备数 | 重度用户/多设备用户首选 | [购买链接](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) |
+| **限时年付** | 45GB/月 | ¥108.00/年 | 不限速不限制设备数 | 折合 ¥9/月，适合轻度用户，两年付9折 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
+| **极界·标准套餐** | 120GB/月 | ¥25.00/月 | 不限速不限制设备数 | 日常主力首选，多周期优惠方案 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
+| **极界·进阶套餐** | 250GB/月 | ¥50.00/月 | 不限速不限制设备数 | 重度用户/多设备用户首选 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
 
-👉 **[前往边缘节点官网购买 (直达链接)](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ)**
+👉 **[前往边缘节点官网购买 (直达链接)](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ)**
 
 ---
 

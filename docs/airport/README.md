@@ -103,7 +103,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**可信云**](#可信云) | [直达官网](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
 | [**速界**](#速界) | [直达官网](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
 | [**快狸**](#快狸) | [直达官网](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) | 无 | 10元 30GB/月（年付） | ✅ | 暂无 | [前往](#快狸) |
-| [**边缘节点**](#边缘节点) | [直达官网](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) | 无 | 9元 45GB/月（年付） | ✅ | 暂无 | [前往](#边缘节点) |
+| [**边缘节点**](#边缘节点) | [直达官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) | 无 | 9元 45GB/月（年付） | ✅ | 暂无 | [前往](#边缘节点) |
 | [**光速云**](#光速云) | [直达官网](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/LightspeedCloud) | [前往](#光速云) |
 | [**影子**](#影子) | [直达官网](https://www.yingzi01.com/register?code=X7XPN1cS) | 无 | 18.8元 150GB/月 | ❌ | 暂无 | [前往](#影子) |
 | [**边界云**](#边界云机场) | [直达官网](https://www.lvpn.cc/r/6UQDZT) | 无 | 12.33元 50GB/月（年付） | ✅ | [TG](https://t.me/lvpnchat) | [前往](#边界云机场) |
@@ -283,7 +283,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 7. 边缘节点 {#边缘节点}
 
-边缘节点官网地址：[bianyuanjiediantttt.sbs](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ)
+边缘节点官网地址：[zoio.edgenovaaff.cc](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ)
 
 最便宜的订阅有 **9元 45GB/月**（年付折算）。
 
@@ -298,9 +298,9 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 | 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| 限时年付 | ¥108.00/年 | 45GB/月 | 折合¥9/月，自研客户端，两年付可享9折 | [购买链接](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) |
-| 极界·标准套餐 | ¥25.00/月 | 120GB/月 | 月付/季付/半年/年付多周期灵活订阅，重置9折 | [购买链接](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) |
-| 极界·进阶套餐 | ¥50.00/月 | 250GB/月 | 适合重度流量和有大文件下载需求的用户 | [购买链接](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ) |
+| 限时年付 | ¥108.00/年 | 45GB/月 | 折合¥9/月，自研客户端，两年付可享9折 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
+| 极界·标准套餐 | ¥25.00/月 | 120GB/月 | 月付/季付/半年/年付多周期灵活订阅，重置9折 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
+| 极界·进阶套餐 | ¥50.00/月 | 250GB/月 | 适合重度流量和有大文件下载需求的用户 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
 
 ---
 

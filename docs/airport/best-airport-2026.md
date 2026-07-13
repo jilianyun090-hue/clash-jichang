@@ -114,7 +114,7 @@ date: 2026-06-28
 ### 9. 边缘节点 — 稳定低延迟中转加速大师
 * **综合评分**：8.8 / 10 | **最低资费**：¥9/月（年付） | **线路**：中转优化加速
 * **推荐理由**：边缘节点（Edge Node）提供了极具竞争力的限时年付方案，网络丢包率低，覆盖地区广泛。同样支持自研客户端，一键登录极其简单，退款机制健全。
-* 👉 **[前往边缘节点独立测评](/airport/bianyuanjiedian.html)** | **[直达边缘节点官网](https://varnexa.bianyuanjiediantttt.sbs/#/register?code=Oy1wZvzJ)**
+* 👉 **[前往边缘节点独立测评](/airport/bianyuanjiedian.html)** | **[直达边缘节点官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ)**
 
 ---
 
