@@ -94,6 +94,7 @@ export default hopeTheme({
                     { text: "稳定机场推荐排行榜", link: "best-airport-2026" },
                     { text: "便宜机场推荐 (学生党首选)", link: "cheap-airport" },
                     { text: "科学上网机场避坑指南", link: "choose-guide" },
+                    { text: "⚠️ 跑路高危机场名单 (避坑)", link: "paolu" },
                     { text: "专线机场对比 (IEPL/IPLC)", link: "iepl-iplc" },
                     { text: "机场订阅导入与配置指南", link: "subscription-guide" },
                 ],

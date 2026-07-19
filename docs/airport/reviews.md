@@ -131,13 +131,13 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
   </a>
 
   <a class="card-item" href="/airport/naiyun.html">
-    <div class="card-title">奈云机场测评</div>
-    <div class="card-desc">运营 6 年老牌机场，专线节点覆盖多达 50+ 个国家和地区，中转质量极其平稳，¥10.6/月起。</div>
+    <div class="card-title" style="color: #ff4d4f;">⚠️ 奈云机场 (已跑路)</div>
+    <div class="card-desc">【跑路公告】该老牌机场已于2026年6月确诊彻底跑路失联，节点全灭，请绝对不要充值购买！</div>
   </a>
 
   <a class="card-item" href="/airport/yinyun.html">
-    <div class="card-title">隐云机场测评</div>
-    <div class="card-desc">政企外贸与专业交易员高端专线，IEPL 纯物理过境，追求绝对 0 丢包与高抗震，¥25/月起。</div>
+    <div class="card-title" style="color: #faad14;">⚠️ 隐云机场 (高危预警)</div>
+    <div class="card-desc">【高危预警】与跑路的奈云为同一主体，官网及支付通道出现异常，随时可能连锁跑路，请注意避雷！</div>
   </a>
 
   <a class="card-item" href="/airport/shanhai.html">
@@ -187,4 +187,4 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
 若要在眼花缭乱的机场中挑选出稳定靠谱的那一家，我们强烈建议您：
 1. **“月付为上”**：新注册任何机场时，先购买最低门槛的“月付”体验，切勿贪图年付折扣而一次性支付大笔资金，防范跑路风险。
 2. **“理性看待线路”**：IPLC/IEPL 物理专线 > BGP 中转 > 直连。专线由于不经过公网普通网关，对敏感时期的抗封锁和丢包表现极其稳健。
-3. **“重视双机场防失联”**：任何单一的代理服务都有维护或遭遇突发波动的时刻，强烈建议保留一个超便宜的按量付费或直连机场（如 [山海机场](/airport/shanhai.html)）作为紧急备用线路。
+3. **“重视双机场防失联”**：任何单一的代理服务都有维护或遭遇突发波动的时刻，强烈建议保留一个超便宜的按量付费或直连机场（如 [极连云机场](/airport/jilianyun.html)）作为紧急备用线路。

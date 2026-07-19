@@ -972,3 +972,76 @@ html, body {
 }
 
 
+
+
+/* 侧边栏跑路预警红色高亮 */
+.vp-sidebar-link[href*="paolu"],
+a.vp-sidebar-link[href*="paolu.html"] {
+  color: #ff4d4f !important;
+  font-weight: bold !important;
+}
+.vp-sidebar-link[href*="paolu"]:hover,
+a.vp-sidebar-link[href*="paolu.html"]:hover {
+  color: #ff7875 !important;
+}
+.vp-sidebar-link[href*="paolu"].active,
+a.vp-sidebar-link[href*="paolu.html"].active {
+  color: #ff4d4f !important;
+  border-left-color: #ff4d4f !important;
+  background: rgba(255, 77, 79, 0.08) !important;
+}
+
+
+/* 全局页面排版优化，增加段落和列表间距，解决拥挤感 */
+.theme-hope-content {
+  line-height: 1.8 !important;
+
+  p {
+    line-height: 1.8 !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  ul, ol {
+    margin-top: 0.8rem !important;
+    margin-bottom: 0.8rem !important;
+    padding-left: 1.5rem !important;
+
+    li {
+      margin-top: 0.6rem !important;
+      margin-bottom: 0.6rem !important;
+      line-height: 1.8 !important;
+
+      p {
+        margin-top: 0.3rem !important;
+        margin-bottom: 0.3rem !important;
+      }
+    }
+  }
+
+  /* 自定义容器（如 ::: tip / ::: warning / ::: danger）排版优化 */
+  .custom-container,
+  .hint-container {
+    margin: 1.5rem 0 !important;
+    padding: 1.2rem 1.5rem !important;
+    line-height: 1.8 !important;
+
+    p {
+      margin-top: 0.5rem !important;
+      margin-bottom: 0.5rem !important;
+    }
+
+    ul, ol {
+      li {
+        margin-top: 0.4rem !important;
+        margin-bottom: 0.4rem !important;
+      }
+    }
+  }
+
+  /* 标题与后续内容间距优化 */
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 2.2rem !important;
+    margin-bottom: 1.2rem !important;
+  }
+}

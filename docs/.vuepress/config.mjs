@@ -20,6 +20,10 @@ export default defineUserConfig({
         ["meta", { name: "google-site-verification", content: "i49oHfS9JgaALfrt4GdHxUT4_XE0tAIKXPuSJNdp9F8" }],
         // Language declaration for SEO
         ["meta", { name: "content-language", content: "zh-CN" }],
+        // Geo Tags for SEO
+        ["meta", { name: "geo.region", content: "CN" }],
+        ["meta", { name: "geo.position", content: "39.9042;116.4074" }],
+        ["meta", { name: "ICBM", content: "39.9042, 116.4074" }],
     ],
     theme,
     bundler: viteBundler(),
