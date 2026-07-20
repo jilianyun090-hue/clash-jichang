@@ -171,7 +171,7 @@ date: 2026-06-28
 
 11. **[秒秒云](/airport/miaomiaoyun.html)** (最低 ¥14/月)
     * **定位**：BGP 智能多线中转，完全不设设备限制，多设备多终端用户福音。
-    * **直达官网**：[直达官网](https://dl1.mmy8.com/#/register?code=g3bq7bpK)
+    * **直达官网**：[直达官网](https://141.11.77.26/#/register?code=g3bq7bpK)
 
 12. **[迅达VPN](/airport/xundavpn.html)** (最低 ¥15/月)
     * **定位**：流媒体解锁先锋，原生流媒体 IP 解锁率高，极少被提示代理警告。

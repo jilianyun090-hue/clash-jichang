@@ -117,7 +117,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**锦云**](#锦云) | [直达官网](https://w2.whengdl.com/#/register?code=BIGc8qrQ) | 无 | 6元 50GB/月 | ❌ | [TG](https://t.me/jyun555) | [前往](#锦云) |
 | [**极速云机场**](#极速云机场) | [直达官网](https://tg.sintotgch.com/#/register?code=RENHYxqv) | 无 | 8.25元 800GB/月（年付） | ✅ | [TG](https://t.me/jisuyunchat8) | [前往](#极速云机场) |
 | [**山水云**](#山水云) | [直达官网](https://ss2.byvvcsx.com/#/register?code=jkziWeb8) | 无 | 14.99元 100GB/月 | ✅ | [TG](https://t.me/ssy5999) | [前往](#山水云) |
-| [**秒秒云**](#秒秒云) | [直达官网](https://dl1.mmy8.com/#/register?code=g3bq7bpK) | 无 | 14元 128GB/月 | ✅ | [TG](https://t.me/mmy7777) | [前往](#秒秒云) |
+| [**秒秒云**](#秒秒云) | [直达官网](https://141.11.77.26/#/register?code=g3bq7bpK) | 无 | 14元 128GB/月 | ✅ | [TG](https://t.me/mmy7777) | [前往](#秒秒云) |
 | [**迅达VPN**](#迅达VPN) | [直达官网](https://sulianproxy.com/register?code=lfITU4zy) | 无 | 15元 150GB/月 | ❌ | 暂无 | [前往](#迅达VPN) |
 | [**Edge-X机场**](#Edge-X机场) | [直达官网](https://edge-invite.net/#/register?code=73ienU2h) | 无 | 16.8元 100GB/月 | ✅ | 暂无 | [前往](#Edge-X机场) |
 | [**可达加速器**](#可达加速器) | [直达官网](https://1.mkd997.com/#/register?code=JgTY5JiT) | 无 | 10元 100GB/月 | ❌ | 暂无 | [前往](#可达加速器) |
@@ -645,7 +645,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 21. 秒秒云 {#秒秒云}
 
-秒秒云官网地址：[dl1.mmy8.com](https://dl1.mmy8.com/#/register?code=g3bq7bpK)
+秒秒云官网地址：[141.11.77.26](https://141.11.77.26/#/register?code=g3bq7bpK)
 
 最便宜的订阅有 **14元 128GB/月**（月付探花套餐）。
 
@@ -675,7 +675,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 > 💡 **TG群组**：[@mmy7777](https://t.me/mmy7777)
 
-👉 [立即注册秒秒云](https://dl1.mmy8.com/#/register?code=g3bq7bpK)
+👉 [立即注册秒秒云](https://141.11.77.26/#/register?code=g3bq7bpK)
 
 ---
 
