@@ -35,11 +35,11 @@ date: 2026-06-28
 
 | 套餐名称 | 每月流量 | 价格 | 限制 | 适用建议 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **森狸年付小套餐** | 30GB/月 | ¥120.00/年 | 不限速，支持专属客户端 | 折合 ¥10/月，适合低流量轻度用户 | [购买链接](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
-| **月狸月付小套餐** | 50GB/月 | ¥15.00/月 | 不限速不限制设备数 | 适合月度试用，重置15元 | [购买链接](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
-| **小狸基础版** | 100GB/月 | ¥22.00/月 | 不限速不限制设备数 | 日常主力首选，三周/长期优惠更低 | [购买链接](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
+| **森狸年付小套餐** | 30GB/月 | ¥120.00/年 | 不限速，支持专属客户端 | 折合 ¥10/月，适合低流量轻度用户 | [购买链接](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) |
+| **月狸月付小套餐** | 50GB/月 | ¥15.00/月 | 不限速不限制设备数 | 适合月度试用，重置15元 | [购买链接](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) |
+| **小狸基础版** | 100GB/月 | ¥22.00/月 | 不限速不限制设备数 | 日常主力首选，三周/长期优惠更低 | [购买链接](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) |
 
-👉 **[前往快狸官网购买 (直达链接)](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto)**
+👉 **[前往快狸官网购买 (直达链接)](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto)**
 
 ---
 

@@ -35,11 +35,11 @@ date: 2026-06-28
 
 | 套餐名称 | 每月流量 | 价格 | 限制 | 适用建议 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **年付体验包** | 50GB/月 | ¥90.00/年 | 不限速不限制设备数 | 折合 ¥7.5/月，适合轻度用户 | [购买链接](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
-| **极速版** | 120GB/月 | ¥25.00/月 | 不限速不限制设备数 | 日常主力首选，多周期优惠方案 | [购买链接](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
-| **超速版** | 250GB/月 | ¥50.00/月 | 不限速不限制设备数 | 重度用户/多设备用户首选 | [购买链接](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
+| **年付体验包** | 50GB/月 | ¥90.00/年 | 不限速不限制设备数 | 折合 ¥7.5/月，适合轻度用户 | [购买链接](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) |
+| **极速版** | 120GB/月 | ¥25.00/月 | 不限速不限制设备数 | 日常主力首选，多周期优惠方案 | [购买链接](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) |
+| **超速版** | 250GB/月 | ¥50.00/月 | 不限速不限制设备数 | 重度用户/多设备用户首选 | [购买链接](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) |
 
-👉 **[前往速界官网购买 (直达链接)](https://trevona.speed-world.cc/#/register?code=r7IOqoY7)**
+👉 **[前往速界官网购买 (直达链接)](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7)**
 
 ---
 

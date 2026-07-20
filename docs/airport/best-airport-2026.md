@@ -100,14 +100,14 @@ date: 2026-06-28
 ### 7. 速界 — 智能自研一键客户端极速体验
 * **综合评分**：8.9 / 10 | **最低资费**：¥7.5/月（年付） | **线路**：大带宽中转优化
 * **推荐理由**：速界在 7.5 元档位提供了大带宽保障，不仅不限速不限设备，而且提供了极易上手的自研定制客户端，无需复杂导入，对新手用户非常友好。
-* 👉 **[前往速界独立测评](/airport/sujie.html)** | **[直达速界官网](https://trevona.speed-world.cc/#/register?code=r7IOqoY7)**
+* 👉 **[前往速界独立测评](/airport/sujie.html)** | **[直达速界官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7)**
 
 ---
 
 ### 8. 快狸 — 新手友好型大带宽专属客户端
 * **综合评分**：8.9 / 10 | **最低资费**：¥10/月（年付） | **线路**：高速专线/中转
 * **推荐理由**：快狸专门为新手用户定制了专属客户端，实现了开箱即用。其拥有 60+ 全球优质节点，具备良好的解锁流媒体与 AI 支持，敏感时期连接率依然优异。
-* 👉 **[前往快狸独立测评](/airport/kuaili.html)** | **[直达快狸官网](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto)**
+* 👉 **[前往快狸独立测评](/airport/kuaili.html)** | **[直达快狸官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto)**
 
 ---
 

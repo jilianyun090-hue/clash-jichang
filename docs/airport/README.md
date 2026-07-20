@@ -101,8 +101,8 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
 | [**可信云**](#可信云) | [直达官网](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
-| [**速界**](#速界) | [直达官网](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
-| [**快狸**](#快狸) | [直达官网](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) | 无 | 10元 30GB/月（年付） | ✅ | 暂无 | [前往](#快狸) |
+| [**速界**](#速界) | [直达官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
+| [**快狸**](#快狸) | [直达官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) | 无 | 10元 30GB/月（年付） | ✅ | 暂无 | [前往](#快狸) |
 | [**边缘节点**](#边缘节点) | [直达官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) | 无 | 9元 45GB/月（年付） | ✅ | 暂无 | [前往](#边缘节点) |
 | [**光速云**](#光速云) | [直达官网](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/LightspeedCloud) | [前往](#光速云) |
 | [**影子**](#影子) | [直达官网](https://www.yingzi01.com/register?code=X7XPN1cS) | 无 | 18.8元 150GB/月 | ❌ | 暂无 | [前往](#影子) |
@@ -237,13 +237,13 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 5. 速界 {#速界}
 
-速界官网地址：[speed-world.cc](https://trevona.speed-world.cc/#/register?code=r7IOqoY7)
+速界官网地址：[speedworldaff.com](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7)
 
 最便宜的订阅有 **7.5元 50G/月**（年付折算）。
 
 👉 **[前往速界独立深度评测与测速报告](/airport/sujie.html)**
 
-速界（Speed World）是一家专注于高速稳定代理服务的机场，线路表现出色，特别适合大流量下载和视频流媒体播放。不仅支持 Clash 订阅导入，更提供了官方一键登录的自研客户端，无需复杂配置，对小白极其友好。
+速界（Speed World）是一家专注于高速稳定代理服务的机场，线路表现出色，特别适合大流量下载和视频流媒体播放。不仅支持 Clash 订阅导入，更提供了官方一键登录 of 自研客户端，无需复杂配置，对小白极其友好。
 
 - ✅ 高速节点架构，不限速不限制设备数量
 - ✅ 完美解锁各大流媒体与 AI 工具
@@ -252,15 +252,15 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 | 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| 年付体验包 | ¥90.00/年 | 50GB/月 | 折合¥7.5/月，自研客户端一键使用 | [购买链接](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
-| 极速版 | ¥25.00/月 | 120GB/月 | 重置9折，提供季付/年付等多周期优惠 | [购买链接](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
-| 超速版 | ¥50.00/月 | 250GB/月 | 适合重度大流量及多设备并发用户 | [购买链接](https://trevona.speed-world.cc/#/register?code=r7IOqoY7) |
+| 年付体验包 | ¥90.00/年 | 50GB/月 | 折合¥7.5/月，自研客户端一键使用 | [购买链接](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) |
+| 极速版 | ¥25.00/月 | 120GB/月 | 重置9折，提供季付/年付等多周期优惠 | [购买链接](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) |
+| 超速版 | ¥50.00/月 | 250GB/月 | 适合重度大流量及多设备并发用户 | [购买链接](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) |
 
 ---
 
 ### 6. 快狸 {#快狸}
 
-快狸官网地址：[kuailitttt.homes](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto)
+快狸官网地址：[kuailiaff.com](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto)
 
 最便宜的订阅有 **10元 30GB/月**（年付折算）。
 
@@ -270,14 +270,14 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 - ✅ 高速专线支持，全程不限速，稳定性强
 - ✅ 专属自研客户端，一键安装连接
-- ✅ 支持主流流媒体与热门 AI 软件的解锁访问
+- ✅ 支持主流流媒体与热门 AI 软件 of 解锁访问
 - ✅ 60+ 全球优质节点覆盖港、台、日、美、新等多地区
 
 | 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| 森狸年付小套餐 | ¥120.00/年 | 30GB/月 | 折合¥10/月，稳定基础线路，自研客户端 | [购买链接](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
-| 月狸月付小套餐 | ¥15.00/月 | 50GB/月 | 不限制设备数，重置15元，仅支持月付 | [购买链接](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
-| 小狸基础版 | ¥22.00/月 | 100GB/月 | 多端在线无压力，多周期订购可享更高优惠 | [购买链接](https://varnexa.kuailitttt.homes/#/register?code=G56QwHto) |
+| 森狸年付小套餐 | ¥120.00/年 | 30GB/月 | 折合¥10/月，稳定基础线路，自研客户端 | [购买链接](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) |
+| 月狸月付小套餐 | ¥15.00/月 | 50GB/月 | 不限制设备数，重置15元，仅支持月付 | [购买链接](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) |
+| 小狸基础版 | ¥22.00/月 | 100GB/月 | 多端在线无压力，多周期订购可享更高优惠 | [购买链接](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) |
 
 ---
 
