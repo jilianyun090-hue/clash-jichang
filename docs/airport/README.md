@@ -100,7 +100,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
-| [**可信云**](#可信云) | [直达官网](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
+| [**可信云**](#可信云) | [直达官网](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
 | [**速界**](#速界) | [直达官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
 | [**快狸**](#快狸) | [直达官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) | 无 | 10元 30GB/月（年付） | ✅ | 暂无 | [前往](#快狸) |
 | [**边缘节点**](#边缘节点) | [直达官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) | 无 | 9元 45GB/月（年付） | ✅ | 暂无 | [前往](#边缘节点) |
@@ -214,7 +214,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 4. 可信云 {#可信云}
 
-可信云官网地址：[varnexa.kexintttt.xyz](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde)
+可信云官网地址：[haibing822.kosingaff.com](https://haibing822.kosingaff.com/#/register?code=zcjBlIde)
 
 最便宜的订阅有 **8元 60G/月**（年付折算）。
 
@@ -229,9 +229,9 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 | 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| 可信云年费小礼包 | ¥96.00/年 | 60GB/月 | 折合¥8/月，IEPL专线不限速不限设备 | [购买链接](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
-| 可信云月付小包 | ¥15.00/月 | 60GB/月 | 适合月付试用，覆盖60+顶级专线节点 | [购买链接](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
-| 基础版 (Basic) | ¥25.00/月 | 150GB/月 | 60+顶级专线节点，季付及以上有折扣优惠 | [购买链接](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
+| 可信云年费小礼包 | ¥96.00/年 | 60GB/月 | 折合¥8/月，IEPL专线不限速不限设备 | [购买链接](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) |
+| 可信云月付小包 | ¥15.00/月 | 60GB/月 | 适合月付试用，覆盖60+顶级专线节点 | [购买链接](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) |
+| 基础版 (Basic) | ¥25.00/月 | 150GB/月 | 60+顶级专线节点，季付及以上有折扣优惠 | [购买链接](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) |
 
 ---
 

@@ -93,7 +93,7 @@ date: 2026-06-28
 ### 6. 可信云 — 稳定高效 IEPL 跨境专线
 * **综合评分**：9.0 / 10 | **最低资费**：¥8/月（年付） | **线路**：IEPL 专线
 * **推荐理由**：可信云全线使用 IEPL 专线出口，对所有套餐均不限速、不限制并发设备数。解锁流媒体及 AI 平台流畅度高，覆盖 60+ 顶级专线节点，性价比极高，适合寻找低成本且体验优秀的专线梯子用户。
-* 👉 **[前往可信云独立测评](/airport/kexinyun.html)** | **[直达可信云官网](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde)**
+* 👉 **[前往可信云独立测评](/airport/kexinyun.html)** | **[直达可信云官网](https://haibing822.kosingaff.com/#/register?code=zcjBlIde)**
 
 ---
 

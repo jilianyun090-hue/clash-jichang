@@ -35,11 +35,11 @@ date: 2026-06-28
 
 | 套餐名称 | 每月流量 | 价格 | 限制 | 适用建议 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **可信云年费小礼包** | 60GB/月 | ¥96.00/年 | 不限制设备数，无限速 | 适合轻度使用，平均低至8元/月 | [购买链接](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
-| **可信云月付小包** | 60GB/月 | ¥15.00/月 | 不限制设备数，无限速 | 适合月付试用，覆盖60+顶级专线节点 | [购买链接](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
-| **基础版 (Basic)** | 150GB/月 | ¥25.00/月 | 不限制设备数，无限速 | 适合主力使用，季付及以上有折扣优惠 | [购买链接](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde) |
+| **可信云年费小礼包** | 60GB/月 | ¥96.00/年 | 不限制设备数，无限速 | 适合轻度使用，平均低至8元/月 | [购买链接](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) |
+| **可信云月付小包** | 60GB/月 | ¥15.00/月 | 不限制设备数，无限速 | 适合月付试用，覆盖60+顶级专线节点 | [购买链接](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) |
+| **基础版 (Basic)** | 150GB/月 | ¥25.00/月 | 不限制设备数，无限速 | 适合主力使用，季付及以上有折扣优惠 | [购买链接](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) |
 
-👉 **[前往可信云官网购买 (直达链接)](https://varnexa.kexintttt.xyz/#/register?code=zcjBlIde)**
+👉 **[前往可信云官网购买 (直达链接)](https://haibing822.kosingaff.com/#/register?code=zcjBlIde)**
 
 ---
 
