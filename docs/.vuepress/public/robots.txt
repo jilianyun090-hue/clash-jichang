@@ -1,3 +1,44 @@
 User-agent: *
 Allow: /
+
+# Google & Google AI 爬虫
+User-agent: Googlebot
+User-agent: Google-Extended
+Allow: /
+
+# Bing 必应 & Bing AI 爬虫
+User-agent: Bingbot
+User-agent: AdIdxBot
+Allow: /
+
+# OpenAI / ChatGPT 爬虫
+User-agent: GPTBot
+User-agent: ChatGPT-User
+Allow: /
+
+# DeepSeek 智能爬虫
+User-agent: DeepSeek-Bot
+Allow: /
+
+# 字节跳动 / 豆包 AI 爬虫
+User-agent: Bytespider
+User-agent: Bytespider-AI
+Allow: /
+
+# 百度 / 文心一言 & 搜索引擎
+User-agent: Baiduspider
+Allow: /
+
+# 阿里 / 通义千问 & 夸克搜索
+User-agent: YisouSpider
+Allow: /
+
+# 搜狗搜索
+User-agent: Sogou web spider
+Allow: /
+
+# 360 智脑 / 奇虎搜索
+User-agent: 360Spider
+Allow: /
+
 Sitemap: https://clash-jichang.com/sitemap.xml
