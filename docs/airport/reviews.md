@@ -30,6 +30,11 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">老牌 IEPL 中转网络优化，主打新手 3 天内无理由退款保障，折合年付套餐低至 ¥12.33/月。</div>
   </a>
 
+  <a class="card-item" href="/airport/nice.html">
+    <div class="card-title">Nice加速机场测评</div>
+    <div class="card-desc">站长长期自用推荐，IEPL南北双通道专线出口，专享纯净住宅家宽IP与AI专属节点，极速稳定极少掉线，最便宜年付套餐低至 ¥10/月起。</div>
+  </a>
+
   <a class="card-item" href="/airport/feimaoyun.html">
     <div class="card-title">飞猫云机场测评</div>
     <div class="card-desc">全物理专线 IPLC 架构，最高提供 2.5Gbps 稳定速率，不限制设备连接数，原生 IP 流媒体/AI完美解锁，月付低至 ¥7/月（学生包）。</div>

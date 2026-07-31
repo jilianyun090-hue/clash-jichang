@@ -5,6 +5,7 @@ const docsDir = 'd:/桌面文件/clashjichang/docs/airport';
 
 const AIRPORT_MAP = {
   'bianjiyun': { name: '边界云', price: '¥12.33/月', line: 'IEPL 优化中转线路', rating: '★★★★☆' },
+  'nice': { name: 'Nice加速', price: '¥10/月', line: 'IEPL 南北双通道专线', rating: '★★★★★' },
   'dageyun': { name: '大哥云', price: '¥19.9/月', line: '4年老牌 IPLC 专线', rating: '★★★★☆' },
   'duolaameng': { name: '哆啦A梦', price: '¥10/月', line: 'IEPL 专线大带宽', rating: '★★★★☆' },
   'edge-x': { name: 'Edge-X', price: '¥16.8/月', line: '高端企业级 IEPL 专线', rating: '★★★★☆' },
