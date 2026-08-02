@@ -71,7 +71,7 @@ ChatGPT 是由 OpenAI 开发的大型语言模型，它通过对话方式与用�
 
 1.  **邮箱选择**：必须使用 Gmail 或 Outlook。国内 163、QQ 邮箱可能会被系统拦截。
 2.  **网络环境**：节点建议选择美国、日本、新加坡。**严禁使用香港、俄罗斯等封禁地区的节点**。由于 OpenAI 对 IP 质量要求极高，普通代理工具极易导致封号，强烈建议搭配 **[2026高性价比IEPL专线机场](/airport/)** 使用，确保原生IP低延迟不封号。
-3.  **手机验证**：注册需要海外手机号，推荐使用 [Hero SMS 接码平台](/streaming/sms-guide.html)（支持支付宝充值）。
+3.  **手机验证**：注册需要海外手机号，推荐使用接码平台（如 SMS-Activate）。
 4.  **订阅 Plus**：如果您需要 GPT-4o 的强大性能但无法刷外卡，建议通过我们的 **[付费合租平台](/account/platforms.html)** 订阅 Plus 版本，价格低至官网的 1/4。
 
 ---
@@ -116,6 +116,5 @@ ChatGPT 对网络节点要求极高，需要美区原生 IP 才能稳定使用�
 
 - [Claude 使用攻略（代码最强）](./claude-guide.md)
 - [Gemini 使用指南（Google生态）](./gemini.md)
-- [接码平台推荐（注册帮助）](/streaming/sms-guide.html)
 - [回到首页](/)
 - [查看专业避坑指南](/airport/choose-guide.html)

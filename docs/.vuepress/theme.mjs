@@ -31,7 +31,7 @@ export default hopeTheme({
     
     docsDir: "docs",
 
-    footer: '<a href="/airport/">机场推荐</a> | <a href="/ai/">AI指南</a> | <a href="/streaming/">流媒体</a> | <a href="/proxy/">知识库</a> | <a href="/faq/">常见问题</a> | <a href="/links">友链</a><br/>📧 联系我们：haozevpn@gmail.com<br/>优质资源共享 · 助你畅享全球互联网自由',
+    footer: '<a href="/airport/">机场推荐</a> | <a href="/ai/">AI指南</a> | <a href="/proxy/">知识库</a> | <a href="/faq/">常见问题</a> | <a href="/links">友链</a><br/>📧 联系我们：haozevpn@gmail.com<br/>优质资源共享 · 助你畅享全球互联网自由',
     displayFooter: true,
     copyright: "Copyright © 2026 clash-jichang.com · All Rights Reserved",
 
@@ -40,7 +40,6 @@ export default hopeTheme({
         { text: "首页", link: "/" },
         { text: "机场推荐", link: "/airport/" },
         { text: "机场测评", link: "/airport/reviews.html" },
-        { text: "流媒体账号", link: "/streaming/" },
         { text: "合租平台", link: "/account/platforms.html" },
         { text: "AI使用指南", link: "/ai/" },
         { text: "科学上网知识库", link: "/proxy/" },
@@ -62,21 +61,6 @@ export default hopeTheme({
 
     // 侧边栏 (移除小图标, 以纯净大方的文字目录为主)
     sidebar: {
-        "/streaming/": [
-            {
-                text: "流媒体指南",
-                children: [
-                    { text: "海外流媒体解锁指南", link: "" },
-                    { text: "海外接码平台注册教程", link: "sms-guide" },
-                    { text: "Netflix(奈飞)观看与合租", link: "netflix-guide" },
-                    { text: "Disney+(迪士尼)订阅指南", link: "disney-guide" },
-                    { text: "Spotify合租拼车攻略", link: "spotify-guide" },
-                    { text: "YouTube Premium低价合租", link: "youtube-guide" },
-                    { text: "HBO Max注册与合租指南", link: "hbo-max-guide" },
-                    { text: "Hulu与HBO美区解锁教程", link: "hulu-hbo-guide" },
-                ],
-            },
-        ],
         "/account/": [
             {
                 text: "账号合租",

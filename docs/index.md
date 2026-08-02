@@ -24,10 +24,10 @@ features:
     details: ChatGPT、Gemini、Claude 等主流 AI 工具从入门到精通，含国内镜像站推荐。
     link: /ai/
     icon: robot
-  - title: 流媒体账号
-    details: Netflix、Disney+ 等全球流媒体账号设置与订阅全攻略。
-    link: /streaming/
-    icon: video
+  - title: 常见问题
+    details: 科学上网与机场常见问题一站式解答 169 题库。
+    link: /faq/
+    icon: question
   - title: 合租平台
     details: 严选银河录像局、账号星球等口碑大厂，安全上车，低价享受高端账号。
     link: /account/platforms.html
@@ -37,7 +37,7 @@ features:
     link: /proxy/
     icon: book
 copyright: Copyright © 2026 clash-jichang.com · All Rights Reserved
-footer: '<a href="/airport/">机场推荐</a> | <a href="/ai/">AI指南</a> | <a href="/streaming/">流媒体</a> | <a href="/proxy/">知识库</a> | <a href="/links">友链</a><br/> 联系我们：haozevpn@gmail.com<br/>优质资源共享 · 助你畅享全球互联网自由'
+footer: '<a href="/airport/">机场推荐</a> | <a href="/ai/">AI指南</a> | <a href="/proxy/">知识库</a> | <a href="/faq/">常见问题</a> | <a href="/links">友链</a><br/> 联系我们：haozevpn@gmail.com<br/>优质资源共享 · 助你畅享全球互联网自由'
 ---
 
 ## 📚 2026年科学上网与机场选购核心指南

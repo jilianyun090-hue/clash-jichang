@@ -53,7 +53,6 @@ description: "2026年 AI 工具实战使用完整指南：ChatGPT、Claude、Gem
 
 ## 相关资源
 
-- [接码平台推荐（注册海外账号必备）](/streaming/sms-guide.html)
 - [科学上网知识库](/proxy/)
 - [机场推荐](/airport/)
 - [回到首页](/)

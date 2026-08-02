@@ -92,14 +92,14 @@ tag:
 - **核心定位**：全球最大的视频分享平台。
 - **必看理由**：内容海量，包括 4K 纪录片、顶级大学课程等。算法精准。订阅 YouTube Premium 可享受无广告体验。
 
-👉 [YouTube Premium 订阅指南](/streaming/youtube-guide.html) | [合租平台推荐](/account/platforms.html)
+👉 [合租平台推荐](/account/platforms.html)
 
 ### 2. Netflix (网飞)
 - **官网地址**：[https://www.netflix.com](https://www.netflix.com)
 - **核心定位**：全球顶级流媒体影视平台。
 - **必看理由**：海量高质量独家自制剧，画质极佳。追剧体验在流媒体界无出其右。
 
-👉 [Netflix 观看指南](/streaming/netflix-guide.html) | [合租平台推荐](/account/platforms.html)
+👉 [合租平台推荐](/account/platforms.html)
 
 ---
 

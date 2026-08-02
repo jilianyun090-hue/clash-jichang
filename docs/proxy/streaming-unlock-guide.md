@@ -105,5 +105,5 @@ tag:
 :::
 
 - [🛫 2026 优质机场推荐汇总](/airport/) — 精选支持流媒体解锁的高质量机场
-- [📺 Netflix 订阅与观看全攻略](/streaming/netflix-guide) — 从注册到分区观看一站式教程
+- [📺 流媒体与 AI 账号合租推荐](/account/) — 低成本拼车 Netflix/ChatGPT 会员教程
 - [🔧 科学上网知识库](/proxy/) — 翻墙基础知识与工具推荐

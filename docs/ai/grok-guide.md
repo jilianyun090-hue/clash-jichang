@@ -50,7 +50,7 @@ Grok 需要海外网络环境才能访问。推荐使用本站评测的[优质�
 
 **方式二：通过 X 平台访问**
 
-登录 [x.com/i/grok](https://x.com/i/grok)，在左侧菜单栏找Grok 入口。如果没X 账号，可通过[接码平台](/streaming/sms-guide.html)获取海外手机号注册。
+登录 [x.com/i/grok](https://x.com/i/grok)，在左侧菜单栏找Grok 入口。如果没X 账号，可通过接码平台（如 SMS-Activate）获取海外手机号注册。
 
 ### 2. Grok 移动App
 

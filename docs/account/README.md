@@ -78,13 +78,13 @@ ChatGPT Plus 合租通常为独享账号，即你拥有一个属于自己的 Ope
 
 YouTube Premium 家庭组合租是最具性价比的方式，每人只需 ¥5-10/月 即可享受全站无广告、后台播放和离线下载。
 
-**使用体验**：无广告效果立竿见影，重度 YouTube 用户强烈推荐。详见 [YouTube Premium 订阅指南](../streaming/youtube-guide.md)。
+**使用体验**：无广告效果立竿见影，重度 YouTube 用户强烈推荐。详见 [合租平台推荐](./platforms.md)。
 
 ### Spotify 合租
 
 Spotify 家庭组最多容纳 6 人，每人有独立账号，听歌记录和播放列表完全独立。合租价格约 ¥8-12/月。
 
-详见 [Spotify Premium 订阅指南](../streaming/spotify-guide.md)。
+详见 [合租平台推荐](./platforms.md)。
 
 ## 合租避坑指南
 

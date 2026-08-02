@@ -107,6 +107,5 @@ Claude 的风控是所有 AI 平台中最严格的。**切勿使用香港节点*
 ---
 
 - [回到 AI 导航](./README.md)
-- [接码平台评测](/streaming/sms-guide.html)
 - [机场推荐](/airport/)
 - [回到首页](/)
