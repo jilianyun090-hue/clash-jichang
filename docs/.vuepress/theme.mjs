@@ -31,7 +31,7 @@ export default hopeTheme({
     
     docsDir: "docs",
 
-    footer: '<a href="/airport/">机场推荐</a> | <a href="/ai/">AI指南</a> | <a href="/streaming/">流媒体</a> | <a href="/proxy/">知识库</a> | <a href="/links">友链</a><br/>📧 联系我们：haozevpn@gmail.com<br/>优质资源共享 · 助你畅享全球互联网自由',
+    footer: '<a href="/airport/">机场推荐</a> | <a href="/ai/">AI指南</a> | <a href="/streaming/">流媒体</a> | <a href="/proxy/">知识库</a> | <a href="/faq/">常见问题</a> | <a href="/links">友链</a><br/>📧 联系我们：haozevpn@gmail.com<br/>优质资源共享 · 助你畅享全球互联网自由',
     displayFooter: true,
     copyright: "Copyright © 2026 clash-jichang.com · All Rights Reserved",
 
@@ -44,6 +44,7 @@ export default hopeTheme({
         { text: "合租平台", link: "/account/platforms.html" },
         { text: "AI使用指南", link: "/ai/" },
         { text: "科学上网知识库", link: "/proxy/" },
+        { text: "常见问题", link: "/faq/" },
         {
             text: "更多",
             children: [
