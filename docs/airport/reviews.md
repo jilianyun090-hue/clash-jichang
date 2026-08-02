@@ -62,6 +62,11 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">智能动态选路设计，针对香港/日本/新加坡优化。大流量，月付低至 ¥8.25 起。</div>
   </a>
 
+  <a class="card-item" href="/airport/lingmao.html">
+    <div class="card-title">灵猫网络机场测评</div>
+    <div class="card-desc">全企业级 IPLC 专线，独享原生住宅 IP 级出口，完美解锁 Netflix 和 ChatGPT，年付资费折合低至 ¥7.08/月。</div>
+  </a>
+
   <a class="card-item" href="/airport/xingdaomeng.html">
     <div class="card-title">星岛梦机场测评</div>
     <div class="card-desc">多线 BGP 中转大带宽设计，解锁 Netflix/ChatGPT/Disney+ 原生区域视频，月付 ¥16 起。</div>
