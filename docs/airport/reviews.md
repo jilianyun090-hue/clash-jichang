@@ -37,6 +37,11 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">全物理专线 IPLC 架构，最高提供 2.5Gbps 稳定速率，不限制设备连接数，原生 IP 流媒体/AI完美解锁，月付低至 ¥7/月（学生包）。</div>
   </a>
 
+  <a class="card-item" href="/airport/yuntu.html">
+    <div class="card-title">云图机场测评</div>
+    <div class="card-desc">金融级专线传输，保证 24H 稳定与高速流畅。原生 IP 完美解锁流媒体与 AI，支持 5 台设备，八折优惠码 yt88，最便宜的订阅为 ¥25/月。</div>
+  </a>
+
   <a class="card-item" href="/airport/kexinyun.html">
     <div class="card-title">可信云机场测评</div>
     <div class="card-desc">IEPL专线不限速不限设备，覆盖60+顶级专线节点，原生IP流媒体与AI完美解锁，最低套餐折合 ¥8/月起。</div>
