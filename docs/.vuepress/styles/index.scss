@@ -191,7 +191,8 @@ main {
   background: var(--bg-cream) !important;
 }
 
-  /* VuePress Hope 原生主题色变量 — 全量覆盖为植物标本绿 */
+/* VuePress Hope 原生主题色变量 — 全量覆盖为植物标本绿 */
+:root {
   --vp-c-brand: #5a705a !important;
   --vp-c-brand-light: #6f856f !important;
   --vp-c-brand-lighter: #8a9d8a !important;
