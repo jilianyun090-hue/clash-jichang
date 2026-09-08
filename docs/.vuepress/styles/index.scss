@@ -39,45 +39,75 @@ aside.vp-sidebar {
   display: flex !important;
 }
 
-/* 限制主内容区域最大宽度 */
-.vp-page,
-main.vp-page {
-  max-width: 100% !important;
+/* 移除所有可能的宽度限制 - 使用最高优先级 */
+html .vp-page,
+html main.vp-page,
+html .vp-page-content-wrapper,
+html .theme-hope-content,
+html .vp-page-content,
+html .theme-container,
+html .vp-app,
+html #app {
+  max-width: none !important;
+  width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* 强制内容区域占满空间 */
+html body .theme-hope-content {
+  max-width: none !important;
+  width: 100% !important;
+  flex: 1 !important;
+}
+
+/* 移除VuePress默认的容器宽度 */
+html .vp-doc,
+html .vp-doc-content,
+html .content,
+html .page,
+html article {
+  max-width: none !important;
   width: 100% !important;
   margin: 0 !important;
 }
 
 /* 文章内容区域优化 - 减少空白 */
-.theme-hope-content,
-.vp-page-content {
-  max-width: 100% !important;
+html body .theme-hope-content,
+html body .vp-page-content {
+  max-width: none !important;
   width: 100% !important;
   padding: 1.5rem 2rem !important;
   margin: 0 !important;
+  flex: 1 !important;
 }
 
 /* 有TOC的页面布局 */
-.vp-page-content-wrapper {
+html .vp-page-content-wrapper {
   display: flex !important;
   gap: 1.5rem !important;
   align-items: flex-start !important;
-  max-width: 100% !important;
+  max-width: none !important;
   width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* TOC目录紧凑宽度 */
-.vp-toc-placeholder,
-aside.vp-toc-wrapper {
+html .vp-toc-placeholder,
+html aside.vp-toc-wrapper {
   width: 180px !important;
   min-width: 180px !important;
+  max-width: 180px !important;
   flex-shrink: 0 !important;
 }
 
 /* 主内容区flex-grow占据所有剩余空间 */
-.theme-hope-content {
+html body .theme-hope-content {
   flex: 1 1 auto !important;
   min-width: 0 !important;
-  max-width: 100% !important;
+  max-width: none !important;
+  width: auto !important;
 }
 
 /* 限制卡片最大宽度，防止过宽 */
@@ -144,15 +174,16 @@ article,
 
 @media (min-width: 1280px) {
   /* 有侧边栏时的布局 */
-  .theme-container:has(.vp-sidebar) .vp-page,
-  .vp-page.has-sidebar {
+  html .theme-container:has(.vp-sidebar) .vp-page,
+  html .vp-page.has-sidebar {
     margin-left: 280px !important;
     padding-left: 2rem !important;
     padding-right: 2rem !important;
-    max-width: calc(100vw - 280px) !important;
+    max-width: none !important;
+    width: calc(100vw - 280px) !important;
   }
 
-  .vp-sidebar {
+  html .vp-sidebar {
     width: 280px !important;
     position: fixed !important;
     left: 0 !important;
@@ -162,17 +193,21 @@ article,
   }
 
   /* 内容区域充分利用可用空间 */
-  .vp-page-content-wrapper {
-    max-width: 100% !important;
+  html .vp-page-content-wrapper {
+    max-width: none !important;
+    width: 100% !important;
     padding: 0 !important;
+    margin: 0 !important;
   }
 
-  .theme-hope-content {
-    max-width: 100% !important;
+  html body .theme-hope-content {
+    max-width: none !important;
+    width: auto !important;
+    flex: 1 !important;
   }
 
   /* TOC在右侧 */
-  aside.vp-toc-wrapper {
+  html aside.vp-toc-wrapper {
     position: sticky !important;
     top: calc(var(--navbar-height, 60px) + 1rem) !important;
     align-self: flex-start !important;
@@ -180,16 +215,18 @@ article,
 }
 
 @media (min-width: 1440px) {
-  /* 更宽屏幕时保持100%宽度 */
-  .theme-hope-content {
+  /* 更宽屏幕时保持flex布局 */
+  html body .theme-hope-content {
     max-width: none !important;
+    flex: 1 !important;
   }
 }
 
 @media (min-width: 1600px) {
-  /* 超宽屏时也保持100%宽度 */
-  .theme-hope-content {
+  /* 超宽屏时也保持flex布局 */
+  html body .theme-hope-content {
     max-width: none !important;
+    flex: 1 !important;
   }
 }
 
