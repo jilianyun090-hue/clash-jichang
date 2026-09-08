@@ -1,8 +1,8 @@
 ---
 title: "机场测评报告合集：2026精选稳定科学上网翻墙机场测速深度报告"
-description: "欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 34 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。"
+description: "欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 37 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。"
 ---
-欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 34 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。
+欢迎阅读机场评测与深度测试报告合集。为了保障您在科学上网过程中的稳定与顺畅，我们对市面上主流的 37 家 VPN 机场进行了长期的晚高峰测速与解锁能力审计（包含详细测速表、套餐对比、免折腾一键导入教程及专属优惠码）。
 
 ---
 
@@ -40,6 +40,16 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
   <a class="card-item" href="/airport/yuntu.html">
     <div class="card-title">云图机场测评</div>
     <div class="card-desc">金融级专线传输，保证 24H 稳定与高速流畅。原生 IP 完美解锁流媒体与 AI，支持 5 台设备，八折优惠码 yt88，最便宜的订阅为 ¥25/月。</div>
+  </a>
+
+  <a class="card-item" href="/airport/jisuyuncloud.html">
+    <div class="card-title">极速cloud机场测评</div>
+    <div class="card-desc">三网优化精品线路，24小时稳定高速，完美解锁Netflix/Disney+/ChatGPT等平台，新人体验套餐低至 ¥8.9/月。</div>
+  </a>
+
+  <a class="card-item" href="/airport/jiuyun.html">
+    <div class="card-title">九云机场测评</div>
+    <div class="card-desc">海外中转线路VLESS协议，完美解锁Netflix/YouTube/ChatGPT/Gemini，晚高峰4K流畅，性价比极高仅 ¥6/月起。</div>
   </a>
 
   <a class="card-item" href="/airport/kexinyun.html">
