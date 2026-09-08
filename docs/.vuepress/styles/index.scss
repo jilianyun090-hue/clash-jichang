@@ -16,6 +16,7 @@
   --bg-soft: #e8e2d5;            /* 浅灰绿次级背景 */
   --bg-cream: #f4efe6;           /* 未漂白再生纸 */
   --card-bg: #faf7f0;            /* 标本台纸白 */
+}
 
 /* ============================================
    植物标本馆动态背景特效系统
@@ -102,6 +103,14 @@ body::after {
 main {
   position: relative;
   z-index: 1;
+}
+
+/* 侧边栏确保在装饰之上 */
+.vp-sidebar,
+.sidebar {
+  position: relative;
+  z-index: 10;
+  background: var(--bg-cream) !important;
 }
 
   /* VuePress Hope 原生主题色变量 — 全量覆盖为植物标本绿 */
@@ -2086,5 +2095,166 @@ a.vp-sidebar-link[href*="paolu.html"].active {
 
   .airport-badge {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  }
+}
+
+/* ============================================
+   增强背景动效 - 确保可见性
+   ============================================ */
+
+/* 增强body背景渐变 - 提高不透明度 */
+body {
+  background: linear-gradient(135deg,
+    rgba(90, 112, 90, 0.03) 0%,
+    var(--bg-cream) 30%,
+    var(--bg-cream) 70%,
+    rgba(196, 155, 72, 0.04) 100%) !important;
+  min-height: 100vh;
+}
+
+/* 增强漂浮叶片动画 - 从JS创建的元素 */
+.floating-botanical-leaf {
+  will-change: transform, opacity;
+  transition: opacity 0.3s ease;
+}
+
+/* 页面内容区域的装饰边框 */
+.vp-page-content-wrapper {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg,
+      transparent 0%,
+      var(--border-color) 20%,
+      var(--border-color) 80%,
+      transparent 100%);
+    opacity: 0.6;
+  }
+}
+
+/* 内容页面顶部装饰植物图案 */
+.theme-hope-content > h1:first-of-type::before,
+.vp-page h1:first-of-type::before {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 2rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cg opacity='0.25'%3E%3Cpath d='M50 20 Q65 35 70 50 Q65 65 50 80' fill='none' stroke='%235a705a' stroke-width='2'/%3E%3Cpath d='M50 20 Q35 35 30 50 Q35 65 50 80' fill='none' stroke='%235a705a' stroke-width='2'/%3E%3Ccircle cx='50' cy='50' r='8' fill='%23c49b48' opacity='0.3'/%3E%3Cpath d='M50 30 L50 70' stroke='%235a705a' stroke-width='1.5'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation: subtle-pulse 4s ease-in-out infinite;
+}
+
+/* Hero区域的大型植物标本装饰 */
+.vp-blog-hero,
+.blog-hero,
+.hero {
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 5%;
+    right: 8%;
+    width: 220px;
+    height: 220px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Cg opacity='0.12'%3E%3Cpath d='M100 40 Q130 60 140 100 Q130 140 100 160 Q80 140 70 100 Q80 60 100 40' fill='none' stroke='%235a705a' stroke-width='2'/%3E%3Cpath d='M100 60 L100 140' stroke='%235a705a' stroke-width='1.5'/%3E%3Cpath d='M100 80 Q115 85 120 95' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M100 80 Q85 85 80 95' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M100 110 Q115 115 120 125' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M100 110 Q85 115 80 125' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    animation: float-leaf 8s ease-in-out infinite;
+    z-index: 0;
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 8%;
+    left: 5%;
+    width: 180px;
+    height: 180px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Cg opacity='0.1'%3E%3Ccircle cx='100' cy='100' r='60' fill='none' stroke='%23c49b48' stroke-width='2'/%3E%3Ccircle cx='100' cy='100' r='40' fill='none' stroke='%23c49b48' stroke-width='1.5'/%3E%3Ccircle cx='100' cy='100' r='20' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3Cpath d='M100 40 L100 160 M40 100 L160 100' stroke='%23c49b48' stroke-width='0.5' opacity='0.5'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    animation: drift-horizontal 10s ease-in-out infinite;
+    z-index: 0;
+  }
+}
+
+/* 页面侧边装饰 - 左右两侧的植物图案 */
+@media (min-width: 1280px) {
+  .theme-container::before,
+  .vp-page::before {
+    content: '';
+    position: fixed;
+    top: 30%;
+    right: 2%;
+    width: 120px;
+    height: 300px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'%3E%3Cg opacity='0.08'%3E%3Cpath d='M50 0 Q60 30 50 60 Q40 90 50 120 Q60 150 50 180 Q40 210 50 240 Q60 270 50 300' fill='none' stroke='%235a705a' stroke-width='2'/%3E%3Cpath d='M50 40 Q70 45 75 55' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 40 Q30 45 25 55' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 100 Q70 105 75 115' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 100 Q30 105 25 115' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 160 Q70 165 75 175' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 160 Q30 165 25 175' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 220 Q70 225 75 235' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3Cpath d='M50 220 Q30 225 25 235' fill='none' stroke='%235a705a' stroke-width='1'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    z-index: 0;
+    animation: float-leaf 12s ease-in-out infinite;
+  }
+
+  .theme-container::after,
+  .vp-page::after {
+    content: '';
+    position: fixed;
+    top: 40%;
+    left: 2%;
+    width: 120px;
+    height: 300px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 300'%3E%3Cg opacity='0.08'%3E%3Cpath d='M50 0 Q40 30 50 60 Q60 90 50 120 Q40 150 50 180 Q60 210 50 240 Q40 270 50 300' fill='none' stroke='%23c49b48' stroke-width='2'/%3E%3Cpath d='M50 50 Q70 55 75 65' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3Cpath d='M50 50 Q30 55 25 65' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3Cpath d='M50 130 Q70 135 75 145' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3Cpath d='M50 130 Q30 135 25 145' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3Cpath d='M50 210 Q70 215 75 225' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3Cpath d='M50 210 Q30 215 25 225' fill='none' stroke='%23c49b48' stroke-width='1'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    z-index: 0;
+    animation: drift-horizontal 14s ease-in-out infinite reverse;
+  }
+}
+
+/* Footer 装饰 */
+.vp-footer,
+.theme-hope-footer {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 600px;
+    height: 1px;
+    background: linear-gradient(90deg,
+      transparent 0%,
+      var(--border-color) 50%,
+      transparent 100%);
+  }
+
+  &::after {
+    content: '🌿';
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+    opacity: 0.3;
+    background: var(--bg-cream);
+    padding: 0 1rem;
   }
 }
