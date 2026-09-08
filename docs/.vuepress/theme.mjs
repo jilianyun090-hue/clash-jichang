@@ -124,6 +124,7 @@ export default hopeTheme({
                     { text: "2026年VPN推荐完整指南", link: "vpn-tuijian-2026" },
                     { text: "2026年梯子推荐与选购", link: "tizi-guide-2026" },
                     { text: "VPN下载与客户端安装", link: "vpn-download-guide-2026" },
+                    { text: "Shadowrocket小火箭完整教程", link: "shadowrocket-guide-2026" },
                     { text: "免费VPN真相揭秘", link: "mianfei-vpn-guide-2026" },
                     { text: "如何选购稳定VPN机场", link: "vpn-guide" },
                     { text: "什么是翻墙？Clash教程", link: "fanqiang-guide" },
