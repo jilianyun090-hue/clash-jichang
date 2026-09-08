@@ -40,46 +40,44 @@ aside.vp-sidebar {
 }
 
 /* 限制主内容区域最大宽度 */
-.vp-page-content-wrapper,
-.theme-hope-content,
+.vp-page,
 main.vp-page {
-  max-width: 1400px !important;
-  margin: 0 auto !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
 }
 
 /* 文章内容区域优化 - 减少空白 */
 .theme-hope-content,
 .vp-page-content {
-  max-width: 900px !important;
+  max-width: 100% !important;
   width: 100% !important;
   padding: 1.5rem 2rem !important;
+  margin: 0 !important;
 }
 
-/* 有TOC的页面，内容区域自适应宽度 */
-.vp-page.has-toc .theme-hope-content,
-.vp-page.has-toc .vp-page-content {
+/* 有TOC的页面布局 */
+.vp-page-content-wrapper {
+  display: flex !important;
+  gap: 1.5rem !important;
+  align-items: flex-start !important;
   max-width: 100% !important;
-  padding-right: 1rem !important;
+  width: 100% !important;
 }
 
-/* TOC目录优化 */
+/* TOC目录紧凑宽度 */
 .vp-toc-placeholder,
 aside.vp-toc-wrapper {
-  width: 200px !important;
+  width: 180px !important;
+  min-width: 180px !important;
   flex-shrink: 0 !important;
 }
 
-/* 文章页面整体布局 */
-.vp-page-content-wrapper {
-  display: flex !important;
-  gap: 2rem !important;
-  align-items: flex-start !important;
-}
-
-/* 主内容区flex-grow占据剩余空间 */
+/* 主内容区flex-grow占据所有剩余空间 */
 .theme-hope-content {
   flex: 1 1 auto !important;
   min-width: 0 !important;
+  max-width: 100% !important;
 }
 
 /* 限制卡片最大宽度，防止过宽 */
@@ -118,8 +116,9 @@ aside.vp-toc-wrapper {
   .theme-container:has(.vp-sidebar) .vp-page,
   .vp-page.has-sidebar {
     margin-left: 280px !important;
-    padding-left: 1.5rem !important;
-    padding-right: 1.5rem !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    max-width: calc(100vw - 280px) !important;
   }
 
   .vp-sidebar {
@@ -131,30 +130,35 @@ aside.vp-toc-wrapper {
     overflow-y: auto !important;
   }
 
-  /* 主内容区域充分利用空间 */
-  .theme-hope-content,
-  .vp-page-content {
-    max-width: calc(100vw - 580px) !important;
+  /* 内容区域充分利用可用空间 */
+  .vp-page-content-wrapper {
+    max-width: 100% !important;
+    padding: 0 !important;
   }
 
-  /* 有TOC时的布局优化 */
-  .vp-page.has-toc {
-    display: flex !important;
-    justify-content: space-between !important;
+  .theme-hope-content {
+    max-width: 100% !important;
   }
 
-  .vp-page.has-toc .theme-hope-content {
-    flex: 1 1 auto !important;
-    max-width: calc(100% - 240px) !important;
-    margin-right: 2rem !important;
+  /* TOC在右侧 */
+  aside.vp-toc-wrapper {
+    position: sticky !important;
+    top: calc(var(--navbar-height, 60px) + 1rem) !important;
+    align-self: flex-start !important;
   }
 }
 
 @media (min-width: 1440px) {
-  /* 更宽屏幕时进一步优化 */
-  .theme-hope-content,
-  .vp-page-content {
-    max-width: 1000px !important;
+  /* 更宽屏幕时，限制内容区最大宽度避免行过长 */
+  .theme-hope-content {
+    max-width: calc(100vw - 280px - 180px - 6rem) !important;
+  }
+}
+
+@media (min-width: 1600px) {
+  /* 超宽屏时适当限制内容区宽度 */
+  .theme-hope-content {
+    max-width: 1200px !important;
   }
 }
 
