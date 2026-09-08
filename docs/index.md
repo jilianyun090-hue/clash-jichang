@@ -32,7 +32,7 @@ features:
     details: 翻墙基础、Clash 配置、协议科普。
     link: /proxy/
 copyright: Copyright © 2026 clash-jichang.com
-footer: '<a href=”/airport/”>机场推荐</a> | <a href=”/ai/”>AI指南</a> | <a href=”/proxy/”>知识库</a> | <a href=”/faq/”>常见问题</a> | <a href=”/links”>友链</a><br/>优质资源共享 · 助你畅享全球互联网'
+footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网'
 ---
 
 ## 2026年VPN推荐：如何选择稳定的VPN机场与梯子工具？

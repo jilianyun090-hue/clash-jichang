@@ -6,6 +6,7 @@ export default hopeTheme({
     // 博客自动生成页面标题配置（解决 Bing 标题太短的 SEO 警告）
     locales: {
         "/": {
+            toc: true,
             blogLocales: {
                 article: "2026年科学上网机场推荐与翻墙梯子全部文章列表 - 涵盖最新稳定专线机场评测、Netflix流媒体解锁指南与ChatGPT等AI工具使用教程",
                 articleList: "科学上网机场推荐与使用教程资讯文章完整索引 - 2026年最新稳定翻墙机场深度评测、Netflix/Disney+流媒体解锁详细指南与人工智能工具实战攻略",
@@ -35,7 +36,7 @@ export default hopeTheme({
     
     docsDir: "docs",
 
-    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a><br/>优质资源共享 · 助你畅享全球互联网',
+    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网',
     displayFooter: true,
     copyright: "© 2026 clash-jichang.com",
 
@@ -248,6 +249,7 @@ export default hopeTheme({
 
     // 界面风格：极致纯净
     headerDepth: 2,
+    toc: true,
     darkmode: "toggle",
     fullscreen: false,
     backToTop: true,

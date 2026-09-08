@@ -1,7 +1,10 @@
 import { defineClientConfig } from "vuepress/client";
+import UmamiStats from "./components/UmamiStats.vue";
 
 export default defineClientConfig({
-  enhance({ app, router, siteData }) {},
+  enhance({ app, router, siteData }) {
+    app.component("UmamiStats", UmamiStats);
+  },
   setup() {},
   rootComponents: [],
 });
@@ -76,4 +79,47 @@ if (typeof window !== 'undefined') {
       setTimeout(createFloatingLeaves, 500);
     }
   }, 1000);
+}
+
+// ========== 顶部滚动进度条 ==========
+if (typeof window !== 'undefined') {
+  const initScrollProgressBar = () => {
+    // 避免重复创建
+    let bar = document.getElementById('scroll-progress-bar');
+    if (!bar) {
+      bar = document.createElement('div');
+      bar.id = 'scroll-progress-bar';
+      document.body.appendChild(bar);
+    }
+
+    const updateProgress = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+      if (bar) bar.style.width = Math.min(100, progress).toFixed(2) + '%';
+    };
+
+    window.removeEventListener('scroll', updateProgress);
+    window.addEventListener('scroll', updateProgress, { passive: true });
+    updateProgress();
+  };
+
+  // 页面加载后初始化
+  window.addEventListener('load', () => setTimeout(initScrollProgressBar, 200));
+  if (document.readyState !== 'loading') {
+    setTimeout(initScrollProgressBar, 200);
+  }
+
+  // SPA 路由切换后重新绑定（重置进度）
+  let _lastPath2 = location.pathname;
+  setInterval(() => {
+    if (location.pathname !== _lastPath2) {
+      _lastPath2 = location.pathname;
+      setTimeout(() => {
+        const bar = document.getElementById('scroll-progress-bar');
+        if (bar) bar.style.width = '0%';
+        initScrollProgressBar();
+      }, 400);
+    }
+  }, 800);
 }
