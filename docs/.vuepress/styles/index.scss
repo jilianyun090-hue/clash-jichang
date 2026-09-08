@@ -1,78 +1,96 @@
 /* ============================================
-   全站样式 — 科学上网机场推荐 极简温暖风格
-   温暖的泥土色系：terracotta + cream
+   全站样式 — 极简植物标本集风格
+   Botanical Archive & Eco-Paper Aesthetic
    ============================================ */
 
-/* --- 全局颜色变量（温暖极简配色）--- */
+/* --- 全局颜色变量（植物标本配色系统）--- */
 :root {
-  /* 温暖配色 */
-  --brand-color: #C4612F;
-  --brand-hover: #A94E22;
-  --brand-light: #F2E3D6;
-  --text-main: #1F2421;
-  --text-muted: #5C635D;
-  --border-color: #E7E1D7;
-  --bg-soft: #FBF9F5;
-  --bg-cream: #F7F4EF;
+  /* 植物标本配色 */
+  --brand-color: #5a705a;        /* 鼠尾草绿 - 主强调色 */
+  --brand-hover: #4a5f4a;        /* 深鼠尾草绿 - 悬停态 */
+  --brand-light: #e8ede8;        /* 淡雅绿 - 浅色背景 */
+  --accent-gold: #c49b48;        /* 风干枯植黄 - 辅助强调 */
+  --text-main: #2c2a26;          /* 泥土暗灰 - 正文 */
+  --text-muted: #686259;         /* 风干叶影灰 - 次级文字 */
+  --border-color: rgba(138, 126, 107, 0.28);  /* 浅褐线 */
+  --bg-soft: #e8e2d5;            /* 浅灰绿次级背景 */
+  --bg-cream: #f4efe6;           /* 未漂白再生纸 */
+  --card-bg: #faf7f0;            /* 标本台纸白 */
 
-  /* VuePress Hope 原生主题色变量 — 全量覆盖为温暖色 */
-  --vp-c-brand: #C4612F !important;
-  --vp-c-brand-light: #D47A4A !important;
-  --vp-c-brand-lighter: #E39365 !important;
-  --vp-c-brand-dark: #A94E22 !important;
-  --vp-c-brand-darker: #8E3E1B !important;
-  --theme-color: #C4612F !important;
-  --vp-theme-color: #C4612F !important;
-  --c-brand: #C4612F !important;
-  --c-brand-light: #D47A4A !important;
-  --color-1: #C4612F !important;
-  --vp-c-accent: #C4612F !important;
+  /* VuePress Hope 原生主题色变量 — 全量覆盖为植物标本绿 */
+  --vp-c-brand: #5a705a !important;
+  --vp-c-brand-light: #6f856f !important;
+  --vp-c-brand-lighter: #8a9d8a !important;
+  --vp-c-brand-dark: #4a5f4a !important;
+  --vp-c-brand-darker: #3a4f3a !important;
+  --theme-color: #5a705a !important;
+  --vp-theme-color: #5a705a !important;
+  --c-brand: #5a705a !important;
+  --c-brand-light: #6f856f !important;
+  --color-1: #5a705a !important;
+  --vp-c-accent: #5a705a !important;
 
   /* VuePress Hope 补充变量 */
-  --hope-theme-color: #C4612F !important;
-  --hope-theme-color-light: #D47A4A !important;
-  --hope-theme-color-lighten: #E39365 !important;
-  --hope-theme-color-dark: #A94E22 !important;
-  --hope-theme-color-pale: #F2E3D6 !important;
+  --hope-theme-color: #5a705a !important;
+  --hope-theme-color-light: #6f856f !important;
+  --hope-theme-color-lighten: #8a9d8a !important;
+  --hope-theme-color-dark: #4a5f4a !important;
+  --hope-theme-color-pale: #e8ede8 !important;
 
   /* VuePress 2.x 变量 */
-  --vp-c-indigo: #C4612F !important;
-  --vp-c-indigo-light: #D47A4A !important;
-  --vp-c-indigo-lighter: #E39365 !important;
-  --vp-c-indigo-dark: #A94E22 !important;
-  --vp-c-indigo-darker: #8E3E1B !important;
+  --vp-c-indigo: #5a705a !important;
+  --vp-c-indigo-light: #6f856f !important;
+  --vp-c-indigo-lighter: #8a9d8a !important;
+  --vp-c-indigo-dark: #4a5f4a !important;
+  --vp-c-indigo-darker: #3a4f3a !important;
 
   /* 导航栏链接 hover/active 下划线相关 */
-  --navbar-line-color: #C4612F !important;
-  --active-color: #C4612F !important;
+  --navbar-line-color: #5a705a !important;
+  --active-color: #5a705a !important;
 }
 
 /* 暗黑模式覆盖 */
 [data-theme="dark"] {
-  --vp-c-brand: #E39365 !important;
-  --vp-c-brand-light: #EAA882 !important;
-  --vp-c-brand-dark: #D47A4A !important;
-  --theme-color: #E39365 !important;
-  --c-brand: #E39365 !important;
-  --brand-color: #E39365;
-  --brand-hover: #EAA882;
-  --bg-cream: #1F2421;
-  --bg-soft: #2A2D2B;
-  --text-main: #F7F4EF;
-  --text-muted: #B5B9B3;
-  --border-color: #3A3D3B;
+  --vp-c-brand: #6f856f !important;
+  --vp-c-brand-light: #8a9d8a !important;
+  --vp-c-brand-dark: #5a705a !important;
+  --theme-color: #6f856f !important;
+  --c-brand: #6f856f !important;
+  --brand-color: #6f856f;
+  --brand-hover: #8a9d8a;
+  --bg-cream: #2c2a26;
+  --bg-soft: #363430;
+  --text-main: #e8e2d5;
+  --text-muted: #a39d90;
+  --border-color: rgba(138, 126, 107, 0.4);
+  --card-bg: #363430;
 }
 
-/* --- 全局排版 --- */
+/* --- 全局排版（植物标本学术风格）--- */
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: var(--text-main);
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.7;
   background: var(--bg-cream);
+}
+
+/* 标题采用学术衬线体 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC", Georgia, serif !important;
+  font-weight: 500 !important;
+  color: var(--text-main) !important;
+  letter-spacing: 0.02em !important;
+}
+
+/* 等宽字体用于编号和元数据 */
+.specimen-badge,
+.index-number,
+code {
+  font-family: "JetBrains Mono", "Courier New", "Consolas", monospace !important;
 }
 
 /* 紧凑间距系统 */
@@ -103,19 +121,19 @@ main {
   background: var(--bg-cream) !important;
 }
 
-/* --- 导航栏（极简毛玻璃效果）--- */
+/* --- 导航栏（标本馆极简风格）--- */
 .vp-navbar {
   border-bottom: 1px solid var(--border-color) !important;
-  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.02) !important;
-  background: rgba(251, 249, 245, 0.88) !important;
-  backdrop-filter: blur(12px) saturate(180%) !important;
-  -webkit-backdrop-filter: blur(12px) saturate(180%) !important;
+  box-shadow: none !important;
+  background: rgba(244, 239, 230, 0.95) !important;
+  backdrop-filter: blur(8px) !important;
+  -webkit-backdrop-filter: blur(8px) !important;
   padding: 0.75rem 0 !important;
   transition: all 0.3s ease !important;
 }
 
 [data-theme="dark"] .vp-navbar {
-  background: rgba(31, 36, 33, 0.88) !important;
+  background: rgba(44, 42, 38, 0.95) !important;
 }
 
 /* 导航栏链接精细调整 */
@@ -285,7 +303,7 @@ header.vp-hero-info-wrapper img,
   filter: none !important;
 }
 
-/* 首页英雄按钮（科学上网）— 完全圆角胶囊样式 */
+/* 首页英雄按钮（标本馆朴素风格）*/
 a.vp-hero-action.primary,
 .vp-hero-action.primary,
 .vp-hero-actions>a.primary,
@@ -294,12 +312,13 @@ a.vp-hero-action.primary,
   background: var(--brand-color) !important;
   border-color: var(--brand-color) !important;
   color: #fff !important;
-  border-radius: 999px !important;
+  border-radius: 4px !important;
   padding: 0 28px !important;
   line-height: 48px !important;
   font-weight: 500 !important;
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
-  box-shadow: 0 2px 8px rgba(196, 97, 47, 0.2) !important;
+  transition: all 0.25s ease !important;
+  box-shadow: none !important;
+  border: 1px solid var(--brand-color) !important;
 }
 
 a.vp-hero-action.primary:hover,
@@ -308,7 +327,7 @@ a.vp-hero-action.primary:hover,
   background: var(--brand-hover) !important;
   border-color: var(--brand-hover) !important;
   transform: translateY(-2px) !important;
-  box-shadow: 0 4px 12px rgba(196, 97, 47, 0.25) !important;
+  box-shadow: 0 2px 8px rgba(90, 112, 90, 0.15) !important;
 }
 
 /* 次要按钮 */
@@ -388,15 +407,15 @@ a.route-link-active {
   background: var(--brand-color) !important;
 }
 
-/* --- 首页 Hero（极简 editorial 风格）--- */
+/* --- 首页 Hero（植物学图鉴风格）--- */
 .vp-hero-info-wrapper {
   .vp-hero-info {
     h1 {
-      font-family: "Fraunces", "Noto Serif SC", Georgia, serif !important;
-      font-weight: 400 !important;
+      font-family: "Noto Serif SC", "Source Han Serif SC", serif !important;
+      font-weight: 500 !important;
       font-size: 3.2rem !important;
       color: var(--text-main) !important;
-      letter-spacing: -1px !important;
+      letter-spacing: 0.02em !important;
       line-height: 1.2 !important;
       background: none !important;
       -webkit-background-clip: unset !important;
@@ -408,7 +427,7 @@ a.route-link-active {
     .vp-description {
       color: var(--text-muted) !important;
       font-size: 1.125rem !important;
-      font-weight: 300 !important;
+      font-weight: 400 !important;
       line-height: 1.7 !important;
       max-width: 560px !important;
       margin: 0 auto 2rem !important;
@@ -441,44 +460,53 @@ a.route-link-active {
   }
 }
 
-/* --- Features 卡片（极简卡片风格）--- */
+/* --- Features 卡片（植物标本卡片风格）--- */
 .vp-feature-wrapper {
   padding: 1rem 0 !important;
 }
 
 .vp-feature-item,
 .vp-features .vp-feature-item {
-  background: #FFFFFF !important;
+  background: var(--card-bg) !important;
   border: 1px solid var(--border-color) !important;
-  border-radius: 16px !important;
+  border-radius: 4px !important;
   padding: 2rem 1.75rem !important;
   transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
   box-shadow: none !important;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
 
-  /* 顶部装饰线 */
+  /* 右上角手作打孔装饰 */
   &::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 3px;
-    background: linear-gradient(90deg, var(--brand-color), #D4956C);
-    opacity: 0;
-    transition: opacity 0.25s ease;
+    top: 12px;
+    right: 12px;
+    width: 8px;
+    height: 8px;
+    background: radial-gradient(circle, transparent 3px, var(--bg-cream) 3px);
+    border-radius: 50%;
+    box-shadow: inset 0 1px 2px rgba(44, 42, 38, 0.15);
+  }
+
+  /* 左上角标本编号 */
+  &::after {
+    content: attr(data-index);
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    letter-spacing: 0.5px;
+    opacity: 0.6;
   }
 
   &:hover {
-    transform: translateY(-4px) !important;
-    box-shadow: 0 12px 32px rgba(196, 97, 47, 0.12), 0 2px 8px rgba(196, 97, 47, 0.06) !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 4px 12px rgba(90, 112, 90, 0.08) !important;
     border-color: var(--brand-color) !important;
-    background: #FFFFFF !important;
-
-    &::before {
-      opacity: 1;
-    }
+    background: var(--card-bg) !important;
   }
 
   .vp-feature-icon,
@@ -491,23 +519,27 @@ a.route-link-active {
 
   h2,
   .vp-feature-title {
-    font-family: 'Fraunces', 'Noto Serif SC', serif !important;
+    font-family: "Noto Serif SC", "Source Han Serif SC", serif !important;
     color: var(--text-main) !important;
     font-weight: 500 !important;
     font-size: 1.125rem !important;
     margin-bottom: 0.625rem !important;
     border: none !important;
     padding: 0 !important;
-    letter-spacing: -0.01em !important;
+    letter-spacing: 0.02em !important;
   }
 
   p,
   .vp-feature-details {
     color: var(--text-muted) !important;
-    font-weight: 300 !important;
+    font-weight: 400 !important;
     line-height: 1.65 !important;
     margin: 0 !important;
     font-size: 0.9375rem !important;
+    /* 单行截断 */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 }
 
@@ -729,94 +761,93 @@ a.route-link-active {
   background: linear-gradient(90deg, rgba(196, 97, 47, 0.12) 0%, transparent 100%) !important;
 }
 
-/* 机场徽章系统 - 温暖胶囊设计 */
+/* 机场徽章系统 - 植物标本标签设计 */
 .airport-badge {
   display: inline-block !important;
-  padding: 0.35rem 0.875rem !important;
-  font-size: 0.75rem !important;
+  padding: 0.3rem 0.75rem !important;
+  font-size: 0.7rem !important;
   font-weight: 600 !important;
-  border-radius: 999px !important;
+  font-family: "JetBrains Mono", monospace !important;
+  border-radius: 2px !important;
   margin-left: 0.5rem !important;
   white-space: nowrap !important;
   vertical-align: middle !important;
   transition: all 0.2s ease !important;
-  letter-spacing: 0.3px !important;
+  letter-spacing: 0.5px !important;
+  text-transform: uppercase !important;
+  border: 1px solid !important;
 }
 
-/* 推荐徽章 - 陶土色 */
+/* 推荐徽章 - 鼠尾草绿 */
 .badge-recommend {
-  background: var(--brand-color) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(196, 97, 47, 0.25) !important;
+  background: var(--brand-light) !important;
+  color: var(--brand-color) !important;
+  border-color: var(--brand-color) !important;
+  box-shadow: none !important;
 }
 
 .badge-recommend:hover {
-  background: var(--brand-hover) !important;
-  transform: translateY(-1px) !important;
-  box-shadow: 0 4px 10px rgba(196, 97, 47, 0.3) !important;
+  background: var(--brand-color) !important;
+  color: #fff !important;
 }
 
-/* IPLC/IEPL 专线徽章 - 温暖琥珀色 */
+/* IPLC/IEPL 专线徽章 - 枯植黄 */
 .badge-iplc,
 .badge-iepl {
-  background: linear-gradient(135deg, #D4A574 0%, #C4955E 100%) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(212, 165, 116, 0.25) !important;
+  background: rgba(196, 155, 72, 0.1) !important;
+  color: var(--accent-gold) !important;
+  border-color: var(--accent-gold) !important;
+  box-shadow: none !important;
 }
 
-/* 原生IP徽章 - 柔和绿松石 */
+/* 原生IP徽章 - 深绿 */
 .badge-native-ip {
-  background: linear-gradient(135deg, #6B9B7F 0%, #5A8A6E 100%) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(107, 155, 127, 0.25) !important;
+  background: rgba(90, 112, 90, 0.1) !important;
+  color: var(--brand-color) !important;
+  border-color: var(--brand-color) !important;
+  box-shadow: none !important;
 }
 
-/* 流媒体解锁徽章 - 温暖珊瑚粉 */
+/* 流媒体解锁徽章 - 淡绿 */
 .badge-streaming {
-  background: linear-gradient(135deg, #E89B8A 0%, #D88A79 100%) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(232, 155, 138, 0.25) !important;
+  background: var(--brand-light) !important;
+  color: var(--brand-hover) !important;
+  border-color: var(--brand-color) !important;
+  box-shadow: none !important;
 }
 
-/* AI解锁徽章 - 深暖灰蓝 */
+/* AI解锁徽章 - 灰绿 */
 .badge-ai {
-  background: linear-gradient(135deg, #7A8FA3 0%, #697E92 100%) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(122, 143, 163, 0.25) !important;
+  background: rgba(104, 98, 89, 0.1) !important;
+  color: var(--text-muted) !important;
+  border-color: var(--text-muted) !important;
+  box-shadow: none !important;
 }
 
-/* 跑路警告徽章 - 温暖砖红色（更强警示）*/
+/* 跑路警告徽章 - 暗红色（保持警示）*/
 .badge-warning,
 .badge-paolu {
-  background: linear-gradient(135deg, #D93636 0%, #C42E2E 100%) !important;
-  color: #fff !important;
+  background: rgba(217, 54, 54, 0.1) !important;
+  color: #991b1b !important;
+  border-color: #991b1b !important;
   font-weight: 700 !important;
-  box-shadow: 0 3px 10px rgba(217, 54, 54, 0.35) !important;
-  animation: pulse-warning 2s ease-in-out infinite !important;
+  box-shadow: none !important;
 }
 
-@keyframes pulse-warning {
-  0%, 100% {
-    box-shadow: 0 3px 10px rgba(217, 54, 54, 0.35);
-  }
-  50% {
-    box-shadow: 0 4px 16px rgba(217, 54, 54, 0.5);
-    transform: scale(1.02);
-  }
-}
-
-/* 新机场徽章 - 淡雅薰衣草 */
+/* 新机场徽章 */
 .badge-new {
-  background: linear-gradient(135deg, #A393BF 0%, #9282AE 100%) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(163, 147, 191, 0.25) !important;
+  background: var(--bg-soft) !important;
+  color: var(--text-main) !important;
+  border-color: var(--border-color) !important;
+  box-shadow: none !important;
 }
 
-/* 高性价比徽章 - 温暖金色 */
+/* 高性价比徽章 */
 .badge-value {
-  background: linear-gradient(135deg, #D4A868 0%, #C4985A 100%) !important;
-  color: #fff !important;
-  box-shadow: 0 2px 6px rgba(212, 168, 104, 0.25) !important;
+  background: rgba(196, 155, 72, 0.15) !important;
+  color: var(--accent-gold) !important;
+  border-color: var(--accent-gold) !important;
+  box-shadow: none !important;
 }
 
 /* 机场套餐表格优化 */
@@ -1554,7 +1585,7 @@ a.vp-sidebar-link[href*="paolu.html"].active {
   }
 }
 
-/* --- 卡片网格 --- */
+/* --- 卡片网格（标本卡片样式）--- */
 .card-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -1568,55 +1599,55 @@ a.vp-sidebar-link[href*="paolu.html"].active {
 
 .card-grid .card-item {
   display: block;
-  background: #FFFFFF !important;
+  background: var(--card-bg) !important;
   border: 1px solid var(--border-color) !important;
-  border-radius: 12px;
+  border-radius: 4px;
   padding: 1.125rem 1.25rem;
   text-decoration: none !important;
-  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.25s ease;
   color: var(--text-main);
   position: relative;
-  overflow: hidden;
+  overflow: visible;
 
-  /* 温暖渐变背景 */
+  /* 右上角手作打孔 */
   &::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 4px;
-    background: linear-gradient(90deg, var(--brand-color), #D4956C);
-    opacity: 0;
-    transition: opacity 0.25s ease;
+    top: 10px;
+    right: 10px;
+    width: 7px;
+    height: 7px;
+    background: radial-gradient(circle, transparent 2.5px, var(--bg-cream) 2.5px);
+    border-radius: 50%;
+    box-shadow: inset 0 1px 2px rgba(44, 42, 38, 0.12);
   }
 
   &:hover {
-    background: #FFFFFF !important;
+    background: var(--card-bg) !important;
     border-color: var(--brand-color) !important;
-    box-shadow: 0 12px 32px rgba(196, 97, 47, 0.15), 0 2px 8px rgba(196, 97, 47, 0.08);
-    transform: translateY(-4px);
-
-    &::before {
-      opacity: 1;
-    }
+    box-shadow: 0 2px 8px rgba(90, 112, 90, 0.08);
+    transform: translateY(-2px);
   }
 
   .card-title {
-    font-family: 'Fraunces', 'Noto Serif SC', serif;
+    font-family: "Noto Serif SC", "Source Han Serif SC", serif;
     font-size: 1.125rem;
-    font-weight: 600;
+    font-weight: 500;
     color: var(--text-main);
     margin-bottom: 0.625rem;
     line-height: 1.35;
-    letter-spacing: -0.01em;
+    letter-spacing: 0.02em;
   }
 
   .card-desc {
     font-size: 0.875rem;
-    font-weight: 300;
+    font-weight: 400;
     color: var(--text-muted);
     line-height: 1.65;
+    /* 单行截断 */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 }
 
