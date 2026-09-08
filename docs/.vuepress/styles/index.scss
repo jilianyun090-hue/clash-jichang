@@ -249,9 +249,14 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.7;
-  background: var(--bg-cream);
+  background: linear-gradient(135deg,
+    rgba(90, 112, 90, 0.06) 0%,
+    var(--bg-cream) 30%,
+    var(--bg-cream) 70%,
+    rgba(196, 155, 72, 0.08) 100%) !important;
   position: relative;
   overflow-x: hidden;
+  min-height: 100vh;
 }
 
 /* 页面顶部漂浮叶片装饰 */
@@ -2179,16 +2184,6 @@ a.vp-sidebar-link[href*="paolu.html"].active {
 /* ============================================
    增强背景动效 - 确保可见性
    ============================================ */
-
-/* 增强body背景渐变 - 提高不透明度 */
-body {
-  background: linear-gradient(135deg,
-    rgba(90, 112, 90, 0.03) 0%,
-    var(--bg-cream) 30%,
-    var(--bg-cream) 70%,
-    rgba(196, 155, 72, 0.04) 100%) !important;
-  min-height: 100vh;
-}
 
 /* 增强漂浮叶片动画 - 从JS创建的元素 */
 .floating-botanical-leaf {

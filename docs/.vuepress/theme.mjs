@@ -251,5 +251,5 @@ export default hopeTheme({
     darkmode: "toggle",
     fullscreen: false,
     backToTop: true,
-    pure: true,
+    pure: false,  // 关闭pure模式以显示侧边栏
 });
