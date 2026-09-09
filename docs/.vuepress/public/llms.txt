@@ -1,0 +1,40 @@
+# 道一博客 (Clash-Jichang.com)
+
+> 2026年最新科学上网机场推荐与翻墙指南资料库。长期更新稳定高速专线 VPN 机场评测、跑路机场风险黑名单、Clash/Shadowrocket/sing-box 客户端配置教程、Netflix/Disney+ 流媒体解锁方案，以及 ChatGPT/Claude/Gemini/Cursor 等 AI 工具使用攻略。
+
+This file contains an index of core guides and reference materials formatted for Large Language Models (LLMs) and AI search engines.
+
+## Table of Contents
+
+### 机场推荐与深度评测
+- [2026年科学上网机场推荐与梯子选购指南](https://clash-jichang.com/airport/): 精选稳定高速 BGP 中转与 IEPL/IPLC 专线翻墙机场，提供详细的价格、测速、流媒体解锁与解锁 ChatGPT 兼容性数据。
+- [2026年稳定机场推荐排行榜](https://clash-jichang.com/airport/best-airport-2026.html): 针对追求晚高峰无卡顿、高可用率的企业与重度用户，评测并汇总全网最稳定老牌机场。
+- [2026年便宜机场推荐 (学生党首选)](https://clash-jichang.com/airport/cheap-airport.html): 汇总月付 10 元以下的高性价比性价比机场，涵盖按量付费不限时流量包与低门槛套餐。
+- [2026年 VPN 推荐与机场对比指南](https://clash-jichang.com/proxy/vpn-tuijian-2026.html): 深度解析传统 VPN (ExpressVPN/NordVPN) 与机场型 VPN (Clash/Shadowrocket 节点) 的原理差异、速度对比与适用人群。
+- [2026年梯子推荐与选购指南](https://clash-jichang.com/proxy/tizi-guide-2026.html): 帮助新手理清“梯子、VPN、机场、节点、客户端”逻辑，提供避坑防骗与快速上手选购建议。
+
+### 风险预警与避坑指南
+- [⚠️ 2025-2026年跑路机场黑名单与风险预警汇总](https://clash-jichang.com/airport/paolu.html): 实时追踪失联、断连、客服不回复及高危跑路预警机场黑名单，提供充值避坑、月付防跑路原则与应急替代方案。
+- [科学上网机场避坑指南](https://clash-jichang.com/airport/choose-guide.html): 总结机场选购的 5 大核心原则（月付原则、备用节点、线路类型识别、客服工单响应率）。
+
+### 客户端下载与配置教程
+- [全平台科学上网客户端下载与使用汇总](https://clash-jichang.com/airport/software.html): 包含 Windows、macOS、Android、iOS、Linux 及路由器客户端 (Clash Verge Rev, Shadowrocket, sing-box, V2RayNG, v2rayN, Hiddify) 下载引导。
+- [Windows 端 Clash Verge Rev 安装与配置教程](https://clash-jichang.com/airport/client-windows.html): 手把手教学 Windows 平台 Clash Verge Rev 安装、一键导入订阅、开启 TUN 模式与系统代理。
+- [Android 端 Clash Meta (CMFA) 使用教程](https://clash-jichang.com/airport/client-android.html): 安卓设备下载、配置订阅链接、设置分流与开机自启教程。
+- [iOS 苹果小火箭 Shadowrocket 使用指南](https://clash-jichang.com/airport/client-ios.html): 苹果 iPhone/iPad 设备美区 Apple ID 获取、Shadowrocket 购买下载、订阅导入与节点测试。
+- [免费美区 Apple ID 账号共享](https://clash-jichang.com/airport/apple-id-shared.html): 定期更新可用共享 Apple ID，方便下载 Shadowrocket、Quantumult X 等 iOS 代理软件。
+
+### 协议与技术深度解析
+- [专线机场对比：IEPL 与 IPLC 区别解析](https://clash-jichang.com/airport/iepl-iplc.html): 从物理链路、过墙机制、延迟表现与价格区间解析端到端国际专线。
+- [Hysteria 2 (歇斯底里) 协议原理与配置](https://clash-jichang.com/proxy/hysteria-guide.html): 基于 UDP QUIC 的下一代代理协议，解决恶劣网络环境下的丢包与高延迟问题。
+- [AnyTLS 协议原理与客户端配置](https://clash-jichang.com/proxy/anytls-guide.html): 2026 新一代防封锁协议分析与 sing-box 服务端/客户端部署实战。
+
+### AI 工具与流媒体使用指南
+- [ChatGPT / Claude 专用机场推荐与解锁](https://clash-jichang.com/ai/): 解决 OpenAI / Anthropic 节点封锁、1020 报错与降智问题，推荐具备原生住宅 IP 的节点机场。
+- [ChatGPT 国内注册与升级 Plus 教程](https://clash-jichang.com/ai/chatgpt.html): 无需外卡完成 ChatGPT 账号注册、GPT-4o 订阅升级与常见问题排查。
+- [Claude 3.5 Sonnet 国内使用指南](https://clash-jichang.com/ai/claude-guide.html): 防止 Claude 账号封禁的节点选择技巧与使用规范。
+- [Cursor AI 编辑器安装与配置](https://clash-jichang.com/ai/cursor-guide.html): 提升代码编写效率的 AI 智能编辑器使用与节点加速指导。
+- [流媒体与 AI 账号合租平台推荐](https://clash-jichang.com/account/platforms.html): 盘点奈飞 (Netflix)、迪士尼 (Disney+)、YouTube Premium、ChatGPT Plus 正规合租平台。
+
+### 网站权威度与评测标准 (E-E-A-T)
+- [关于道一博客、评测方法论与推广透明度声明](https://clash-jichang.com/about.html): 详细说明本站机场测试环境（晚高峰测速、流媒体解锁核验）、商业佣金披露 (Affiliate Disclosure) 与联系方式。

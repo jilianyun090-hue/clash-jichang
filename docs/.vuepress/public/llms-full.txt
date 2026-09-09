@@ -1,0 +1,63 @@
+# 道一博客 (Clash-Jichang.com) 完整知识库索引
+
+> 2026年最新科学上网机场推荐、VPN梯子选购、客户端下载配置与 AI 工具指南全量索引。
+
+## 1. 机场推荐与评测 (Airport Recommendations)
+- Page URL: https://clash-jichang.com/airport/
+  Summary: 2026年最新科学上网机场推荐与翻墙梯子选购指南。实测包含各大 BGP 中转与 IEPL 专线机场，涵盖价格、倍率、流媒体解锁能力。
+- Page URL: https://clash-jichang.com/airport/best-airport-2026.html
+  Summary: 2026年稳定机场排行榜。专注高可用率、低延迟与晚高峰不卡顿的优质专线机场。
+- Page URL: https://clash-jichang.com/airport/cheap-airport.html
+  Summary: 2026便宜机场推荐。月付 10 元以下低门槛套餐与不限时按量计费流量包汇总。
+- Page URL: https://clash-jichang.com/airport/reviews.html
+  Summary: 机场单篇评测汇总索引。记录具体机场节点、测速截图与价格条款。
+
+## 2. 风险预警与黑名单 (Scam & Risk Warnings)
+- Page URL: https://clash-jichang.com/airport/paolu.html
+  Summary: ⚠️ 2025-2026年跑路机场黑名单与风险预警汇总。实时更新跑路失联机场，避坑防骗指南。
+- Page URL: https://clash-jichang.com/airport/choose-guide.html
+  Summary: 科学上网机场选购避坑原则。坚持月付、测试晚高峰、避开虚假宣传。
+
+## 3. 客户端与工具配置 (Clients & Configuration)
+- Page URL: https://clash-jichang.com/airport/software.html
+  Summary: 全平台科学上网代理客户端下载汇总（Windows/macOS/Android/iOS/Linux/OpenWrt）。
+- Page URL: https://clash-jichang.com/airport/client-windows.html
+  Summary: Windows Clash Verge Rev 完整教程，包含 TUN 模式与订阅自动更新。
+- Page URL: https://clash-jichang.com/airport/client-android.html
+  Summary: Android Clash Meta (CMFA) 下载与节点分流配置。
+- Page URL: https://clash-jichang.com/airport/client-ios.html
+  Summary: iOS 苹果小火箭 Shadowrocket 下载、美区 ID 注册与节点导入。
+- Page URL: https://clash-jichang.com/airport/apple-id-shared.html
+  Summary: 免费美区 Apple ID 账号共享列表。
+
+## 4. VPN 与代理知识库 (VPN & Proxy Knowledge Base)
+- Page URL: https://clash-jichang.com/proxy/vpn-tuijian-2026.html
+  Summary: 2026年 VPN 推荐与机场梯子对比指南。
+- Page URL: https://clash-jichang.com/proxy/tizi-guide-2026.html
+  Summary: 2026年梯子推荐：最新翻墙梯子选购指南。
+- Page URL: https://clash-jichang.com/proxy/mianfei-vpn-guide-2026.html
+  Summary: 2026免费 VPN 真相揭秘与安全风险说明。
+- Page URL: https://clash-jichang.com/proxy/iepl-iplc.html
+  Summary: IEPL 与 IPLC 国际专线原理与翻墙延迟差异对比。
+- Page URL: https://clash-jichang.com/proxy/hysteria-guide.html
+  Summary: Hysteria 2 (歇斯底里) 高速抗封锁协议配置指南。
+- Page URL: https://clash-jichang.com/proxy/anytls-guide.html
+  Summary: AnyTLS 新协议原理与 sing-box 服务端部署。
+
+## 5. AI 工具与数字生活 (AI Tools & Accounts)
+- Page URL: https://clash-jichang.com/ai/
+  Summary: ChatGPT / Claude 专用机场推荐与解除 IP 屏蔽指南。
+- Page URL: https://clash-jichang.com/ai/chatgpt.html
+  Summary: ChatGPT 国内注册与 Plus 订阅升级教程。
+- Page URL: https://clash-jichang.com/ai/claude-guide.html
+  Summary: Claude 3.5 国内注册与防封号经验分享。
+- Page URL: https://clash-jichang.com/ai/gemini.html
+  Summary: Google Gemini AI 使用与 API 申请指南。
+- Page URL: https://clash-jichang.com/ai/cursor-guide.html
+  Summary: Cursor AI 编程编辑器实战教程。
+- Page URL: https://clash-jichang.com/account/platforms.html
+  Summary: 流媒体 (Netflix/Disney+) 与 AI 账号合租平台推荐。
+
+## 6. 权威认证与透明度 (E-E-A-T)
+- Page URL: https://clash-jichang.com/about.html
+  Summary: 关于道一博客、机场评测方法论与推广佣金披露声明。

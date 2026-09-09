@@ -36,7 +36,7 @@ export default hopeTheme({
     
     docsDir: "docs",
 
-    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网',
+    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/about.html">关于与评测方法</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网',
     displayFooter: true,
     copyright: "© 2026 clash-jichang.com",
 
@@ -52,6 +52,7 @@ export default hopeTheme({
         {
             text: "更多",
             children: [
+                { text: "关于与评测方法", link: "/about.html" },
                 { text: "友链", link: "/links" },
                 { text: "标签", link: "/tag/" },
                 { text: "统计", link: "/stats" },
@@ -184,6 +185,8 @@ export default hopeTheme({
         "/timeline/": false,
         "/links.html": false,
         "/stats.html": false,
+        "/about.html": false,
+        "/about/": false,
     },
 
 
@@ -227,6 +230,38 @@ export default hopeTheme({
                         head.push(['meta', { property: 'og:description', content: desc }]);
                     }
                 }
+
+                // 自动注入 Canonical 规范链接与 BreadcrumbList 面包屑 JSON-LD
+                const pageUrl = `https://clash-jichang.com${page.path}`;
+                const hasCanonical = head.some(item => item[0] === 'link' && item[1].rel === 'canonical');
+                if (!hasCanonical) {
+                    head.push(['link', { rel: 'canonical', href: pageUrl }]);
+                }
+
+                // 为内容页注入 BreadcrumbList JSON-LD 标签
+                const breadcrumbLd = {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement": [
+                        {
+                            "@type": "ListItem",
+                            "position": 1,
+                            "name": "首页",
+                            "item": "https://clash-jichang.com/"
+                        },
+                        {
+                            "@type": "ListItem",
+                            "position": 2,
+                            "name": page.title || "正文",
+                            "item": pageUrl
+                        }
+                    ]
+                };
+                head.push([
+                    "script",
+                    { type: "application/ld+json" },
+                    JSON.stringify(breadcrumbLd)
+                ]);
             }
         },
         mdEnhance: {

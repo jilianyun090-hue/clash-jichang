@@ -28,12 +28,38 @@ export default defineUserConfig({
         ["meta", { name: "msvalidate.01", content: "35CCAB205AEAD2FDC8BEB03EB1519F89" }],
         // Google site verification
         ["meta", { name: "google-site-verification", content: "i49oHfS9JgaALfrt4GdHxUT4_XE0tAIKXPuSJNdp9F8" }],
-        // Language declaration for SEO
+        // Language declaration & Hreflang for global Chinese SEO
         ["meta", { name: "content-language", content: "zh-CN" }],
-        // Geo Tags for SEO
-        ["meta", { name: "geo.region", content: "CN" }],
-        ["meta", { name: "geo.position", content: "39.9042;116.4074" }],
-        ["meta", { name: "ICBM", content: "39.9042, 116.4074" }],
+        ["link", { rel: "alternate", hreflang: "zh-CN", href: "https://clash-jichang.com/" }],
+        ["link", { rel: "alternate", hreflang: "x-default", href: "https://clash-jichang.com/" }],
+        // GEO / LLM AI 搜索引擎结构化数据图谱 JSON-LD Graph
+        [
+            "script",
+            { type: "application/ld+json" },
+            JSON.stringify({
+                "@context": "https://schema.org",
+                "@graph": [
+                    {
+                        "@type": "WebSite",
+                        "@id": "https://clash-jichang.com/#website",
+                        "url": "https://clash-jichang.com/",
+                        "name": "道一博客",
+                        "description": "2026年最新科学上网机场推荐与翻墙指南。提供稳定专线机场评测、跑路预警、客户端配置与 AI 工具指南。",
+                        "inLanguage": "zh-CN",
+                        "publisher": {
+                            "@id": "https://clash-jichang.com/about/#organization"
+                        }
+                    },
+                    {
+                        "@type": "Organization",
+                        "@id": "https://clash-jichang.com/about/#organization",
+                        "name": "道一博客团队",
+                        "url": "https://clash-jichang.com/about.html",
+                        "logo": "https://clash-jichang.com/globe.png"
+                    }
+                ]
+            })
+        ],
     ],
     theme,
     bundler: viteBundler(),
