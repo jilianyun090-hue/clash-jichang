@@ -4,7 +4,7 @@ description: "2026稳定高速机场推荐与便宜机场精选，深度测评�
 head:
   - - meta
     - name: keywords
-      content: 机场推荐,翻墙机场,科学上网,VPN推荐,极连云,山水云,秒秒云,迅达VPN,瞬云机场,寰宇云机场,光年梯,锦云,极速云机场,极速cloud,奈云,Edge-X机场,可达加速器,山海机场,LiZione,光速云,飞鸟机场,隐云,全球云,灵猫网络,星岛梦,花云,青云梯,大哥云,龙猫云,九云机场,云图机场,IEPL专线,BGP专线,2026机场,可信云,速界,快狸,边缘节点,影子,Lumina,拼好连,99吧,Nice加速,NICE加速
+      content: 机场推荐,翻墙机场,科学上网,VPN推荐,极连云,山水云,秒秒云,迅达VPN,瞬云机场,寰宇云机场,光年梯,锦云,极速云机场,极速cloud,奈云,Edge-X机场,可达加速器,山海机场,LiZione,光速云,飞鸟机场,隐云,全球云,灵猫网络,星岛梦,花云,青云梯,大哥云,龙猫云,九云机场,云图机场,IEPL专线,BGP专线,2026机场,可信云,速界,快狸,边缘节点,灯塔机场,影子,Lumina,拼好连,99吧,Nice加速,NICE加速
 tag:
   - 机场推荐
   - 科学上网
@@ -41,6 +41,7 @@ tag:
   - 速界
   - 快狸
   - 边缘节点
+  - 灯塔机场
   - 影子
   - Lumina
   - 拼好连
@@ -117,6 +118,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**速界**](#速界) | [直达官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
 | [**快狸**](#快狸) | [直达官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) | 无 | 10元 30GB/月（年付） | ✅ | 暂无 | [前往](#快狸) |
 | [**边缘节点**](#边缘节点) | [直达官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) | 无 | 9元 45GB/月（年付） | ✅ | 暂无 | [前往](#边缘节点) |
+| [**灯塔机场**](#灯塔机场) | [直达官网](https://www.dengta12.com/reg?ref=DlYrVig6) | 无 | 16.6元 120GB/月（年付） | ✅ | 暂无 | [前往](#灯塔机场) |
 | [**光速云**](#光速云) | [直达官网](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/LightspeedCloud) | [前往](#光速云) |
 | [**影子**](#影子) | [直达官网](https://www.yingzi01.com/register?code=X7XPN1cS) | 无 | 18.8元 150GB/月 | ❌ | 暂无 | [前往](#影子) |
 | [**边界云**](#边界云机场) | [直达官网](https://www.lvpn.cc/r/6UQDZT) | 无 | 12.33元 50GB/月（年付） | ✅ | [TG](https://t.me/lvpnchat) | [前往](#边界云机场) |
@@ -394,6 +396,30 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 限时年付 | ¥108.00/年 | 45GB/月 | 折合¥9/月，自研客户端，两年付可享9折 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
 | 极界·标准套餐 | ¥25.00/月 | 120GB/月 | 月付/季付/半年/年付多周期灵活订阅，重置9折 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
 | 极界·进阶套餐 | ¥50.00/月 | 250GB/月 | 适合重度流量和有大文件下载需求的用户 | [购买链接](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
+
+---
+
+### 11. 灯塔机场 {#灯塔机场}
+
+灯塔机场官网地址：[dengta12.com](https://www.dengta12.com/reg?ref=DlYrVig6)
+
+最便宜的订阅有 **16.6元 120GB/月**（年付折算）。
+
+👉 **[前往灯塔机场独立深度评测与测速报告](/airport/dengta.html)**
+
+灯塔机场（灯塔加速器）全平台节点可用，提供高达 300Mbps 的高带宽速率。不仅拥有高性价比的轻量与 VIP/SVIP 套餐，还针对重度流量用户推出了 1TB 个人无限流量年付套餐，支持多设备同时在线与 24 小时退款保障机制。
+
+- ✅ 全平台所有节点可用，支持通用 Clash 订阅及多端一键导入
+- ✅ 提供 150Mbps - 300Mbps 高速带宽与最高 6 台设备同时在线
+- ✅ VIP及SVIP套餐提供 24 小时退款保障（流量使用不超过 10%）
+- ✅ 推出 1TB/年 不限时/限速续航版专属大流量套餐
+
+| 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- |
+| 轻量套餐 | ¥30.00/月（¥200/年） | 120GB/月 | 折合¥16.6/月，3台设备，限速150Mbps，无退款保障 | [购买链接](https://www.dengta12.com/reg?ref=DlYrVig6) |
+| VIP套餐 | ¥68.00/月（¥498/年） | 300GB/月 | 3台设备，限速200Mbps，24小时退款保障 | [购买链接](https://www.dengta12.com/reg?ref=DlYrVig6) |
+| SVIP套餐 | ¥138.00/月（¥798/年） | 800GB/月 | 6台设备，限速300Mbps，24小时退款保障，可定制专用节点 | [购买链接](https://www.dengta12.com/reg?ref=DlYrVig6) |
+| 无限流量套餐 | 1年有效期 (仅剩12份) | 1.0TB (超出限速5Mbps) | 3台设备，限速200Mbps，1年有效期限量版，无退款保障 | [购买链接](https://www.dengta12.com/reg?ref=DlYrVig6) |
 
 ---
 

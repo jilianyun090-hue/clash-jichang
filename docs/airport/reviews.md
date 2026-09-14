@@ -72,6 +72,11 @@ description: "欢迎阅读机场评测与深度测试报告合集。为了保障
     <div class="card-desc">稳定低延迟BGP中转加速，官方专属自研客户端一键登录，退款机制健全，月费折合低至 ¥9/月起。</div>
   </a>
 
+  <a class="card-item" href="/airport/dengta.html">
+    <div class="card-title">灯塔机场测评</div>
+    <div class="card-desc">全平台节点高速覆盖，最高支持 300Mbps 带宽与 6 台设备同时在线，提供 24h 退款保障与 1TB 独享年付套餐。</div>
+  </a>
+
   <a class="card-item" href="/airport/guangshuyun.html">
     <div class="card-title">光速云机场测评</div>
     <div class="card-desc">智能动态选路设计，针对香港/日本/新加坡优化。大流量，月付低至 ¥8.25 起。</div>
