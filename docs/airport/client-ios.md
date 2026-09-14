@@ -1,18 +1,21 @@
 ---
-title: "2026 iOS 苹果手机端 Shadowrocket 小火箭科学上网客户端完整下载与配置教程"
-description: "2026年 iOS 苹果手机 Shadowrocket 小火箭完整使用教程：如何获取美区 Apple ID 购买小火箭、订阅链接导入与一键连接配置。覆盖规则模式设置、分应用代理、HTTPS 证书安装等进阶功能，以及常见问题（无法连接、订阅过期、UDP 转发失败）的解决方案，助你快速实现 iPhone/iPad 科学上网。"
+title: "2026 iOS 苹果手机端 Shadowrocket 暗影火箭/小火箭科学上网客户端下载与配置教程"
+description: "2026年 iOS 苹果手机 Shadowrocket 暗影火箭（影子火箭/小火箭）完整使用教程：详解正版官网下载、如何获取美区 Apple ID 购买小火箭、免费小火箭共享账号网站获取、订阅链接导入与一键连接配置。覆盖规则模式设置、节点添加与梯子工具连接排错，助你快速实现 iPhone/iPad 科学上网。"
 head:
   - - meta
     - name: keywords
-      content: Shadowrocket,小火箭下载,iOS翻墙,iPhone科学上网,Apple ID共享,美区Apple ID,Shadowrocket教程
+      content: 暗影火箭, 影子火箭, Shadowrocket 官网, 小火箭下载, 暗影火箭IOS, iOS翻墙, iPhone科学上网, 小火箭共享账号网站, 美区Apple ID, 梯子工具, Shadowrocket教程
 tag:
+  - 暗影火箭
+  - 影子火箭
   - Shadowrocket
+  - 小火箭
   - iOS
   - Apple ID
   - 翻墙教程
 ---
 
-本教程以 **Shadowrocket (小火箭)** 为例，手把手教您在 iPhone / iPad 上完成科学上网配置。Shadowrocket 是 iOS 端最普及、最易用的代理客户端。在使用本软件前，你需要有可用的机场节点订阅，可以从 [2026年稳定便宜好用机场推荐列表](./README.md) 或专为学生推荐的 [学生党高性价比便宜机场精选](./cheap-airport.md) 中获取。
+本教程以 **Shadowrocket (暗影火箭 / 影子火箭 / 小火箭)** 为例，手把手教您在 iPhone / iPad 上完成科学上网配置。Shadowrocket 是 iOS 端最普及、最易用的梯子代理客户端。在使用本软件前，你需要有可用的机场节点订阅，可以从 [2026年稳定便宜好用机场推荐列表](./README.md) 或专为学生推荐的 [学生党高性价比便宜机场精选](./cheap-airport.md) 中获取。
 
 <br/>
 

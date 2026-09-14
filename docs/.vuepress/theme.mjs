@@ -125,6 +125,7 @@ export default hopeTheme({
                     { text: "科学上网知识库首页", link: "" },
                     { text: "2026年VPN推荐完整指南", link: "vpn-tuijian-2026" },
                     { text: "2026年梯子推荐与选购", link: "tizi-guide-2026" },
+                    { text: "高性价比机场与Clash梯子选购", link: "cost-effective-airport-guide" },
                     { text: "VPN下载与客户端安装", link: "vpn-download-guide-2026" },
                     { text: "Shadowrocket小火箭完整教程", link: "shadowrocket-guide-2026" },
                     { text: "免费VPN真相揭秘", link: "mianfei-vpn-guide-2026" },
@@ -152,6 +153,7 @@ export default hopeTheme({
                 collapsible: true,
                 children: [
                     { text: "科学上网代理客户端下载", link: "clients" },
+                    { text: "暗影火箭/小火箭官网下载与共享账号", link: "shadowrocket-official-download" },
                     { text: "机场自研与开源软件选择", link: "custom-client-guide" },
                     { text: "路由器科学上网配置教程", link: "router-vpn-guide" },
                     { text: "美区Apple ID注册教程", link: "apple-id-guide" },

@@ -1,10 +1,13 @@
 ---
-title: "免费美区苹果 ID 共享：每日更新已购 Shadowrocket 小火箭账号"
-description: "2026年最新免费共享美区Apple ID账号每日更新汇总，包含账号密码及使用须知。共享账号用于下载Shadowrocket等代理软件，请勿修改密码或绑定支付信息，建议使用后及时注销，保护个人隐私安全。"
+title: "小火箭共享账号网站：2026免费美区苹果ID共享，每日更新已购暗影火箭(Shadowrocket)账号"
+description: "2026最新小火箭共享账号网站汇总与免费美区Apple ID共享平台，每日更新已购买暗影火箭（Shadowrocket/影子火箭）的海外苹果ID账号密码。支持iOS一键下载正版小火箭梯子工具，提供防锁机教程与安全退出指南。"
 category:
   - 客户端下载
   - 机场工具
 tag:
+  - 小火箭共享账号网站
+  - 暗影火箭
+  - 影子火箭
   - 小火箭共享账号
   - 美区ID共享
   - 苹果ID共享
@@ -16,7 +19,7 @@ tag:
 head:
   - - meta
     - name: keywords
-      content: 小火箭共享账号, 美区ID共享, 苹果ID共享, Shadowrocket, 免费Apple ID, 小火箭下载, 科学上网, 2026苹果ID
+      content: 小火箭共享账号网站, 暗影火箭, 影子火箭, 小火箭共享账号, 暗影火箭IOS, 美区ID共享, 苹果ID共享, Shadowrocket官网, 免费Apple ID, 小火箭下载, 梯子工具, 科学上网, 2026苹果ID
   - - meta
     - name: author
       content: "道一博客"
@@ -24,7 +27,7 @@ head:
 
 ![Apple ID](https://i.ibb.co/V0QLjfy5/apple-ID.jpg)
 
-每 **30 分钟**自动检测更新的美区/港区苹果 ID，可直接在 App Store 登录，用于下载 **Shadowrocket（小火箭）** 等代理软件，无需充值，一键复制即用。
+本站是国内知名的**小火箭共享账号网站**导航平台，每 **30 分钟**自动检测更新美区/港区苹果 ID。你可直接在 iPhone/iPad 的 App Store 登录，用于免费下载正版 **Shadowrocket（暗影火箭 / 影子火箭 / 小火箭）** 等科学上网客户端与梯子工具，无需个人充值美金，一键复制即用。
 
 ::: danger 风险提示（必看）
 1. **⚠️ 只能在 App Store 登录，千万不要登录「iCloud」！** 否则可能导致锁机或隐私泄漏！

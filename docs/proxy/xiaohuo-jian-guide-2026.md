@@ -1,8 +1,10 @@
 ---
-title: 2026年小火箭Shadowrocket完整使用教程 - iOS梯子配置与共享账号获取指南
-description: 2026年最详细的小火箭Shadowrocket使用教程，涵盖小火箭下载安装、订阅导入、节点配置、规则设置、共享账号获取、免费小火箭账号、小火箭机场推荐等全方位指南。适合iOS/iPhone/iPad用户的科学上网必备工具。
-keywords: 小火箭, Shadowrocket, 小火箭教程, 小火箭下载, 小火箭共享账号, 小火箭订阅, iOS梯子, iPhone翻墙, 小火箭配置, 小火箭机场推荐
+title: 2026年小火箭(暗影火箭/Shadowrocket)完整使用教程 - iOS梯子配置与共享账号网站获取指南
+description: 2026年最详细的暗影火箭(影子火箭/Shadowrocket小火箭)使用教程，涵盖小火箭官网正版下载安装、小火箭共享账号网站获取、订阅导入、节点配置、分流规则设置、暗影火箭IOS配置、高性价比小火箭机场推荐等全方位指南。适合iPhone/iPad用户的科学上网必备工具。
+keywords: 暗影火箭, 影子火箭, 小火箭, Shadowrocket, Shadowrocket 官网, 小火箭共享账号网站, 小火箭教程, Shadowrocket下载, 暗影火箭IOS, 小火箭订阅, iOS梯子, iPhone翻墙, 性价比机场, 梯子工具
 tag:
+  - 暗影火箭
+  - 影子火箭
   - 小火箭
   - iOS翻墙
   - Shadowrocket
@@ -11,9 +13,9 @@ category:
   - 科学上网知识库
 ---
 
-# 2026年小火箭Shadowrocket完整使用教程
+# 2026年小火箭(暗影火箭/Shadowrocket)完整使用教程
 
-小火箭（Shadowrocket）是iOS平台上最受欢迎的科学上网工具，被誉为"iOS翻墙神器"。本文将为你提供2026年最新最全的小火箭使用教程，从下载安装到高级配置，助你快速上手iPhone翻墙。
+**小火箭（英文原名 Shadowrocket，国内也常被称为“暗影火箭”或“影子火箭”）** 是 iOS 平台上最受欢迎的科学上网与梯子工具，被广大网友誉为“iOS 翻墙神器”。本文将为你提供 2026 年最新最全的暗影火箭使用教程，从官网正版辨析、小火箭共享账号网站获取到节点订阅与高级规则配置，助你快速搞定 iPhone 科学上网。
 
 <SchemaOrg />
 

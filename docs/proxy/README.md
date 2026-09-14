@@ -1,6 +1,10 @@
 ---
-title: "科学上网与翻墙基础知识全面指南（2026年最新更新）：机场选择、协议解析与工具推荐"
-description: "科学上网翻墙完整知识库（2026年持续更新）：涵盖机场选择方法论、IEPL/IPLC/BGP线路解析、Clash配置教程、GFW工作原理科普、流媒体解锁原理，以及备用机场策略、路由器翻墙配置等进阶内容。无论你是翻墙小白还是进阶用户，都能在这里找到所需的科学上网知识。"
+title: "科学上网知识库：2026翻墙梯子工具、高性价比机场推荐与暗影火箭下载指南"
+description: "科学上网翻墙完整知识库（2026年持续更新）：涵盖高性价比机场推荐、暗影火箭(Shadowrocket)官网正版下载、小火箭共享账号网站、Clash梯子工具配置教程、IEPL/IPLC专线解析、流媒体解锁原理与防封锁技巧。全方位助你安全、高速畅享全球互联网。"
+head:
+  - - meta
+    - name: keywords
+      content: 科学上网, 翻墙, 机场推荐, 梯子, 暗影火箭, 影子火箭, 性价比机场, 梯子工具, 机场推荐 clash, 机场节点, 好用的梯子, 小火箭共享账号网站, Shadowrocket官网, 免费vpn
 ---
 
 欢迎来到科学上网知识库。这里汇集了翻墙的一切知识：从什么是GFW、如何选择机场，到Clash的配置技巧、各平台解锁方法，助你安全、高效地畅游全球互联网。
@@ -27,6 +31,14 @@ description: "科学上网翻墙完整知识库（2026年持续更新）：涵�
   <a class="card-item" href="/proxy/vpn-download-guide-2026.html">
     <div class="card-title">VPN下载与客户端完整指南</div>
     <div class="card-desc">全平台VPN下载指南，Clash、V2Ray、Shadowrocket等主流客户端下载地址与配置教程。</div>
+  </a>
+  <a class="card-item" href="/proxy/shadowrocket-official-download.html">
+    <div class="card-title">暗影火箭/小火箭官网下载与共享账号全指南</div>
+    <div class="card-desc">揭秘Shadowrocket官网真伪，认准官方正版开发者，提供免费小火箭共享账号网站获取与iOS防锁机安全配置教学。</div>
+  </a>
+  <a class="card-item" href="/proxy/cost-effective-airport-guide.html">
+    <div class="card-title">2026高性价比机场与Clash节点选购指南</div>
+    <div class="card-desc">深度对比免费公益节点与稳定专线梯子工具，解析晚高峰测速、4K流媒体解锁与Clash Verge节点导入避坑技巧。</div>
   </a>
   <a class="card-item" href="/proxy/tizi-guide-2026.html">
     <div class="card-title">2026年梯子推荐与选购指南</div>

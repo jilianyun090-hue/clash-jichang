@@ -1,7 +1,7 @@
 ---
-title: 2026年Shadowrocket小火箭完整使用教程：下载、配置与优化指南
-description: 2026最全面的Shadowrocket（小火箭）使用教程！详解iOS小火箭下载安装、美区Apple ID注册、订阅导入、规则配置、常见问题解决。涵盖小火箭节点添加、分流规则优化、去广告设置等实用技巧，助你玩转这款最强iOS科学上网工具。
-keywords: shadowrocket, 小火箭, shadowrocket下载, 小火箭教程, shadowrocket配置, 小火箭节点, shadowrocket规则, ios科学上网, 小火箭使用教程, shadowrocket订阅
+title: 2026年暗影火箭/小火箭(Shadowrocket)完整教程：官网下载、节点配置与规则优化
+description: 2026最全面的暗影火箭/影子火箭（Shadowrocket小火箭）使用教程！详解iOS暗影火箭官网正版下载、美区Apple ID共享账号获取、节点订阅导入、分流规则配置与常见问题解决。涵盖Shadowrocket节点添加、流媒体解锁设置等实用技巧，助你玩转这款最强iOS梯子工具。
+keywords: 暗影火箭, 影子火箭, Shadowrocket 官网, 小火箭, Shadowrocket下载, 暗影火箭IOS, 小火箭共享账号网站, Shadowrocket VPN, 小火箭教程, shadowrocket配置, 小火箭节点, 梯子工具
 head:
   - - meta
     - name: geo.region
@@ -10,6 +10,8 @@ head:
     - name: geo.placename
       content: China
 tag:
+  - 暗影火箭
+  - 影子火箭
   - Shadowrocket
   - 小火箭
   - iOS科学上网
@@ -18,9 +20,9 @@ category:
   - 科学上网知识库
 ---
 
-# 2026年Shadowrocket小火箭完整使用教程
+# 2026年暗影火箭/小火箭(Shadowrocket)完整使用教程
 
-**Shadowrocket（俗称"小火箭"）** 是iOS平台最受欢迎、功能最强大的科学上网工具。本文将为你提供2026年最新、最全面的Shadowrocket使用教程，从下载安装到高级配置，帮你彻底掌握这款神器。
+**Shadowrocket（国内常被称为“暗影火箭”、“影子火箭”或“小火箭”）** 是 iOS 平台最受欢迎、功能最强大的科学上网与梯子工具。很多网友在搜索“暗影火箭官网”或“影子火箭下载”时容易误入山寨钓鱼网站，本文将为你提供 2026 年最新、最权威的 Shadowrocket 使用教程，从正规下载安装到高级节点分流配置，帮你彻底掌握这款翻墙神器。
 
 <SchemaOrg />
 
