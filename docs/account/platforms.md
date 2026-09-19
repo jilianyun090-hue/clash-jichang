@@ -59,6 +59,8 @@ category:
 
 ### 银河录像局
 
+👉 **[前往银河录像局深度测评与优惠码使用指南](/account/yinheluxiangju.html)**
+
 <div class="card-grid">
   <div class="card-item">
     <div class="card-title">🌟 核心优势</div>
@@ -75,6 +77,8 @@ category:
 - **专属优惠：** 使用优惠码 `Theo` 可享全站 95 折
 
 ### 账号星球
+
+👉 **[前往账号星球深度测评与优惠码使用指南](/account/zhanghaoxingqiu.html)**
 
 <div class="card-grid">
   <div class="card-item">
