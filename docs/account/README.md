@@ -44,7 +44,7 @@ tag:
     <div class="card-title">银河录像局</div>
     <div class="card-desc">品类最全，支持 Netflix、ChatGPT Plus、Claude Pro 等 AI 工具。封号必赔，售后有保障。优惠码：<strong>Theo</strong>（95折）</div>
   </a>
-  <a href="https://accountplanet.com/" target="_blank" class="card-item">
+  <a href="https://accboyytbdybk.acceboy.com/" target="_blank" class="card-item">
     <div class="card-title">账号星球</div>
     <div class="card-desc">流媒体专精平台，Netflix、Disney+、YouTube、Spotify 价格低于市场均价。优惠码：<strong>Lucky</strong>（9折）</div>
   </a>

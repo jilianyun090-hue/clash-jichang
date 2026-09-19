@@ -23,7 +23,7 @@ date: 2026-09-19
 ---
 
 ::: tip 🎁 账号星球 2026 最新专属优惠码
-- 官网地址：[直达账号星球官网 (accountplanet.com)](https://accountplanet.com/)
+- 官网地址：[直达账号星球官网 (accboyytbdybk.acceboy.com)](https://accboyytbdybk.acceboy.com/)
 - 专属优惠码：`Lucky`
 - 优惠力度：结账时输入 `Lucky` 即可享受全站商品 **9 折（10% OFF）** 优惠！
 :::
@@ -56,7 +56,7 @@ date: 2026-09-19
 
 ## 🛠️ 账号星球优惠码 `Lucky` 使用说明
 
-1. 打开 [账号星球官网 (accountplanet.com)](https://accountplanet.com/)。
+1. 打开 [账号星球官网 (accboyytbdybk.acceboy.com)](https://accboyytbdybk.acceboy.com/)。
 2. 浏览并选择您心仪的合租商品（如 **Spotify** 或 **YouTube Premium**）。
 3. 选择您希望订阅的时长周期。
 4. 在订单页面“优惠码/折扣码”栏中输入 `Lucky`，点击应用。

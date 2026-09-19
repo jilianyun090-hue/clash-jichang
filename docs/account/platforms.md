@@ -25,12 +25,12 @@ category:
 
 | 合租平台 | 官方网站 | 说明 |
 | :--- | :--- | :--- |
-| 账号星球 | [官网直达](https://accountplanet.com/) | 海外社媒 游戏影音 一键购买 |
+| 账号星球 | [官网直达](https://accboyytbdybk.acceboy.com/) | 海外社媒 游戏影音 一键购买 |
 | NIKE 小店 | [官网直达](https://nikestore.vip/) | 国际账号 社媒影音 一键下单 |
 | 银河录像局 | [官网直达](https://nf.video/) | 资源稳定 支持AI工具 翻车必赔 |
 
 <div class="card-grid col-3">
-  <a href="https://accountplanet.com/" target="_blank" class="card-item">
+  <a href="https://accboyytbdybk.acceboy.com/" target="_blank" class="card-item">
     <div class="card-title">账号星球</div>
     <div class="card-desc">海外社媒 游戏影音 一键购买</div>
   </a>
@@ -91,7 +91,7 @@ category:
   </div>
 </div>
 
-- **网址：** [accountplanet.com](https://accountplanet.com/)
+- **网址：** [accboyytbdybk.acceboy.com](https://accboyytbdybk.acceboy.com/)
 - **注意事项：** AI 品类 (如 ChatGPT) 的库存较少，补货周期较长
 - **专属优惠：** 使用优惠码 `Lucky` 可享 9 折
 
