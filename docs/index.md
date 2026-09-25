@@ -1,16 +1,16 @@
 ---
 home: true
-title: "2026 VPN推荐与机场推荐：科学上网梯子指南【月付低至8元】"
-description: "2026最新VPN推荐与机场推荐指南！精选34家稳定高速机场实测对比，月付低至8元起。涵盖VPN下载、免费VPN真相、梯子推荐、翻墙工具、小火箭配置等。支持Netflix、ChatGPT解锁，提供Clash、V2Ray客户端教程，安全稳定科学上网。"
+title: "2026梯子推荐与VPN推荐：高速机场推荐、节点推荐及机场测评【月付低至8元】"
+description: "2026最新梯子推荐与VPN推荐指南！精选34家稳定高速翻墙机场实测对比，为您提供客观的机场推荐、节点推荐与深度机场测评，月付低至8元起。覆盖小火箭/Clash配置，支持Netflix与ChatGPT全解锁。"
 head:
   - - meta
     - name: keywords
-      content: vpn, vpn推荐, 机场推荐, 梯子, 梯子推荐, 暗影火箭, 机场推荐 clash, 机场节点, 科学上网, 翻墙, 性价比机场, 梯子工具, 机场梯子, 好用的梯子, 好用的机场, vpn下载, 免费vpn, vpn梯子, 翻墙梯子, 银河录像局, 账号星球, 奈飞, 小火箭, shadowrocket, 影子火箭, IPLC专线, IEPL专线, 便宜机场, 稳定机场推荐, 机场测评, Netflix解锁, ChatGPT节点, 2026机场推荐
+      content: 梯子推荐, vpn推荐, 机场推荐, 节点推荐, 机场节点, 机场测评, vpn, 梯子, 科学上网, 翻墙梯子, 机场推荐 clash, IPLC专线, 稳定机场推荐, 2026梯子推荐
 heroImage: /network-globe-logo.png
-heroText: VPN推荐 · 机场推荐 · 梯子工具
-tagline: 2026年VPN推荐与机场梯子推荐指南，34家实测对比，月付低至¥8。IPLC专线高速稳定，解锁Netflix、ChatGPT，安全科学上网翻墙。
+heroText: 梯子推荐 · VPN推荐 · 机场测评
+tagline: 2026最新梯子推荐、VPN推荐与机场节点推荐指南！34家深度机场测评实测对比，月付低至¥8，IPLC专线高速稳定科学上网。
 actions:
-  - text: 查看机场推荐
+  - text: 查看机场推荐与测评
     link: /airport/
     type: primary
   - text: AI 使用指南
