@@ -108,7 +108,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 - 有较为活跃的用户群及有效的工单处理通道。
 - 价格合理，节点稳定，不经常掉线。
 
-## 2026年稳定安全VPN机场推荐一览表
+## 2026年9月最新稳定安全VPN机场推荐一览表
 
 | 名称 | 官网地址 | 试用 | 最便宜订阅 | 不限时 | 群 | 详情 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -116,6 +116,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
 | [**云图机场**](#云图) | [直达官网](https://vip.ytjcok.org/#/register?code=qPHQtI9a) | 无 | 20元 150GB/月 | ✅ | 暂无 | [前往](#云图) |
+| [**鲲鹏加速**](#鲲鹏加速) | [直达官网](https://kunpengjiasu.com/#/register?code=QAo8sMhc) | 有 | 12元 99GB/月 | ✅ | 暂无 | [前往](#鲲鹏加速) |
 | [**极速cloud**](#极速cloud) | [直达官网](https://august.jsjc456789.com) | 无 | 8.9元 100GB/月 | ✅ | 暂无 | [前往](#极速cloud) |
 | [**九云机场**](#九云) | [直达官网](https://888.jiuyundl.com/#/register?code=50Qzzzh8) | 无 | 6元 150GB/月 | ✅ | 暂无 | [前往](#九云) |
 | [**可信云**](#可信云) | [直达官网](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
@@ -255,7 +256,27 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 5. 极速cloud {#极速cloud}
+### 5. 鲲鹏加速 {#鲲鹏加速}
+
+鲲鹏加速官网地址：[直达官网](https://kunpengjiasu.com/#/register?code=QAo8sMhc)
+
+最便宜的常规订阅有 **12元 99G/月**（另有 **1元 1G 扶摇尝鲜** 试用体验包）。
+
+👉 **[前往鲲鹏加速独立深度评测与测速报告](/airport/kunpeng.html)**
+
+鲲鹏加速提供全球多国原生节点与冷门地区线路，全站节点统一 1.0 倍率扣费，绝无暗扣。完美支持 ChatGPT AI 工具及 Netflix、YouTube、Disney+ 等主流海外流媒体解锁。晚高峰体验稳定，提供 24 小时全天候工单响应。
+
+| 套餐名称 | 价格 | 基础流量 | 设备限制 | 线路/服务特性 | 购买链接 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **扶摇尝鲜** | ¥1.00/一次性 | 1GB 体验 | 1台设备 | 1.0倍率，低成本测速体验，解锁AI与流媒体 | [购买链接](https://kunpengjiasu.com/#/register?code=QAo8sMhc) |
+| **逍遥畅游** | ¥12.00/月 | 99GB/月 | 5台设备 | 闭眼入首选，全网热销，重置包¥10/次 | [购买链接](https://kunpengjiasu.com/#/register?code=QAo8sMhc) |
+| **吞吐山海** | ¥22.00/月 | 199GB/月 | 8台设备 | 重度追剧/4K尊享，晚高峰专属备用节点保障 | [购买链接](https://kunpengjiasu.com/#/register?code=QAo8sMhc) |
+
+👉 [立即注册鲲鹏加速](https://kunpengjiasu.com/#/register?code=QAo8sMhc)
+
+---
+
+### 6. 极速cloud {#极速cloud}
 
 极速cloud官网地址：[august.jsjc456789.com](https://august.jsjc456789.com)
 
@@ -285,7 +306,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 6. 九云机场 {#九云}
+### 7. 九云机场 {#九云}
 
 九云机场官网地址：[直达官网](https://888.jiuyundl.com/#/register?code=50Qzzzh8)
 
@@ -311,7 +332,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 7. 可信云 {#可信云}
+### 8. 可信云 {#可信云}
 
 可信云官网地址：[haibing822.kosingaff.com](https://haibing822.kosingaff.com/#/register?code=zcjBlIde)
 
@@ -334,7 +355,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 8. 速界 {#速界}
+### 9. 速界 {#速界}
 
 速界官网地址：[speedworldaff.com](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7)
 
@@ -357,7 +378,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 9. 快狸 {#快狸}
+### 10. 快狸 {#快狸}
 
 快狸官网地址：[kuailiaff.com](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto)
 
@@ -380,7 +401,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ---
 
-### 10. 边缘节点 {#边缘节点}
+### 11. 边缘节点 {#边缘节点}
 
 边缘节点官网地址：[zoio.edgenovaaff.cc](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ)
 
