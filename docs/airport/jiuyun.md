@@ -13,7 +13,7 @@ head:
 
 九云机场是一家采用海外中转线路的高性价比机场服务，使用VLESS协议，节点覆盖香港、日本、台湾、新加坡、美国等常用地区。主打日常上网、流媒体以及AI服务使用，支持ChatGPT、Gemini等常见AI平台，同时提供Netflix、YouTube等常规流媒体解锁。
 
-**官网地址：** [888.jiuyundl.com](https://888.jiuyundl.com/#/register?code=50Qzzzh8)
+**官网地址：** [daoyi.jiuyyq.com](https://daoyi.jiuyyq.com)
 
 ## 核心特性
 
@@ -97,7 +97,7 @@ head:
 - **重度用户**：推荐旺财版（¥16/月）
 - **长期使用**：推荐特惠年付（¥99/年）
 
-👉 [立即注册九云机场](https://888.jiuyundl.com/#/register?code=50Qzzzh8)
+👉 [立即注册九云机场](https://daoyi.jiuyyq.com)
 
 ## 总结
 

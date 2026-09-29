@@ -68,11 +68,11 @@ tag:
 | :--- | :--- | :--- | :--- |
 | **预算有限 / 学生党** | [极连云](/airport/#极连云) | ¥8 | IPLC专线，不限速不限设备，性价比天花板，解锁流媒体机场（支持Netflix与YouTube 4K播放）、ChatGPT节点推荐 |
 | **要求稳定 / 追剧4K** | [瞬云机场](/airport/#瞬云机场) | ¥8.25 | ANYCAST专线，4K机场与高速机场推荐，解锁TikTok运营机场及YouTube/Netflix视频 |
-| **ChatGPT / Claude** | [飞猫云](/airport/#飞猫云) | ¥7 | 全IPLC专线，原生IP线路，解锁Netflix/ChatGPT/TikTok，高峰期不降速，不限设备数 |
+| **ChatGPT / Claude** | [九云机场](/airport/#九云) | ¥6 | 海外中转线路，VLESS协议，完美解锁Netflix/YouTube及ChatGPT/Gemini等AI平台 |
 | **高品质 / 金融级专线** | [云图机场](/airport/#云图) | ¥20 | 金融级专线传输，原生IP流媒体与AI全解锁，八折码 `yt88`，24H稳定高速 |
 | **刚从快连/LetsVPN迁移** | [光年梯](/airport/#光年梯) | ¥7.5 | 物理内网专线，高峰期满速不降速，10分钟内恢复科学上网 |
 | **要求极致速度** | [边界云](/airport/#边界云机场) | ¥12.33 | IEPL优化专线，支持3天无理由退款，稳定性有保障 |
-| **想要便宜的家宽专线/AI解锁** | [Nice加速](/airport/#Nice加速) | ¥10 | 站长自用，南北双通道专线，美国台湾香港韩国日本等热门地区家宽 |
+| **低门槛体验 / AI解锁** | [鲲鹏加速](/airport/#鲲鹏加速) | ¥12 | 提供1元体验套餐，全站1.0倍率，解锁AI与流媒体，支持灵活重置流量 |
 
 > 💡 **选购铁律**：新用户必选月付套餐，先用再续费，防止踩坑。
 ::: details 1元机场与低价机场推荐标准
@@ -118,7 +118,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**云图机场**](#云图) | [直达官网](https://vip.ytjcok.org/#/register?code=qPHQtI9a) | 无 | 20元 150GB/月 | ✅ | 暂无 | [前往](#云图) |
 | [**鲲鹏加速**](#鲲鹏加速) | [直达官网](https://kunpengjiasu.com/#/register?code=QAo8sMhc) | 有 | 12元 99GB/月 | ✅ | 暂无 | [前往](#鲲鹏加速) |
 | [**极速cloud**](#极速cloud) | [直达官网](https://august.jsjc456789.com) | 无 | 8.9元 100GB/月 | ✅ | 暂无 | [前往](#极速cloud) |
-| [**九云机场**](#九云) | [直达官网](https://888.jiuyundl.com/#/register?code=50Qzzzh8) | 无 | 6元 150GB/月 | ✅ | 暂无 | [前往](#九云) |
+| [**九云机场**](#九云) | [直达官网](https://daoyi.jiuyyq.com) | 无 | 6元 150GB/月 | ✅ | 暂无 | [前往](#九云) |
 | [**可信云**](#可信云) | [直达官网](https://haibing822.kosingaff.com/#/register?code=zcjBlIde) | 无 | 8元 60GB/月（年付） | ✅ | 暂无 | [前往](#可信云) |
 | [**速界**](#速界) | [直达官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7) | 无 | 7.5元 50GB/月（年付） | ✅ | 暂无 | [前往](#速界) |
 | [**快狸**](#快狸) | [直达官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto) | 无 | 10元 30GB/月（年付） | ✅ | 暂无 | [前往](#快狸) |
@@ -308,7 +308,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 7. 九云机场 {#九云}
 
-九云机场官网地址：[直达官网](https://888.jiuyundl.com/#/register?code=50Qzzzh8)
+九云机场官网地址：[直达官网](https://daoyi.jiuyyq.com)
 
 最便宜的订阅有 **招财版 ¥6.00/月付（150G流量）**。
 
@@ -321,14 +321,14 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 | 套餐名称 | 价格 | 流量 | 特性 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| 招财版 | ¥6.00/月 | 150GB/月 | 入门级套餐，日常使用 | [购买链接](https://888.jiuyundl.com/#/register?code=50Qzzzh8) |
-| 聚财版 | ¥9.00/月 | 300GB/月 | 标准版，性价比高 | [购买链接](https://888.jiuyundl.com/#/register?code=50Qzzzh8) |
-| 旺财版 | ¥16.00/月 | 600GB/月 | 高级版，重度使用 | [购买链接](https://888.jiuyundl.com/#/register?code=50Qzzzh8) |
-| 鸿运版 | ¥99.00 | 300GB | 一次性流量包 | [购买链接](https://888.jiuyundl.com/#/register?code=50Qzzzh8) |
-| 特惠年付 | ¥99.00/年 | 400GB/月 | 年付优惠，月均¥8.25 | [购买链接](https://888.jiuyundl.com/#/register?code=50Qzzzh8) |
-| 特惠季付 | ¥18.00/季 | 200GB/月 | 季付优惠，月均¥6 | [购买链接](https://888.jiuyundl.com/#/register?code=50Qzzzh8) |
+| 招财版 | ¥6.00/月 | 150GB/月 | 入门级套餐，日常使用 | [购买链接](https://daoyi.jiuyyq.com) |
+| 聚财版 | ¥9.00/月 | 300GB/月 | 标准版，性价比高 | [购买链接](https://daoyi.jiuyyq.com) |
+| 旺财版 | ¥16.00/月 | 600GB/月 | 高级版，重度使用 | [购买链接](https://daoyi.jiuyyq.com) |
+| 鸿运版 | ¥99.00 | 300GB | 一次性流量包 | [购买链接](https://daoyi.jiuyyq.com) |
+| 特惠年付 | ¥99.00/年 | 400GB/月 | 年付优惠，月均¥8.25 | [购买链接](https://daoyi.jiuyyq.com) |
+| 特惠季付 | ¥18.00/季 | 200GB/月 | 季付优惠，月均¥6 | [购买链接](https://daoyi.jiuyyq.com) |
 
-👉 [立即注册九云机场](https://888.jiuyundl.com/#/register?code=50Qzzzh8)
+👉 [立即注册九云机场](https://daoyi.jiuyyq.com)
 
 ---
 
