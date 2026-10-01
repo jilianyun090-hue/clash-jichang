@@ -1,13 +1,14 @@
 ---
 title: "2026暗影火箭(影子火箭/Shadowrocket)官网正版下载与小火箭共享账号网站获取全指南"
-description: "2026年最新暗影火箭（影子火箭/Shadowrocket/小火箭）官网下载与客户端配置全攻略！深度揭秘Shadowrocket官网真伪、认准海外正版App、免费小火箭共享账号网站获取渠道与防锁机安全守则。手把手教你暗影火箭IOS下载安装、节点订阅导入与分流规则设置，稳定畅快科学上网。"
-keywords: 暗影火箭, 影子火箭, Shadowrocket 官网, Shadowrocket官网, 小火箭, Shadowrocket下载, 暗影火箭IOS, 小火箭共享账号网站, Shadowrocket VPN, 影袜窗户, 小火箭下载, 梯子工具, 机场节点, 科学上网
+description: "2026年最新暗影火箭（影子火箭/Shadowrocket/小火箭）官网正版下载与客户端配置全攻略！深度揭秘Shadowrocket官网真伪、认准海外正版App、免费小火箭共享账号网站获取渠道与Shadowrocket Windows电脑版替代方案。手把手教你暗影火箭iOS下载安装、节点订阅导入与分流规则设置。"
+keywords: 暗影火箭, 影子火箭, Shadowrocket 官网, Shadowrocket官网, 小火箭, Shadowrocket下载, Shadowrocket下载, shadowrockets windows, 小火箭共享账号网站, Shadowrocket VPN, shadowrocket download, 梯子工具, 机场节点, 科学上网
 tag:
   - 暗影火箭
   - 影子火箭
   - Shadowrocket
   - 小火箭
   - 小火箭共享账号网站
+  - Shadowrocket Windows
   - iOS翻墙
   - 梯子工具
 category:
@@ -175,7 +176,9 @@ head:
 无论是搜索“暗影火箭”、“影子火箭”还是“小火箭”，认准英文原名 **Shadowrocket** 以及官方开发者 **Shadow Launch Technology Limited** 是避免踩坑的第一准则。配合正规海外 Apple ID 或安全的共享账号，搭配一份高性价比的优质机场订阅，你的 iPhone / iPad 就能拥有最稳定、极速且安全的科学上网体验。
 
 **推荐进阶指南：**
-- [2026年最新梯子推荐：机场梯子 vs VPN 梯子全面解析](/proxy/tizi-guide-2026.html)
-- [高性价比机场与Clash节点选购避坑指南](/proxy/cost-effective-airport-guide.html)
-- [如何安全合租 Netflix 奈飞与 ChatGPT Plus 账号](/account/platforms.html)
-- [全平台科学上网代理客户端下载大全](/proxy/clients.html)
+- 💻 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows.html)
+- 📱 [2026 最新小火箭共享账号网站推荐与免费 Apple ID 获取](/proxy/xiaohuojian-gongxiang-zhanghao.html)
+- 🚀 [2026年最新梯子推荐：机场梯子 vs VPN 梯子全面解析](/proxy/tizi-guide-2026.html)
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
+- 💰 [高性价比机场与Clash节点选购避坑指南](/proxy/cost-effective-airport-guide.html)
+- 🌐 [全平台科学上网代理客户端下载大全](/proxy/clients.html)

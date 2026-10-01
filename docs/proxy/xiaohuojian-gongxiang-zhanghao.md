@@ -92,5 +92,8 @@ flowchart TD
 
 - 🍏 [本站免费共享 Apple ID 实时更新页面](/airport/apple-id-shared.html)
 - 🚀 [Shadowrocket 官方正版下载与独享账号获取指南](/proxy/shadowrocket-official-download.html)
+- 💻 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows.html)
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
+- 🪐 [账号星球合租优惠码 Lucky 与评测](/account/zhanghaoxingqiu.html) | 🎬 [银河录像局合租优惠码 Theo 与评测](/account/yinheluxiangju.html)
 - 📱 [小火箭 Shadowrocket 保姆级使用与分流配置教程](/proxy/xiaohuo-jian-guide-2026.html)
 - ✈️ [2026年常用稳定机场推荐排行榜](/airport/best-airport-2026.html)

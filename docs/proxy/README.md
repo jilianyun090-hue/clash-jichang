@@ -36,6 +36,14 @@ head:
     <div class="card-title">暗影火箭/小火箭官网下载与共享账号全指南</div>
     <div class="card-desc">揭秘Shadowrocket官网真伪，认准官方正版开发者，提供免费小火箭共享账号网站获取与iOS防锁机安全配置教学。</div>
   </a>
+  <a class="card-item" href="/proxy/shadowrocket-windows.html">
+    <div class="card-title">Shadowrocket Windows电脑版与Shadowsocks下载</div>
+    <div class="card-desc">Shadowrocket是否有Windows版？详解WSA安卓子系统运行小火箭以及Clash Verge Rev / Shadowsocks Windows PC端最佳替代选购与配置。</div>
+  </a>
+  <a class="card-item" href="/account/netflix-hezu-guide.html">
+    <div class="card-title">2026 奈飞(Netflix)账号合租与防封指南</div>
+    <div class="card-desc">银河录像局 vs 账号星球对比，奈飞同户装置限制解除，专属优惠码 (Theo / Lucky) 与 4K 流媒体解锁节点选择。</div>
+  </a>
   <a class="card-item" href="/proxy/cost-effective-airport-guide.html">
     <div class="card-title">2026高性价比机场与Clash节点选购指南</div>
     <div class="card-desc">深度对比免费公益节点与稳定专线梯子工具，解析晚高峰测速、4K流媒体解锁与Clash Verge节点导入避坑技巧。</div>

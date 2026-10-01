@@ -501,11 +501,15 @@ category:
 
 ## 相关资源
 
-- [2026年机场推荐完整列表](/airport/)
-- [全平台客户端下载指南](/airport/software.html)
-- [机场订阅配置教程](/airport/subscription-guide.html)
-- [科学上网常见问题169题](/faq/)
-- [翻墙后必访问的网站](/proxy/after-fanqiang-guide.html)
+- 🚀 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows.html)
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
+- 📱 [2026 最新小火箭共享账号网站推荐与免费 Apple ID 获取](/proxy/xiaohuojian-gongxiang-zhanghao.html)
+- 🪐 [账号星球合租优惠码 Lucky](/account/zhanghaoxingqiu.html) | 🎬 [银河录像局合租优惠码 Theo](/account/yinheluxiangju.html)
+- ✈️ [2026年机场推荐完整列表](/airport/)
+- 💻 [全平台客户端下载指南](/airport/software.html)
+- ⚙️ [机场订阅配置教程](/airport/subscription-guide.html)
+- ❓ [科学上网常见问题解答](/faq/)
+- 🌐 [翻墙后必访问的海外热门网站](/proxy/after-fanqiang-guide.html)
 
 ---
 

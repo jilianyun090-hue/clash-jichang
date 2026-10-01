@@ -71,6 +71,9 @@ export default hopeTheme({
             {
                 text: "账号合租",
                 children: [
+                    { text: "2026 奈飞(Netflix)账号合租与防封指南", link: "netflix-hezu-guide" },
+                    { text: "银河录像局优惠码与评测", link: "yinheluxiangju" },
+                    { text: "账号星球优惠码与评测", link: "zhanghaoxingqiu" },
                     { text: "流媒体与 AI 合租平台推荐", link: "platforms" },
                     { text: "合租价格行情与省钱攻略", link: "price" },
                     { text: "账号合租防骗与避坑指南", link: "how-to-share" },
@@ -154,6 +157,8 @@ export default hopeTheme({
                 children: [
                     { text: "科学上网代理客户端下载", link: "clients" },
                     { text: "暗影火箭/小火箭官网下载与共享账号", link: "shadowrocket-official-download" },
+                    { text: "Shadowrocket Windows电脑版与Shadowsocks指南", link: "shadowrocket-windows" },
+                    { text: "小火箭共享账号网站与免费Apple ID获取", link: "xiaohuojian-gongxiang-zhanghao" },
                     { text: "机场自研与开源软件选择", link: "custom-client-guide" },
                     { text: "路由器科学上网配置教程", link: "router-vpn-guide" },
                     { text: "美区Apple ID注册教程", link: "apple-id-guide" },

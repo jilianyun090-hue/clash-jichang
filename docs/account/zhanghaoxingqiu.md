@@ -66,7 +66,9 @@ date: 2026-09-19
 
 ## 📖 相关推荐阅读
 
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
 - 🎬 [银河录像局怎么样？银河录像局优惠码与深度测评](/account/yinheluxiangju.html)
 - 🛒 [2026 奈飞与 AI 账号合租平台汇总对比](/account/platforms.html)
+- 🚀 [小火箭 Shadowrocket Windows 电脑版替代与节点配置](/proxy/shadowrocket-windows.html)
 - 🛡️ [合租账号避坑指南与防封号教程](/account/how-to-share.html)
 - ✈️ [2026年常用稳定机场推荐排行榜](/airport/best-airport-2026.html)
