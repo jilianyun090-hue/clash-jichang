@@ -8,6 +8,9 @@
   /* 植物标本配色 */
   --brand-color: #5a705a;        /* 鼠尾草绿 - 主强调色 */
   --brand-hover: #4a5f4a;        /* 深鼠尾草绿 - 悬停态 */
+  /* 正文链接使用高对比度蓝色，避免与植物标本绿品牌色混淆 */
+  --link-color: #0b63ce;
+  --link-hover: #084c9e;
   --brand-light: #e8ede8;        /* 淡雅绿 - 浅色背景 */
   --accent-gold: #c49b48;        /* 风干枯植黄 - 辅助强调 */
   --text-main: #2c2a26;          /* 泥土暗灰 - 正文 */
@@ -653,6 +656,8 @@ main {
   --c-brand: #6f856f !important;
   --brand-color: #6f856f;
   --brand-hover: #8a9d8a;
+  --link-color: #6fa8ff;
+  --link-hover: #9bc4ff;
   --bg-cream: #2c2a26;
   --bg-soft: #363430;
   --text-main: #e8e2d5;
@@ -933,13 +938,13 @@ nav a.route-link-active::after,
 /* 全局链接颜色 */
 .theme-hope-content a:not(.vp-hero-action):not(.vp-button),
 .vp-page a:not(.vp-hero-action) {
-  color: var(--brand-color) !important;
+  color: var(--link-color) !important;
 }
 
 .theme-hope-content a:hover:not(.vp-hero-action):not(.vp-button),
 .vp-page a:hover:not(.vp-hero-action) {
-  color: var(--brand-hover) !important;
-  text-decoration-color: var(--brand-hover) !important;
+  color: var(--link-hover) !important;
+  text-decoration-color: var(--link-hover) !important;
 }
 
 /* ============================================================
@@ -1874,7 +1879,7 @@ html body .vp-hero {
 }
 
 .theme-hope-content table a {
-  color: var(--brand-color) !important;
+  color: var(--link-color) !important;
   font-weight: 500 !important;
   text-decoration: none !important;
   transition: all 0.2s ease !important;
@@ -1882,8 +1887,8 @@ html body .vp-hero {
 }
 
 .theme-hope-content table a:hover {
-  color: var(--brand-hover) !important;
-  border-bottom-color: var(--brand-hover) !important;
+  color: var(--link-hover) !important;
+  border-bottom-color: var(--link-hover) !important;
 }
 
 /* 机场对比组件样式优化 */
@@ -2499,7 +2504,7 @@ a.vp-sidebar-link[href*="paolu.html"] {
   left: 0 !important;
   width: 100% !important;
   height: 1px !important;
-  background: var(--brand-color) !important;
+  background: var(--link-color) !important;
   transform: scaleX(0) !important;
   transform-origin: right !important;
   transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
