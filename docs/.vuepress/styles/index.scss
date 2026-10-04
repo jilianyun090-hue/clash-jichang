@@ -802,6 +802,43 @@ hr {
   margin: 1rem 0 !important;
 }
 
+/* 机场总览页折叠内容：使用浅色圆角标题条，默认保持收起 */
+.theme-hope-content details.hint-container.details,
+.vp-page details.hint-container.details {
+  margin: 1rem 0 !important;
+  padding: 1rem !important;
+  border: 1px solid rgba(138, 126, 107, 0.35) !important;
+  border-radius: 0.5rem !important;
+  background: var(--bg-soft) !important;
+  box-shadow: none !important;
+}
+
+.theme-hope-content details.hint-container.details:not([open]) > :not(summary),
+.vp-page details.hint-container.details:not([open]) > :not(summary) {
+  display: none !important;
+}
+
+.theme-hope-content details.hint-container.details > summary,
+.vp-page details.hint-container.details > summary {
+  margin: -1rem !important;
+  padding: 1rem 1.5rem 1rem 3rem !important;
+  color: var(--text-main) !important;
+  font-size: 0.95rem !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+}
+
+.theme-hope-content details.hint-container.details[open] > summary,
+.vp-page details.hint-container.details[open] > summary {
+  margin-bottom: 0.75rem !important;
+}
+
+[data-theme="dark"] .theme-hope-content details.hint-container.details,
+[data-theme="dark"] .vp-page details.hint-container.details {
+  border-color: rgba(163, 157, 144, 0.45) !important;
+  background: var(--bg-soft) !important;
+}
+
 /* 强制背景为温暖奶油色 */
 .theme-container,
 .vp-page,
