@@ -54,6 +54,20 @@ AI 中转站适合需要在国内模型、海外模型、代码模型和生图�
 
 详细的模型覆盖、计费核对和隐私建议，请阅读[2026 AI中转站总览与选型指南](./ai-relay-stations-2026.html)。平台模型、价格和活动会变化，使用前请以官方页面为准。
 
+### 三个平台注册链接
+
+<div class="ai-register-grid">
+  <a class="ai-register-card" href="https://ai.ex-girlfriendis.best/register?aff=y6PC" target="_blank" rel="noopener noreferrer">
+    <strong>黑喵中转站</strong><span>立即注册国内模型 ↗</span>
+  </a>
+  <a class="ai-register-card" href="https://www.kuaiaiapi.com/register?aff=ULLB" target="_blank" rel="noopener noreferrer">
+    <strong>快 AI 模型</strong><span>立即注册多模型平台 ↗</span>
+  </a>
+  <a class="ai-register-card" href="https://xiaohuliapi.pw/sign-up?aff=c4CP" target="_blank" rel="noopener noreferrer">
+    <strong>科技狐模型</strong><span>立即注册查看倍率 ↗</span>
+  </a>
+</div>
+
 ## 国内 AI 镜像站推荐
 
 无需翻墙即可使用主流 AI 工具，以下镜像站均经过长期测试：

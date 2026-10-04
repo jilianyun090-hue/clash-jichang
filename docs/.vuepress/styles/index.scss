@@ -2339,6 +2339,80 @@ a.vp-sidebar-link[href*="paolu.html"] {
   transition: all 0.1s !important;
 }
 
+/* AI 中转站注册链接：在评测正文中保持高对比度和明显的操作入口。 */
+.ai-register-cta {
+  margin: 1.25rem 0 1.75rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid color-mix(in srgb, var(--vp-c-brand-1) 35%, var(--vp-c-border) 65%);
+  border-radius: 12px;
+  background: linear-gradient(135deg, color-mix(in srgb, var(--vp-c-brand-soft) 65%, #fff 35%), var(--vp-c-bg-soft));
+  text-align: center;
+}
+
+.ai-register-cta__label {
+  margin-bottom: 0.65rem;
+  color: var(--vp-c-text-1);
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.ai-register-cta__link {
+  display: inline-flex !important;
+  min-width: 15rem;
+  justify-content: center;
+  margin: 0.15rem auto 0.55rem;
+  font-weight: 700 !important;
+}
+
+.ai-register-cta__note {
+  color: var(--vp-c-text-2);
+  font-size: 0.86rem;
+}
+
+.ai-register-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.ai-register-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 10px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1) !important;
+  text-align: center;
+  text-decoration: none !important;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ai-register-card span {
+  color: var(--vp-c-brand-1);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.ai-register-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 5px 18px color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent);
+  transform: translateY(-2px);
+}
+
+@media (max-width: 719px) {
+  .ai-register-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ai-register-cta__link {
+    width: 100%;
+    min-width: 0;
+  }
+}
+
 /* 机场卡片悬停动效 */
 .airport-card {
   position: relative !important;

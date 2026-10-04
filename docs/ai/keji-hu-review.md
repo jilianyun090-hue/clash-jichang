@@ -19,6 +19,12 @@ category:
 
 科技狐模型的页面重点展示了供应商筛选、模型分组和倍率标签。用户提供的截图中可以看到 Claude、DeepSeek、GPT、Gemini、Grok 和生图等分类，同时有多个供应商入口。这样的组织方式适合经常比较模型成本、按任务切换模型，或需要同时测试文本、代码、视觉和图片生成能力的用户。
 
+<div class="ai-register-cta" role="region" aria-label="科技狐模型平台注册链接">
+  <div class="ai-register-cta__label">想比较模型倍率和生图能力？</div>
+  <a class="vp-button primary ai-register-cta__link" href="https://xiaohuliapi.pw/sign-up?aff=c4CP" target="_blank" rel="noopener noreferrer">立即注册科技狐模型平台 ↗</a>
+  <div class="ai-register-cta__note">支持模型分组与倍率筛选；模型、供应商、价格和活动以注册页实时信息为准。</div>
+</div>
+
 ## 科技狐模型的主要价值
 
 传统做法是分别申请不同平台的账号，再在多个控制台之间切换。AI 中转站把模型列表、余额和调用入口集中在一起，适合快速验证模型能力。科技狐的模型分组和倍率标签，可以帮助用户先按任务筛选，再根据成本选择，但倍率只是计费线索，不等同于最终价格或模型质量。
@@ -45,7 +51,7 @@ category:
 
 科技狐更适合有明确模型成本意识的开发者、内容团队和重度 AI 用户。写作、翻译和摘要可以优先选择低成本文本模型；代码任务要比较补全准确率和上下文；生图任务则要关注排队和单次生成价格。新手不必一次性充值大额余额，先测试三类任务即可：中文长文、代码分析和一张图片生成。
 
-注册链接：[科技狐模型平台](https://xiaohuliapi.pw/sign-up?aff=c4CP)。该链接包含推广参数，模型、供应商、倍率和活动会随时间变化，请以注册页和公告为准。
+**再次进入科技狐模型平台：** [立即注册 / 查看模型倍率与供应商](https://xiaohuliapi.pw/sign-up?aff=c4CP)。该链接包含推广参数，模型、供应商、倍率和活动会随时间变化，请以注册页和公告为准。
 
 ## 隐私与成本建议
 

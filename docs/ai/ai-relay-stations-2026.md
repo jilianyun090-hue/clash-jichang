@@ -19,6 +19,18 @@ category:
 
 AI 中转站通常把多个模型供应商、统一余额或 API 接口整合到一个平台中，用户不必分别维护多个账号和密钥，就能在一个控制台里调用模型。它适合需要中文模型、海外模型、代码模型或图像模型的用户，但不同平台在模型版本、倍率、并发、上下文长度和数据保留策略上差异很大。本文根据公开页面与用户提供的模型分类截图，整理黑喵、快 AI、科技狐三个中转平台，作为选型入口；具体模型、价格和服务状态请以各平台实时页面为准。
 
+<div class="ai-register-grid">
+  <a class="ai-register-card" href="https://ai.ex-girlfriendis.best/register?aff=y6PC" target="_blank" rel="noopener noreferrer">
+    <strong>黑喵中转站</strong><span>立即注册 · 国内模型 ↗</span>
+  </a>
+  <a class="ai-register-card" href="https://www.kuaiaiapi.com/register?aff=ULLB" target="_blank" rel="noopener noreferrer">
+    <strong>快 AI 模型</strong><span>立即注册 · 多供应商 ↗</span>
+  </a>
+  <a class="ai-register-card" href="https://xiaohuliapi.pw/sign-up?aff=c4CP" target="_blank" rel="noopener noreferrer">
+    <strong>科技狐模型</strong><span>立即注册 · 倍率筛选 ↗</span>
+  </a>
+</div>
+
 ## 一、AI中转站应该看哪些指标
 
 第一是模型覆盖。需要中文写作、总结和知识问答时，可以关注 DeepSeek、通义、智谱、腾讯、讯飞等国内模型；需要代码、长文本或复杂推理时，则要确认 Claude、GPT、Gemini、DeepSeek 等模型是否仍在提供，以及模型名称是否对应官方版本。

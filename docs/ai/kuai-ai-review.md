@@ -19,6 +19,12 @@ category:
 
 快 AI 模型的主要特点是把多个模型供应商放在同一个控制台里。根据用户提供的页面截图，平台展示了 Anthropic、DeepSeek、Google、Mistral、Moonshot、OpenAI、xAI、智谱、腾讯和讯飞等供应商筛选入口。对于需要同时使用国内模型、海外模型和不同代码模型的用户，这种聚合方式可以减少注册、充值和切换账号的操作。
 
+<div class="ai-register-cta" role="region" aria-label="快 AI 模型平台注册链接">
+  <div class="ai-register-cta__label">想快速切换多个 AI 模型？</div>
+  <a class="vp-button primary ai-register-cta__link" href="https://www.kuaiaiapi.com/register?aff=ULLB" target="_blank" rel="noopener noreferrer">立即注册快 AI 模型平台 ↗</a>
+  <div class="ai-register-cta__note">支持多供应商筛选；模型版本、价格、活动和服务条款以注册页实时信息为准。</div>
+</div>
+
 ## 快 AI 适合哪些场景
 
 内容创作者可以用 GPT、Claude 或 Gemini 做长文写作、翻译和改稿；开发者可以比较 Claude、DeepSeek、OpenAI 和其他代码模型的补全质量；需要中文问答或国内知识表达时，可以切换智谱、腾讯、讯飞等模型。多模型平台的最大价值不是“模型越多越好”，而是在相同任务下快速比较输出质量和成本。
@@ -45,7 +51,7 @@ category:
 
 新用户可以先建立一个小型对比表：同一问题分别交给一个中文模型、一个代码模型和一个长文本模型处理，比较准确性、速度和扣费。确定主力模型后，再添加备用模型。不要在公共对话中输入身份证、客户信息、未发布代码、合同和财务数据。
 
-注册链接：[快 AI 模型平台](https://www.kuaiaiapi.com/register?aff=ULLB)。链接含推广参数，实际价格、模型列表、活动和服务条款以平台注册页为准。
+**再次进入快 AI 模型平台：** [立即注册 / 查看供应商与模型列表](https://www.kuaiaiapi.com/register?aff=ULLB)。链接含推广参数，实际价格、模型列表、活动和服务条款以平台注册页为准。
 
 ## 综合评价
 

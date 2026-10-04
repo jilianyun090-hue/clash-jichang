@@ -18,6 +18,12 @@ category:
 
 黑喵中转站的核心定位是国内模型聚合与中文 AI 使用。对于需要中文写作、资料总结、客服问答、营销内容和轻量代码辅助的用户，它的价值在于减少多个平台之间切换的成本。本文不把“支持模型数量”当作唯一结论，而是从实际选型需要出发，说明黑喵适合什么人、应该测试哪些项目，以及充值前需要注意什么。
 
+<div class="ai-register-cta" role="region" aria-label="黑喵中转站注册链接">
+  <div class="ai-register-cta__label">想直接体验国内模型？</div>
+  <a class="vp-button primary ai-register-cta__link" href="https://ai.ex-girlfriendis.best/register?aff=y6PC" target="_blank" rel="noopener noreferrer">立即注册黑喵中转站 ↗</a>
+  <div class="ai-register-cta__note">主打国内模型与中文任务；价格、模型和活动以注册页实时信息为准。</div>
+</div>
+
 ## 黑喵中转站适合哪些用户
 
 如果你的主要需求是中文对话、文章润色、会议纪要、表格整理、知识问答或国内业务文案，优先考虑国内模型的可用性和中文表达稳定性，而不是单纯追求海外模型名称。黑喵更适合希望使用一个入口管理多个国产模型、又不想分别申请账号和配置接口的用户。
@@ -46,7 +52,7 @@ category:
 
 中文写作可以先选择响应速度稳定的模型，复杂推理和代码任务则应横向比较两个模型的错误率。重要资料不要直接提交，建议先去掉姓名、电话、订单号和未公开商业信息。API 使用时设置每日额度和错误重试上限，避免程序循环调用造成余额快速消耗。
 
-注册链接：[黑喵中转站](https://ai.ex-girlfriendis.best/register?aff=y6PC)。该链接含推广参数，平台价格、模型列表和活动会变化，请以注册页及服务条款为准。
+**再次进入黑喵中转站：** [立即注册 / 查看最新模型与套餐](https://ai.ex-girlfriendis.best/register?aff=y6PC)。该链接含推广参数，平台价格、模型列表和活动会变化，请以注册页及服务条款为准。
 
 ## 综合判断
 
