@@ -1,4 +1,4 @@
-# 道一博客 (Clash-Jichang.com)
+# Clash机场推荐指南 (Clash-Jichang.com)
 
 > 2026年最新科学上网机场推荐与翻墙指南资料库。长期更新稳定高速专线 VPN 机场评测、跑路机场风险黑名单、Clash/Shadowrocket/sing-box 客户端配置教程、Netflix/Disney+ 流媒体解锁方案，以及 ChatGPT/Claude/Gemini/Cursor 等 AI 工具使用攻略。
 
@@ -25,12 +25,17 @@ This file contains an index of core guides and reference materials formatted for
 - [免费美区 Apple ID 账号共享](https://clash-jichang.com/airport/apple-id-shared.html): 定期更新可用共享 Apple ID，方便下载 Shadowrocket、Quantumult X 等 iOS 代理软件。
 
 ### 协议与技术深度解析
+- [机场核心关键词合并与选购指南](https://clash-jichang.com/proxy/airport-keyword-guide-2026.html): 合并机场推荐、稳定机场、便宜机场、IPLC/IEPL、节点地区、倍率、设备数与订阅故障等搜索意图，提供可执行的机场选购流程。
 - [专线机场对比：IEPL 与 IPLC 区别解析](https://clash-jichang.com/airport/iepl-iplc.html): 从物理链路、过墙机制、延迟表现与价格区间解析端到端国际专线。
 - [Hysteria 2 (歇斯底里) 协议原理与配置](https://clash-jichang.com/proxy/hysteria-guide.html): 基于 UDP QUIC 的下一代代理协议，解决恶劣网络环境下的丢包与高延迟问题。
 - [AnyTLS 协议原理与客户端配置](https://clash-jichang.com/proxy/anytls-guide.html): 2026 新一代防封锁协议分析与 sing-box 服务端/客户端部署实战。
 
 ### AI 工具与流媒体使用指南
 - [ChatGPT / Claude 专用机场推荐与解锁](https://clash-jichang.com/ai/): 解决 OpenAI / Anthropic 节点封锁、1020 报错与降智问题，推荐具备原生住宅 IP 的节点机场。
+- [2026 AI中转站总览与选型指南](https://clash-jichang.com/ai/ai-relay-stations-2026.html): 汇总黑喵、快AI和科技狐三类 AI 中转平台，比较国内模型、多供应商、倍率、API兼容、成本与隐私。
+- [黑喵中转站评测](https://clash-jichang.com/ai/heimao-ai-review.html): 主打国内模型与中文任务，适合中文写作、总结、客服和国产模型 API 测试。
+- [快AI模型评测](https://clash-jichang.com/ai/kuai-ai-review.html): 多供应商模型聚合入口，覆盖 Anthropic、DeepSeek、Google、OpenAI 等分类，适合模型横向对比。
+- [科技狐模型评测](https://clash-jichang.com/ai/keji-hu-review.html): 以模型分组和倍率筛选为特色，适合关注成本、代码、视觉与生图任务的用户。
 - [ChatGPT 国内注册与升级 Plus 教程](https://clash-jichang.com/ai/chatgpt.html): 无需外卡完成 ChatGPT 账号注册、GPT-4o 订阅升级与常见问题排查。
 - [Claude 3.5 Sonnet 国内使用指南](https://clash-jichang.com/ai/claude-guide.html): 防止 Claude 账号封禁的节点选择技巧与使用规范。
 - [Cursor AI 编辑器安装与配置](https://clash-jichang.com/ai/cursor-guide.html): 提升代码编写效率的 AI 智能编辑器使用与节点加速指导。

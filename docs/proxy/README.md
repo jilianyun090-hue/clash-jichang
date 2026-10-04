@@ -9,6 +9,16 @@ head:
 
 欢迎来到科学上网知识库。这里汇集了翻墙的一切知识：从什么是GFW、如何选择机场，到Clash的配置技巧、各平台解锁方法，助你安全、高效地畅游全球互联网。
 
+## 知识库分类导航
+
+| 分类 | 适合解决的问题 | 推荐入口 |
+| :--- | :--- | :--- |
+| 入门与选购 | VPN、梯子、机场怎么选，如何避免跑路 | [机场关键词合并指南](./airport-keyword-guide-2026.html) · [VPN推荐](./vpn-tuijian-2026.html) |
+| 线路与协议 | IPLC/IEPL、BGP、SSR、Trojan、Hysteria、AnyTLS | [线路类型解析](./line-type-guide.html) · [协议对比](./protocol-comparison.html) |
+| 客户端与订阅 | VPN下载、Clash、Shadowrocket、路由器配置 | [客户端汇总](./clients.html) · [VPN下载](./vpn-download-guide-2026.html) |
+| 故障与应急 | 订阅失败、节点异常、机场失效、备用方案 | [备用机场策略](./backup-airport-guide.html) · [常见问题](/faq/) |
+| 海外工具与平台 | Telegram、被墙网站、翻墙后资源 | [Telegram指南](./telegram-guide.html) · [被墙网站大全](./gfw-websites.html) |
+
 ## 本站内容导览
 
 <div class="card-grid">
@@ -47,6 +57,10 @@ head:
   <a class="card-item" href="/proxy/cost-effective-airport-guide.html">
     <div class="card-title">2026高性价比机场与Clash节点选购指南</div>
     <div class="card-desc">深度对比免费公益节点与稳定专线梯子工具，解析晚高峰测速、4K流媒体解锁与Clash Verge节点导入避坑技巧。</div>
+  </a>
+  <a class="card-item" href="/proxy/airport-keyword-guide-2026.html">
+    <div class="card-title">机场核心关键词合并与选购指南</div>
+    <div class="card-desc">把机场推荐、稳定机场、便宜机场、IPLC/IEPL、节点地区、倍率、设备数与订阅故障等搜索词合并成一套实用选购方法。</div>
   </a>
   <a class="card-item" href="/proxy/tizi-guide-2026.html">
     <div class="card-title">2026年梯子推荐与选购指南</div>

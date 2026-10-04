@@ -10,7 +10,7 @@ const pageData = usePageData();
 const frontmatter = usePageFrontmatter();
 
 const schemaData = computed(() => {
-  const baseUrl = 'https://airportgo.org';
+  const baseUrl = 'https://clash-jichang.com';
   const path = pageData.value.path;
   const title = frontmatter.value.title || pageData.value.title;
   const description = frontmatter.value.description || '';
@@ -24,8 +24,8 @@ const schemaData = computed(() => {
           '@type': 'WebSite',
           '@id': `${baseUrl}/#website`,
           url: baseUrl,
-          name: '机场推荐指南 - 科学上网机场测评与翻墙VPN推荐',
-          description: '2026年最新科学上网机场推荐与VPN测评，深度评测IEPL/IPLC专线机场，提供Netflix/ChatGPT解锁节点订阅，助您选择稳定高速翻墙梯子。',
+          name: 'Clash机场推荐指南 - 科学上网机场测评与VPN梯子推荐',
+          description: '2026年机场推荐与VPN梯子指南，持续更新稳定机场、便宜机场、性价比机场和IPLC/IEPL专线测评，并提供Clash、Shadowrocket、V2Ray配置教程。',
           inLanguage: 'zh-CN',
           publisher: {
             '@id': `${baseUrl}/#organization`,
@@ -47,13 +47,26 @@ const schemaData = computed(() => {
   }
 
   // 机场推荐页：列表页
-  if (path.includes('/airport/') && path.endsWith('README.md')) {
+  if (path === '/airport/' || path === '/airport/index.html') {
     return JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'CollectionPage',
       name: title,
       description: description,
       url: `${baseUrl}${path}`,
+      isPartOf: {
+        '@type': 'WebSite',
+        '@id': `${baseUrl}/#website`,
+      },
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: '稳定机场推荐', url: `${baseUrl}/airport/best-airport-2026.html` },
+          { '@type': 'ListItem', position: 2, name: '便宜机场推荐', url: `${baseUrl}/airport/cheap-airport.html` },
+          { '@type': 'ListItem', position: 3, name: 'IPLC/IEPL专线机场', url: `${baseUrl}/airport/iepl-iplc.html` },
+          { '@type': 'ListItem', position: 4, name: '机场订阅导入教程', url: `${baseUrl}/airport/subscription-guide.html` },
+        ],
+      },
       breadcrumb: {
         '@type': 'BreadcrumbList',
         itemListElement: [

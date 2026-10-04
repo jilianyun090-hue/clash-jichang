@@ -40,18 +40,19 @@ export default hopeTheme({
     displayFooter: true,
     copyright: "© 2026 clash-jichang.com",
 
-    // 导航栏 (机场推荐突出放前面)
+    // 顶部导航：按用户任务分为机场、AI、账号与知识库四条主路径。
     navbar: [
         { text: "首页", link: "/" },
         { text: "机场推荐", link: "/airport/" },
-        { text: "机场测评", link: "/airport/reviews.html" },
-        { text: "合租平台", link: "/account/platforms.html" },
         { text: "AI使用指南", link: "/ai/" },
+        { text: "账号与合租", link: "/account/" },
         { text: "科学上网知识库", link: "/proxy/" },
         { text: "常见问题", link: "/faq/" },
         {
             text: "更多",
             children: [
+                { text: "机场测评合集", link: "/airport/reviews.html" },
+                { text: "客户端下载", link: "/airport/software.html" },
                 { text: "关于与评测方法", link: "/about.html" },
                 { text: "友链", link: "/links" },
                 { text: "标签", link: "/tag/" },
@@ -69,33 +70,49 @@ export default hopeTheme({
     sidebar: {
         "/account/": [
             {
-                text: "账号合租",
+                text: "账号与合租中心",
                 children: [
+                    { text: "账号合租总览", link: "" },
+                    { text: "流媒体与 AI 合租平台", link: "platforms" },
                     { text: "2026 奈飞(Netflix)账号合租与防封指南", link: "netflix-hezu-guide" },
+                    { text: "合租价格行情与省钱攻略", link: "price" },
+                    { text: "合租价格监控工具", link: "/tools/" },
+                    { text: "账号合租防骗与避坑指南", link: "how-to-share" },
+                ],
+            },
+            {
+                text: "平台优惠与独立评测",
+                collapsible: true,
+                children: [
                     { text: "银河录像局优惠码与评测", link: "yinheluxiangju" },
                     { text: "账号星球优惠码与评测", link: "zhanghaoxingqiu" },
-                    { text: "流媒体与 AI 合租平台推荐", link: "platforms" },
-                    { text: "合租价格行情与省钱攻略", link: "price" },
-                    { text: "账号合租防骗与避坑指南", link: "how-to-share" },
                 ],
             },
         ],
         "/airport/": [
             {
-                text: "推荐与测评指南",
+                text: "机场推荐与选型",
                 children: [
-                    { text: "便宜机场VPN与梯子推荐", link: "" },
+                    { text: "机场推荐总览", link: "" },
                     { text: "稳定机场推荐排行榜", link: "best-airport-2026" },
-                    { text: "便宜机场推荐 (学生党首选)", link: "cheap-airport" },
+                    { text: "便宜机场推荐（学生党）", link: "cheap-airport" },
+                    { text: "按场景选择机场", link: "scenario-airport-ranking-2026" },
                     { text: "科学上网机场避坑指南", link: "choose-guide" },
-                    { text: "⚠️ 跑路高危机场名单 (避坑)", link: "paolu" },
-                    { text: "专线机场对比 (IEPL/IPLC)", link: "iepl-iplc" },
-                    { text: "机场订阅导入与配置指南", link: "subscription-guide" },
+                    { text: "机场测评合集", link: "reviews" },
+                    { text: "⚠️ 跑路风险与预警", link: "paolu" },
                 ],
             },
             {
-                text: "客户端下载与配置",
-                collapsible: false,
+                text: "线路与机场专项",
+                collapsible: true,
+                children: [
+                    { text: "专线机场对比（IEPL/IPLC）", link: "iepl-iplc" },
+                    { text: "机场订阅导入与更新", link: "subscription-guide" },
+                ],
+            },
+            {
+                text: "订阅与客户端配置",
+                collapsible: true,
                 children: [
                     { text: "全平台客户端下载汇总指南", link: "software" },
                     { text: "Windows 端 Clash Verge 教程", link: "client-windows" },
@@ -107,55 +124,69 @@ export default hopeTheme({
         ],
         "/ai/": [
             {
-                text: "AI 工具实战",
+                text: "AI 工具与平台",
                 children: [
-                    { text: "ChatGPT/Claude专用机场推荐", link: "" },
+                    { text: "AI使用指南首页", link: "" },
                     { text: "ChatGPT国内注册与使用", link: "chatgpt" },
                     { text: "Claude 3.5国内注册教程", link: "claude-guide" },
                     { text: "Google Gemini使用指南", link: "gemini" },
                     { text: "Grok AI注册与访问教程", link: "grok-guide" },
+                ],
+            },
+            {
+                text: "AI创作与开发",
+                collapsible: true,
+                children: [
                     { text: "Midjourney AI绘画教程", link: "midjourney-guide" },
                     { text: "Cursor AI编辑器教程", link: "cursor-guide" },
                     { text: "OpenClaw聚合AI教程", link: "openclaw-guide" },
                 ],
             },
+            {
+                text: "AI中转站与模型评测",
+                collapsible: true,
+                children: [
+                    { text: "AI中转站总览与选型指南", link: "ai-relay-stations-2026" },
+                    { text: "黑喵中转站评测（国内模型）", link: "heimao-ai-review" },
+                    { text: "快AI模型评测（多供应商）", link: "kuai-ai-review" },
+                    { text: "科技狐模型评测（倍率与生图）", link: "keji-hu-review" },
+                ],
+            },
         ],
         "/proxy/": [
             {
-                text: "基础入门",
+                text: "入门与选购",
                 collapsible: true,
                 children: [
                     { text: "科学上网知识库首页", link: "" },
+                    { text: "什么是翻墙？Clash教程", link: "fanqiang-guide" },
                     { text: "2026年VPN推荐完整指南", link: "vpn-tuijian-2026" },
                     { text: "2026年梯子推荐与选购", link: "tizi-guide-2026" },
-                    { text: "高性价比机场与Clash梯子选购", link: "cost-effective-airport-guide" },
-                    { text: "VPN下载与客户端安装", link: "vpn-download-guide-2026" },
-                    { text: "Shadowrocket小火箭完整教程", link: "shadowrocket-guide-2026" },
-                    { text: "免费VPN真相揭秘", link: "mianfei-vpn-guide-2026" },
                     { text: "如何选购稳定VPN机场", link: "vpn-guide" },
-                    { text: "什么是翻墙？Clash教程", link: "fanqiang-guide" },
-                    { text: "备用机场与双订阅策略", link: "backup-airport-guide" },
-                    { text: "翻墙后必逛境外网站", link: "after-fanqiang-guide" },
-                    { text: "有哪些国外网站被墙", link: "gfw-websites" },
+                    { text: "高性价比机场与Clash梯子选购", link: "cost-effective-airport-guide" },
+                    { text: "机场核心关键词合并与选购指南", link: "airport-keyword-guide-2026" },
+                    { text: "免费VPN真相揭秘", link: "mianfei-vpn-guide-2026" },
                 ],
             },
             {
-                text: "线路与技术",
+                text: "线路、协议与性能",
                 collapsible: true,
                 children: [
                     { text: "什么是IEPL/IPLC专线", link: "line-type-guide" },
                     { text: "三网宽带翻墙速度差异", link: "isp-speed-differences" },
-                    { text: "机场流媒体解锁原理解析", link: "streaming-unlock-guide" },
                     { text: "SSR与Trojan协议性能对比", link: "protocol-comparison" },
                     { text: "Hysteria2最快协议详解", link: "hysteria-guide" },
                     { text: "AnyTLS新协议原理与配置", link: "anytls-guide" },
+                    { text: "机场流媒体解锁原理解析", link: "streaming-unlock-guide" },
                 ],
             },
             {
-                text: "工具与平台",
+                text: "客户端、订阅与工具",
                 collapsible: true,
                 children: [
+                    { text: "VPN下载与客户端安装", link: "vpn-download-guide-2026" },
                     { text: "科学上网代理客户端下载", link: "clients" },
+                    { text: "Shadowrocket小火箭完整教程", link: "shadowrocket-guide-2026" },
                     { text: "暗影火箭/小火箭官网下载与共享账号", link: "shadowrocket-official-download" },
                     { text: "Shadowrocket Windows电脑版与Shadowsocks指南", link: "shadowrocket-windows" },
                     { text: "小火箭共享账号网站与免费Apple ID获取", link: "xiaohuojian-gongxiang-zhanghao" },
@@ -167,23 +198,19 @@ export default hopeTheme({
                 ],
             },
             {
-                text: "行业动态",
+                text: "故障排查与行业动态",
                 collapsible: true,
                 children: [
+                    { text: "备用机场与双订阅策略", link: "backup-airport-guide" },
+                    { text: "翻墙后必逛境外网站", link: "after-fanqiang-guide" },
+                    { text: "有哪些国外网站被墙", link: "gfw-websites" },
                     { text: "国内中转拔线专线枯竭", link: "relay-crackdown-2026" },
                     { text: "中转机场的稳定替代方案", link: "relay-darkest-hour" },
                     { text: "快连VPN停运与替代推荐", link: "letsvpn-shutdown" },
                 ],
             },
         ],
-        "/tools/": [
-            {
-                text: "合租中心",
-                children: [
-                    "",
-                ],
-            },
-        ],
+        "/tools/": false,
         // 博客自动生成页面，不需要侧边栏
         "/tag/": false,
         "/category/": false,
@@ -203,6 +230,16 @@ export default hopeTheme({
         blog: true,
         seo: {
             customHead: (head, page, app) => {
+                const upsertMeta = (attrs, content) => {
+                    const key = attrs.name ? 'name' : 'property';
+                    const index = head.findIndex(item => item[0] === 'meta' && item[1][key] === attrs[key]);
+                    if (index !== -1) {
+                        head[index][1].content = content;
+                    } else {
+                        head.push(['meta', { ...attrs, content }]);
+                    }
+                };
+
                 // 为自动生成的博客聚合页面（标签、分类、文章列表等）提供独特且足够长的 meta description
                 if (page.path.startsWith('/tag/') || page.path.startsWith('/category/') || page.path.startsWith('/article/') || page.path.startsWith('/timeline/') || page.path.startsWith('/star/')) {
                     const pageName = page.title || '科学上网';
@@ -223,20 +260,17 @@ export default hopeTheme({
                         desc = `这是「${pageName}」的相关内容归档。2026年最新科学上网机场推荐与翻墙指南，为您精选稳定高速的翻墙机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT 等前沿 AI 工具使用攻略。`;
                     }
                     
-                    const metaIndex = head.findIndex(item => item[0] === 'meta' && item[1].name === 'description');
-                    if (metaIndex !== -1) {
-                        head[metaIndex][1].content = desc;
-                    } else {
-                        head.push(['meta', { name: 'description', content: desc }]);
-                    }
-                    
-                    const ogIndex = head.findIndex(item => item[0] === 'meta' && item[1].property === 'og:description');
-                    if (ogIndex !== -1) {
-                        head[ogIndex][1].content = desc;
-                    } else {
-                        head.push(['meta', { property: 'og:description', content: desc }]);
-                    }
+                    upsertMeta({ name: 'description' }, desc);
+                    upsertMeta({ property: 'og:description' }, desc);
                 }
+
+                // 为正文页同步社交分享标题与描述，避免只显示站点默认标题。
+                const pageTitle = page.title || '机场推荐与科学上网指南';
+                const pageDescription = page.frontmatter?.description || '机场推荐、VPN梯子、Clash配置、节点选择与流媒体解锁指南。';
+                upsertMeta({ property: 'og:title' }, pageTitle);
+                upsertMeta({ property: 'og:description' }, pageDescription);
+                upsertMeta({ name: 'twitter:title' }, pageTitle);
+                upsertMeta({ name: 'twitter:description' }, pageDescription);
 
                 // 自动注入 Canonical 规范链接与 BreadcrumbList 面包屑 JSON-LD
                 const pageUrl = `https://clash-jichang.com${page.path}`;
@@ -269,6 +303,89 @@ export default hopeTheme({
                     { type: "application/ld+json" },
                     JSON.stringify(breadcrumbLd)
                 ]);
+
+                // 机场目录页使用 CollectionPage + FAQPage，帮助搜索引擎理解榜单与排障内容。
+                if (page.path === '/airport/' || page.path === '/airport/index.html') {
+                    head.push([
+                        'script',
+                        { type: 'application/ld+json' },
+                        JSON.stringify({
+                            '@context': 'https://schema.org',
+                            '@graph': [
+                                {
+                                    '@type': 'CollectionPage',
+                                    '@id': `${pageUrl}#collection`,
+                                    name: pageTitle,
+                                    description: pageDescription,
+                                    url: pageUrl,
+                                    isPartOf: { '@id': 'https://clash-jichang.com/#website' },
+                                    mainEntity: {
+                                        '@type': 'ItemList',
+                                        itemListElement: [
+                                            { '@type': 'ListItem', position: 1, name: '稳定机场推荐', url: 'https://clash-jichang.com/airport/best-airport-2026.html' },
+                                            { '@type': 'ListItem', position: 2, name: '便宜机场推荐', url: 'https://clash-jichang.com/airport/cheap-airport.html' },
+                                            { '@type': 'ListItem', position: 3, name: 'IPLC/IEPL专线机场', url: 'https://clash-jichang.com/airport/iepl-iplc.html' },
+                                        ],
+                                    },
+                                },
+                                {
+                                    '@type': 'FAQPage',
+                                    '@id': `${pageUrl}#faq`,
+                                    mainEntity: [
+                                        {
+                                            '@type': 'Question',
+                                            name: '机场订阅更新失败、节点不显示怎么办？',
+                                            acceptedAnswer: { '@type': 'Answer', text: '检查订阅是否过期或被截断，重新添加订阅并确认客户端支持对应协议；仍无法更新时，联系机场客服获取备用订阅地址。' },
+                                        },
+                                        {
+                                            '@type': 'Question',
+                                            name: '机场速度慢、延迟高或晚高峰变卡怎么办？',
+                                            acceptedAnswer: { '@type': 'Answer', text: '分别测试香港、日本、新加坡和美国节点，再比较直连、BGP中转和IEPL/IPLC专线；持续丢包时建议准备第二个备用机场。' },
+                                        },
+                                        {
+                                            '@type': 'Question',
+                                            name: '原生IP和住宅IP机场适合哪些场景？',
+                                            acceptedAnswer: { '@type': 'Answer', text: '原生IP或住宅IP更适合对地区识别敏感的流媒体、TikTok和部分AI服务，但应以实际解锁测试和服务商说明为准。' },
+                                        },
+                                    ],
+                                },
+                            ],
+                        }),
+                    ]);
+                }
+
+                // AI 指南与中转站评测页补充 TechArticle 语义，方便搜索与生成式检索识别主题。
+                if (page.path.startsWith('/ai/')) {
+                    head.push([
+                        'script',
+                        { type: 'application/ld+json' },
+                        JSON.stringify({
+                            '@context': 'https://schema.org',
+                            '@type': 'TechArticle',
+                            headline: pageTitle,
+                            description: pageDescription,
+                            url: pageUrl,
+                            inLanguage: 'zh-CN',
+                            about: {
+                                '@type': 'Thing',
+                                name: 'AI工具、国内模型与AI中转站',
+                            },
+                            author: {
+                                '@type': 'Organization',
+                                name: 'Clash机场推荐指南团队',
+                                url: 'https://clash-jichang.com/about.html',
+                            },
+                            publisher: {
+                                '@type': 'Organization',
+                                name: 'Clash机场推荐指南团队',
+                                logo: {
+                                    '@type': 'ImageObject',
+                                    url: 'https://clash-jichang.com/logo.png',
+                                },
+                            },
+                        }),
+                    ]);
+                }
             }
         },
         mdEnhance: {

@@ -1,6 +1,10 @@
 ---
-title: "ChatGPT与Claude专用机场推荐：2026原生住宅IP完美解锁AI工具指南"
-description: "2026年 AI 工具实战使用完整指南：ChatGPT、Claude、Gemini、Grok、Midjourney、Cursor 等主流 AI 工具的国内访问方法、账号注册教程与深度使用技巧。包含各 AI 平台的功能对比、免费版 vs 付费版差异分析，以及科学上网节点选择建议，助你高效利用全球顶尖 AI 工具提升工作效率。"
+title: "2026 AI使用指南：ChatGPT、Claude、国内模型与AI中转站评测"
+description: "2026年 AI 使用指南：覆盖 ChatGPT、Claude、Gemini、Grok、Midjourney、Cursor、国内大模型与 AI 中转站评测，整理模型选择、API 接入、节点环境、隐私和成本控制方法。"
+head:
+  - - meta
+    - name: keywords
+      content: AI使用指南,AI中转站,国内模型,ChatGPT,Claude,DeepSeek,Gemini,GPT,AI API,黑喵中转站,快AI,科技狐模型
 ---
 
 欢迎来到 AI 工具使用指南。这里汇集了当前最主流、最实用的 AI 工具使用教程，无论你是否能翻墙，都能找到适合自己的 AI 使用方案。
@@ -37,6 +41,18 @@ description: "2026年 AI 工具实战使用完整指南：ChatGPT、Claude、Gem
     <div class="card-desc">史上最全手把手安装配置教程，支持接入飞书、Telegram 机器人。</div>
   </a>
 </div>
+
+## AI中转站与模型聚合平台评测
+
+AI 中转站适合需要在国内模型、海外模型、代码模型和生图模型之间切换的用户。选择时要看模型版本、倍率、上下文、API 兼容性、隐私政策和高峰期稳定性，不要只看供应商数量。
+
+| 平台 | 主要定位 | 适合人群 | 评测 |
+| :--- | :--- | :--- | :--- |
+| 黑喵中转站 | 主打国内模型与中文任务 | 中文写作、总结、客服、国内模型 API | [查看黑喵评测](./heimao-ai-review.html) |
+| 快 AI 模型 | 多供应商、多模型切换 | GPT、Claude、DeepSeek、Gemini 对比使用 | [查看快 AI 评测](./kuai-ai-review.html) |
+| 科技狐模型 | 模型分组与倍率筛选 | 关注成本、代码、视觉和生图的用户 | [查看科技狐评测](./keji-hu-review.html) |
+
+详细的模型覆盖、计费核对和隐私建议，请阅读[2026 AI中转站总览与选型指南](./ai-relay-stations-2026.html)。平台模型、价格和活动会变化，使用前请以官方页面为准。
 
 ## 国内 AI 镜像站推荐
 

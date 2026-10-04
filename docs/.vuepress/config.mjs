@@ -5,20 +5,25 @@ import theme from "./theme.mjs";
 export default defineUserConfig({
     base: "/",
     lang: "zh-CN",
-    title: "道一博客",
-    description: "2026年最新科学上网机场推荐与翻墙指南。我们为您精选稳定高速的翻墙机场评测，提供 Netflix、Disney+、YouTube Premium 等流媒体解锁教程与合租方案，并分享 ChatGPT、Claude、Midjourney 等前沿 AI 工具使用攻略。致力于帮助用户突破网络封锁，畅享全球互联网自由，获取最前沿的数字技术资讯与资源共享服务。",
+    title: "Clash机场推荐指南",
+    description: "2026年机场推荐与VPN梯子指南：持续更新稳定机场、便宜机场、性价比机场和IPLC/IEPL专线测评，覆盖Clash、Shadowrocket、V2Ray客户端配置，以及Netflix、YouTube、TikTok和ChatGPT等流媒体与AI使用教程。",
     head: [
         ["link", { rel: "icon", href: "/favicon.png" }],
         // Open Graph meta tags for social sharing
         ["meta", { property: "og:site_name", content: "科学上网机场推荐" }],
         ["meta", { property: "og:type", content: "website" }],
+        ["meta", { property: "og:title", content: "2026机场推荐与VPN梯子指南｜Clash机场测评" }],
+        ["meta", { property: "og:description", content: "稳定机场、便宜机场与IPLC/IEPL专线测评，覆盖Clash、Shadowrocket、V2Ray配置，以及流媒体和AI使用指南。" }],
         ["meta", { property: "og:image", content: "https://clash-jichang.com/globe.png" }],
         ["meta", { property: "og:image:width", content: "1200" }],
         ["meta", { property: "og:image:height", content: "630" }],
         ["meta", { property: "og:locale", content: "zh_CN" }],
         // Twitter Card meta tags
         ["meta", { name: "twitter:card", content: "summary_large_image" }],
+        ["meta", { name: "twitter:title", content: "2026机场推荐与VPN梯子指南｜Clash机场测评" }],
+        ["meta", { name: "twitter:description", content: "稳定机场、便宜机场与IPLC/IEPL专线测评，覆盖Clash、Shadowrocket、V2Ray配置，以及流媒体和AI使用指南。" }],
         ["meta", { name: "twitter:image", content: "https://clash-jichang.com/globe.png" }],
+        ["meta", { name: "keywords", content: "机场推荐,VPN推荐,梯子推荐,机场测评,稳定机场,便宜机场,性价比机场,机场节点,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,机场订阅,节点推荐,流媒体机场,ChatGPT机场" }],
         // Umami 实时统计
         // 脚本从 cloud.umami.is 直接加载（翻墙用户本身开代理可正常访问）
         // data-host-url 指向同域代理，让 /api/send 上报走代理，绕过部分地区屏蔽
@@ -43,8 +48,8 @@ export default defineUserConfig({
                         "@type": "WebSite",
                         "@id": "https://clash-jichang.com/#website",
                         "url": "https://clash-jichang.com/",
-                        "name": "道一博客",
-                        "description": "2026年最新科学上网机场推荐与翻墙指南。提供稳定专线机场评测、跑路预警、客户端配置与 AI 工具指南。",
+                        "name": "Clash机场推荐指南",
+                        "description": "2026年机场推荐与VPN梯子指南，持续更新稳定机场、性价比机场、IPLC/IEPL专线测评，以及Clash、Shadowrocket和V2Ray配置教程。",
                         "inLanguage": "zh-CN",
                         "publisher": {
                             "@id": "https://clash-jichang.com/about/#organization"
@@ -53,7 +58,7 @@ export default defineUserConfig({
                     {
                         "@type": "Organization",
                         "@id": "https://clash-jichang.com/about/#organization",
-                        "name": "道一博客团队",
+                        "name": "Clash机场推荐指南团队",
                         "url": "https://clash-jichang.com/about.html",
                         "logo": "https://clash-jichang.com/globe.png"
                     }

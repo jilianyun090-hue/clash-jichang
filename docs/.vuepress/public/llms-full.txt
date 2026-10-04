@@ -1,4 +1,4 @@
-# 道一博客 (Clash-Jichang.com) 完整知识库索引
+# Clash机场推荐指南 (Clash-Jichang.com) 完整知识库索引
 
 > 2026年最新科学上网机场推荐、VPN梯子选购、客户端下载配置与 AI 工具指南全量索引。
 
@@ -31,6 +31,8 @@
   Summary: 免费美区 Apple ID 账号共享列表。
 
 ## 4. VPN 与代理知识库 (VPN & Proxy Knowledge Base)
+- Page URL: https://clash-jichang.com/proxy/airport-keyword-guide-2026.html
+  Summary: 机场核心关键词合并与选购指南，覆盖稳定机场、便宜机场、IPLC/IEPL、节点地区、倍率、设备数、VPN/VPS 对比和订阅故障排查。
 - Page URL: https://clash-jichang.com/proxy/vpn-tuijian-2026.html
   Summary: 2026年 VPN 推荐与机场梯子对比指南。
 - Page URL: https://clash-jichang.com/proxy/tizi-guide-2026.html
@@ -47,6 +49,14 @@
 ## 5. AI 工具与数字生活 (AI Tools & Accounts)
 - Page URL: https://clash-jichang.com/ai/
   Summary: ChatGPT / Claude 专用机场推荐与解除 IP 屏蔽指南。
+- Page URL: https://clash-jichang.com/ai/ai-relay-stations-2026.html
+  Summary: 2026 AI 中转站总览，比较黑喵、快AI、科技狐的模型覆盖、供应商、倍率、API兼容与隐私注意事项。
+- Page URL: https://clash-jichang.com/ai/heimao-ai-review.html
+  Summary: 黑喵中转站评测，主打国内模型和中文任务。
+- Page URL: https://clash-jichang.com/ai/kuai-ai-review.html
+  Summary: 快AI模型评测，多供应商、多模型切换和 API 接入指南。
+- Page URL: https://clash-jichang.com/ai/keji-hu-review.html
+  Summary: 科技狐模型评测，关注模型分组、倍率、代码、视觉和生图能力。
 - Page URL: https://clash-jichang.com/ai/chatgpt.html
   Summary: ChatGPT 国内注册与 Plus 订阅升级教程。
 - Page URL: https://clash-jichang.com/ai/claude-guide.html
