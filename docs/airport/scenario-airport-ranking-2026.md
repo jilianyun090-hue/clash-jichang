@@ -43,7 +43,7 @@ date: 2026-09-19
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **极连云** | ¥8/月 | IPLC/IEPL 专线 | 100+ | Netflix/Disney+/ChatGPT | 无限制 | 全专线极速低延迟，游戏与办公主力首选 | [官网直达](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) |
 | **光年梯** | ¥7.5/月（年付） | IPLC 专线 | 80+ | Netflix/ChatGPT/YouTube 4K | 无限制 | 晚高峰抗封锁强，性价比极高 | [官网直达](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) |
-| **云图机场** | ¥20/月 | 金融级 IEPL 专线 | 60+ | 原生 4K/8K 流媒体/Claude | 无限制 | 8K 视频秒开，顶级线路质量 | [官网直达](https://vip.ytjcok.org/#/register?code=qPHQtI9a) |
+| **云图机场** | ¥20/月 | 金融级 IEPL 专线 | 60+ | 原生 4K/8K 流媒体/Claude | 无限制 | 8K 视频秒开，顶级线路质量 | [官网直达](https://super.ytjcok.org/#/register?code=qPHQtI9a) |
 | **边缘节点** | ¥9/月（年付） | 稳定 BGP 中转 | 60+ | 流媒体全解 / ChatGPT | 多设备 | 专属自研客户端，开箱即用退款保障 | [官网直达](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
 | **灯塔机场** | ¥16.6/月（年付） | 全节点加速 | 50+ | 流媒体 / AI 常用解锁 | 3-6台 | 提供 1TB 独享年付包与 24h 退款保障 | [官网直达](https://www.dengta12.com/reg?ref=DlYrVig6) |
 | **灵猫网络** | ¥7.08/月（年付） | 全 IPLC 专线 | 40+ | 原生住宅级 IP / ChatGPT | 无限制 | 年付性价比杀手，全专线零丢包 | [官网直达](https://haozevpn.civetaff.com/#/?code=1pboeliL) |

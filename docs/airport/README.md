@@ -150,7 +150,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**极连云**](#极连云) | [直达官网](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
 | [**光年梯**](#光年梯) | [直达官网](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
 | [**飞猫云**](#飞猫云) | [直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh) | 无 | 25元 150GB/月 | ✅ | 暂无 | [前往](#飞猫云) |
-| [**云图机场**](#云图) | [直达官网](https://vip.ytjcok.org/#/register?code=qPHQtI9a) | 无 | 20元 150GB/月 | ✅ | 暂无 | [前往](#云图) |
+| [**云图机场**](#云图) | [直达官网](https://super.ytjcok.org/#/register?code=qPHQtI9a) | 无 | 20元 150GB/月 | ✅ | 暂无 | [前往](#云图) |
 | [**鲲鹏加速**](#鲲鹏加速) | [直达官网](https://kunpengjiasu.com/#/register?code=QAo8sMhc) | 有 | 12元 99GB/月 | ✅ | 暂无 | [前往](#鲲鹏加速) |
 | [**极速cloud**](#极速cloud) | [直达官网](https://august.jsjc456789.com) | 无 | 8.9元 100GB/月 | ✅ | 暂无 | [前往](#极速cloud) |
 | [**九云机场**](#九云) | [直达官网](https://daoyi.jiuyyq.com) | 无 | 6元 150GB/月 | ✅ | 暂无 | [前往](#九云) |
@@ -271,7 +271,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 4. 云图机场 {#云图}
 
-云图机场官网地址：[直达官网](https://vip.ytjcok.org/#/register?code=qPHQtI9a)
+云图机场官网地址：[直达官网](https://super.ytjcok.org/#/register?code=qPHQtI9a)
 
 最便宜的订阅有 **岚图 ¥20.00/月付（150G流量）**。
 
@@ -287,7 +287,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | 50g不限时流量 | 50G | ¥78.00 | 一次性 | 限时套餐，5台设备，1倍率 |
 | 100g不限时流量 | 100G | ¥119.00 | 一次性 | 限时套餐，5台设备，1倍率 |
 
-👉 [立即注册云图机场](https://vip.ytjcok.org/#/register?code=qPHQtI9a)
+👉 [立即注册云图机场](https://super.ytjcok.org/#/register?code=qPHQtI9a)
 
 ---
 

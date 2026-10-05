@@ -45,11 +45,11 @@ date: 2026-08-06
 
 | 套餐名称 | 价格 | 流量 | 付费方式 | 核心特性 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **岚图** | ¥25.00 | 150G/月 | 月付 | 5台设备，流媒体全解锁，1倍率 | [直达官网购买](https://vip.ytjcok.org/#/register?code=qPHQtI9a) |
-| **梦图** | ¥49.00 | 300G/月 | 月付 | 5台设备，流媒体全解锁，1倍率 | [直达官网购买](https://vip.ytjcok.org/#/register?code=qPHQtI9a) |
-| **星图** | ¥99.00 | 600G/月 | 月付 | 5台设备，流媒体全解锁，1倍率 | [直达官网购买](https://vip.ytjcok.org/#/register?code=qPHQtI9a) |
-| **50g不限时流量** | ¥78.00 | 50G | 一次性 | 限时套餐，5台设备，1倍率，不限时间 | [直达官网购买](https://vip.ytjcok.org/#/register?code=qPHQtI9a) |
-| **100g不限时流量** | ¥119.00 | 100G | 一次性 | 限时套餐，5台设备，1倍率，不限时间 | [直达官网购买](https://vip.ytjcok.org/#/register?code=qPHQtI9a) |
+| **岚图** | ¥25.00 | 150G/月 | 月付 | 5台设备，流媒体全解锁，1倍率 | [直达官网购买](https://super.ytjcok.org/#/register?code=qPHQtI9a) |
+| **梦图** | ¥49.00 | 300G/月 | 月付 | 5台设备，流媒体全解锁，1倍率 | [直达官网购买](https://super.ytjcok.org/#/register?code=qPHQtI9a) |
+| **星图** | ¥99.00 | 600G/月 | 月付 | 5台设备，流媒体全解锁，1倍率 | [直达官网购买](https://super.ytjcok.org/#/register?code=qPHQtI9a) |
+| **50g不限时流量** | ¥78.00 | 50G | 一次性 | 限时套餐，5台设备，1倍率，不限时间 | [直达官网购买](https://super.ytjcok.org/#/register?code=qPHQtI9a) |
+| **100g不限时流量** | ¥119.00 | 100G | 一次性 | 限时套餐，5台设备，1倍率，不限时间 | [直达官网购买](https://super.ytjcok.org/#/register?code=qPHQtI9a) |
 
 👉 **专属 8 折优惠码：`yt88`**
 
@@ -60,7 +60,7 @@ date: 2026-08-06
 云图机场完美兼容 Shadowsocks 等主流科学上网协议，支持一键导入主流客户端。
 
 ### 1. 复制云图机场订阅地址
-1. 注册并登录 [云图机场官方网站](https://vip.ytjcok.org/#/register?code=qPHQtI9a)。
+1. 注册并登录 [云图机场官方网站](https://super.ytjcok.org/#/register?code=qPHQtI9a)。
 2. 在用户中心控制面板中，找到“一键订阅”区域。
 3. 点击“复制订阅地址”或直接使用一键导入。
 
@@ -89,4 +89,4 @@ A：金融级专线与传统的公网中转相比，具有极高的网络带宽�
 
 ---
 
-👉 [立即注册云图机场](https://vip.ytjcok.org/#/register?code=qPHQtI9a)
+👉 [立即注册云图机场](https://super.ytjcok.org/#/register?code=qPHQtI9a)

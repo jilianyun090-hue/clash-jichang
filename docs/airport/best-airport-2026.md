@@ -93,7 +93,7 @@ date: 2026-09-26
 ### 7. 云图机场 — 高品质金融级专线
 * **综合评分**：9.1 / 10 | **最低资费**：¥25/月（岚图套餐） | **线路**：金融级专线
 * **推荐理由**：云图机场线路传输采用金融级专线，提供无脑下单即可的高质量稳定节点。全线完美解锁 Netflix、Disney+ , YouTube、ChatGPT、TikTok 等主流流媒体及 AI 平台，支持原生 IP，全节点均为 1倍率，无高倍率扣费陷阱。本站专属八折优惠码 `yt88`。
-* 👉 **[前往云图机场独立测评](/airport/yuntu.html)** | **[直达云图机场官网](https://vip.ytjcok.org/#/register?code=qPHQtI9a)**
+* 👉 **[前往云图机场独立测评](/airport/yuntu.html)** | **[直达云图机场官网](https://super.ytjcok.org/#/register?code=qPHQtI9a)**
 
 ---
 
