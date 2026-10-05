@@ -157,7 +157,7 @@ date: 2026-09-26
 
 4. **[瞬云机场](/airport/shunyun.html)** (最低 ¥8.25/月)
    * **定位**：Anycast 负载调度标杆，主打极致秒开和高峰期灾备稳定性。
-   * **直达官网**：[直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe)
+   * **直达官网**：[直达官网](https://ddd.jichang.best/#/register?code=o4I4kToe)
 
 5. **[寰宇云](/airport/huanyuyun.html)** (最低 ¥7.4/月)
    * **定位**：原生 IP 级别流媒体与 AI 工具专用，防止频繁滑块风控或封号。

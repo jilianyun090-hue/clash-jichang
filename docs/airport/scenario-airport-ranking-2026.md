@@ -47,7 +47,7 @@ date: 2026-09-19
 | **边缘节点** | ¥9/月（年付） | 稳定 BGP 中转 | 60+ | 流媒体全解 / ChatGPT | 多设备 | 专属自研客户端，开箱即用退款保障 | [官网直达](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ) |
 | **灯塔机场** | ¥16.6/月（年付） | 全节点加速 | 50+ | 流媒体 / AI 常用解锁 | 3-6台 | 提供 1TB 独享年付包与 24h 退款保障 | [官网直达](https://www.dengta12.com/reg?ref=DlYrVig6) |
 | **灵猫网络** | ¥7.08/月（年付） | 全 IPLC 专线 | 40+ | 原生住宅级 IP / ChatGPT | 无限制 | 年付性价比杀手，全专线零丢包 | [官网直达](https://haozevpn.civetaff.com/#/?code=1pboeliL) |
-| **瞬云机场** | ¥8.25/月（年付） | Anycast 负载专线 | 50+ | 流媒体秒开 / ChatGPT | 无限制 | 智能入口调度，晚高峰极度稳定 | [官网直达](https://ccc.jichang.best/#/register?code=o4I4kToe) |
+| **瞬云机场** | ¥8.25/月（年付） | Anycast 负载专线 | 50+ | 流媒体秒开 / ChatGPT | 无限制 | 智能入口调度，晚高峰极度稳定 | [官网直达](https://ddd.jichang.best/#/register?code=o4I4kToe) |
 
 ---
 

@@ -166,7 +166,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**灵猫网络**](#灵猫网络) | [直达官网](https://haozevpn.civetaff.com/#/?code=1pboeliL) | 无 | 85元/年（45G/月） | ✅ | 暂无 | [前往](#灵猫网络) |
 | [**星岛梦**](#星岛梦) | [直达官网](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj) | 无 | 16元 100GB/月 | ✅ | [TG](https://t.me/XDM6666666) | [前往](#星岛梦) |
 | [**全球云**](#全球云) | [直达官网](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4) | 无 | 20元 120GB/月 | ✅ | [TG](https://t.me/quanqiuyun001) | [前往](#全球云) |
-| [**瞬云机场**](#瞬云机场) | [直达官网](https://ccc.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
+| [**瞬云机场**](#瞬云机场) | [直达官网](https://ddd.jichang.best/#/register?code=o4I4kToe) | 无 | 8.25元 59GB/月 | ✅ | [TG](https://t.me/VPNfq1) | [前往](#瞬云机场) |
 | [**寰宇云**](#寰宇云机场) | [直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) | 无 | 89元/年 60GB/月 | ✅ | [TG](https://t.me/+Ssz3hVgH65o2Yjgx) | [前往](#寰宇云机场) |
 | [**Lumina**](#Lumina) | [直达官网](https://luminak.net/?token=lumina#/register?code=dCgHyjFi) | 无 | 10元 200GB/月 | ❌ | 暂无 | [前往](#Lumina) |
 | [**拼好连**](#拼好连) | [直达官网](https://sxzofrnamc.runwayhz.com/#/register?code=A63zaSvx) | 无 | 9.9元 100GB/月 | ✅ | 暂无 | [前往](#拼好连) |
@@ -647,7 +647,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 18. 瞬云机场 {#瞬云机场}
 
-瞬云机场官网地址：[ccc.jichang.best](https://ccc.jichang.best/#/register?code=o4I4kToe)
+瞬云机场官网地址：[ddd.jichang.best](https://ddd.jichang.best/#/register?code=o4I4kToe)
 
 最便宜的订阅有 **8.25元 59G/月**（年付）。
 
@@ -669,7 +669,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 | 纵横 | 300G/月 | ¥36.00/月 | 适合大多数流媒体爱好者。仅限个人使用，不限速，ANYCAST高速节点 |
 | 凌霄 | 600G/月 | ¥68.00/月 | 大流量及重度办公/下载需求首选。仅限个人使用，不限速，ANYCAST高速节点 |
 
-👉 [立即注册瞬云机场](https://ccc.jichang.best/#/register?code=o4I4kToe)
+👉 [立即注册瞬云机场](https://ddd.jichang.best/#/register?code=o4I4kToe)
 
 ---
 
