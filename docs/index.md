@@ -65,6 +65,9 @@ footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · 
 - [VPN下载与客户端配置](/proxy/vpn-download-guide-2026.html) - 全平台VPN软件下载
 - [2026年梯子推荐指南](/proxy/tizi-guide-2026.html) - 梯子工具选购攻略
 - [AI中转站与模型评测](/ai/ai-relay-stations-2026.html) - 国内模型、GPT、Claude、DeepSeek 与多供应商平台对比
+- [Proton VPN、NordVPN 与 Urban VPN 对比](/proxy/proton-nord-urban-vpn-guide.html) - 免费方案、下载来源与隐私核对
+- [Windows VPN 连接类型](/proxy/windows-vpn-connection-types.html) - Radmin、FortiClient 与机场客户端的区别
+- [免费机场与 GitHub 节点核查](/proxy/free-airport-github-guide.html) - 公益节点和 Clash 订阅的来源检查
 
 ### 防跑路避坑指南
 

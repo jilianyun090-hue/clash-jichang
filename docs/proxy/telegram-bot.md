@@ -75,6 +75,5 @@ Telegram 搜索机器人让资源获取变得前所未有的简单和高效。�
 
 - [Telegram 注册使用教程](./telegram-guide.html)
 - [机场推荐](/airport/)
-- [接码平台评测](/ai/sms-guide.html)
 - [科学上网知识库](./README.md)
 - [回到首页](/)

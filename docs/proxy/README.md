@@ -13,11 +13,19 @@ head:
 
 | 分类 | 适合解决的问题 | 推荐入口 |
 | :--- | :--- | :--- |
-| 入门与选购 | VPN、梯子、机场怎么选，如何避免跑路 | [机场关键词合并指南](./airport-keyword-guide-2026.html) · [VPN推荐](./vpn-tuijian-2026.html) |
+| 入门与选购 | VPN、梯子、机场怎么选，如何避免跑路 | [机场关键词合并指南](./airport-keyword-guide-2026.html) · [免费机场与 GitHub 节点核查](./free-airport-github-guide.html) · [VPN推荐](./vpn-tuijian-2026.html) |
 | 线路与协议 | IPLC/IEPL、BGP、SSR、Trojan、Hysteria、AnyTLS | [线路类型解析](./line-type-guide.html) · [协议对比](./protocol-comparison.html) |
-| 客户端与订阅 | VPN下载、Clash、Shadowrocket、路由器配置 | [客户端汇总](./clients.html) · [VPN下载](./vpn-download-guide-2026.html) |
+| 客户端与订阅 | VPN下载、Clash、Shadowrocket、路由器配置 | [客户端汇总](./clients.html) · [VPN下载](./vpn-download-guide-2026.html) · [Windows VPN 类型](./windows-vpn-connection-types.html) |
 | 故障与应急 | 订阅失败、节点异常、机场失效、备用方案 | [备用机场策略](./backup-airport-guide.html) · [常见问题](/faq/) |
 | 海外工具与平台 | Telegram、被墙网站、翻墙后资源 | [Telegram指南](./telegram-guide.html) · [被墙网站大全](./gfw-websites.html) |
+
+## Bing 关键词对应的新增专题
+
+截图中的“小火箭共享账号网站”“账号星球”“银河录像局”“奈飞”“LetsVPN”“Shadowrocket”“机场推荐”“梯子”等词已有独立页面，继续由现有页面承接。新补充的三组内容按搜索意图合并，避免同义词各建一篇重复文章：
+
+- [Proton VPN、NordVPN 与 Urban VPN 怎么选](./proton-nord-urban-vpn-guide.html)：承接品牌对比、free VPN、VPN free、VPN gratis 与 Windows 免费版需求。
+- [Windows VPN 连接类型与配置](./windows-vpn-connection-types.html)：区分 Windows 内置连接、Radmin VPN、FortiClient 与机场订阅。
+- [免费机场与 GitHub 节点核查](./free-airport-github-guide.html)：承接免费机场、公益机场、机场推荐 GitHub 和 Clash 订阅相关问题。
 
 ## 本站内容导览
 
@@ -93,10 +101,6 @@ head:
   <a class="card-item" href="/proxy/clients.html">
     <div class="card-title">三方客户端维护清单</div>
     <div class="card-desc">MetaCubeX核心兼容客户端列表、维护状态及GitHub地址汇总。</div>
-  </a>
-  <a class="card-item" href="/ai/sms-guide.html">
-    <div class="card-title">接码平台推荐</div>
-    <div class="card-desc">注册ChatGPT、Claude等需要海外手机号？接码平台测评与使用教程。</div>
   </a>
   <a class="card-item" href="/proxy/protocol-comparison.html">
     <div class="card-title">SSR、VLESS 与 Trojan 协议对比</div>

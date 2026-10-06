@@ -29,7 +29,7 @@ date: 2026-09-19
 | 🎮 **外服游戏加速** | [**极连云**](/airport/jilianyun.html) | [**光年梯**](/airport/guangnianti.html) | IEPL/IPLC 专线，低 Ping 低抖动，晚高峰零丢包 | ¥8 - ¥25/月 |
 | 🎬 **4K流媒体/Netflix** | [**云图机场**](/airport/yuntu.html) | [**瞬云机场**](/airport/shunyun.html) | 金融级专线 + 8K 极速秒开，全区原生 IP 解锁 | ¥8.25 - ¥20/月 |
 | 📱 **TikTok跨境运营** | [**万达云**](https://nf.video/) | [**灵猫网络**](/airport/lingmao.html) | 独享原生住宅 IP 出口，避免被封号与限流 | ¥17 - ¥85/年 |
-| 💼 **日常办公/AI工具** | [**边缘节点**](/airport/bianyuanjiedian.html) | [**九云机场**](/airport/jiuyundl.html) | 稳定中转架构，多设备在线，支持自研一键客户端 | ¥6 - ¥9/月 |
+| 💼 **日常办公/AI工具** | [**边缘节点**](/airport/bianyuanjiedian.html) | [**九云机场**](/airport/jiuyun.html) | 稳定中转架构，多设备在线，支持自研一键客户端 | ¥6 - ¥9/月 |
 | 💰 **极致性价比/入门** | [**快狸**](/airport/kuaili.html) | [**灯塔机场**](/airport/dengta.html) | 年付折合超低月费，入门小白无脑首选 | ¥10 - ¥16.6/月 |
 :::
 

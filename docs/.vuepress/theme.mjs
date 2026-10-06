@@ -166,6 +166,8 @@ export default hopeTheme({
                     { text: "高性价比机场与Clash梯子选购", link: "cost-effective-airport-guide" },
                     { text: "机场核心关键词合并与选购指南", link: "airport-keyword-guide-2026" },
                     { text: "免费VPN真相揭秘", link: "mianfei-vpn-guide-2026" },
+                    { text: "Proton、Nord 与 Urban VPN 对比", link: "proton-nord-urban-vpn-guide" },
+                    { text: "免费机场与 GitHub 节点核查", link: "free-airport-github-guide" },
                 ],
             },
             {
@@ -185,6 +187,7 @@ export default hopeTheme({
                 collapsible: true,
                 children: [
                     { text: "VPN下载与客户端安装", link: "vpn-download-guide-2026" },
+                    { text: "Windows VPN、Radmin 与 FortiClient", link: "windows-vpn-connection-types" },
                     { text: "科学上网代理客户端下载", link: "clients" },
                     { text: "Shadowrocket小火箭完整教程", link: "shadowrocket-guide-2026" },
                     { text: "暗影火箭/小火箭官网下载与共享账号", link: "shadowrocket-official-download" },
@@ -266,18 +269,18 @@ export default hopeTheme({
 
                 // 为正文页同步社交分享标题与描述，避免只显示站点默认标题。
                 const pageTitle = page.title || '机场推荐与科学上网指南';
-                const pageDescription = page.frontmatter?.description || '机场推荐、VPN梯子、Clash配置、节点选择与流媒体解锁指南。';
+                const pageDescription = page.frontmatter?.description || head.find(item => item[0] === 'meta' && item[1].name === 'description')?.[1].content || '机场推荐、VPN梯子、Clash配置、节点选择与流媒体解锁指南。';
                 upsertMeta({ property: 'og:title' }, pageTitle);
                 upsertMeta({ property: 'og:description' }, pageDescription);
                 upsertMeta({ name: 'twitter:title' }, pageTitle);
                 upsertMeta({ name: 'twitter:description' }, pageDescription);
 
                 // 自动注入 Canonical 规范链接与 BreadcrumbList 面包屑 JSON-LD
-                const pageUrl = `https://clash-jichang.com${page.path}`;
-                const hasCanonical = head.some(item => item[0] === 'link' && item[1].rel === 'canonical');
-                if (!hasCanonical) {
-                    head.push(['link', { rel: 'canonical', href: pageUrl }]);
-                }
+                const pageUrl = `https://clash-jichang.com${page.path.replace(/\.html$/, '')}`;
+                const canonical = head.find(item => item[0] === 'link' && item[1].rel === 'canonical');
+                if (canonical) canonical[1].href = pageUrl;
+                else head.push(['link', { rel: 'canonical', href: pageUrl }]);
+                upsertMeta({ property: 'og:url' }, pageUrl);
 
                 // 为内容页注入 BreadcrumbList JSON-LD 标签
                 const breadcrumbLd = {
@@ -298,11 +301,13 @@ export default hopeTheme({
                         }
                     ]
                 };
-                head.push([
-                    "script",
-                    { type: "application/ld+json" },
-                    JSON.stringify(breadcrumbLd)
-                ]);
+                if (page.path !== '/') {
+                    head.push([
+                        "script",
+                        { type: "application/ld+json" },
+                        JSON.stringify(breadcrumbLd)
+                    ]);
+                }
 
                 // 机场目录页使用 CollectionPage + FAQPage，帮助搜索引擎理解榜单与排障内容。
                 if (page.path === '/airport/' || page.path === '/airport/index.html') {
@@ -322,9 +327,9 @@ export default hopeTheme({
                                     mainEntity: {
                                         '@type': 'ItemList',
                                         itemListElement: [
-                                            { '@type': 'ListItem', position: 1, name: '稳定机场推荐', url: 'https://clash-jichang.com/airport/best-airport-2026.html' },
-                                            { '@type': 'ListItem', position: 2, name: '便宜机场推荐', url: 'https://clash-jichang.com/airport/cheap-airport.html' },
-                                            { '@type': 'ListItem', position: 3, name: 'IPLC/IEPL专线机场', url: 'https://clash-jichang.com/airport/iepl-iplc.html' },
+                                            { '@type': 'ListItem', position: 1, name: '稳定机场推荐', url: 'https://clash-jichang.com/airport/best-airport-2026' },
+                                            { '@type': 'ListItem', position: 2, name: '便宜机场推荐', url: 'https://clash-jichang.com/airport/cheap-airport' },
+                                            { '@type': 'ListItem', position: 3, name: 'IPLC/IEPL专线机场', url: 'https://clash-jichang.com/airport/iepl-iplc' },
                                         ],
                                     },
                                 },
@@ -373,7 +378,7 @@ export default hopeTheme({
                             author: {
                                 '@type': 'Organization',
                                 name: 'Clash机场推荐指南团队',
-                                url: 'https://clash-jichang.com/about.html',
+                                url: 'https://clash-jichang.com/about',
                             },
                             publisher: {
                                 '@type': 'Organization',

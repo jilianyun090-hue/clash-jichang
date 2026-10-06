@@ -18,6 +18,7 @@ This file contains an index of core guides and reference materials formatted for
 - [科学上网机场避坑指南](https://clash-jichang.com/airport/choose-guide.html): 总结机场选购的 5 大核心原则（月付原则、备用节点、线路类型识别、客服工单响应率）。
 
 ### 客户端下载与配置教程
+- [Windows VPN 连接类型与设置](https://clash-jichang.com/proxy/windows-vpn-connection-types): 区分 Windows 内置 VPN、Radmin 虚拟局域网、FortiClient 企业接入和机场订阅客户端。
 - [全平台科学上网客户端下载与使用汇总](https://clash-jichang.com/airport/software.html): 包含 Windows、macOS、Android、iOS、Linux 及路由器客户端 (Clash Verge Rev, Shadowrocket, sing-box, V2RayNG, v2rayN, Hiddify) 下载引导。
 - [Windows 端 Clash Verge Rev 安装与配置教程](https://clash-jichang.com/airport/client-windows.html): 手把手教学 Windows 平台 Clash Verge Rev 安装、一键导入订阅、开启 TUN 模式与系统代理。
 - [Android 端 Clash Meta (CMFA) 使用教程](https://clash-jichang.com/airport/client-android.html): 安卓设备下载、配置订阅链接、设置分流与开机自启教程。
@@ -25,6 +26,8 @@ This file contains an index of core guides and reference materials formatted for
 - [免费美区 Apple ID 账号共享](https://clash-jichang.com/airport/apple-id-shared.html): 定期更新可用共享 Apple ID，方便下载 Shadowrocket、Quantumult X 等 iOS 代理软件。
 
 ### 协议与技术深度解析
+- [免费机场与 GitHub 节点核查](https://clash-jichang.com/proxy/free-airport-github-guide): 解释公益机场、公开节点列表、Clash 订阅格式和安全核查步骤。
+- [Proton VPN、NordVPN 与 Urban VPN 对比](https://clash-jichang.com/proxy/proton-nord-urban-vpn-guide): 比较免费方案、官方软件下载、隐私说明与 Windows 使用场景。
 - [机场核心关键词合并与选购指南](https://clash-jichang.com/proxy/airport-keyword-guide-2026.html): 合并机场推荐、稳定机场、便宜机场、IPLC/IEPL、节点地区、倍率、设备数与订阅故障等搜索意图，提供可执行的机场选购流程。
 - [专线机场对比：IEPL 与 IPLC 区别解析](https://clash-jichang.com/airport/iepl-iplc.html): 从物理链路、过墙机制、延迟表现与价格区间解析端到端国际专线。
 - [Hysteria 2 (歇斯底里) 协议原理与配置](https://clash-jichang.com/proxy/hysteria-guide.html): 基于 UDP QUIC 的下一代代理协议，解决恶劣网络环境下的丢包与高延迟问题。
