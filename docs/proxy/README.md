@@ -27,6 +27,12 @@ head:
 - [Windows VPN 连接类型与配置](./windows-vpn-connection-types.html)：区分 Windows 内置连接、Radmin VPN、FortiClient 与机场订阅。
 - [免费机场与 GitHub 节点核查](./free-airport-github-guide.html)：承接免费机场、公益机场、机场推荐 GitHub 和 Clash 订阅相关问题。
 
+## 2026 年 10 月新增专题
+
+- [Clash Verge Rev 2.5.8 与 mihomo 1.19.32 更新解读](./clash-verge-mihomo-october-2026.html)：依据官方发布说明，排查同名节点、系统服务、DNS 与 TUN 相关现象。
+- [一元机场的真实成本算法](/airport/one-yuan-airport-cost-2026.html)：用倍率、可用流量和晚高峰体验判断低价套餐。
+- [Clash 机场购买前核查清单](/airport/clash-airport-purchase-checklist.html)：确认官网入口、订阅格式、协议兼容与试用条款。
+
 ## 本站内容导览
 
 <div class="card-grid">

@@ -120,6 +120,8 @@ Clash for Windows (CfW) 原作者已2023 年停止维护。推荐迁移至 Clash
 ---
 
 - [优质线路推荐](./README.md)
+- [Clash Verge Rev 2.5.8 与 mihomo 近期更新](/proxy/clash-verge-mihomo-october-2026.html)
+- [Clash 机场购买前核查清单](./clash-airport-purchase-checklist.md)
 - [机场选购避坑指南](./choose-guide.md)
 - [Android 客户端下载](./client-android.md)
 - [iOS 客户端下载](./client-ios.md)

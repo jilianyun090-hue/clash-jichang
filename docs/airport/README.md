@@ -1207,6 +1207,8 @@ FlowerCloud 成立于 2020 年，是业内公认的老牌高质量机场之一�
 
 ## 2026年机场选购避坑指南
 
+延伸阅读：[一元机场与便宜机场真实成本怎么算](/airport/one-yuan-airport-cost-2026.html) · [Clash 机场购买前核查清单](/airport/clash-airport-purchase-checklist.html) · [10 月客户端与内核更新解读](/proxy/clash-verge-mihomo-october-2026.html)。
+
 ### 警惕跑路风险
 遇到以下征兆请及时止损：
 *   ❌ 官方群组（Telegram）被解散或长时间禁言。

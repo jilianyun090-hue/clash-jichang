@@ -112,6 +112,7 @@ tag:
 
 ## 相关阅读
 
+- [一元机场与便宜机场的真实成本算法](/airport/one-yuan-airport-cost-2026.html)
 - [2026年机场完整推荐列表（34家精选）](/airport/)
 - [IEPL专线是什么？为什么便宜机场也能是专线？](/airport/iepl-iplc.html)
 - [Clash Verge Rev 下载与配置教程](/airport/software.html)
