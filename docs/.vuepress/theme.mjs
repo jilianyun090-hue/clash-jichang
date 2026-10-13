@@ -152,6 +152,7 @@ export default hopeTheme({
                     { text: "黑喵中转站评测（国内模型）", link: "heimao-ai-review" },
                     { text: "快AI模型评测（多供应商）", link: "kuai-ai-review" },
                     { text: "科技狐模型评测（倍率与生图）", link: "keji-hu-review" },
+                    { text: "犀速AI评测（国内直用Codex/Gemini）", link: "xisu-ai-review" },
                 ],
             },
         ],

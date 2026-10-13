@@ -51,10 +51,11 @@ AI 中转站适合需要在国内模型、海外模型、代码模型和生图�
 | 黑喵中转站 | 主打国内模型与中文任务 | 中文写作、总结、客服、国内模型 API | [查看黑喵评测](./heimao-ai-review.html) |
 | 快 AI 模型 | 多供应商、多模型切换 | GPT、Claude、DeepSeek、Gemini 对比使用 | [查看快 AI 评测](./kuai-ai-review.html) |
 | 科技狐模型 | 模型分组与倍率筛选 | 关注成本、代码、视觉和生图的用户 | [查看科技狐评测](./keji-hu-review.html) |
+| 犀速AI | Claude、GPT、Gemini、Grok 与图像模型聚合，国内网络可直接使用 Codex、Gemini | 需要多模型筛选、API 接入和 Token 成本比较的用户 | [查看犀速AI评测](./xisu-ai-review.html) |
 
 详细的模型覆盖、计费核对和隐私建议，请阅读[2026 AI中转站总览与选型指南](./ai-relay-stations-2026.html)。平台模型、价格和活动会变化，使用前请以官方页面为准。
 
-### 三个平台注册链接
+### 四个平台注册链接
 
 <div class="ai-register-grid">
   <a class="ai-register-card" href="https://ai.ex-girlfriendis.best/register?aff=y6PC" target="_blank" rel="noopener noreferrer">
@@ -65,6 +66,9 @@ AI 中转站适合需要在国内模型、海外模型、代码模型和生图�
   </a>
   <a class="ai-register-card" href="https://xiaohuliapi.pw/sign-up?aff=c4CP" target="_blank" rel="noopener noreferrer">
     <strong>科技狐模型</strong><span>立即注册查看倍率 ↗</span>
+  </a>
+  <a class="ai-register-card" href="https://www.xisu.ai/signup?ref=D4NJAJ2M" target="_blank" rel="noopener noreferrer">
+    <strong>犀速AI</strong><span>国内网络直接使用 Codex、Gemini ↗</span>
   </a>
 </div>
 

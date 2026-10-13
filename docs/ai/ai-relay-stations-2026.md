@@ -1,10 +1,10 @@
 ---
-title: "2026 AI中转站推荐与评测：黑喵、快AI、科技狐模型平台怎么选"
-description: "整理黑喵中转站、快AI模型和科技狐模型三类 AI 中转平台的定位、模型覆盖、适用人群、价格核对方法与隐私注意事项，帮助国内用户按场景选择更合适的 API 或网页端服务。"
+title: "2026 AI中转站推荐与评测：黑喵、快AI、科技狐、犀速AI怎么选"
+description: "整理黑喵中转站、快AI模型、科技狐模型和犀速AI四类 AI 中转平台的定位、模型覆盖、适用人群、价格核对方法与隐私注意事项，补充犀速AI国内网络直接使用Codex、Gemini的特点。"
 head:
   - - meta
     - name: keywords
-      content: AI中转站,AI中转,国内模型,ChatGPT中转,Claude中转,DeepSeek中转,OpenAI API,AI接口,快AI,黑喵中转站,科技狐模型,AI模型平台
+      content: AI中转站,AI中转,国内模型,ChatGPT中转,Claude中转,DeepSeek中转,OpenAI API,AI接口,快AI,黑喵中转站,科技狐模型,犀速AI,Xisu AI,Codex,Gemini,AI模型平台
 tag:
   - AI中转站
   - AI模型
@@ -17,7 +17,7 @@ category:
 
 ## 2026 AI中转站推荐与评测：黑喵、快AI、科技狐模型平台怎么选
 
-AI 中转站通常把多个模型供应商、统一余额或 API 接口整合到一个平台中，用户不必分别维护多个账号和密钥，就能在一个控制台里调用模型。它适合需要中文模型、海外模型、代码模型或图像模型的用户，但不同平台在模型版本、倍率、并发、上下文长度和数据保留策略上差异很大。本文根据公开页面与用户提供的模型分类截图，整理黑喵、快 AI、科技狐三个中转平台，作为选型入口；具体模型、价格和服务状态请以各平台实时页面为准。
+AI 中转站通常把多个模型供应商、统一余额或 API 接口整合到一个平台中，用户不必分别维护多个账号和密钥，就能在一个控制台里调用模型。它适合需要中文模型、海外模型、代码模型或图像模型的用户，但不同平台在模型版本、倍率、并发、上下文长度和数据保留策略上差异很大。本文根据公开页面与用户提供的模型分类截图，整理黑喵、快 AI、科技狐、犀速AI 四个中转平台，作为选型入口；具体模型、价格和服务状态请以各平台实时页面为准。
 
 <div class="ai-register-grid">
   <a class="ai-register-card" href="https://ai.ex-girlfriendis.best/register?aff=y6PC" target="_blank" rel="noopener noreferrer">
@@ -28,6 +28,9 @@ AI 中转站通常把多个模型供应商、统一余额或 API 接口整合到
   </a>
   <a class="ai-register-card" href="https://xiaohuliapi.pw/sign-up?aff=c4CP" target="_blank" rel="noopener noreferrer">
     <strong>科技狐模型</strong><span>立即注册 · 倍率筛选 ↗</span>
+  </a>
+  <a class="ai-register-card" href="https://www.xisu.ai/signup?ref=D4NJAJ2M" target="_blank" rel="noopener noreferrer">
+    <strong>犀速AI</strong><span>立即注册 · 国内网络直接用 Codex、Gemini ↗</span>
   </a>
 </div>
 
@@ -63,13 +66,14 @@ AI 中转站通常把多个模型供应商、统一余额或 API 接口整合到
 
 注册链接：[科技狐模型平台](https://xiaohuliapi.pw/sign-up?aff=c4CP)。模型列表和供应商数量可能随时变化，使用前应查看最新公告与服务条款。
 
-## 五、三类平台怎么选
+## 五、四类平台怎么选
 
 | 使用需求 | 优先了解的平台 | 重点检查 |
 | :--- | :--- | :--- |
 | 中文模型、中文写作、国内网络环境 | 黑喵中转站 | 国内模型覆盖、中文长文质量、余额规则 |
 | 多供应商切换、海外与国内模型混用 | 快 AI | 模型版本、API兼容性、上下文与并发 |
 | 关注倍率、成本和模型分组 | 科技狐模型 | 倍率计算、扣费明细、模型稳定性 |
+| Claude、GPT、Gemini、Grok 与图像模型切换 | 犀速AI | 国内网络直接使用 Codex、Gemini，兼顾端点兼容、Token 单价与 Images/Responses 能力 |
 
 ## 六、使用 AI 中转站的安全建议
 
