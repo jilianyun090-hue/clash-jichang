@@ -134,7 +134,7 @@ tracert 8.8.8.8
 ## 相关阅读
 
 - [2026年机场推荐完整列表（24家精选）](/airport/)
-- [学生党便宜机场推荐（¥8月付起）](/airport/cheap-airport.html)
-- [机场选购完整避坑指南](/airport/choose-guide.html)
-- [Clash 客户端下载与配置教程](/airport/software.html)
+- [学生党便宜机场推荐（¥8月付起）](/airport/cheap-airport)
+- [机场选购完整避坑指南](/airport/choose-guide)
+- [Clash 客户端下载与配置教程](/airport/software)
 - [回到首页](/)

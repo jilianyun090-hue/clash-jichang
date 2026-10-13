@@ -152,8 +152,8 @@ tag:
 
 **相关阅读：**
 - [2026年翻墙机场推荐评测](/airport/)
-- [机场线路类型详解：IPLC/IEPL/BGP中转](/proxy/line-type-guide.html)
-- [SSR、VLESS与Trojan协议对比](/proxy/protocol-comparison.html)
+- [机场线路类型详解：IPLC/IEPL/BGP中转](/proxy/line-type-guide)
+- [SSR、VLESS与Trojan协议对比](/proxy/protocol-comparison)
 - [科学上网与翻墙基础知识全面指南](/proxy/)
 
 ---

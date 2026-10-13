@@ -64,4 +64,4 @@ date: 2026-09-26
 - **iOS 苹果**：支持 Shadowrocket (小火箭)、Quantumult X, Surge 导入使用。
 - **Android 安卓**：支持 Clash for Android, Surfboard 一键订阅。
 
-👉 **[前往软件下载与保姆级配置指南](/airport/software.html)**
+👉 **[前往软件下载与保姆级配置指南](/airport/software)**

@@ -75,7 +75,7 @@ head:
 ### 途径一：拥有个人海外美区 Apple ID 直接买断（最推荐、最长久）
 
 如果你打算长期科学上网，强烈推荐自己注册一个海外（如美区）Apple ID：
-1. **自己注册美区账号**：全程免费，无需海外信用卡。具体可参考本站编写的 [美区 Apple ID 零成本注册教程](/proxy/apple-id-guide.html)。
+1. **自己注册美区账号**：全程免费，无需海外信用卡。具体可参考本站编写的 [美区 Apple ID 零成本注册教程](/proxy/apple-id-guide)。
 2. **给账号充值**：
    - 可以在苹果官网使用国内双币信用卡直接购买美区 App Store 礼品卡（Gift Card）；
    - 或者在正规海外点卡平台购买 $3 或 $5 礼品卡充值。
@@ -86,7 +86,7 @@ head:
 如果你暂时不想折腾美区账号和美元充值，可以使用网上公开的“已购小火箭共享 Apple ID”进行下载。很多热心科技团队和网站会购买好暗影火箭，并把账号密码免费分享给大众。
 
 本站精选维护了高质量的共享账号获取专区：
-👉 **[小火箭共享账号网站：2026 免费美区苹果 ID 每日更新专区](/airport/apple-id-shared.html)**
+👉 **[小火箭共享账号网站：2026 免费美区苹果 ID 每日更新专区](/airport/apple-id-shared)**
 
 这里每 30 分钟自动检测账号可用性，提供已购买 Shadowrocket 的美区账号，一键复制账号密码即可登录 App Store 免费下载！
 
@@ -123,7 +123,7 @@ head:
 
 如果你还没有稳定靠谱的翻墙节点，可以先参考本站严选推荐的：
 - **[2026年稳定便宜好用VPN机场推荐列表](/airport/)**（月付低至 8 元起，晚高峰千兆 IPLC 专线）
-- **[高性价比机场与Clash梯子工具测评选购指南](/proxy/cost-effective-airport-guide.html)**
+- **[高性价比机场与Clash梯子工具测评选购指南](/proxy/cost-effective-airport-guide)**
 
 ### 第一步：一键导入机场订阅链接
 
@@ -162,12 +162,12 @@ head:
 ### Q2：使用小火箭共享账号提示“Account Locked”账号被锁定怎么办？
 由于公共共享账号使用人数多，苹果风控机制可能会临时锁定账号。
 - **千万不要自行点击解锁或找回密码**；
-- 返回本站的 [小火箭共享账号网站页面](/airport/apple-id-shared.html)，刷新页面更换另外一组备用账号重新尝试即可。
+- 返回本站的 [小火箭共享账号网站页面](/airport/apple-id-shared)，刷新页面更换另外一组备用账号重新尝试即可。
 
 ### Q3：暗影火箭节点测速显示数值很小，但看 4K 视频很卡？
 暗影火箭首页的测速测的是 **TCP 握手延迟**（响应快慢），并不是实际的 **网络下载带宽**。
 - 看 4K 视频卡顿通常是因为所选节点带宽拥挤、或是晚高峰期间普通直连线路受到了运营商 QoS 限速。
-- 建议优先选用标有 **IEPL 专线** 或 **IPLC 专线** 的节点，或者选择 [高品质专线机场](/airport/iepl-iplc.html)。
+- 建议优先选用标有 **IEPL 专线** 或 **IPLC 专线** 的节点，或者选择 [高品质专线机场](/airport/iepl-iplc)。
 
 ---
 
@@ -176,9 +176,9 @@ head:
 无论是搜索“暗影火箭”、“影子火箭”还是“小火箭”，认准英文原名 **Shadowrocket** 以及官方开发者 **Shadow Launch Technology Limited** 是避免踩坑的第一准则。配合正规海外 Apple ID 或安全的共享账号，搭配一份高性价比的优质机场订阅，你的 iPhone / iPad 就能拥有最稳定、极速且安全的科学上网体验。
 
 **推荐进阶指南：**
-- 💻 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows.html)
-- 📱 [2026 最新小火箭共享账号网站推荐与免费 Apple ID 获取](/proxy/xiaohuojian-gongxiang-zhanghao.html)
-- 🚀 [2026年最新梯子推荐：机场梯子 vs VPN 梯子全面解析](/proxy/tizi-guide-2026.html)
-- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
-- 💰 [高性价比机场与Clash节点选购避坑指南](/proxy/cost-effective-airport-guide.html)
-- 🌐 [全平台科学上网代理客户端下载大全](/proxy/clients.html)
+- 💻 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows)
+- 📱 [2026 最新小火箭共享账号网站推荐与免费 Apple ID 获取](/proxy/xiaohuojian-gongxiang-zhanghao)
+- 🚀 [2026年最新梯子推荐：机场梯子 vs VPN 梯子全面解析](/proxy/tizi-guide-2026)
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide)
+- 💰 [高性价比机场与Clash节点选购避坑指南](/proxy/cost-effective-airport-guide)
+- 🌐 [全平台科学上网代理客户端下载大全](/proxy/clients)

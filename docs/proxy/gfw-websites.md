@@ -39,28 +39,28 @@ tag:
 利用“系统提示”功能定制对话风格和内容方向，提高回答的相关性和专业度。
 :::
 
-👉 **详细教程**：[ChatGPT 使用指南](/ai/chatgpt.html) | 国内无法访问？试试 [镜像站点](/ai/chatgpt.html#国内-chatgpt-镜像网站推荐) | [合租平台推荐](/account/platforms.html)
+👉 **详细教程**：[ChatGPT 使用指南](/ai/chatgpt) | 国内无法访问？试试 [镜像站点](/ai/chatgpt#国内-chatgpt-镜像网站推荐) | [合租平台推荐](/account/platforms)
 
 ### Google Gemini
 - **官网地址**：[https://gemini.google.com](https://gemini.google.com)
 - **核心定位**：Google 开发的多模态 AI 模型。
 - **必看理由**：支持文本、图像等多种输入形式，生成能力强大。适合需要跨模态内容创作的用户。完全免费使用。
 
-👉 **详细教程**：[Gemini 使用指南](/ai/gemini.html) | [合租平台推荐](/account/platforms.html)
+👉 **详细教程**：[Gemini 使用指南](/ai/gemini) | [合租平台推荐](/account/platforms)
 
 ### Claude
 - **官网地址**：[https://claude.ai](https://claude.ai)
 - **核心定位**：Anthropic 开发的 AI 助手，代码和写作能力极强。
 - **必看理由**：Artifacts 实时预览功能独一无二。200K 超长上下文窗口，翻译和写作质量极高，被认为是最像人类的 AI。
 
-👉 **详细教程**：[Claude 3.5 使用攻略](/ai/claude-guide.html) | [合租平台推荐](/account/platforms.html)
+👉 **详细教程**：[Claude 3.5 使用攻略](/ai/claude-guide) | [合租平台推荐](/account/platforms)
 
 ### Midjourney
 - **官网地址**：[https://www.midjourney.com](https://www.midjourney.com)
 - **核心定位**：顶级 AI 绘画工具，通过文字描述生成高质量图像。
 - **必看理由**：生成的图像质量是目前 AI 绘画界的天花板，风格多样，适合设计师、插画师和创意工作。
 
-👉 **详细教程**：[Midjourney 使用指南](/ai/midjourney-guide.html)
+👉 **详细教程**：[Midjourney 使用指南](/ai/midjourney-guide)
 
 ---
 
@@ -71,7 +71,7 @@ tag:
 - **核心定位**：高度隐私且功能强大的即时通讯软件。
 - **必看理由**：拥有极丰富的“频道”和“群组”生态，涵盖技术、新闻、资源分享。支持超大文件发送，隐私保护极佳。
 
-👉 [Telegram 注册使用教程](./telegram-guide.html) | [Telegram 搜索机器人推荐](./telegram-bot.html)
+👉 [Telegram 注册使用教程](./telegram-guide) | [Telegram 搜索机器人推荐](./telegram-bot)
 
 ### 2. X (原 Twitter)
 - **官网地址**：[https://x.com](https://x.com)
@@ -92,14 +92,14 @@ tag:
 - **核心定位**：全球最大的视频分享平台。
 - **必看理由**：内容海量，包括 4K 纪录片、顶级大学课程等。算法精准。订阅 YouTube Premium 可享受无广告体验。
 
-👉 [合租平台推荐](/account/platforms.html)
+👉 [合租平台推荐](/account/platforms)
 
 ### 2. Netflix (网飞)
 - **官网地址**：[https://www.netflix.com](https://www.netflix.com)
 - **核心定位**：全球顶级流媒体影视平台。
 - **必看理由**：海量高质量独家自制剧，画质极佳。追剧体验在流媒体界无出其右。
 
-👉 [合租平台推荐](/account/platforms.html)
+👉 [合租平台推荐](/account/platforms)
 
 ---
 
@@ -140,7 +140,7 @@ tag:
 ---
 
 - [便宜好用的机场推荐](/airport/)
-- [VPN 选购避坑指南](./vpn-guide.html)
-- [Telegram 注册使用教程](./telegram-guide.html)
+- [VPN 选购避坑指南](./vpn-guide)
+- [Telegram 注册使用教程](./telegram-guide)
 - [科学上网知识库首页](./README.md)
 - [回到首页](/)

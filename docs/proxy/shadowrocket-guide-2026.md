@@ -80,7 +80,7 @@ Shadowrocket在中国区App Store已下架，需要使用**美区Apple ID**下�
 
 我们提供免费共享美区Apple ID（仅供下载Shadowrocket使用）：
 
-**共享账号：** [查看免费美区Apple ID](/airport/apple-id-shared.html)
+**共享账号：** [查看免费美区Apple ID](/airport/apple-id-shared)
 
 **重要提示：**
 - ⚠️ 仅在App Store登录，切勿在iCloud登录
@@ -500,24 +500,24 @@ DOMAIN-SUFFIX,ad.com,REJECT
 ### 推荐阅读
 
 **基础教程：**
-- [2026年VPN推荐完整指南](/proxy/vpn-tuijian-2026.html)
-- [梯子推荐与选购指南](/proxy/tizi-guide-2026.html)
-- [VPN下载与客户端安装](/proxy/vpn-download-guide-2026.html)
+- [2026年VPN推荐完整指南](/proxy/vpn-tuijian-2026)
+- [梯子推荐与选购指南](/proxy/tizi-guide-2026)
+- [VPN下载与客户端安装](/proxy/vpn-download-guide-2026)
 
 **进阶教程：**
-- [iOS小火箭Shadowrocket详细配置](/airport/client-ios.html)
-- [美区Apple ID注册教程](/proxy/apple-id-guide.html)
-- [免费美区Apple ID共享](/airport/apple-id-shared.html)
+- [iOS小火箭Shadowrocket详细配置](/airport/client-ios)
+- [美区Apple ID注册教程](/proxy/apple-id-guide)
+- [免费美区Apple ID共享](/airport/apple-id-shared)
 
 **机场选择：**
-- [2026年机场推荐排行榜](/airport/best-airport-2026.html)
-- [便宜机场推荐（学生党）](/airport/cheap-airport.html)
-- [IPLC专线机场对比](/airport/iepl-iplc.html)
+- [2026年机场推荐排行榜](/airport/best-airport-2026)
+- [便宜机场推荐（学生党）](/airport/cheap-airport)
+- [IPLC专线机场对比](/airport/iepl-iplc)
 
 **问题解决：**
 - [科学上网常见问题169问](/faq/)
-- [机场避坑指南](/airport/choose-guide.html)
-- [翻墙后必逛网站推荐](/proxy/after-fanqiang-guide.html)
+- [机场避坑指南](/airport/choose-guide)
+- [翻墙后必逛网站推荐](/proxy/after-fanqiang-guide)
 
 ## 总结
 
@@ -544,7 +544,7 @@ DOMAIN-SUFFIX,ad.com,REJECT
 5. 合理使用流量避免浪费
 
 **下一步行动：**
-1. [获取美区Apple ID](/proxy/apple-id-guide.html)
+1. [获取美区Apple ID](/proxy/apple-id-guide)
 2. [下载Shadowrocket](#第二步下载shadowrocket)
 3. [选择合适的机场](/airport/)
 4. [导入订阅开始使用](#shadowrocket机场订阅配置)
@@ -557,6 +557,6 @@ DOMAIN-SUFFIX,ad.com,REJECT
 
 **相关链接：**
 - [机场推荐](/airport/)
-- [VPN推荐](/proxy/vpn-tuijian-2026.html)
-- [梯子推荐](/proxy/tizi-guide-2026.html)
+- [VPN推荐](/proxy/vpn-tuijian-2026)
+- [梯子推荐](/proxy/tizi-guide-2026)
 - [常见问题](/faq/)

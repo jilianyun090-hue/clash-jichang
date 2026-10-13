@@ -161,6 +161,6 @@ Hysteria 协议代表了新一代翻墙协议的发展方向。它通过革命�
 ---
 
 - [科学上网知识库首页](./README.md)
-- [SSR、VLESS 与 Trojan 协议对比](/proxy/protocol-comparison.html)
+- [SSR、VLESS 与 Trojan 协议对比](/proxy/protocol-comparison)
 - [机场推荐列表](/airport/)
 - [回到首页](/)

@@ -22,7 +22,7 @@ date: 2026-07-20
 ## 🔍 为什么最近频频出现机场跑路？
 
 除了部分不良机场老板从一开始就抱着“圈钱割韭菜”的心态外，目前行业上游的生存大环境也极其严峻：
-1. **中转线路大清退**：提供中转节点的国内各大核心机房正在进行史无前例的排查与拔线整顿，导致很多机场的中转入口接连失效。详细的技术背景可以参考我们的专题分析文章：[《国内中转拔线专线枯竭：2026中转机场的暗黑时刻》](/proxy/relay-crackdown-2026.html)。
+1. **中转线路大清退**：提供中转节点的国内各大核心机房正在进行史无前例的排查与拔线整顿，导致很多机场的中转入口接连失效。详细的技术背景可以参考我们的专题分析文章：[《国内中转拔线专线枯竭：2026中转机场的暗黑时刻》](/proxy/relay-crackdown-2026)。
 2. **重组成本过高**：一旦入口节点被拔，机场重新寻找稳定机房入口、额外部署专线的物理成本和时间成本极高。一旦资金链断裂或老板拿不到新的物理机房资源，往往会直接选择卷款蒸发。
 
 ---
@@ -33,21 +33,21 @@ date: 2026-07-20
 
 | 机场名称 | 风险确诊时间 | 目前状态 | 异常特征与避坑原因 | 详情与应对链接 |
 | :--- | :--- | :--- | :--- | :--- |
-| **CAC** | 2026-06-30 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 官网目前已无法访问。该机场与已确认跑路的“奈云”同属一个运营主体，存在极高联动跑路风险。 | [查看详情](/airport/paolu.html#同主体联动预警) |
-| **隐云** | 2026-06-30 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 官网、节点及客服出现大面积异常。与奈云属同一母体，随时可能彻底断线。 | [隐云深度评测与警告](/airport/yinyun.html) |
-| **奈云** | 2026-06-09 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | **已确诊倒闭跑路**。客服失联、节点全灭、官网打不开、订阅链接失效，官方Telegram群已解散。 | [奈云深度评测与警告](/airport/naiyun.html) |
-| **Koodog** | 2026-06-01 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 官网异常跳转到其他网站，订阅完全不可用，群内集中报障，老板处于失联状态。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **OKAC** | 2026-05-11 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 核心A线反复故障，多线路失联，数据丢失且补单失败。与奈云为同运营主体。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **小火箭** | 2026年初 | <span style="color: #ff4d4f; font-weight: bold;">🔥 极高危</span> | 节点连通率极低，网络红成一片，工单完全装死不回，但官网仍在诱导充值。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **Crelay** | 2026-04 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 节点大面积全红，线路极度不稳定。客服工单已多日无人回复，官网目前仍可充值，切勿付款！ | [避坑防骗指南](/airport/choose-guide.html) |
-| **蜜糖云** | 2026-04-03 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 全部节点彻底离线，发出的所有客服工单石沉大海，属于官网能打开但已停服的“僵尸跑路”。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **忍者云** | 2026-04-10 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 节点长期断连不维护，工单、邮件均无回复，其官方 Telegram 频道已停止更新。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **Lray** | 2026-02-28 | <span style="color: #ff4d4f; font-weight: bold;">🔥 极高危</span> | 线路长期全黑，专用 App 完全失效，工单挂起超过 48 小时。但官网居然仍在招揽新客。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **洞墙 (DlerCloud)** | 2026-02-26 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 曾经的知名机场，官网已彻底关闭，节点全部停止服务，高管团队集体失联。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **小牛云** | 2025-12-01 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 节点严重摆烂，客服不再回复。官网却依然开通着收银台进行最后的割韭菜。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **阿童木** | 2025-02-23 | <span style="color: #ff4d4f; font-weight: bold;">🔥 极高危</span> | 几乎所有可用节点连不上，客服音讯全无，仅充值入口依然坚挺在收费。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **SFCloud / FCCloud** | 2025-02-11 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 官网打不开，节点全部离线，发工单及官方邮件均被原样退回。 | [避坑防骗指南](/airport/choose-guide.html) |
-| **EFCloud** | 2025-01-25 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 节点完全断开。官方群组甚至直接发布了摆烂迁移说明，确认停止原项目服务。 | [避坑防骗指南](/airport/choose-guide.html) |
+| **CAC** | 2026-06-30 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 官网目前已无法访问。该机场与已确认跑路的“奈云”同属一个运营主体，存在极高联动跑路风险。 | [查看详情](/airport/paolu#同主体联动预警) |
+| **隐云** | 2026-06-30 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 官网、节点及客服出现大面积异常。与奈云属同一母体，随时可能彻底断线。 | [隐云深度评测与警告](/airport/yinyun) |
+| **奈云** | 2026-06-09 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | **已确诊倒闭跑路**。客服失联、节点全灭、官网打不开、订阅链接失效，官方Telegram群已解散。 | [奈云深度评测与警告](/airport/naiyun) |
+| **Koodog** | 2026-06-01 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 官网异常跳转到其他网站，订阅完全不可用，群内集中报障，老板处于失联状态。 | [避坑防骗指南](/airport/choose-guide) |
+| **OKAC** | 2026-05-11 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 核心A线反复故障，多线路失联，数据丢失且补单失败。与奈云为同运营主体。 | [避坑防骗指南](/airport/choose-guide) |
+| **小火箭** | 2026年初 | <span style="color: #ff4d4f; font-weight: bold;">🔥 极高危</span> | 节点连通率极低，网络红成一片，工单完全装死不回，但官网仍在诱导充值。 | [避坑防骗指南](/airport/choose-guide) |
+| **Crelay** | 2026-04 | <span style="color: #faad14; font-weight: bold;">⚠️ 预警中</span> | 节点大面积全红，线路极度不稳定。客服工单已多日无人回复，官网目前仍可充值，切勿付款！ | [避坑防骗指南](/airport/choose-guide) |
+| **蜜糖云** | 2026-04-03 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 全部节点彻底离线，发出的所有客服工单石沉大海，属于官网能打开但已停服的“僵尸跑路”。 | [避坑防骗指南](/airport/choose-guide) |
+| **忍者云** | 2026-04-10 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 节点长期断连不维护，工单、邮件均无回复，其官方 Telegram 频道已停止更新。 | [避坑防骗指南](/airport/choose-guide) |
+| **Lray** | 2026-02-28 | <span style="color: #ff4d4f; font-weight: bold;">🔥 极高危</span> | 线路长期全黑，专用 App 完全失效，工单挂起超过 48 小时。但官网居然仍在招揽新客。 | [避坑防骗指南](/airport/choose-guide) |
+| **洞墙 (DlerCloud)** | 2026-02-26 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 曾经的知名机场，官网已彻底关闭，节点全部停止服务，高管团队集体失联。 | [避坑防骗指南](/airport/choose-guide) |
+| **小牛云** | 2025-12-01 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 节点严重摆烂，客服不再回复。官网却依然开通着收银台进行最后的割韭菜。 | [避坑防骗指南](/airport/choose-guide) |
+| **阿童木** | 2025-02-23 | <span style="color: #ff4d4f; font-weight: bold;">🔥 极高危</span> | 几乎所有可用节点连不上，客服音讯全无，仅充值入口依然坚挺在收费。 | [避坑防骗指南](/airport/choose-guide) |
+| **SFCloud / FCCloud** | 2025-02-11 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 官网打不开，节点全部离线，发工单及官方邮件均被原样退回。 | [避坑防骗指南](/airport/choose-guide) |
+| **EFCloud** | 2025-01-25 | <span style="color: #ff4d4f; font-weight: bold;">❌ 已跑路</span> | 节点完全断开。官方群组甚至直接发布了摆烂迁移说明，确认停止原项目服务。 | [避坑防骗指南](/airport/choose-guide) |
 
 ### ⚠️ 关于同主体联动预警的说明 {#同主体联动预警}
 在机场行业中，很多机场虽然冠以不同的名字（如 **奈云、隐云、CAC、OKAC**），但实际上它们由**同一个团队或同一个代理系统后台**所控制（通常支付接口或域名解析具有极高重合度）。
@@ -79,7 +79,7 @@ date: 2026-07-20
 1. **别轻易冲年费，月付/季付保平安**
    主力机场哪怕再好，也最好按月或者按季度付钱。即使机场真的跑路了，损失的也不过是一包烟钱，随时可以轻松换新。
 2. **手里必须常备“按量计费”的备胎**
-   不要把所有鸡蛋放进同一个篮子。除了包月的主力机场外，建议备一个没有时间限制、仅按流量计费的便宜直连/中转机场（如 [极连云机场](/airport/jilianyun.html)）。主力节点出故障时，备用线路能保证你随时有网可用。
+   不要把所有鸡蛋放进同一个篮子。除了包月的主力机场外，建议备一个没有时间限制、仅按流量计费的便宜直连/中转机场（如 [极连云机场](/airport/jilianyun)）。主力节点出故障时，备用线路能保证你随时有网可用。
 3. **见势不对，赶紧撤退**
    如果发现群里已经哀嚎一片，且老板在长达数日内装死或敷衍，别存任何“机场重组后满血复活”的幻想，立即关闭支付软件的自动续费，防止被持续扣款。
 
@@ -89,5 +89,5 @@ date: 2026-07-20
 
 如果您也遇到了以上名单中未列出的跑路或异常机场，欢迎随时在页面下方留言爆料，我们会核实并第一时间更新，共同维护清爽、安全的上网环境！
 
-* **其他优质且经受时间检验的备用机场推荐：** [2026稳定机场排行榜 TOP 10](/airport/best-airport-2026.html)
-* **掌握科学上网客户端配置，确保双订阅切换：** [Clash & 苹果小火箭导入指南](/airport/subscription-guide.html)
+* **其他优质且经受时间检验的备用机场推荐：** [2026稳定机场排行榜 TOP 10](/airport/best-airport-2026)
+* **掌握科学上网客户端配置，确保双订阅切换：** [Clash & 苹果小火箭导入指南](/airport/subscription-guide)

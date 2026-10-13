@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "postbuild": "node scripts/fix-sitemap.js && node scripts/submit-indexnow.js"
+    "postbuild": "node scripts/fix-clean-links.js && node scripts/fix-sitemap.js && node scripts/submit-indexnow.js"
   },
   "type": "module",
   "keywords": [],

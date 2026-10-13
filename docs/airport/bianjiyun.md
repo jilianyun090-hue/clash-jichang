@@ -119,9 +119,9 @@ date: 2026-05-29
 5. 将订阅链接导入 Clash Verge Rev（Windows）或 Shadowrocket（iOS）即可使用
 
 > 如需客户端下载与配置指南，请参考：
-> - [Windows 端 Clash Verge Rev 配置教程](/airport/client-windows.html)
-> - [iOS 端 Shadowrocket 配置教程](/airport/client-ios.html)
-> - [Android 端 Clash Meta 配置教程](/airport/client-android.html)
+> - [Windows 端 Clash Verge Rev 配置教程](/airport/client-windows)
+> - [iOS 端 Shadowrocket 配置教程](/airport/client-ios)
+> - [Android 端 Clash Meta 配置教程](/airport/client-android)
 
 ---
 

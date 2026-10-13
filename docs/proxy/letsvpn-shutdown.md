@@ -108,5 +108,5 @@ date: 2026-04-28
 ---
 
 - [科学上网知识库首页](/proxy/)
-- [中转机场的至暗时刻](/proxy/relay-darkest-hour.html)
+- [中转机场的至暗时刻](/proxy/relay-darkest-hour)
 - [回到首页](/)

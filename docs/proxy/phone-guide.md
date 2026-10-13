@@ -35,7 +35,7 @@ iOS 平台的黄金标准工具是 **Shadowrocket (小火箭)**。
 
 ### 2. 操作前提：美区 Apple ID
 中国区 App Store 已下架所有此类软件。你需要登录港区或美区 Apple ID 进行下载。
-- 👉 [2026 最新美区 Apple ID 获取与合租指南](/proxy/apple-id-guide.html)
+- 👉 [2026 最新美区 Apple ID 获取与合租指南](/proxy/apple-id-guide)
 
 ### 3. 连接步骤
 1.  **下载软件**：在美区商店搜索并付费下载 Shadowrocket。

@@ -79,10 +79,10 @@ date: 2026-06-20
 3. 一键点击保存至您的设备剪贴板。
 
 ### 2. 多端配置指引
-- 💻 **Windows/macOS**：推荐使用 Clash Verge Rev。教程参考 [Clash Verge Rev 电脑端配置教程](/airport/client-windows.html)。
-- 📱 **Android 手机**：推荐 Clash Meta for Android。教程参考 [Clash Meta for Android 安装配置指南](/airport/client-android.html)。
-- 🍎 **iOS 苹果手机**：推荐使用 Shadowrocket（小火箭）。教程参考 [Shadowrocket 小火箭配置与导入教程](/airport/client-ios.html)；若需要 Apple ID，可获取 [已购小火箭共享苹果 ID 账号](/airport/apple-id-shared.html)。
-- 📦 **全平台客户端**：请查看 [2026 全平台科学上网软件客户端官方下载指南](/airport/software.html)。
+- 💻 **Windows/macOS**：推荐使用 Clash Verge Rev。教程参考 [Clash Verge Rev 电脑端配置教程](/airport/client-windows)。
+- 📱 **Android 手机**：推荐 Clash Meta for Android。教程参考 [Clash Meta for Android 安装配置指南](/airport/client-android)。
+- 🍎 **iOS 苹果手机**：推荐使用 Shadowrocket（小火箭）。教程参考 [Shadowrocket 小火箭配置与导入教程](/airport/client-ios)；若需要 Apple ID，可获取 [已购小火箭共享苹果 ID 账号](/airport/apple-id-shared)。
+- 📦 **全平台客户端**：请查看 [2026 全平台科学上网软件客户端官方下载指南](/airport/software)。
 
 ---
 
@@ -106,6 +106,6 @@ A：
 ## 🔗 相关专题扩展阅读
 
 * 🏆 **[2026年稳定高性价比翻墙机场推荐排行榜](/airport/)**
-* 💰 **[学生党便宜机场精选推荐](/airport/cheap-airport.html)**
-* 🛡 **[科学上网机场选购防跑路指南](/airport/choose-guide.html)**
+* 💰 **[学生党便宜机场精选推荐](/airport/cheap-airport)**
+* 🛡 **[科学上网机场选购防跑路指南](/airport/choose-guide)**
 * 🏠 **[返回道一博客首页](/)**

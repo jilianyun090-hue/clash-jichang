@@ -219,7 +219,7 @@ tag:
 
 建议路线：**购买入门机场套餐 → 下载 Clash 客户端 → 导入订阅链接 → 规则模式运行**。
 
-> 🚀 **立即开始**：查看 **[2026年便宜好用VPN机场排行（最低¥8/月，持续更新）](/airport/)** | **[Clash 客户端下载](/airport/software.html)** | **[学生党便宜机场专区](/airport/cheap-airport.html)**
+> 🚀 **立即开始**：查看 **[2026年便宜好用VPN机场排行（最低¥8/月，持续更新）](/airport/)** | **[Clash 客户端下载](/airport/software)** | **[学生党便宜机场专区](/airport/cheap-airport)**
 
 ---
 

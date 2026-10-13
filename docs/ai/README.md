@@ -12,31 +12,31 @@ head:
 ## 热门 AI 工具
 
 <div class="card-grid">
-  <a class="card-item" href="./chatgpt.html">
+  <a class="card-item" href="./chatgpt">
     <div class="card-title">ChatGPT 使用指南</div>
     <div class="card-desc">OpenAI旗下全球最知名AI助手，支持国内镜像直连，Prompt技巧大全。</div>
   </a>
-  <a class="card-item" href="./claude-guide.html">
+  <a class="card-item" href="./claude-guide">
     <div class="card-title">Claude 使用攻略</div>
     <div class="card-desc">Anthropic出品，代码生成与长文写作最强AI，含注册教程与镜像站。</div>
   </a>
-  <a class="card-item" href="./gemini.html">
+  <a class="card-item" href="./gemini">
     <div class="card-title">Google Gemini 指南</div>
     <div class="card-desc">Google最强多模态AI，深度联网搜索，国内镜像直连教程。</div>
   </a>
-  <a class="card-item" href="./grok-guide.html">
+  <a class="card-item" href="./grok-guide">
     <div class="card-title">Grok 使用攻略</div>
     <div class="card-desc">xAI出品，马斯克主导，实时联网，X平台深度整合。</div>
   </a>
-  <a class="card-item" href="./midjourney-guide.html">
+  <a class="card-item" href="./midjourney-guide">
     <div class="card-title">Midjourney AI绘画</div>
     <div class="card-desc">最强AI图像生成工具，Prompt技巧与风格调整完整教程。</div>
   </a>
-  <a class="card-item" href="./cursor-guide.html">
+  <a class="card-item" href="./cursor-guide">
     <div class="card-title">Cursor AI 编程</div>
     <div class="card-desc">AI辅助编程神器，让代码效率提升10倍的使用方法。</div>
   </a>
-  <a class="card-item" href="./openclaw-guide.html">
+  <a class="card-item" href="./openclaw-guide">
     <div class="card-title">OpenClaw (小龙虾) 教程</div>
     <div class="card-desc">史上最全手把手安装配置教程，支持接入飞书、Telegram 机器人。</div>
   </a>
@@ -48,12 +48,12 @@ AI 中转站适合需要在国内模型、海外模型、代码模型和生图�
 
 | 平台 | 主要定位 | 适合人群 | 评测 |
 | :--- | :--- | :--- | :--- |
-| 黑喵中转站 | 主打国内模型与中文任务 | 中文写作、总结、客服、国内模型 API | [查看黑喵评测](./heimao-ai-review.html) |
-| 快 AI 模型 | 多供应商、多模型切换 | GPT、Claude、DeepSeek、Gemini 对比使用 | [查看快 AI 评测](./kuai-ai-review.html) |
-| 科技狐模型 | 模型分组与倍率筛选 | 关注成本、代码、视觉和生图的用户 | [查看科技狐评测](./keji-hu-review.html) |
-| 犀速AI | Claude、GPT、Gemini、Grok 与图像模型聚合，国内网络可直接使用 Codex、Gemini | 需要多模型筛选、API 接入和 Token 成本比较的用户 | [查看犀速AI评测](./xisu-ai-review.html) |
+| 黑喵中转站 | 主打国内模型与中文任务 | 中文写作、总结、客服、国内模型 API | [查看黑喵评测](./heimao-ai-review) |
+| 快 AI 模型 | 多供应商、多模型切换 | GPT、Claude、DeepSeek、Gemini 对比使用 | [查看快 AI 评测](./kuai-ai-review) |
+| 科技狐模型 | 模型分组与倍率筛选 | 关注成本、代码、视觉和生图的用户 | [查看科技狐评测](./keji-hu-review) |
+| 犀速AI | Claude、GPT、Gemini、Grok 与图像模型聚合，国内网络可直接使用 Codex、Gemini | 需要多模型筛选、API 接入和 Token 成本比较的用户 | [查看犀速AI评测](./xisu-ai-review) |
 
-详细的模型覆盖、计费核对和隐私建议，请阅读[2026 AI中转站总览与选型指南](./ai-relay-stations-2026.html)。平台模型、价格和活动会变化，使用前请以官方页面为准。
+详细的模型覆盖、计费核对和隐私建议，请阅读[2026 AI中转站总览与选型指南](./ai-relay-stations-2026)。平台模型、价格和活动会变化，使用前请以官方页面为准。
 
 ### 四个平台注册链接
 

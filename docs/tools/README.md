@@ -15,8 +15,8 @@ description: "2026年流媒体与 AI 账号合租工具推荐：涵盖 Netflix�
 | **YouTube P** | ¥5 - ¥10 | ✅ 独立邮箱账号 |
 
 ## 快速入口
-*   **[账号合租行情详情](/account/price.html)**
-*   **[前往认证合租平台](/account/platforms.html)**
+*   **[账号合租行情详情](/account/price)**
+*   **[前往认证合租平台](/account/platforms)**
 
 ::: danger 风险提示
 合租虽然便宜，但请务必不要随意更改共享账号的密码或主设置，以免影响同车其他用户导致封号。

@@ -264,6 +264,6 @@ tag:
 ---
 
 - [科学上网知识库首页](./README.md)
-- [被墙网站大全](/proxy/gfw-websites.html)
+- [被墙网站大全](/proxy/gfw-websites)
 - [机场推荐列表](/airport/)
 - [回到首页](/)

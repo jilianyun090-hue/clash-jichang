@@ -45,6 +45,6 @@ date: 2026-09-15
 
 灯塔机场支持标准订阅链接，可完美适配各种主流代理客户端：
 
-* 💻 **Windows 电脑端**：推荐使用 [Clash Verge Rev Windows 配置教程](/airport/client-windows.html) 一键导入订阅。
-* 📱 **Android 手机端**：参考 [Clash Meta Android 安卓端配置指南](/airport/client-android.html)。
-* 🍎 **iOS 苹果端**：参考 [Shadowrocket 小火箭配置教程](/airport/client-ios.html)。
+* 💻 **Windows 电脑端**：推荐使用 [Clash Verge Rev Windows 配置教程](/airport/client-windows) 一键导入订阅。
+* 📱 **Android 手机端**：参考 [Clash Meta Android 安卓端配置指南](/airport/client-android)。
+* 🍎 **iOS 苹果端**：参考 [Shadowrocket 小火箭配置教程](/airport/client-ios)。

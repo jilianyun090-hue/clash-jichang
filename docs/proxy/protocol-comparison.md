@@ -178,6 +178,6 @@ SSR 灵活的混淆插件体系让它在需要精细调节流量特征时占有�
 ---
 
 - [科学上网知识库首页](./README.md)
-- [Hysteria 协议解析](/proxy/hysteria-guide.html)
+- [Hysteria 协议解析](/proxy/hysteria-guide)
 - [机场推荐列表](/airport/)
 - [回到首页](/)

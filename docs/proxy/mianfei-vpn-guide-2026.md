@@ -144,7 +144,7 @@ category:
 - 所在网络是否可以正常下载、登录和连接
 - 退款、续费与客服规则（若计划升级）
 
-例如，[Proton VPN 免费版官方说明](https://protonvpn.com/free-vpn)当前写明不限流量，因此“Proton 免费版只有几百 MB 流量”并不准确。其他产品的规则也应分别核对。详细对比见[Proton、Nord 与 Urban VPN 选购指南](/proxy/proton-nord-urban-vpn-guide.html)。
+例如，[Proton VPN 免费版官方说明](https://protonvpn.com/free-vpn)当前写明不限流量，因此“Proton 免费版只有几百 MB 流量”并不准确。其他产品的规则也应分别核对。详细对比见[Proton、Nord 与 Urban VPN 选购指南](/proxy/proton-nord-urban-vpn-guide)。
 
 **适用场景：** 取决于地区、网络环境和所需功能，先试用再判断是否适合作为长期方案。
 
@@ -269,7 +269,7 @@ category:
 - 50GB流量
 - 中转+专线混合
 - 极低预算入门
-- **👉 [查看详情](/airport/cheap-airport.html)**
+- **👉 [查看详情](/airport/cheap-airport)**
 
 **性价比计算：**
 - ¥8/月 ÷ 30天 = **每天¥0.27**
@@ -332,7 +332,7 @@ category:
 - 总成本仍然很低（¥11-20/月）
 - 大大提升使用稳定性
 
-**详细策略：** [备用机场与双订阅策略](/proxy/backup-airport-guide.html)
+**详细策略：** [备用机场与双订阅策略](/proxy/backup-airport-guide)
 
 ## 免费VPN常见问题解答
 
@@ -364,11 +364,11 @@ category:
 
 ### Q4：为什么不直接推荐几个免费VPN？
 
-**A：** 不宜把所有免费产品当成同一类。已有公开免费计划的服务，可先看[官方功能说明与隐私政策](/proxy/proton-nord-urban-vpn-guide.html)；来源不明的共享节点，则要先核查发布者和订阅内容。
+**A：** 不宜把所有免费产品当成同一类。已有公开免费计划的服务，可先看[官方功能说明与隐私政策](/proxy/proton-nord-urban-vpn-guide)；来源不明的共享节点，则要先核查发布者和订阅内容。
 
 **我们的建议：** 免费版能否满足需求，以你所在网络的实际测试为准；需要长期使用时，再对比月付套餐的线路、客服和退款规则。
 
-**完整对比：** [2026年VPN推荐与选择指南](/proxy/vpn-tuijian-2026.html)
+**完整对比：** [2026年VPN推荐与选择指南](/proxy/vpn-tuijian-2026)
 
 ### Q5：学生党预算有限怎么办？
 
@@ -377,7 +377,7 @@ category:
 **方案一：超低价机场（¥3-8/月）**
 - 相当于一杯奶茶的价格
 - 完全满足日常需求
-- [查看便宜机场推荐](/airport/cheap-airport.html)
+- [查看便宜机场推荐](/airport/cheap-airport)
 
 **方案二：与同学合租（人均¥3-5/月）**
 - 找2-3个同学共享账号
@@ -389,7 +389,7 @@ category:
 - ¥90-120/年（月均¥7.5-10）
 - 一年无忧
 
-**详细攻略：** [学生党科学上网省钱攻略](/airport/cheap-airport.html)
+**详细攻略：** [学生党科学上网省钱攻略](/airport/cheap-airport)
 
 ### Q6：免费VPN能解锁Netflix吗？
 
@@ -398,7 +398,7 @@ category:
 **解决方案：**
 - 先测试目标地区与内容是否可用
 - 购买前查看服务商是否说明支持范围和退款条件
-- [查看流媒体解锁指南](/proxy/streaming-unlock-guide.html)
+- [查看流媒体解锁指南](/proxy/streaming-unlock-guide)
 
 ### Q7：有永久免费的梯子吗？
 
@@ -412,7 +412,7 @@ category:
 **明智选择：**
 - 从官方网站核对免费计划的条件
 - 如需付费，先用短周期套餐验证自己的使用场景
-- [查看梯子推荐指南](/proxy/tizi-guide-2026.html)
+- [查看梯子推荐指南](/proxy/tizi-guide-2026)
 
 ### Q8：免费VPN下载后如何使用？
 
@@ -429,7 +429,7 @@ category:
 3. 如使用机场订阅，按对应客户端的说明导入
 4. 先在非敏感场景测试连接
 
-**完整教程：** [VPN下载与客户端安装指南](/proxy/vpn-download-guide-2026.html)
+**完整教程：** [VPN下载与客户端安装指南](/proxy/vpn-download-guide-2026)
 
 ### Q9：免费VPN和付费VPN的本质区别是什么？
 
@@ -468,7 +468,7 @@ category:
 
 **客户端本身是免费的**，你需要付费购买的是机场订阅（提供节点）。
 
-**详细下载与配置：** [VPN软件下载完整指南](/proxy/vpn-download-guide-2026.html)
+**详细下载与配置：** [VPN软件下载完整指南](/proxy/vpn-download-guide-2026)
 
 ## 免费VPN替代方案：最佳实践
 
@@ -485,7 +485,7 @@ category:
 - 使用ChatGPT、Netflix
 - 多设备使用
 
-**推荐机场：** [性价比机场排行榜](/airport/best-airport-2026.html)
+**推荐机场：** [性价比机场排行榜](/airport/best-airport-2026)
 
 ### 进阶配置（月付¥25-30）
 
@@ -500,7 +500,7 @@ category:
 - 需要极高稳定性
 - 游戏加速、外贸工作
 
-**推荐机场：** [IPLC/IEPL专线机场对比](/airport/iepl-iplc.html)
+**推荐机场：** [IPLC/IEPL专线机场对比](/airport/iepl-iplc)
 
 ### 学生党配置（月付¥8-12）
 
@@ -515,7 +515,7 @@ category:
 - 轻度到中度使用
 - 日常学习查资料
 
-**推荐机场：** [便宜机场推荐（学生党专属）](/airport/cheap-airport.html)
+**推荐机场：** [便宜机场推荐（学生党专属）](/airport/cheap-airport)
 
 ## 总结：告别免费VPN，拥抱安全可靠的科学上网
 - 即使是有官方免费计划的服务，也需要在自己的网络环境中验证是否可连接
@@ -535,7 +535,7 @@ category:
 **推荐机场：**
 - [极连云](/airport/#极连云) - IPLC专线，¥8/月
 - [光年梯](/airport/#光年梯) - 老牌稳定，¥7.5/月
-- [便宜机场完整推荐](/airport/cheap-airport.html)
+- [便宜机场完整推荐](/airport/cheap-airport)
 
 ### Q6：学生党真的负担得起吗？
 
@@ -564,7 +564,7 @@ category:
 **对于不同预算的用户：**
 
 #### 极低预算（¥3-8/月）
-- [山海机场](/airport/cheap-airport.html) - ¥3/月50GB
+- [山海机场](/airport/cheap-airport) - ¥3/月50GB
 - [极连云](/airport/#极连云) - ¥8/月100GB IPLC专线
 
 #### 一般预算（¥10-20/月）
@@ -575,7 +575,7 @@ category:
 - [云图机场](/airport/#云图) - 金融级专线
 - [影子](/airport/#影子) - IEPL高端专线
 
-**查看完整推荐：** [2026年机场推荐排行榜](/airport/best-airport-2026.html)
+**查看完整推荐：** [2026年机场推荐排行榜](/airport/best-airport-2026)
 
 ### 下一步行动
 
@@ -584,16 +584,16 @@ category:
 3. **配置备用方案** - 重要使用场景避免依赖单一连接
 
 **新手推荐阅读：**
-- [什么是机场？机场与VPN的区别](/proxy/vpn-guide.html)
-- [如何选择机场避坑指南](/airport/choose-guide.html)
-- [机场订阅配置教程](/airport/subscription-guide.html)
-- [全平台客户端下载指南](/airport/software.html)
+- [什么是机场？机场与VPN的区别](/proxy/vpn-guide)
+- [如何选择机场避坑指南](/airport/choose-guide)
+- [机场订阅配置教程](/airport/subscription-guide)
+- [全平台客户端下载指南](/airport/software)
 
 ---
 
 **记住：** 天下没有免费的午餐。在互联网隐私越来越重要的今天，为你的数据安全投资每月几块钱，是最明智的选择。
 
 **相关阅读：**
-- [2026年梯子推荐完整指南](/proxy/tizi-guide-2026.html)
-- [小火箭完整使用教程](/proxy/xiaohuo-jian-guide-2026.html)
+- [2026年梯子推荐完整指南](/proxy/tizi-guide-2026)
+- [小火箭完整使用教程](/proxy/xiaohuo-jian-guide-2026)
 - [科学上网常见问题169题](/faq/)

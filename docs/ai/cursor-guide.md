@@ -160,8 +160,8 @@ Cursor 承诺不会使用用户代码进行训练。Pro 用户可以开启隐私
 
 ---
 
-- [Midjourney AI 绘画指南](./midjourney-guide.html)
+- [Midjourney AI 绘画指南](./midjourney-guide)
 - [AI 工具导航](/ai/)
-- [合租平台推荐](/account/platforms.html)
+- [合租平台推荐](/account/platforms)
 - [机场推荐](/airport/)
 - [回到首页](/)

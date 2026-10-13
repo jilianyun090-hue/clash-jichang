@@ -81,4 +81,4 @@ AI 中转站通常把多个模型供应商、统一余额或 API 接口整合到
 
 AI 中转站适合降低多模型使用门槛，但不能替代对模型来源、数据隐私和成本的判断。最稳妥的方式是保留一个主力平台和一个备用平台，重要任务同时保留官方 API 或本地模型方案。
 
-继续阅读：[ChatGPT 使用指南](./chatgpt.html) · [Claude 使用攻略](./claude-guide.html) · [Gemini 指南](./gemini.html) · [AI 工具首页](./)
+继续阅读：[ChatGPT 使用指南](./chatgpt) · [Claude 使用攻略](./claude-guide) · [Gemini 指南](./gemini) · [AI 工具首页](./)

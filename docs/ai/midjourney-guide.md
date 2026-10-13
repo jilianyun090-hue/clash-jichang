@@ -128,8 +128,8 @@ Midjourney 目前主要通过 Discord 使用，你需要先注册一个 Discord 
 
 ---
 
-- [Cursor AI 编程指南](./cursor-guide.html)
+- [Cursor AI 编程指南](./cursor-guide)
 - [AI 工具导航](/ai/)
-- [合租平台推荐](/account/platforms.html)
+- [合租平台推荐](/account/platforms)
 - [机场推荐](/airport/)
 - [回到首页](/)

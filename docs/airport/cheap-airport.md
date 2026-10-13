@@ -105,16 +105,16 @@ tag:
 ## 学生党使用建议
 
 1. **选月付**：第一次买任何机场，都选月付。哪怕年付很便宜，先月付用一个月确认稳定再续。
-2. **配合Clash**：下载 [Clash Verge Rev（免费）](/airport/software.html) 搭配机场订阅链接使用，分流规则自动处理国内外流量，不影响B站、微信等速度。
-3. **备用方案**：建议主力机场 + 1个按量付费备用机场（如 [极连云机场](/airport/jilianyun.html)），防止主力出问题时断网。
+2. **配合Clash**：下载 [Clash Verge Rev（免费）](/airport/software) 搭配机场订阅链接使用，分流规则自动处理国内外流量，不影响B站、微信等速度。
+3. **备用方案**：建议主力机场 + 1个按量付费备用机场（如 [极连云机场](/airport/jilianyun)），防止主力出问题时断网。
 
 ---
 
 ## 相关阅读
 
-- [一元机场与便宜机场的真实成本算法](/airport/one-yuan-airport-cost-2026.html)
+- [一元机场与便宜机场的真实成本算法](/airport/one-yuan-airport-cost-2026)
 - [2026年机场完整推荐列表（34家精选）](/airport/)
-- [IEPL专线是什么？为什么便宜机场也能是专线？](/airport/iepl-iplc.html)
-- [Clash Verge Rev 下载与配置教程](/airport/software.html)
-- [机场选购避坑指南](/airport/choose-guide.html)
+- [IEPL专线是什么？为什么便宜机场也能是专线？](/airport/iepl-iplc)
+- [Clash Verge Rev 下载与配置教程](/airport/software)
+- [机场选购避坑指南](/airport/choose-guide)
 - [回到首页](/)

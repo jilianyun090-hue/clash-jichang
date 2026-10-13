@@ -116,7 +116,7 @@ date: 2026-04-23
 
 BGP 就像一个万能适配器。如果机场使用 BGP 入口，它会**自动分配与你同运营商的线路**进行对接，从入口就彻底消除跨网损耗，让电信、联通、移动三网用户都能体验极速。
 
-> 关于 BGP 入口与专线的区别，可参考：[机场线路类型完全指南](/proxy/line-type-guide.html)
+> 关于 BGP 入口与专线的区别，可参考：[机场线路类型完全指南](/proxy/line-type-guide)
 
 ### ❌ 彻底放弃劣质直连节点
 
@@ -140,13 +140,13 @@ BGP 就像一个万能适配器。如果机场使用 BGP 入口，它会**自动
 | 地域物理距离 | 距出口城市越远延迟越高 | 选择距离最近的节点地区 |
 | 直连节点质量 | 普通直连受高峰拥挤影响大 | 选择 BGP 中转或专线套餐 |
 
-> 下一篇：[香港、日本、美国、新加坡节点，日常使用该怎么选地区？](/proxy/fanqiang-guide.html)
+> 下一篇：[香港、日本、美国、新加坡节点，日常使用该怎么选地区？](/proxy/fanqiang-guide)
 
 ---
 
-- [机场线路类型完全指南](/proxy/line-type-guide.html)
-- [直连、中转、IPLC/IEPL 专线怎么选？](/proxy/line-type-guide.html)
-- [SSR、VLESS、Trojan 协议速度对比](/proxy/protocol-comparison.html)
+- [机场线路类型完全指南](/proxy/line-type-guide)
+- [直连、中转、IPLC/IEPL 专线怎么选？](/proxy/line-type-guide)
+- [SSR、VLESS、Trojan 协议速度对比](/proxy/protocol-comparison)
 - [2026 机场推荐列表](/airport/)
 - [回到科学上网知识库](/proxy/)
 - [回到首页](/)

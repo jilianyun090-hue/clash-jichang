@@ -31,13 +31,13 @@ Windows 方面，官方修复了升级后文件权限异常导致无法启动、
 
 [mihomo 官方 v1.19.32 说明](https://github.com/MetaCubeX/mihomo/releases/tag/v1.19.32)以底层修复和维护为主，包括 TUN 默认网络栈、TCP 有效 MSS 计算、部分 UDP/ICMP 错误处理、AnyTLS 空闲会话并发问题等。普通用户不必手动改写不理解的内核参数，也不要把变更日志里的每项修复当作“所有机场节点提速”。
 
-如果机场明确要求较新的内核才能解析其配置，先确认你使用的客户端实际打包或运行的 mihomo 版本；客户端版本号与内核版本号不是一回事。升级时优先使用客户端自己的官方更新渠道，保留旧订阅地址和可恢复的配置。导入失败可继续按[订阅导入指南](/airport/subscription-guide.html)检查格式、套餐状态与链接完整性。
+如果机场明确要求较新的内核才能解析其配置，先确认你使用的客户端实际打包或运行的 mihomo 版本；客户端版本号与内核版本号不是一回事。升级时优先使用客户端自己的官方更新渠道，保留旧订阅地址和可恢复的配置。导入失败可继续按[订阅导入指南](/airport/subscription-guide)检查格式、套餐状态与链接完整性。
 
 这里还有一个容易误判的地方：发布说明写“支持某项网络能力”，不等于订阅会自动启用它。配置文件、内核和服务端必须分别满足条件；机场是否提供对应协议应由运营方说明。普通用户只需检查当前客户端能否正常解析订阅，以及更换一个已知可用节点后故障是否重现。没有证据时不要随意粘贴网上的 TUN、DNS 或内核配置片段，以免把原本能用的规则改坏。
 
 ## Android 用户也有一次近期维护更新
 
-[Clash Meta for Android v2.11.35](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.35)于 9 月 30 日发布，说明主要列出 Android TV 首页焦点状态修复与依赖更新。它不是“所有 Android 节点失效”的专项修复。手机端遇到断网，仍要先区分是订阅下载失败、节点连接失败，还是系统 VPN 权限与省电策略中断。操作入口见[Android Clash Meta 教程](/airport/client-android.html)。
+[Clash Meta for Android v2.11.35](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.35)于 9 月 30 日发布，说明主要列出 Android TV 首页焦点状态修复与依赖更新。它不是“所有 Android 节点失效”的专项修复。手机端遇到断网，仍要先区分是订阅下载失败、节点连接失败，还是系统 VPN 权限与省电策略中断。操作入口见[Android Clash Meta 教程](/airport/client-android)。
 
 ## 更新前后，按症状排查最省时间
 
@@ -55,4 +55,4 @@ Windows 方面，官方修复了升级后文件权限异常导致无法启动、
 
 对于同时使用 Windows 和手机的人，可以分别测试同一个机场的订阅。两台设备同时失败，服务侧或订阅凭证问题的可能性会增加；只在一台设备失败，客户端、系统权限或本机网络更值得先查。但这只是排查顺序，不是定论。最终仍应结合服务商公告、客户端日志和实际连接结果判断。
 
-这篇文章记录的是 2026 年 10 月 11 日核实到的公开版本信息，后续发布可能改变最新版本号。持续更新的入口是 [Clash Verge Rev Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)、[mihomo Releases](https://github.com/MetaCubeX/mihomo/releases) 和 [Clash Meta for Android Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)。了解软件下载及常规配置可看[全平台客户端汇总](/airport/software.html)；需要判断是否为机场线路问题，可看[机场选购与排查清单](/airport/clash-airport-purchase-checklist.html)。
+这篇文章记录的是 2026 年 10 月 11 日核实到的公开版本信息，后续发布可能改变最新版本号。持续更新的入口是 [Clash Verge Rev Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)、[mihomo Releases](https://github.com/MetaCubeX/mihomo/releases) 和 [Clash Meta for Android Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)。了解软件下载及常规配置可看[全平台客户端汇总](/airport/software)；需要判断是否为机场线路问题，可看[机场选购与排查清单](/airport/clash-airport-purchase-checklist)。

@@ -13,122 +13,122 @@ head:
 
 | 分类 | 适合解决的问题 | 推荐入口 |
 | :--- | :--- | :--- |
-| 入门与选购 | VPN、梯子、机场怎么选，如何避免跑路 | [机场关键词合并指南](./airport-keyword-guide-2026.html) · [免费机场与 GitHub 节点核查](./free-airport-github-guide.html) · [VPN推荐](./vpn-tuijian-2026.html) |
-| 线路与协议 | IPLC/IEPL、BGP、SSR、Trojan、Hysteria、AnyTLS | [线路类型解析](./line-type-guide.html) · [协议对比](./protocol-comparison.html) |
-| 客户端与订阅 | VPN下载、Clash、Shadowrocket、路由器配置 | [客户端汇总](./clients.html) · [VPN下载](./vpn-download-guide-2026.html) · [Windows VPN 类型](./windows-vpn-connection-types.html) |
-| 故障与应急 | 订阅失败、节点异常、机场失效、备用方案 | [备用机场策略](./backup-airport-guide.html) · [常见问题](/faq/) |
-| 海外工具与平台 | Telegram、被墙网站、翻墙后资源 | [Telegram指南](./telegram-guide.html) · [被墙网站大全](./gfw-websites.html) |
+| 入门与选购 | VPN、梯子、机场怎么选，如何避免跑路 | [机场关键词合并指南](./airport-keyword-guide-2026) · [免费机场与 GitHub 节点核查](./free-airport-github-guide) · [VPN推荐](./vpn-tuijian-2026) |
+| 线路与协议 | IPLC/IEPL、BGP、SSR、Trojan、Hysteria、AnyTLS | [线路类型解析](./line-type-guide) · [协议对比](./protocol-comparison) |
+| 客户端与订阅 | VPN下载、Clash、Shadowrocket、路由器配置 | [客户端汇总](./clients) · [VPN下载](./vpn-download-guide-2026) · [Windows VPN 类型](./windows-vpn-connection-types) |
+| 故障与应急 | 订阅失败、节点异常、机场失效、备用方案 | [备用机场策略](./backup-airport-guide) · [常见问题](/faq/) |
+| 海外工具与平台 | Telegram、被墙网站、翻墙后资源 | [Telegram指南](./telegram-guide) · [被墙网站大全](./gfw-websites) |
 
 ## Bing 关键词对应的新增专题
 
 截图中的“小火箭共享账号网站”“账号星球”“银河录像局”“奈飞”“LetsVPN”“Shadowrocket”“机场推荐”“梯子”等词已有独立页面，继续由现有页面承接。新补充的三组内容按搜索意图合并，避免同义词各建一篇重复文章：
 
-- [Proton VPN、NordVPN 与 Urban VPN 怎么选](./proton-nord-urban-vpn-guide.html)：承接品牌对比、free VPN、VPN free、VPN gratis 与 Windows 免费版需求。
-- [Windows VPN 连接类型与配置](./windows-vpn-connection-types.html)：区分 Windows 内置连接、Radmin VPN、FortiClient 与机场订阅。
-- [免费机场与 GitHub 节点核查](./free-airport-github-guide.html)：承接免费机场、公益机场、机场推荐 GitHub 和 Clash 订阅相关问题。
+- [Proton VPN、NordVPN 与 Urban VPN 怎么选](./proton-nord-urban-vpn-guide)：承接品牌对比、free VPN、VPN free、VPN gratis 与 Windows 免费版需求。
+- [Windows VPN 连接类型与配置](./windows-vpn-connection-types)：区分 Windows 内置连接、Radmin VPN、FortiClient 与机场订阅。
+- [免费机场与 GitHub 节点核查](./free-airport-github-guide)：承接免费机场、公益机场、机场推荐 GitHub 和 Clash 订阅相关问题。
 
 ## 2026 年 10 月新增专题
 
-- [Clash Verge Rev 2.5.8 与 mihomo 1.19.32 更新解读](./clash-verge-mihomo-october-2026.html)：依据官方发布说明，排查同名节点、系统服务、DNS 与 TUN 相关现象。
-- [一元机场的真实成本算法](/airport/one-yuan-airport-cost-2026.html)：用倍率、可用流量和晚高峰体验判断低价套餐。
-- [Clash 机场购买前核查清单](/airport/clash-airport-purchase-checklist.html)：确认官网入口、订阅格式、协议兼容与试用条款。
+- [Clash Verge Rev 2.5.8 与 mihomo 1.19.32 更新解读](./clash-verge-mihomo-october-2026)：依据官方发布说明，排查同名节点、系统服务、DNS 与 TUN 相关现象。
+- [一元机场的真实成本算法](/airport/one-yuan-airport-cost-2026)：用倍率、可用流量和晚高峰体验判断低价套餐。
+- [Clash 机场购买前核查清单](/airport/clash-airport-purchase-checklist)：确认官网入口、订阅格式、协议兼容与试用条款。
 
 ## 本站内容导览
 
 <div class="card-grid">
-  <a class="card-item" href="/proxy/vpn-guide.html">
+  <a class="card-item" href="/proxy/vpn-guide">
     <div class="card-title">科学上网入门指南</div>
     <div class="card-desc">什么是翻墙？机场与VPN有什么区别？如何选择适合你的方案？新手必读。</div>
   </a>
-  <a class="card-item" href="/proxy/fanqiang-guide.html">
+  <a class="card-item" href="/proxy/fanqiang-guide">
     <div class="card-title">翻墙代理工具完整指南</div>
     <div class="card-desc">Clash代理工具深度解析，科学上网、跨区解锁完整教程，从入门到精通。</div>
   </a>
-  <a class="card-item" href="/proxy/backup-airport-guide.html">
+  <a class="card-item" href="/proxy/backup-airport-guide">
     <div class="card-title">备用机场双订阅策略</div>
     <div class="card-desc">断网时连购买新机场的梯子都没了。老手必备的主力+备用双订阅策略，按量付费套餐最低成本防断网。</div>
   </a>
-  <a class="card-item" href="/proxy/mianfei-vpn-guide-2026.html">
+  <a class="card-item" href="/proxy/mianfei-vpn-guide-2026">
     <div class="card-title">免费VPN与免费梯子真相揭秘</div>
     <div class="card-desc">为什么不推荐免费VPN？深度分析免费翻墙工具的安全隐患、隐私风险，提供安全替代方案。</div>
   </a>
-  <a class="card-item" href="/proxy/vpn-download-guide-2026.html">
+  <a class="card-item" href="/proxy/vpn-download-guide-2026">
     <div class="card-title">VPN下载与客户端完整指南</div>
     <div class="card-desc">全平台VPN下载指南，Clash、V2Ray、Shadowrocket等主流客户端下载地址与配置教程。</div>
   </a>
-  <a class="card-item" href="/proxy/shadowrocket-official-download.html">
+  <a class="card-item" href="/proxy/shadowrocket-official-download">
     <div class="card-title">暗影火箭/小火箭官网下载与共享账号全指南</div>
     <div class="card-desc">揭秘Shadowrocket官网真伪，认准官方正版开发者，提供免费小火箭共享账号网站获取与iOS防锁机安全配置教学。</div>
   </a>
-  <a class="card-item" href="/proxy/shadowrocket-windows.html">
+  <a class="card-item" href="/proxy/shadowrocket-windows">
     <div class="card-title">Shadowrocket Windows电脑版与Shadowsocks下载</div>
     <div class="card-desc">Shadowrocket是否有Windows版？详解WSA安卓子系统运行小火箭以及Clash Verge Rev / Shadowsocks Windows PC端最佳替代选购与配置。</div>
   </a>
-  <a class="card-item" href="/account/netflix-hezu-guide.html">
+  <a class="card-item" href="/account/netflix-hezu-guide">
     <div class="card-title">2026 奈飞(Netflix)账号合租与防封指南</div>
     <div class="card-desc">银河录像局 vs 账号星球对比，奈飞同户装置限制解除，专属优惠码 (Theo / Lucky) 与 4K 流媒体解锁节点选择。</div>
   </a>
-  <a class="card-item" href="/proxy/cost-effective-airport-guide.html">
+  <a class="card-item" href="/proxy/cost-effective-airport-guide">
     <div class="card-title">2026高性价比机场与Clash节点选购指南</div>
     <div class="card-desc">深度对比免费公益节点与稳定专线梯子工具，解析晚高峰测速、4K流媒体解锁与Clash Verge节点导入避坑技巧。</div>
   </a>
-  <a class="card-item" href="/proxy/airport-keyword-guide-2026.html">
+  <a class="card-item" href="/proxy/airport-keyword-guide-2026">
     <div class="card-title">机场核心关键词合并与选购指南</div>
     <div class="card-desc">把机场推荐、稳定机场、便宜机场、IPLC/IEPL、节点地区、倍率、设备数与订阅故障等搜索词合并成一套实用选购方法。</div>
   </a>
-  <a class="card-item" href="/proxy/tizi-guide-2026.html">
+  <a class="card-item" href="/proxy/tizi-guide-2026">
     <div class="card-title">2026年梯子推荐与选购指南</div>
     <div class="card-desc">梯子是什么？机场梯子、VPN梯子、小火箭梯子全解析，稳定高速翻墙梯子推荐，全平台配置教程。</div>
   </a>
-  <a class="card-item" href="/proxy/xiaohuo-jian-guide-2026.html">
+  <a class="card-item" href="/proxy/xiaohuo-jian-guide-2026">
     <div class="card-title">小火箭Shadowrocket完整教程</div>
     <div class="card-desc">iOS最强翻墙工具小火箭完整使用指南，涵盖下载安装、订阅配置、共享账号获取、节点选择技巧。</div>
   </a>
-  <a class="card-item" href="/proxy/custom-client-guide.html">
+  <a class="card-item" href="/proxy/custom-client-guide">
     <div class="card-title">自研客户端 vs 开源软件怎么选</div>
     <div class="card-desc">不会配 Clash？深度对比机场自研客户端与传统开源软件，新手该怎么选一目了然。</div>
   </a>
-  <a class="card-item" href="/proxy/line-type-guide.html">
+  <a class="card-item" href="/proxy/line-type-guide">
     <div class="card-title">机场线路类型详解</div>
     <div class="card-desc">IPLC/IEPL专线、CN2、BGP中转的区别与优劣，帮你看懂机场套餐参数。</div>
   </a>
-  <a class="card-item" href="/proxy/isp-speed-differences.html">
+  <a class="card-item" href="/proxy/isp-speed-differences">
     <div class="card-title">电信/联通/移动翻墙速度差距大的真相</div>
     <div class="card-desc">同样的机场节点为何速度天差地别？深度解析三大运营商出海路由差异、跨网互联瓶颈与地域影响，移动用户必读。</div>
   </a>
-  <a class="card-item" href="/proxy/gfw-websites.html">
+  <a class="card-item" href="/proxy/gfw-websites">
     <div class="card-title">被墙网站大全</div>
     <div class="card-desc">国内无法访问的主流网站汇总，包含Google、YouTube、Twitter等平台状态。</div>
   </a>
-  <a class="card-item" href="/proxy/telegram-guide.html">
+  <a class="card-item" href="/proxy/telegram-guide">
     <div class="card-title">Telegram 使用指南</div>
     <div class="card-desc">Telegram注册、群组加入、隐私设置与科学上网完整攻略。</div>
   </a>
-  <a class="card-item" href="/proxy/clients.html">
+  <a class="card-item" href="/proxy/clients">
     <div class="card-title">三方客户端维护清单</div>
     <div class="card-desc">MetaCubeX核心兼容客户端列表、维护状态及GitHub地址汇总。</div>
   </a>
-  <a class="card-item" href="/proxy/protocol-comparison.html">
+  <a class="card-item" href="/proxy/protocol-comparison">
     <div class="card-title">SSR、VLESS 与 Trojan 协议对比</div>
     <div class="card-desc">深度对比三大主流翻墙协议的速度、抗封锁能力与适用场景，助你做出最优选择。</div>
   </a>
-  <a class="card-item" href="/proxy/hysteria-guide.html">
+  <a class="card-item" href="/proxy/hysteria-guide">
     <div class="card-title">Hysteria 协议全面解析</div>
     <div class="card-desc">基于 UDP/QUIC 的新一代高速翻墙协议，高丢包网络下速度最快，了解其原理与优势。</div>
   </a>
-  <a class="card-item" href="/proxy/anytls-guide.html">
+  <a class="card-item" href="/proxy/anytls-guide">
     <div class="card-title">AnyTLS 新协议深度指南</div>
     <div class="card-desc">由 sing-box 维护的全新 TLS 代理协议，通过自定义填充与空闲会话预热，兼顾安全隐蔽与极速响应。</div>
   </a>
-  <a class="card-item" href="/proxy/after-fanqiang-guide.html">
+  <a class="card-item" href="/proxy/after-fanqiang-guide">
     <div class="card-title">翻墙后必逛的海外热门网站</div>
     <div class="card-desc">老司机精心整理：社交APP、视频平台、音乐、游戏、购物、学习等必备海外资源导航。</div>
   </a>
-  <a class="card-item" href="/proxy/relay-crackdown-2026.html">
+  <a class="card-item" href="/proxy/relay-crackdown-2026">
     <div class="card-title">2026年4月中转拔线潮深度解析</div>
     <div class="card-desc">国内运营商专项治理下机场行业震荡，中转服务器大面积清退，解析行业趋势与用户应对策略。</div>
   </a>
-  <a class="card-item" href="/proxy/letsvpn-shutdown.html">
+  <a class="card-item" href="/proxy/letsvpn-shutdown">
     <div class="card-title">快连(LetsVPN)停运洗牌内幕</div>
     <div class="card-desc">快连宣布撤出大陆市场，深度复盘停运内幕，并为您提供紧急避险的可靠快连替代品指南。</div>
   </a>
@@ -140,5 +140,5 @@ head:
 
 ---
 
-- [机场选购避坑指南](/airport/choose-guide.html)
+- [机场选购避坑指南](/airport/choose-guide)
 - [回到首页](/)

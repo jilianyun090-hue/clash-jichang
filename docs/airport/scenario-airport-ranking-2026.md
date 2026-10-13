@@ -26,11 +26,11 @@ date: 2026-09-19
 ::: tip ⚡ 太长不看版：按需求场景快速选型表
 | 使用场景 | 首选推荐 | 备用方案 | 关键选型理由 | 价格区间 |
 | :--- | :--- | :--- | :--- | :--- |
-| 🎮 **外服游戏加速** | [**极连云**](/airport/jilianyun.html) | [**光年梯**](/airport/guangnianti.html) | IEPL/IPLC 专线，低 Ping 低抖动，晚高峰零丢包 | ¥8 - ¥25/月 |
-| 🎬 **4K流媒体/Netflix** | [**云图机场**](/airport/yuntu.html) | [**瞬云机场**](/airport/shunyun.html) | 金融级专线 + 8K 极速秒开，全区原生 IP 解锁 | ¥8.25 - ¥20/月 |
-| 📱 **TikTok跨境运营** | [**万达云**](https://nf.video/) | [**灵猫网络**](/airport/lingmao.html) | 独享原生住宅 IP 出口，避免被封号与限流 | ¥17 - ¥85/年 |
-| 💼 **日常办公/AI工具** | [**边缘节点**](/airport/bianyuanjiedian.html) | [**九云机场**](/airport/jiuyun.html) | 稳定中转架构，多设备在线，支持自研一键客户端 | ¥6 - ¥9/月 |
-| 💰 **极致性价比/入门** | [**快狸**](/airport/kuaili.html) | [**灯塔机场**](/airport/dengta.html) | 年付折合超低月费，入门小白无脑首选 | ¥10 - ¥16.6/月 |
+| 🎮 **外服游戏加速** | [**极连云**](/airport/jilianyun) | [**光年梯**](/airport/guangnianti) | IEPL/IPLC 专线，低 Ping 低抖动，晚高峰零丢包 | ¥8 - ¥25/月 |
+| 🎬 **4K流媒体/Netflix** | [**云图机场**](/airport/yuntu) | [**瞬云机场**](/airport/shunyun) | 金融级专线 + 8K 极速秒开，全区原生 IP 解锁 | ¥8.25 - ¥20/月 |
+| 📱 **TikTok跨境运营** | [**万达云**](https://nf.video/) | [**灵猫网络**](/airport/lingmao) | 独享原生住宅 IP 出口，避免被封号与限流 | ¥17 - ¥85/年 |
+| 💼 **日常办公/AI工具** | [**边缘节点**](/airport/bianyuanjiedian) | [**九云机场**](/airport/jiuyun) | 稳定中转架构，多设备在线，支持自研一键客户端 | ¥6 - ¥9/月 |
+| 💰 **极致性价比/入门** | [**快狸**](/airport/kuaili) | [**灯塔机场**](/airport/dengta) | 年付折合超低月费，入门小白无脑首选 | ¥10 - ¥16.6/月 |
 :::
 
 ---
@@ -57,34 +57,34 @@ date: 2026-09-19
 
 * **核心需求**：延迟控制在 15-30ms 之间，晚高峰拒绝跳 ping 与丢包。
 * **推荐方案**：
-  1. 🥇 **[极连云](/airport/jilianyun.html)**：全线路采用内网专线（IPLC/IEPL），避开公网拥堵，测试 Steam、APEX、Valorant 等外服游戏表现极其优异。
-  2. 🥈 **[光年梯](/airport/guangnianti.html)**：7.5元/月起即享 IPLC 专线，适合有游戏需求但预算有限的用户。
+  1. 🥇 **[极连云](/airport/jilianyun)**：全线路采用内网专线（IPLC/IEPL），避开公网拥堵，测试 Steam、APEX、Valorant 等外服游戏表现极其优异。
+  2. 🥈 **[光年梯](/airport/guangnianti)**：7.5元/月起即享 IPLC 专线，适合有游戏需求但预算有限的用户。
 
 ### 🎬 场景二：4K / 8K 高清流媒体与 AI 工具（大带宽 + 原生解锁）
 
 * **核心需求**：解锁 Netflix 4K 原生画质、Disney+、HBO 及 ChatGPT/Claude 无报错。
 * **推荐方案**：
-  1. 🥇 **[云图机场](/airport/yuntu.html)**：金融级专线保证充足带宽，视频拖动进度条无缓冲，IP 纯净度极高。
-  2. 🥈 **[瞬云机场](/airport/shunyun.html)**：Anycast 智能负载节点，晚高峰时段秒开 4K 视频毫无压力。
+  1. 🥇 **[云图机场](/airport/yuntu)**：金融级专线保证充足带宽，视频拖动进度条无缓冲，IP 纯净度极高。
+  2. 🥈 **[瞬云机场](/airport/shunyun)**：Anycast 智能负载节点，晚高峰时段秒开 4K 视频毫无压力。
 
 ### 📱 场景三：TikTok 跨境运营与外贸办公（住宅 IP + 环境纯净）
 
 * **核心需求**：需要真正的家庭住宅 IP（ISP 原生 IP），防止 TikTok 账号被风控限流或封号。
 * **推荐方案**：
-  1. 🥇 **万达云** / **[灵猫网络](/airport/lingmao.html)**：提供原生住宅出口 IP，针对跨境电商与 TikTok 视频发布做了特定路由优化。
+  1. 🥇 **万达云** / **[灵猫网络](/airport/lingmao)**：提供原生住宅出口 IP，针对跨境电商与 TikTok 视频发布做了特定路由优化。
 
 ### 💼 场景四：日常办公与小白新手（简单易用 + 备用保障）
 
 * **核心需求**：支持一键登录，无需复杂配置 Clash 配置文件。
 * **推荐方案**：
-  1. 🥇 **[边缘节点](/airport/bianyuanjiedian.html)**：自带官方自研客户端，登录账号即可一键使用，界面友好。
+  1. 🥇 **[边缘节点](/airport/bianyuanjiedian)**：自带官方自研客户端，登录账号即可一键使用，界面友好。
 
 ### 💰 场景五：极致性价比与学生党（便宜好用 + 低门槛）
 
 * **核心需求**：月均预算在 ¥10 元左右，流量够用即可。
 * **推荐方案**：
-  1. 🥇 **[快狸机场](/airport/kuaili.html)**：年付优惠后低至 ¥10/月。
-  2. 🥈 **[灯塔机场](/airport/dengta.html)**：轻量版年付折合 ¥16.6/月，提供 120GB/月大流量。
+  1. 🥇 **[快狸机场](/airport/kuaili)**：年付优惠后低至 ¥10/月。
+  2. 🥈 **[灯塔机场](/airport/dengta)**：轻量版年付折合 ¥16.6/月，提供 120GB/月大流量。
 
 ---
 
@@ -92,14 +92,14 @@ date: 2026-09-19
 
 在日常科学上网中，单机场难免遇到节点维护或特殊时期波动。资深用户通常使用 **“主力专线 + 高性价比备用”** 的双机场组合：
 
-- 🅰️ **主力机场**：选择 [极连云](/airport/jilianyun.html) 或 [云图机场](/airport/yuntu.html)（保证日常办公、游戏与 4K 解锁的高流畅度）。
-- 🅱️ **备用机场**：选择 [边缘节点](/airport/bianyuanjiedian.html) 或 [灯塔机场](/airport/dengta.html)（以较低成本防止单点故障）。
+- 🅰️ **主力机场**：选择 [极连云](/airport/jilianyun) 或 [云图机场](/airport/yuntu)（保证日常办公、游戏与 4K 解锁的高流畅度）。
+- 🅱️ **备用机场**：选择 [边缘节点](/airport/bianyuanjiedian) 或 [灯塔机场](/airport/dengta)（以较低成本防止单点故障）。
 
 ---
 
 ## 📖 相关推荐阅读
 
 - ✈️ [2026年便宜好用VPN机场推荐主页](/airport/)
-- 🏆 [2026年TOP 12稳定机场推荐排行榜](/airport/best-airport-2026.html)
-- 🛒 [2026年性价比高的机场推荐](/proxy/cost-effective-airport-guide.html)
-- 🎬 [2026奈飞与AI账号合租平台推荐（银河录像局/账号星球）](/account/platforms.html)
+- 🏆 [2026年TOP 12稳定机场推荐排行榜](/airport/best-airport-2026)
+- 🛒 [2026年性价比高的机场推荐](/proxy/cost-effective-airport-guide)
+- 🎬 [2026奈飞与AI账号合租平台推荐（银河录像局/账号星球）](/account/platforms)

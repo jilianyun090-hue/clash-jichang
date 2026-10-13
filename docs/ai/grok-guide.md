@@ -39,8 +39,8 @@ Grok 4 Elon Musk 主导xAI 公司发布的最新一AI 模型。与以往主打"�
 Grok 需要海外网络环境才能访问。推荐使用本站评测的[优质线路](/airport/)来确保稳定连接，建议选择支持美国节点的机场服务。
 
 - [优质线路推荐（含美国节点）](/airport/)
-- [选购避坑指南](/airport/choose-guide.html)
-- [客户端下载与配置](/airport/client-windows.html)
+- [选购避坑指南](/airport/choose-guide)
+- [客户端下载与配置](/airport/client-windows)
 
 ### 1. Grok 网页
 
@@ -54,15 +54,15 @@ Grok 需要海外网络环境才能访问。推荐使用本站评测的[优质�
 
 ### 2. Grok 移动App
 
-- **iOS 用户** 需使用美区 Apple ID，参考[iOS 客户端下载教程](/airport/client-ios.html)中的 Apple ID 切换方法
-- **Android 用户** 建议通过 Google Play 下载官方版本，或参[Android 客户端教程](/airport/client-android.html)配置代理后下。
+- **iOS 用户** 需使用美区 Apple ID，参考[iOS 客户端下载教程](/airport/client-ios)中的 Apple ID 切换方法
+- **Android 用户** 建议通过 Google Play 下载官方版本，或参[Android 客户端教程](/airport/client-android)配置代理后下。
 
 ### 3. 合租方案
 
 如果不想自行注册订阅，也可以通过合租平台获取 Grok Premium 账号。
 
-- [合租平台推荐](/account/platforms.html)
-- [合租价格行情](/account/price.html)
+- [合租平台推荐](/account/platforms)
+- [合租价格行情](/account/price)
 
 ## Grok Ani 陪伴系统
 

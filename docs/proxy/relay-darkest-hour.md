@@ -49,7 +49,7 @@ tag:
 
 国内中转服务器（入站机）的掌控权始终在监管方手中。当指令下达到 IDC 层面，封锁变得易如反掌。这种从骨干网节点直接物理拔线或黑洞封禁的操作，对于机场主来说是完全不可抗力的。
 
-更详细的拔线潮背景，可参考：[2026年4月中转拔线潮：机场行业进入无IP时代](/proxy/relay-crackdown-2026.html)
+更详细的拔线潮背景，可参考：[2026年4月中转拔线潮：机场行业进入无IP时代](/proxy/relay-crackdown-2026)
 
 ### 2. 严苛的"IP 连坐制"
 
@@ -62,7 +62,7 @@ tag:
 
 即便号称不走公网的专线（IEPL/IPLC），其内网入口依然需要依赖国内的落地机。只要入口被封锁，整条昂贵的带宽就成了摆设。
 
-关于不同线路类型的详细对比，参见：[机场线路类型详解：IPLC/IEPL/BGP中转全解析](/proxy/line-type-guide.html)
+关于不同线路类型的详细对比，参见：[机场线路类型详解：IPLC/IEPL/BGP中转全解析](/proxy/line-type-guide)
 
 ---
 
@@ -95,7 +95,7 @@ tag:
 
 **协议建议：** 优先使用 **XTLS-Reality** 或 **Hysteria2**，这两种协议在应对协议指纹识别方面表现突出。
 
-详细协议对比请参考：[SSR、VLESS 与 Trojan 协议对比](/proxy/protocol-comparison.html) 及 [Hysteria 协议全面解析](/proxy/hysteria-guide.html)
+详细协议对比请参考：[SSR、VLESS 与 Trojan 协议对比](/proxy/protocol-comparison) 及 [Hysteria 协议全面解析](/proxy/hysteria-guide)
 
 ### 2. 备用"直连线路"机场
 
@@ -136,10 +136,10 @@ tag:
 
 **相关阅读：**
 
-- [2026年4月中转拔线潮：机场行业进入无IP时代](/proxy/relay-crackdown-2026.html)
-- [机场线路类型详解：IPLC/IEPL/BGP中转](/proxy/line-type-guide.html)
-- [SSR、VLESS 与 Trojan 协议对比](/proxy/protocol-comparison.html)
-- [Hysteria 协议全面解析（QUIC 加速翻墙）](/proxy/hysteria-guide.html)
+- [2026年4月中转拔线潮：机场行业进入无IP时代](/proxy/relay-crackdown-2026)
+- [机场线路类型详解：IPLC/IEPL/BGP中转](/proxy/line-type-guide)
+- [SSR、VLESS 与 Trojan 协议对比](/proxy/protocol-comparison)
+- [Hysteria 协议全面解析（QUIC 加速翻墙）](/proxy/hysteria-guide)
 - [2026年翻墙机场推荐评测](/airport/)
 
 ---

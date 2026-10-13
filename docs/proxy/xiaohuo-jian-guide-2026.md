@@ -48,7 +48,7 @@ category:
 
 1. **获取美区Apple ID**
    - 自己注册美区Apple ID
-   - 或使用我们提供的[免费美区Apple ID共享账号](/airport/apple-id-shared.html)
+   - 或使用我们提供的[免费美区Apple ID共享账号](/airport/apple-id-shared)
 
 2. **登录App Store**
    - 打开App Store
@@ -67,7 +67,7 @@ category:
    - 安装完成后退出美区账号
    - 重新登录自己的Apple ID
 
-**美区Apple ID注册教程：** [美区Apple ID注册完整指南](/proxy/apple-id-guide.html)
+**美区Apple ID注册教程：** [美区Apple ID注册完整指南](/proxy/apple-id-guide)
 
 ### 方法二：使用小火箭共享账号（免费但有风险）
 
@@ -79,7 +79,7 @@ category:
 - ❌ 下载完立即退出共享账号
 - ❌ 不要充值、不要购买其他应用
 
-**免费小火箭共享账号获取：** [免费美区Apple ID/小火箭账号共享](/airport/apple-id-shared.html)
+**免费小火箭共享账号获取：** [免费美区Apple ID/小火箭账号共享](/airport/apple-id-shared)
 
 ### 方法三：在线安装（不推荐）
 
@@ -98,14 +98,14 @@ category:
 
 首先你需要购买一个机场服务：
 
-1. 选择合适的机场（**推荐：** [2026年稳定机场推荐](/airport/best-airport-2026.html)）
+1. 选择合适的机场（**推荐：** [2026年稳定机场推荐](/airport/best-airport-2026)）
 2. 注册并购买套餐
 3. 在机场用户中心找到"订阅链接"或"Shadowrocket订阅"
 4. 复制订阅链接（通常以`https://`开头）
 
 **性价比机场推荐：**
-- 学生党首选：[便宜机场推荐（月付15-25元）](/airport/cheap-airport.html)
-- 追求速度：[专线机场对比（IEPL/IPLC）](/airport/iepl-iplc.html)
+- 学生党首选：[便宜机场推荐（月付15-25元）](/airport/cheap-airport)
+- 追求速度：[专线机场对比（IEPL/IPLC）](/airport/iepl-iplc)
 - 看Netflix：[流媒体解锁机场推荐](/ai/)
 
 ### 步骤2：在小火箭中添加订阅
@@ -148,7 +148,7 @@ category:
 2. 访问 `www.google.com`
 3. 能正常打开即表示配置成功
 
-**详细图文教程：** [iOS小火箭Shadowrocket完整教程](/airport/client-ios.html)
+**详细图文教程：** [iOS小火箭Shadowrocket完整教程](/airport/client-ios)
 
 ## 小火箭节点选择技巧
 
@@ -303,7 +303,7 @@ category:
 
 **更换机场**
 - 当前机场可能超售
-- 参考：[2026年稳定机场推荐](/airport/best-airport-2026.html)
+- 参考：[2026年稳定机场推荐](/airport/best-airport-2026)
 
 ### 4. 小火箭订阅无法更新？
 
@@ -401,7 +401,7 @@ category:
 - ✅ 不同机场有不同优势（速度、解锁能力）
 - ✅ 根据场景选择（日常用A机场，看Netflix用B机场）
 
-**备用机场策略：** [备用机场与双订阅策略](/proxy/backup-airport-guide.html)
+**备用机场策略：** [备用机场与双订阅策略](/proxy/backup-airport-guide)
 
 ### 2. 设置开机自启动
 
@@ -461,12 +461,12 @@ category:
 **学生党/轻度用户**
 - 预算：15-25元/月
 - 流量：100-200GB
-- 👉 [便宜机场推荐](/airport/cheap-airport.html)
+- 👉 [便宜机场推荐](/airport/cheap-airport)
 
 **上班族/日常使用**
 - 预算：25-40元/月
 - 流量：200-500GB
-- 👉 [稳定机场推荐](/airport/best-airport-2026.html)
+- 👉 [稳定机场推荐](/airport/best-airport-2026)
 
 **看剧党/流媒体用户**
 - 需求：解锁Netflix、Disney+
@@ -476,7 +476,7 @@ category:
 **游戏玩家/高速需求**
 - 需求：低延迟、高速度
 - 选择：IEPL/IPLC专线机场
-- 👉 [专线机场对比](/airport/iepl-iplc.html)
+- 👉 [专线机场对比](/airport/iepl-iplc)
 
 ## 小火箭相关资源
 
@@ -486,21 +486,21 @@ category:
 - **系统要求：** iOS 12.0及以上
 
 ### 相关教程
-- [免费美区Apple ID共享账号](/airport/apple-id-shared.html)
-- [iOS小火箭Shadowrocket完整图文教程](/airport/client-ios.html)
-- [美区Apple ID注册教程](/proxy/apple-id-guide.html)
-- [机场订阅导入配置指南](/airport/subscription-guide.html)
+- [免费美区Apple ID共享账号](/airport/apple-id-shared)
+- [iOS小火箭Shadowrocket完整图文教程](/airport/client-ios)
+- [美区Apple ID注册教程](/proxy/apple-id-guide)
+- [机场订阅导入配置指南](/airport/subscription-guide)
 
 ### 机场推荐
-- [2026年稳定机场推荐排行榜](/airport/best-airport-2026.html)
-- [便宜机场推荐（学生党首选）](/airport/cheap-airport.html)
-- [专线机场对比（IEPL/IPLC）](/airport/iepl-iplc.html)
+- [2026年稳定机场推荐排行榜](/airport/best-airport-2026)
+- [便宜机场推荐（学生党首选）](/airport/cheap-airport)
+- [专线机场对比（IEPL/IPLC）](/airport/iepl-iplc)
 - [ChatGPT/Claude专用机场](/ai/)
 
 ### 其他平台教程
-- [Windows端Clash Verge教程](/airport/client-windows.html)
-- [Android端Clash Meta教程](/airport/client-android.html)
-- [全平台客户端下载汇总](/airport/software.html)
+- [Windows端Clash Verge教程](/airport/client-windows)
+- [Android端Clash Meta教程](/airport/client-android)
+- [全平台客户端下载汇总](/airport/software)
 
 ## 总结
 
@@ -514,9 +514,9 @@ category:
 - ✅ 定期更新订阅和测速
 
 **下一步行动：**
-1. 获取美区Apple ID → [免费美区账号](/airport/apple-id-shared.html)
+1. 获取美区Apple ID → [免费美区账号](/airport/apple-id-shared)
 2. 购买并下载小火箭
-3. 选择合适的机场 → [机场推荐](/airport/best-airport-2026.html)
+3. 选择合适的机场 → [机场推荐](/airport/best-airport-2026)
 4. 导入订阅开始使用
 
 祝你科学上网愉快！🚀

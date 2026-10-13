@@ -70,9 +70,9 @@ category:
 - 选择合适的机场订阅：[2026年机场推荐列表](/airport/)
 
 **相关阅读：**
-- [2026年VPN推荐完整指南](/proxy/vpn-tuijian-2026.html) - 了解VPN是什么
-- [梯子推荐与选购指南](/proxy/tizi-guide-2026.html) - 梯子工具对比
-- [免费VPN为什么不推荐？](/proxy/mianfei-vpn-guide-2026.html) - 避免免费VPN陷阱
+- [2026年VPN推荐完整指南](/proxy/vpn-tuijian-2026) - 了解VPN是什么
+- [梯子推荐与选购指南](/proxy/tizi-guide-2026) - 梯子工具对比
+- [免费VPN为什么不推荐？](/proxy/mianfei-vpn-guide-2026) - 避免免费VPN陷阱
 
 ## Windows VPN下载与配置教程 {#windows-vpn下载}
 
@@ -124,7 +124,7 @@ category:
 7. 选择一个节点
 8. 打开 **"系统代理"** 开关
 
-**详细图文教程：** [Windows端Clash Verge完整教程](/airport/client-windows.html)
+**详细图文教程：** [Windows端Clash Verge完整教程](/airport/client-windows)
 
 ### 推荐2：V2rayN（经典之选）
 
@@ -229,8 +229,8 @@ category:
 
 **方法1：使用美区Apple ID购买（推荐）**
 
-1. 注册美区Apple ID（[注册教程](/proxy/apple-id-guide.html)）
-2. 或使用我们提供的[免费美区Apple ID共享账号](/airport/apple-id-shared.html)
+1. 注册美区Apple ID（[注册教程](/proxy/apple-id-guide)）
+2. 或使用我们提供的[免费美区Apple ID共享账号](/airport/apple-id-shared)
 3. 在App Store登录美区账号
 4. 搜索"Shadowrocket"购买下载
 5. 下载完成后退出美区账号，重新登录自己的账号
@@ -245,7 +245,7 @@ category:
 - 价格约¥15-25
 - 注意甄别卖家信誉
 
-**详细教程：** [小火箭完整使用教程](/proxy/xiaohuo-jian-guide-2026.html)
+**详细教程：** [小火箭完整使用教程](/proxy/xiaohuo-jian-guide-2026)
 
 ### 推荐2：Quantumult X
 
@@ -315,7 +315,7 @@ category:
    - 点击"启动"
    - 首次使用需要授权VPN连接
 
-**详细教程：** [Android端Clash Meta完整教程](/airport/client-android.html)
+**详细教程：** [Android端Clash Meta完整教程](/airport/client-android)
 
 ### 推荐2：V2rayNG
 
@@ -389,7 +389,7 @@ mkdir -p ~/.config/clash
 - 一定的Linux基础
 - 推荐路由器：小米、华硕等刷OpenWrt
 
-**教程：** [路由器科学上网配置教程](/proxy/router-vpn-guide.html)
+**教程：** [路由器科学上网配置教程](/proxy/router-vpn-guide)
 
 ## VPN客户端常见问题
 
@@ -508,7 +508,7 @@ mkdir -p ~/.config/clash
 - 100GB流量
 - 👉 [查看详情](/airport/#光年梯)
 
-**更多便宜机场：** [学生党便宜机场推荐](/airport/cheap-airport.html)
+**更多便宜机场：** [学生党便宜机场推荐](/airport/cheap-airport)
 
 ### 追求速度/游戏加速（¥15-30/月）
 
@@ -534,26 +534,26 @@ mkdir -p ~/.config/clash
 - AI工具全解锁
 - 👉 [查看详情](/airport/#云图)
 
-**查看完整推荐：** [2026年稳定机场推荐排行榜](/airport/best-airport-2026.html)
+**查看完整推荐：** [2026年稳定机场推荐排行榜](/airport/best-airport-2026)
 
 ## 相关教程与资源
 
 ### 客户端配置教程
-- [Windows端Clash Verge详细教程](/airport/client-windows.html)
-- [iOS小火箭Shadowrocket完整教程](/airport/client-ios.html)
-- [Android端Clash Meta完整教程](/airport/client-android.html)
+- [Windows端Clash Verge详细教程](/airport/client-windows)
+- [iOS小火箭Shadowrocket完整教程](/airport/client-ios)
+- [Android端Clash Meta完整教程](/airport/client-android)
 
 ### 机场选择指南
 - [2026年机场推荐完整列表](/airport/)
-- [便宜机场推荐（学生党首选）](/airport/cheap-airport.html)
-- [机场选购避坑指南](/airport/choose-guide.html)
-- [专线机场对比（IEPL/IPLC）](/airport/iepl-iplc.html)
+- [便宜机场推荐（学生党首选）](/airport/cheap-airport)
+- [机场选购避坑指南](/airport/choose-guide)
+- [专线机场对比（IEPL/IPLC）](/airport/iepl-iplc)
 
 ### 科学上网知识
-- [什么是科学上网？完整指南](/proxy/vpn-guide.html)
-- [翻墙代理工具详解](/proxy/fanqiang-guide.html)
-- [免费VPN为什么不推荐？](/proxy/mianfei-vpn-guide-2026.html)
-- [2026年梯子推荐指南](/proxy/tizi-guide-2026.html)
+- [什么是科学上网？完整指南](/proxy/vpn-guide)
+- [翻墙代理工具详解](/proxy/fanqiang-guide)
+- [免费VPN为什么不推荐？](/proxy/mianfei-vpn-guide-2026)
+- [2026年梯子推荐指南](/proxy/tizi-guide-2026)
 
 ### 常见问题
 - [科学上网常见问题169题](/faq/)
@@ -577,7 +577,7 @@ mkdir -p ~/.config/clash
 4. 开始使用
 
 **iOS用户:**
-1. 获取美区Apple ID（[共享账号](/airport/apple-id-shared.html)）
+1. 获取美区Apple ID（[共享账号](/airport/apple-id-shared)）
 2. 购买Shadowrocket ($2.99)
 3. 购买机场订阅
 4. 导入订阅
@@ -608,6 +608,6 @@ mkdir -p ~/.config/clash
 ---
 
 **推荐阅读：**
-- [2026年机场推荐排行榜](/airport/best-airport-2026.html)
-- [新手科学上网完整教程](/proxy/vpn-guide.html)
+- [2026年机场推荐排行榜](/airport/best-airport-2026)
+- [新手科学上网完整教程](/proxy/vpn-guide)
 - [常见问题解答](/faq/)

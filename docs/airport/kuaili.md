@@ -45,6 +45,6 @@ date: 2026-06-28
 快狸支持通用订阅导入及专属自研客户端。您只需要获取订阅链接，并在相应的客户端中导入即可一键开启代理。
 
 * 💻 **专属客户端**：官方提供一键快速连接的专属客户端，极速稳定。
-* 💻 **Windows 电脑端**：我们推荐使用最新的 [Clash Verge Rev Windows 配置教程](/airport/client-windows.html)。一键导入订阅，支持自动分流。
-* 📱 **Android 手机端**：请参考 [Clash Meta Android 安卓端配置指南](/airport/client-android.html)。
-* 🍎 **iOS 苹果端**：请参考 [Shadowrocket 小火箭配置教程](/airport/client-ios.html)。
+* 💻 **Windows 电脑端**：我们推荐使用最新的 [Clash Verge Rev Windows 配置教程](/airport/client-windows)。一键导入订阅，支持自动分流。
+* 📱 **Android 手机端**：请参考 [Clash Meta Android 安卓端配置指南](/airport/client-android)。
+* 🍎 **iOS 苹果端**：请参考 [Shadowrocket 小火箭配置教程](/airport/client-ios)。

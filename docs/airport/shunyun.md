@@ -88,10 +88,10 @@ date: 2026-06-02
 ### 第二步：导入客户端教程
 
 你可以根据自己所用的设备，查看以下详细保姆级图文教程：
-* 💻 **Windows 客户端**：推荐使用最新的 [Clash Verge Rev Windows 客户端配置教程](/airport/client-windows.html)。一键导入订阅，完美分流。
-* 📱 **Android 客户端**：推荐使用 [Clash Meta for Android 安卓配置指南](/airport/client-android.html)。
-* 🍎 **iOS 客户端**：请参考 [Shadowrocket 小火箭导入订阅教程](/airport/client-ios.html)。如果没有美区 Apple ID，可以查看我们每日免费更新的 [已购小火箭共享苹果ID账号](/airport/apple-id-shared.html)。
-* 📦 **其他客户端下载**：请查阅 [2026 全平台科学上网软件客户端官方下载指南](/airport/software.html)。
+* 💻 **Windows 客户端**：推荐使用最新的 [Clash Verge Rev Windows 客户端配置教程](/airport/client-windows)。一键导入订阅，完美分流。
+* 📱 **Android 客户端**：推荐使用 [Clash Meta for Android 安卓配置指南](/airport/client-android)。
+* 🍎 **iOS 客户端**：请参考 [Shadowrocket 小火箭导入订阅教程](/airport/client-ios)。如果没有美区 Apple ID，可以查看我们每日免费更新的 [已购小火箭共享苹果ID账号](/airport/apple-id-shared)。
+* 📦 **其他客户端下载**：请查阅 [2026 全平台科学上网软件客户端官方下载指南](/airport/software)。
 
 ---
 
@@ -113,6 +113,6 @@ A：由于价格极低，年付小包通常不设无理由退款。对于对稳�
 ## 🔗 更多 SEO 专题阅读
 
 * 🏆 **[2026年稳定高性价比翻墙机场推荐排行榜](/airport/)** —— 纵览瞬云在内的24家主流实测机场排行。
-* 💰 **[学生党便宜机场精选汇总](/airport/cheap-airport.html)** —— 搜罗所有折合月费低于 10 元的高性价比梯子。
-* 🛡 **[科学上网机场选购防坑指南](/airport/choose-guide.html)** —— 学习如何避开频繁跑路的三无机场。
+* 💰 **[学生党便宜机场精选汇总](/airport/cheap-airport)** —— 搜罗所有折合月费低于 10 元的高性价比梯子。
+* 🛡 **[科学上网机场选购防坑指南](/airport/choose-guide)** —— 学习如何避开频繁跑路的三无机场。
 * 🏠 **[返回道一博客首页](/)** —— 探索更多前沿 AI 使用攻略与网络代理技术分享。

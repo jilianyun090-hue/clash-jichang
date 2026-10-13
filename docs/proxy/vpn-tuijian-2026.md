@@ -176,7 +176,7 @@ category:
 - 一杯奶茶的钱（¥15）= 一个月安全稳定的科学上网
 - 相当于每天只需¥0.5
 
-**详细分析：** [2026年免费VPN真相揭秘](/proxy/mianfei-vpn-guide-2026.html)
+**详细分析：** [2026年免费VPN真相揭秘](/proxy/mianfei-vpn-guide-2026)
 
 ## VPN下载与安装教程
 
@@ -202,7 +202,7 @@ category:
 
 ### 第二步：下载并安装VPN客户端
 
-**详细下载教程：** [2026年VPN下载与客户端完整指南](/proxy/vpn-download-guide-2026.html)
+**详细下载教程：** [2026年VPN下载与客户端完整指南](/proxy/vpn-download-guide-2026)
 
 ### 第三步：购买机场订阅
 
@@ -218,7 +218,7 @@ category:
 4. 更新订阅
 5. 选择节点并连接
 
-**详细配置教程：** [VPN客户端配置指南](/proxy/clients.html)
+**详细配置教程：** [VPN客户端配置指南](/proxy/clients)
 
 ## VPN使用常见问题
 
@@ -267,7 +267,7 @@ category:
 - ❌ 部分传统VPN：成功率低
 - ✅ 优质机场的原生IP节点：解锁率高
 
-**查看支持流媒体解锁的机场：** [流媒体解锁指南](/proxy/streaming-unlock-guide.html)
+**查看支持流媒体解锁的机场：** [流媒体解锁指南](/proxy/streaming-unlock-guide)
 
 ### 6. 如何判断VPN是否在工作？
 
@@ -327,7 +327,7 @@ category:
 - **iOS**: Shadowrocket（小火箭）+ 优质机场订阅
 - **Android**: Clash Meta + 优质机场订阅
 
-**详细教程：** [梯子推荐与配置指南](/proxy/tizi-guide-2026.html)
+**详细教程：** [梯子推荐与配置指南](/proxy/tizi-guide-2026)
 
 ### 机场梯子 vs VPN梯子对比
 
@@ -364,16 +364,16 @@ category:
 3. **导入配置** - 复制订阅链接到客户端
 4. **连接使用** - 选择节点开始科学上网
 
-**完整教程：** [VPN下载与梯子工具安装指南](/proxy/vpn-download-guide-2026.html)
+**完整教程：** [VPN下载与梯子工具安装指南](/proxy/vpn-download-guide-2026)
 
 ## 相关阅读
 
 - [2026年机场推荐排行榜](/airport/) - 34家实测对比
-- [VPN下载与客户端配置指南](/proxy/vpn-download-guide-2026.html)
-- [免费VPN真相揭秘](/proxy/mianfei-vpn-guide-2026.html)
-- [梯子推荐完整指南](/proxy/tizi-guide-2026.html)
-- [科学上网入门教程](/proxy/fanqiang-guide.html)
-- [流媒体解锁指南](/proxy/streaming-unlock-guide.html)
+- [VPN下载与客户端配置指南](/proxy/vpn-download-guide-2026)
+- [免费VPN真相揭秘](/proxy/mianfei-vpn-guide-2026)
+- [梯子推荐完整指南](/proxy/tizi-guide-2026)
+- [科学上网入门教程](/proxy/fanqiang-guide)
+- [流媒体解锁指南](/proxy/streaming-unlock-guide)
 
 ---
 

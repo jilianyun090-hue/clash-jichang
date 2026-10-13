@@ -92,16 +92,16 @@ A 机场的自研客户端只能登录 A 机场的账号。如果你同时购买
 
 如果你决定使用通用开源客户端，可参考我们整理的完整下载指南：
 
-- [全平台客户端下载指南](/airport/software.html)（Clash Verge Rev / Shadowrocket / Clash Meta）
-- [Windows 端配置教程](/airport/client-windows.html)
-- [Android 端配置教程](/airport/client-android.html)
-- [iOS 端配置教程](/airport/client-ios.html)
-- [三方客户端维护清单（MetaCubeX 生态）](/proxy/clients.html)
+- [全平台客户端下载指南](/airport/software)（Clash Verge Rev / Shadowrocket / Clash Meta）
+- [Windows 端配置教程](/airport/client-windows)
+- [Android 端配置教程](/airport/client-android)
+- [iOS 端配置教程](/airport/client-ios)
+- [三方客户端维护清单（MetaCubeX 生态）](/proxy/clients)
 
 ---
 
-- [科学上网入门指南](/proxy/vpn-guide.html)
-- [备用机场双订阅策略](/proxy/backup-airport-guide.html)
+- [科学上网入门指南](/proxy/vpn-guide)
+- [备用机场双订阅策略](/proxy/backup-airport-guide)
 - [2026 机场推荐列表](/airport/)
 - [回到科学上网知识库](/proxy/)
 - [回到首页](/)

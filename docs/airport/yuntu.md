@@ -70,9 +70,9 @@ date: 2026-08-06
 - **Sing-box**：支持通用格式转换导入或客户端订阅一键同步。
 
 > 客户端下载与详细配置步骤请参考：
-> - [Windows 电脑端 Clash Verge 配置教程](/airport/client-windows.html)
-> - [iOS 苹果端 Shadowrocket 配置教程](/airport/client-ios.html)
-> - [Android 安卓端 Clash Meta 配置教程](/airport/client-android.html)
+> - [Windows 电脑端 Clash Verge 配置教程](/airport/client-windows)
+> - [iOS 苹果端 Shadowrocket 配置教程](/airport/client-ios)
+> - [Android 安卓端 Clash Meta 配置教程](/airport/client-android)
 
 ---
 

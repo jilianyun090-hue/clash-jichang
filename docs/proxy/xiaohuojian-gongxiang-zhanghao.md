@@ -37,7 +37,7 @@ date: 2026-09-19
 
 | 渠道名称 | 说明与获取方式 | 免费包含服务 | 安全系数 |
 | :--- | :--- | :--- | :--- |
-| **本站免费 Apple ID 共享专区** | [点击直达本站共享账号列表](/airport/apple-id-shared.html) | 免费已购 Shadowrocket 账号 | ⭐⭐⭐⭐⭐ (本站定期人工维护) |
+| **本站免费 Apple ID 共享专区** | [点击直达本站共享账号列表](/airport/apple-id-shared) | 免费已购 Shadowrocket 账号 | ⭐⭐⭐⭐⭐ (本站定期人工维护) |
 | **小火箭免费共享网** | 提供实时更新的美区/台区已购账号卡密 | 包含已购 Shadowrocket | ⭐⭐⭐⭐ |
 | **发卡网/独享买号** | 几元钱购买个人独享美区 Apple ID | 独立使用不锁卡 | ⭐⭐⭐⭐⭐ (最推荐) |
 
@@ -82,7 +82,7 @@ flowchart TD
 有了小火箭客户端后，您还需要配合稳定高速的翻墙机场订阅节点才能上网：
 
 1. 打开 [2026年稳定安全VPN机场推荐一览表](/airport/)。
-2. 注册并购买任意性价比机场（如 [极连云](/airport/jilianyun.html) 或 [光年梯](/airport/guangnianti.html)）。
+2. 注册并购买任意性价比机场（如 [极连云](/airport/jilianyun) 或 [光年梯](/airport/guangnianti)）。
 3. 在机场控制台找到 **“一键导入 Shadowrocket 订阅”** 按钮点击导入。
 4. 打开小火箭，勾选节点，将全局路由改为 **【配置 (Config)】**，开启顶部开关即可极速翻墙！
 
@@ -90,10 +90,10 @@ flowchart TD
 
 ## 📖 相关教程与延伸阅读
 
-- 🍏 [本站免费共享 Apple ID 实时更新页面](/airport/apple-id-shared.html)
-- 🚀 [Shadowrocket 官方正版下载与独享账号获取指南](/proxy/shadowrocket-official-download.html)
-- 💻 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows.html)
-- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
-- 🪐 [账号星球合租优惠码 Lucky 与评测](/account/zhanghaoxingqiu.html) | 🎬 [银河录像局合租优惠码 Theo 与评测](/account/yinheluxiangju.html)
-- 📱 [小火箭 Shadowrocket 保姆级使用与分流配置教程](/proxy/xiaohuo-jian-guide-2026.html)
-- ✈️ [2026年常用稳定机场推荐排行榜](/airport/best-airport-2026.html)
+- 🍏 [本站免费共享 Apple ID 实时更新页面](/airport/apple-id-shared)
+- 🚀 [Shadowrocket 官方正版下载与独享账号获取指南](/proxy/shadowrocket-official-download)
+- 💻 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows)
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide)
+- 🪐 [账号星球合租优惠码 Lucky 与评测](/account/zhanghaoxingqiu) | 🎬 [银河录像局合租优惠码 Theo 与评测](/account/yinheluxiangju)
+- 📱 [小火箭 Shadowrocket 保姆级使用与分流配置教程](/proxy/xiaohuo-jian-guide-2026)
+- ✈️ [2026年常用稳定机场推荐排行榜](/airport/best-airport-2026)

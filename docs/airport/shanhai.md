@@ -83,10 +83,10 @@ date: 2026-05-20
 
 ### 2. 多端客户端配置指引
 您可以根据使用的设备，参照本站详细的图文图解教程进行操作：
-* 💻 **Windows 电脑端**：推荐下载 Clash Verge Rev 客户端并一键导入。请参考 [Clash Verge Rev 电脑端配置教程](/airport/client-windows.html)。
-* 📱 **Android 手机端**：推荐安装 Clash Meta 客户端。请查看 [Clash Meta for Android 安装配置指南](/airport/client-android.html)。
-* 🍎 **iOS 苹果手机**：推荐使用 Shadowrocket（俗称小火箭）。请参考 [Shadowrocket 小火箭配置与导入教程](/airport/client-ios.html)。如果您没有美区 Apple ID，可以使用本站每日免费更新的 [已购小火箭共享苹果 ID 账号](/airport/apple-id-shared.html)。
-* 📦 **软件客户端汇总**：需要下载其他平台如 macOS 或 Linux 的科学上网工具，请前往 [2026 全平台科学上网软件客户端官方下载指南](/airport/software.html)。
+* 💻 **Windows 电脑端**：推荐下载 Clash Verge Rev 客户端并一键导入。请参考 [Clash Verge Rev 电脑端配置教程](/airport/client-windows)。
+* 📱 **Android 手机端**：推荐安装 Clash Meta 客户端。请查看 [Clash Meta for Android 安装配置指南](/airport/client-android)。
+* 🍎 **iOS 苹果手机**：推荐使用 Shadowrocket（俗称小火箭）。请参考 [Shadowrocket 小火箭配置与导入教程](/airport/client-ios)。如果您没有美区 Apple ID，可以使用本站每日免费更新的 [已购小火箭共享苹果 ID 账号](/airport/apple-id-shared)。
+* 📦 **软件客户端汇总**：需要下载其他平台如 macOS 或 Linux 的科学上网工具，请前往 [2026 全平台科学上网软件客户端官方下载指南](/airport/software)。
 
 ---
 
@@ -109,6 +109,6 @@ A：测试结果良好。由于 山海机场 的节点使用了大内网分流�
 ## 🔗 相关专题扩展阅读
 
 * 🏆 **[2026年稳定高性价比翻墙机场推荐排行榜](/airport/)** —— 综合实测比对行业前 21 家优质科学上网梯子。
-* 💰 **[学生党便宜机场精选推荐](/airport/cheap-airport.html)** —— 月付低于 10 元的高性价比代理节点汇总。
-* 🛡 **[科学上网机场选购防跑路指南](/airport/choose-guide.html)** —— 教你三分钟识破超售机场和跑路风险。
+* 💰 **[学生党便宜机场精选推荐](/airport/cheap-airport)** —— 月付低于 10 元的高性价比代理节点汇总。
+* 🛡 **[科学上网机场选购防跑路指南](/airport/choose-guide)** —— 教你三分钟识破超售机场和跑路风险。
 * 🏠 **[返回道一博客首页](/)** —— 浏览更多实用的流媒体拼车、ChatGPT 教程与网络技术。

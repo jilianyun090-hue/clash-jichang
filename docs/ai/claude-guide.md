@@ -87,7 +87,7 @@ Claude 的风控是所有 AI 平台中最严格的。**切勿使用香港节点*
 - **适用人群** 无法自行注册 Claude 账号或不想处理风控问题的用户
 - **突出特点** Claude 模型在代码生成和长文写作方面表现极为出色，Artifacts 实时预览功能更是独一无二
 
-> 💡 如果你需ChatGPT Gemini 的镜像站点，请查[ChatGPT 使用攻略](/ai/chatgpt.html) [Gemini 使用指南](/ai/gemini.html)。
+> 💡 如果你需ChatGPT Gemini 的镜像站点，请查[ChatGPT 使用攻略](/ai/chatgpt) [Gemini 使用指南](/ai/gemini)。
 
 ## 常见问题
 

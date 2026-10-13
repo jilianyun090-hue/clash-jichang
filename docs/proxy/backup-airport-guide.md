@@ -107,8 +107,8 @@ Clash、v2rayN、Shadowrocket 等客户端天生支持导入多个订阅链接�
 
 ---
 
-- [机场线路类型完全指南](/proxy/line-type-guide.html)
-- [电信/联通/移动翻墙速度差异解析](/proxy/isp-speed-differences.html)
+- [机场线路类型完全指南](/proxy/line-type-guide)
+- [电信/联通/移动翻墙速度差异解析](/proxy/isp-speed-differences)
 - [2026 机场推荐列表](/airport/)
 - [回到科学上网知识库](/proxy/)
 - [回到首页](/)

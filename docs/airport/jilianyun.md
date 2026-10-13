@@ -86,10 +86,10 @@ date: 2026-06-03
 ### 极连云怎么配置Clash、小火箭等客户端？
 
 根据您的设备，点击以下详细配置指南进行操作：
-* 💻 **Windows 电脑端**：我们推荐使用最新的 [Clash Verge Rev Windows 配置教程](/airport/client-windows.html)。一键导入订阅，支持自动分流。
-* 📱 **Android 手机端**：请参考 [Clash Meta Android 安卓端配置指南](/airport/client-android.html)。
-* 🍎 **iOS 苹果端**：请参考 [Shadowrocket 小火箭配置教程](/airport/client-ios.html)。如果您没有购买过小火箭，可以使用我们每日更新的 [免费苹果已购小火箭ID共享账号](/airport/apple-id-shared.html)。
-* 🛡 **其他配置**：更多软件下载推荐，请访问 [全平台科学上网软件客户端汇总](/airport/software.html)。
+* 💻 **Windows 电脑端**：我们推荐使用最新的 [Clash Verge Rev Windows 配置教程](/airport/client-windows)。一键导入订阅，支持自动分流。
+* 📱 **Android 手机端**：请参考 [Clash Meta Android 安卓端配置指南](/airport/client-android)。
+* 🍎 **iOS 苹果端**：请参考 [Shadowrocket 小火箭配置教程](/airport/client-ios)。如果您没有购买过小火箭，可以使用我们每日更新的 [免费苹果已购小火箭ID共享账号](/airport/apple-id-shared)。
+* 🛡 **其他配置**：更多软件下载推荐，请访问 [全平台科学上网软件客户端汇总](/airport/software)。
 
 ---
 
@@ -109,6 +109,6 @@ A：不限时套餐是一次性计费，购买的 600GB 流量将永久有效，
 ## 🔗 相关优化阅读
 
 * 🏆 **[2026年稳定高性价比机场推荐排行榜 (TOP 21)](/airport/)** —— 查看极连云在全行业的综合实力排名。
-* 💰 **[学生党便宜机场精选推荐](/airport/cheap-airport.html)** —— 月付8元以下高性价比科学上网方案汇总。
-* 📖 **[机场选购避坑完整指南](/airport/choose-guide.html)** —— 手把手教你如何分辨优质专线与超售机场。
+* 💰 **[学生党便宜机场精选推荐](/airport/cheap-airport)** —— 月付8元以下高性价比科学上网方案汇总。
+* 📖 **[机场选购避坑完整指南](/airport/choose-guide)** —— 手把手教你如何分辨优质专线与超售机场。
 * 🏠 **[返回道一博客首页](/)** —— 探索更多流媒体解锁、AI工具与科学上网代理技术指南。

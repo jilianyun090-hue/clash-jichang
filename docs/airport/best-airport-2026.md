@@ -39,7 +39,7 @@ date: 2026-09-26
 * **资费低至**：¥8/月（60GB 流量）
 * **设备限制**：不限设备数
 * **流媒体解锁**：Netflix, Disney+, YouTube 4K, ChatGPT 全解锁 (解锁流媒体机场、ChatGPT节点推荐)
-* 👉 **[前往极连云独立深度评测报告](/airport/jilianyun.html)** | **[直达极连云官方网站](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13)**
+* 👉 **[前往极连云独立深度评测报告](/airport/jilianyun)** | **[直达极连云官方网站](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13)**
 
 **优势简评**：极连云是目前市场中将“物理专线线路”与“低月付”结合得最好的服务商，也是深受大伙喜爱的IPLC机场推荐。作为一款支持Shadowsocks和Trojan协议的高速代理节点，其物理内网过境使得数据不通过普通公网出口，敏感时期表现极为坚韧。所有套餐所有节点均为 1.0 倍率，不限制并发连接数，不仅是游戏加速机场，对学生党、多设备办公族 和预算有限的用户更是毫无疑问的性价比机场首选。本站专属 8 折优惠码：`JLY888`。
 
@@ -51,7 +51,7 @@ date: 2026-09-26
 * **资费低至**：¥7.5/月（年付入门版）
 * **设备限制**：不限客户端
 * **流媒体解锁**：SS协议，全天候高质量连接，高峰期满速不降速
-* 👉 **[前往光年梯独立深度评测报告](/airport/guangnianti.html)** | **[直达光年梯官方网站](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44)**
+* 👉 **[前往光年梯独立深度评测报告](/airport/guangnianti)** | **[直达光年梯官方网站](https://gnt001.gntvipaff.cc/#/?code=j1ufpE44)**
 
 **优势简评**：光年梯是由资深团队运营的高品质翻墙机场，全线采用 IPLC 专线，高峰期满速不降速。采用经典 Shadowsocks 协议，兼容性极佳，不限制设备连接。对于需要长期稳定连接的用户，光年梯是极为可靠的主力科学上网梯子选择，支持支付宝和加密货币支付。
 
@@ -63,7 +63,7 @@ date: 2026-09-26
 * **资费低至**：¥18.80/月（150GB 流量）
 * **设备限制**：仅限个人使用
 * **流媒体解锁**：原生解锁 Netflix, Disney+, TikTok, ChatGPT 全解锁
-* 👉 **[前往影子独立深度评测报告](/airport/yingzi.html)** | **[直达影子官方网站](https://www.yingzi01.com/register?code=X7XPN1cS)**
+* 👉 **[前往影子独立深度评测报告](/airport/yingzi)** | **[直达影子官方网站](https://www.yingzi01.com/register?code=X7XPN1cS)**
 
 **优势简评**：影子机场是一家专注于高端 IEPL 跨境专线的机场服务商，采用企业级专线过境，在延迟和丢包控制上表现极佳。敏感时期依然坚挺，能够完美绕过公网封锁。对 Netflix、Disney+、TikTok、ChatGPT 做到全线原生解锁，适合对网络质量、延迟和流媒体解锁有极致高要求的个人专业用户。
 
@@ -72,70 +72,70 @@ date: 2026-09-26
 ### 4. 边界云 — 新手无忧3天退款专线
 * **综合评分**：9.1 / 10 | **最低资费**：¥12.33/月（年付） | **线路**：IEPL 专线
 * **推荐理由**：边界云是一家老牌 IEPL 中转优化线路机场，提供 50+ 全球节点覆盖。最高带宽可达 1000Mbps，全套餐支持 UDP 协议和流媒体全线解锁。最独特的是其提供了 3 天无理由全额退款保障，极其适合新手尝鲜且无后顾之忧。
-* 👉 **[前往边界云独立测评](/airport/bianjiyun.html)** | **[直达边界云官网](https://www.lvpn.cc/r/6UQDZT)**
+* 👉 **[前往边界云独立测评](/airport/bianjiyun)** | **[直达边界云官网](https://www.lvpn.cc/r/6UQDZT)**
 
 ---
 
 ### 5. Nice加速 — 站长自用家宽IP专线
 * **综合评分**：9.1 / 10 | **最低资费**：¥10/月（年付） | **线路**：IEPL 专线
 * **推荐理由**：Nice加速是站长长期自用的一款机场，运营超2年，极少掉线。采用IEPL南北双通道专线，热门地区（美/台/港/韩/日等）均覆盖家宽节点，且有纯净的AI解锁节点，非常适合长期主力使用。
-* 👉 **[前往Nice加速独立测评](/airport/nice.html)** | **[直达Nice加速官网](https://web.nicecc.cc/#/register?code=7nNS5xdG)**
+* 👉 **[前往Nice加速独立测评](/airport/nice)** | **[直达Nice加速官网](https://web.nicecc.cc/#/register?code=7nNS5xdG)**
 
 ---
 
 ### 6. 飞猫云 — 全物理专线高速原生IP
 * **综合评分**：9.2 / 10 | **最低资费**：¥7/月（年付学生版） | **线路**：IPLC 专线
 * **推荐理由**：飞猫云采用全 IPLC 专线网络，不限制设备连接数量，最高提供 2.5Gbps 稳定速率。晚高峰不降速，原生 IP 完美解锁 Netflix, Disney+, TikTok 等流媒体及 AI，性价比出众，非常适合多设备追剧和 AI 用户。
-* 👉 **[前往飞猫云独立测评](/airport/feimaoyun.html)** | **[直达飞猫云官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)**
+* 👉 **[前往飞猫云独立测评](/airport/feimaoyun)** | **[直达飞猫云官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)**
 
 ---
 
 ### 7. 云图机场 — 高品质金融级专线
 * **综合评分**：9.1 / 10 | **最低资费**：¥25/月（岚图套餐） | **线路**：金融级专线
 * **推荐理由**：云图机场线路传输采用金融级专线，提供无脑下单即可的高质量稳定节点。全线完美解锁 Netflix、Disney+ , YouTube、ChatGPT、TikTok 等主流流媒体及 AI 平台，支持原生 IP，全节点均为 1倍率，无高倍率扣费陷阱。本站专属八折优惠码 `yt88`。
-* 👉 **[前往云图机场独立测评](/airport/yuntu.html)** | **[直达云图机场官网](https://super.ytjcok.org/#/register?code=qPHQtI9a)**
+* 👉 **[前往云图机场独立测评](/airport/yuntu)** | **[直达云图机场官网](https://super.ytjcok.org/#/register?code=qPHQtI9a)**
 
 ---
 
 ### 8. 鲲鹏加速 — 1.0倍率高性价比原生节点
 * **综合评分**：9.1 / 10 | **最低资费**：¥12/月（99GB，支持1元试用） | **线路**：原生IP专线/中转
 * **推荐理由**：鲲鹏加速提供全站 1.0 倍率无暗扣扣费，原生 IP 完美解锁 ChatGPT 与 Netflix 4K。支持 1元/1G 扶摇尝鲜试用包，常规套餐性价比极高，多设备并发在线无压力。
-* 👉 **[前往鲲鹏加速独立测评](/airport/kunpeng.html)** | **[直达鲲鹏加速官网](https://kunpengjiasu.com/#/register?code=QAo8sMhc)**
+* 👉 **[前往鲲鹏加速独立测评](/airport/kunpeng)** | **[直达鲲鹏加速官网](https://kunpengjiasu.com/#/register?code=QAo8sMhc)**
 
 ---
 
 ### 9. 可信云 — 稳定高效 IEPL 跨境专线
 * **综合评分**：9.0 / 10 | **最低资费**：¥8/月（年付） | **线路**：IEPL 专线
 * **推荐理由**：可信云全线使用 IEPL 专线出口，对所有套餐均不限速、不限制并发设备数。解锁流媒体及 AI 平台流畅度高，覆盖 60+ 顶级专线节点，性价比极高，适合寻找低成本且体验优秀的专线梯子用户。
-* 👉 **[前往可信云独立测评](/airport/kexinyun.html)** | **[直达可信云官网](https://haibing822.kosingaff.com/#/register?code=zcjBlIde)**
+* 👉 **[前往可信云独立测评](/airport/kexinyun)** | **[直达可信云官网](https://haibing822.kosingaff.com/#/register?code=zcjBlIde)**
 
 ---
 
 ### 10. 速界 — 智能自研一键客户端极速体验
 * **综合评分**：8.9 / 10 | **最低资费**：¥7.5/月（年付） | **线路**：大带宽中转优化
 * **推荐理由**：速界在 7.5 元档位提供了大带宽保障，不仅不限速不限设备，而且提供了极易上手的自研定制客户端，无需复杂导入，对新手用户非常友好。
-* 👉 **[前往速界独立测评](/airport/sujie.html)** | **[直达速界官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7)**
+* 👉 **[前往速界独立测评](/airport/sujie)** | **[直达速界官网](https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7)**
 
 ---
 
 ### 11. 快狸 — 新手友好型大带宽专属客户端
 * **综合评分**：8.9 / 10 | **最低资费**：¥10/月（年付） | **线路**：高速专线/中转
 * **推荐理由**：快狸专门为新手用户定制了专属客户端，实现了开箱即用。其拥有 60+ 全球优质节点，具备良好的解锁流媒体与 AI 支持，敏感时期连接率依然优异。
-* 👉 **[前往快狸独立测评](/airport/kuaili.html)** | **[直达快狸官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto)**
+* 👉 **[前往快狸独立测评](/airport/kuaili)** | **[直达快狸官网](https://yyo649929.kuailiaff.com/#/register?code=G56QwHto)**
 
 ---
 
 ### 12. 边缘节点 — 稳定低延迟中转加速大师
 * **综合评分**：8.8 / 10 | **最低资费**：¥9/月（年付） | **线路**：中转优化加速
 * **推荐理由**：边缘节点（Edge Node）提供了极具竞争力的限时年付方案，网络丢包率低，覆盖地区广泛。同样支持自研客户端，一键登录极其简单，退款机制健全。
-* 👉 **[前往边缘节点独立测评](/airport/bianyuanjiedian.html)** | **[直达边缘节点官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ)**
+* 👉 **[前往边缘节点独立测评](/airport/bianyuanjiedian)** | **[直达边缘节点官网](https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ)**
 
 ---
 
 ### 13. 光速云 — 流媒体与跨境直播首选
 * **综合评分**：8.8 / 10 | **最低资费**：¥8.25/月（年付） | **线路**：IEPL 专线
 * **推荐理由**：光速云主攻流媒体的纯净住宅 IP 解锁，十分适合跨境电商、海外直播运营等商用和重度多媒体用户。拥有稳定低延迟的 IEPL 专线，不限制设备连接。
-* 👉 **[前往光速云独立测评](/airport/guangshuyun.html)** | **[直达光速云官网](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)**
+* 👉 **[前往光速云独立测评](/airport/guangshuyun)** | **[直达光速云官网](https://kjlq01.gsyvipaff.cc/#/?code=b1OTkTeL)**
 
 ---
 
@@ -143,103 +143,103 @@ date: 2026-09-26
 
 除了前 10 名以外，我们还对以下 24 家各具特色的机场进行了测试，它们同样能够满足不同细分用户的科学上网诉求：
 
-1. **[灵猫网络](/airport/lingmao.html)** (最低 ¥7.08/月)
+1. **[灵猫网络](/airport/lingmao)** (最低 ¥7.08/月)
    * **定位**：全 IPLC 企业专线，原生 IP 流媒体及 AI 解锁，极具性价比的年付小包订阅。
    * **直达官网**：[直达官网](https://haozevpn.civetaff.com/#/?code=1pboeliL)
 
-2. **[星岛梦](/airport/xingdaomeng.html)** (最低 ¥16/月)
+2. **[星岛梦](/airport/xingdaomeng)** (最低 ¥16/月)
    * **定位**：IEPL 专线大流量，无限制设备并发，晚高峰稳定无降速，适合家庭或宿舍多设备组网。
    * **直达官网**：[直达官网](https://wuyou202001.xdmvipaff.cc/#/?code=olWCiAhj)
 
-3. **[全球云](/airport/quanqiuyun.html)** (最低 ¥20/月)
+3. **[全球云](/airport/quanqiuyun)** (最低 ¥20/月)
    * **定位**：BGP 智能调度中转，流媒体/AI 商业级解锁，顶级游戏延迟与缓冲表现。
    * **直达官网**：[直达官网](https://haozevpn.gcvipaff.cc/#/?code=WRQJc2v4)
 
-4. **[瞬云机场](/airport/shunyun.html)** (最低 ¥8.25/月)
+4. **[瞬云机场](/airport/shunyun)** (最低 ¥8.25/月)
    * **定位**：Anycast 负载调度标杆，主打极致秒开和高峰期灾备稳定性。
    * **直达官网**：[直达官网](https://ddd.jichang.best/#/register?code=o4I4kToe)
 
-5. **[寰宇云](/airport/huanyuyun.html)** (最低 ¥7.4/月)
+5. **[寰宇云](/airport/huanyuyun)** (最低 ¥7.4/月)
    * **定位**：原生 IP 级别流媒体与 AI 工具专用，防止频繁滑块风控或封号。
    * **直达官网**：[直达官网](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2)
 
-6. **[Lumina](/airport/lumina.html)** (最低 ¥10/月)
+6. **[Lumina](/airport/lumina)** (最低 ¥10/月)
    * **定位**：直连与中转大带宽混合网络，Hysteria2 协议支持，不限制设备连接数。
    * **直达官网**：[直达官网](https://luminak.net/?token=lumina#/register?code=dCgHyjFi)
 
-7. **[拼好连](/airport/pinhaolian.html)** (最低 ¥9.9/月)
+7. **[拼好连](/airport/pinhaolian)** (最低 ¥9.9/月)
    * **定位**：高性价比拼团共享，不限客户端连接，BGP/IEPL 混合专线。
    * **直达官网**：[直达官网](https://sxzofrnamc.runwayhz.com/#/register?code=A63zaSvx)
 
-8. **[99吧](/airport/99bar.html)** (最低 ¥7.5/月)
+8. **[99吧](/airport/99bar)** (最低 ¥7.5/月)
    * **定位**：SS 协议加密通道，支持 99 台设备同时在线，支持 ChatGPT 等 AI 解锁。
    * **直达官网**：[直达官网](https://99vpn.bar/#/register?code=Uni7IOJh)
 
-9. **[锦云](/airport/jinyun.html)** (最低 ¥6/月)
+9. **[锦云](/airport/jinyun)** (最低 ¥6/月)
    * **定位**：月付 6 元入门专线，季付支持 6 台设备，性价比极高的多终端分享选择。
    * **直达官网**：[直达官网](https://w2.whengdl.com/#/register?code=BIGc8qrQ)
 
-10. **[极速云](/airport/jisuyun.html)** (最低 ¥8.25/月)
+10. **[极速云](/airport/jisuyun)** (最低 ¥8.25/月)
    * **定位**：大流量下载与追剧神器，入门套餐起步即有 800GB/月 超大容量。
    * **直达官网**：[直达官网](https://tg.sintotgch.com/#/register?code=RENHYxqv)
 
-11. **[山水云](/airport/shanshuiyun.html)** (最低 ¥14.99/月)
+11. **[山水云](/airport/shanshuiyun)** (最低 ¥14.99/月)
     * **定位**：三网深度优化，联通移动电信网络均能享受到出色的低延迟体验。
     * **直达官网**：[直达官网](https://ss2.byvvcsx.com/#/register?code=jkziWeb8)
 
-12. **[秒秒云](/airport/miaomiaoyun.html)** (最低 ¥14/月)
+12. **[秒秒云](/airport/miaomiaoyun)** (最低 ¥14/月)
     * **定位**：BGP 智能多线中转，完全不设设备限制，多设备多终端用户福音。
     * **直达官网**：[直达官网](https://141.11.77.26/#/register?code=g3bq7bpK)
 
-13. **[迅达VPN](/airport/xundavpn.html)** (最低 ¥15/月)
+13. **[迅达VPN](/airport/xundavpn)** (最低 ¥15/月)
     * **定位**：流媒体解锁先锋，原生流媒体 IP 解锁率高，极少被提示代理警告。
     * **直达官网**：[直达官网](https://sulianproxy.com/register?code=lfITU4zy)
 
-14. **[Edge-X机场](/airport/edge-x.html)** (最低 ¥16.8/月)
+14. **[Edge-X机场](/airport/edge-x)** (最低 ¥16.8/月)
     * **定位**：高端企业级 IEPL 极端宽带，全节点零超售，提供 12 小时退款保障。
     * **直达官网**：[直达官网](https://edge-invite.net/#/register?code=73ienU2h)
 
-15. **[可达加速器](/airport/keda.html)** (最低 ¥10/月)
+15. **[可达加速器](/airport/keda)** (最低 ¥10/月)
     * **定位**：低成本直连优化。适合偶尔查查文献、上 Google 的轻度使用群体。
     * **直达官网**：[直达官网](https://1.mkd997.com/#/register?code=JgTY5JiT)
 
-16. **~~[奈云](/airport/naiyun.html)~~ (⚠️ 已确认跑路)** (最低 ¥10.6/月)
+16. **~~[奈云](/airport/naiyun)~~ (⚠️ 已确认跑路)** (最低 ¥10.6/月)
     * **定位**：**【已跑路】**老牌 IEPL 专线，已于2026年6月跑路，官网打不开、节点全灭。请勿购买！
-    * **详情**：[查看奈云跑路说明](/airport/naiyun.html)
+    * **详情**：[查看奈云跑路说明](/airport/naiyun)
 
-17. **~~[隐云](/airport/yinyun.html)~~ (⚠️ 联动跑路高危)** (最低 ¥25/月)
+17. **~~[隐云](/airport/yinyun)~~ (⚠️ 联动跑路高危)** (最低 ¥25/月)
     * **定位**：**【高危预警】**与奈云同属一个运营主体，目前官网及节点异常，随时可能彻底跑路，请勿充值！
-    * **详情**：[查看隐云预警说明](/airport/yinyun.html)
+    * **详情**：[查看隐云预警说明](/airport/yinyun)
 
-18. **[山海机场](/airport/shanhai.html)** (最低 ¥6/月)
+18. **[山海机场](/airport/shanhai)** (最低 ¥6/月)
     * **定位**：当前全网门槛最低的高性价比梯子。每月 6 元，提供 45GB 流量，极度适合学生党。
     * **直达官网**：[直达官网](https://shanhai.sbs/#/register?code=qVTbPfWP)
 
-19. **[LiZione](/airport/lizione.html)** (最低 ¥10/月)
+19. **[LiZione](/airport/lizione)** (最低 ¥10/月)
     * **定位**：多线 BGP 中转。兼容 Shadowsocks，节点延迟低，流媒体秒开率高。
     * **直达官网**：[直达官网](https://lizione.vip?path=register&code=Wmf3jYMy)
 
-20. **[哆啦A梦](/airport/duolaameng.html)** (最低 ¥10/月)
+20. **[哆啦A梦](/airport/duolaameng)** (最低 ¥10/月)
     * **定位**：IEPL 专线大带宽。针对香港和新加坡节点专门扩容，主打游戏延迟控制。
     * **直达官网**：[直达官网](https://store.yyds2-doraemon.site/login/register?invite_code=5VxQMw0k)
 
-21. **[大哥云](/airport/dageyun.html)** (最低 ¥19.9/月)
+21. **[大哥云](/airport/dageyun)** (最低 ¥19.9/月)
     * **定位**：4年老牌一键式翻墙。提供自研定制客户端，无需复杂配置，对中老年与小白极友好。
     * **直达官网**：[直达官网](https://airportgo.org/go.php)
 
-22. **[龙猫云](/airport/longmaoyun.html)** (最低 ¥15/月)
+22. **[龙猫云](/airport/longmaoyun)** (最低 ¥15/月)
     * **定位**：性价比极高的高速 IEPL 专线。提供多周期优惠，完美解锁 Netflix 和 ChatGPT。
     * **直达官网**：[直达官网](https://airportgo.org/go.php)
 
-23. **[飞鸟机场](/airport/feiniaojichang.html)** (最低 ¥15/月)
+23. **[飞鸟机场](/airport/feiniaojichang)** (最低 ¥15/月)
     * **定位**：高端全 IEPL 物理专线。敏感时期和晚高峰抗干扰性能优异，突发带宽大。
     * **直达官网**：[直达官网](https://airportgo.org/go.php)
 
-24. **[青云梯](/airport/qingyunti.html)** (最低 ¥8/月)
+24. **[青云梯](/airport/qingyunti)** (最低 ¥8/月)
     * **定位**：大流量低价直连优化，适合以浏览网页和偶尔查看学术文献为主的轻度用户。
     * **直达官网**：[直达官网](https://airportgo.org/go.php)
 
-25. **[花云 (FlowerCloud)](/airport/huayunjichang.html)** (最低 ¥10.6/月)
+25. **[花云 (FlowerCloud)](/airport/huayunjichang)** (最低 ¥10.6/月)
     * **定位**：行业金牌旗舰级 IEPL 专线。资费起步为年付 128 元起，拥有首屈一指的稳定性。
     * **直达官网**：[直达官网](https://api-flowercloud.com/aff.php?aff=16018)
 
@@ -252,7 +252,7 @@ date: 2026-09-26
 1. **“买新不买旧，首选月付”**：不管机场官网宣传多么诱人，首单必须购买最低配的“月付”进行体验。即使遇到跑路或者线路崩塌，也能将个人损失控制在最低范围。
 2. **“看清线路架构（专线 > 中转 > 直连）”**：IEPL/IPLC 物理专线完全不经过公共公网，不受敏感时期墙的干扰，稳定性最好；BGP 中转次之，虽然高峰可能受阻，但日常延迟低；直连机场只适合作为超低成本备用，晚高峰丢包极高。
 3. **“重视晚高峰测试”**：白天网速快没有意义，晚上 8 点 - 11 点是一切超售机场的“现形时刻”。请在这个时段亲自播放 YouTube 4K 视频测试是否能够自动秒开并平滑缓冲。
-4. **“双机场（主+备）双订阅保障”**：不要把所有鸡蛋放在一个篮子里。在主力专线机场以外，建议使用本站按量付费或极便宜 of 直连机场（例如月费几元的 [极连云机场](/airport/jilianyun.html)）作为备用。一旦主力遭遇短暂维护，备用机场能避免让你陷入“失联”尴尬。
+4. **“双机场（主+备）双订阅保障”**：不要把所有鸡蛋放在一个篮子里。在主力专线机场以外，建议使用本站按量付费或极便宜 of 直连机场（例如月费几元的 [极连云机场](/airport/jilianyun)）作为备用。一旦主力遭遇短暂维护，备用机场能避免让你陷入“失联”尴尬。
 
 ---
 
@@ -260,8 +260,8 @@ date: 2026-09-26
 
 订阅成功后，您可以根据自己所用的平台和设备，查看本站精心编写的科学上网配置指南：
 
-* **电脑端配置**：[Windows/Mac 电脑翻墙配置保姆级图文教程](/airport/client-windows.html)
-* **安卓端配置**：[Android 手机 Clash 客户端安装配置指南](/airport/client-android.html)
-* **iOS端配置**：[苹果手机小火箭 (Shadowrocket) 订阅导入与使用教程](/airport/client-ios.html)
-* **苹果账号支持**：[【免费更新】已购小火箭共享 Apple ID 账号](/airport/apple-id-shared.html)
-* **代理软件汇总**：[2026 全平台主流科学上网代理客户端下载指南](/airport/software.html)
+* **电脑端配置**：[Windows/Mac 电脑翻墙配置保姆级图文教程](/airport/client-windows)
+* **安卓端配置**：[Android 手机 Clash 客户端安装配置指南](/airport/client-android)
+* **iOS端配置**：[苹果手机小火箭 (Shadowrocket) 订阅导入与使用教程](/airport/client-ios)
+* **苹果账号支持**：[【免费更新】已购小火箭共享 Apple ID 账号](/airport/apple-id-shared)
+* **代理软件汇总**：[2026 全平台主流科学上网代理客户端下载指南](/airport/software)

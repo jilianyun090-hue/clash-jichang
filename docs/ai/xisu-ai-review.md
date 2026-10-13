@@ -72,4 +72,4 @@ category:
 
 **再次进入犀速AI：** [立即注册 / 查看最新模型与价格](https://www.xisu.ai/signup?ref=D4NJAJ2M)。链接含推荐参数，平台模型、价格、活动和可用状态可能变化，请以注册页及服务条款为准。
 
-相关阅读：[AI中转站总览与选型指南](/ai/ai-relay-stations-2026.html) · [快 AI 模型评测](/ai/kuai-ai-review.html) · [科技狐模型评测](/ai/keji-hu-review.html) · [黑喵中转站评测](/ai/heimao-ai-review.html)
+相关阅读：[AI中转站总览与选型指南](/ai/ai-relay-stations-2026) · [快 AI 模型评测](/ai/kuai-ai-review) · [科技狐模型评测](/ai/keji-hu-review) · [黑喵中转站评测](/ai/heimao-ai-review)

@@ -36,7 +36,7 @@ export default hopeTheme({
     
     docsDir: "docs",
 
-    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/about.html">关于与评测方法</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网',
+    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/about">关于与评测方法</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网',
     displayFooter: true,
     copyright: "© 2026 clash-jichang.com",
 
@@ -51,9 +51,9 @@ export default hopeTheme({
         {
             text: "更多",
             children: [
-                { text: "机场测评合集", link: "/airport/reviews.html" },
-                { text: "客户端下载", link: "/airport/software.html" },
-                { text: "关于与评测方法", link: "/about.html" },
+                { text: "机场测评合集", link: "/airport/reviews" },
+                { text: "客户端下载", link: "/airport/software" },
+                { text: "关于与评测方法", link: "/about" },
                 { text: "友链", link: "/links" },
                 { text: "标签", link: "/tag/" },
                 { text: "统计", link: "/stats" },
@@ -224,9 +224,9 @@ export default hopeTheme({
         "/article/": false,
         "/star/": false,
         "/timeline/": false,
-        "/links.html": false,
-        "/stats.html": false,
-        "/about.html": false,
+        "/links": false,
+        "/stats": false,
+        "/about": false,
         "/about/": false,
     },
 

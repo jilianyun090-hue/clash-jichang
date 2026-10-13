@@ -61,10 +61,10 @@ const schemaData = computed(() => {
       mainEntity: {
         '@type': 'ItemList',
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: '稳定机场推荐', url: `${baseUrl}/airport/best-airport-2026.html` },
-          { '@type': 'ListItem', position: 2, name: '便宜机场推荐', url: `${baseUrl}/airport/cheap-airport.html` },
-          { '@type': 'ListItem', position: 3, name: 'IPLC/IEPL专线机场', url: `${baseUrl}/airport/iepl-iplc.html` },
-          { '@type': 'ListItem', position: 4, name: '机场订阅导入教程', url: `${baseUrl}/airport/subscription-guide.html` },
+          { '@type': 'ListItem', position: 1, name: '稳定机场推荐', url: `${baseUrl}/airport/best-airport-2026` },
+          { '@type': 'ListItem', position: 2, name: '便宜机场推荐', url: `${baseUrl}/airport/cheap-airport` },
+          { '@type': 'ListItem', position: 3, name: 'IPLC/IEPL专线机场', url: `${baseUrl}/airport/iepl-iplc` },
+          { '@type': 'ListItem', position: 4, name: '机场订阅导入教程', url: `${baseUrl}/airport/subscription-guide` },
         ],
       },
       breadcrumb: {

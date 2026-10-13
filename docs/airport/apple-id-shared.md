@@ -204,4 +204,4 @@ if (typeof window !== 'undefined') {
 
 ---
 
-[回到首页](/) | [客户端下载指南](/airport/software.html) | [更多工具](/proxy/)
+[回到首页](/) | [客户端下载指南](/airport/software) | [更多工具](/proxy/)

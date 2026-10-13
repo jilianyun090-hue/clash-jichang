@@ -59,7 +59,7 @@ category:
 
 ### 银河录像局
 
-👉 **[前往银河录像局深度测评与优惠码使用指南](/account/yinheluxiangju.html)**
+👉 **[前往银河录像局深度测评与优惠码使用指南](/account/yinheluxiangju)**
 
 <div class="card-grid">
   <div class="card-item">
@@ -78,7 +78,7 @@ category:
 
 ### 账号星球
 
-👉 **[前往账号星球深度测评与优惠码使用指南](/account/zhanghaoxingqiu.html)**
+👉 **[前往账号星球深度测评与优惠码使用指南](/account/zhanghaoxingqiu)**
 
 <div class="card-grid">
   <div class="card-item">

@@ -115,9 +115,9 @@ Nice加速提供原生/住宅 IP，对 AI 平台和流媒体的解锁极具优�
 4. 复制订阅链接，或使用一键导入，直接将节点配置导入 Clash Verge Rev、Shadowrocket（小火箭）等主流代理工具中即可正常使用。
 
 > 订阅配置详细步骤及客户端下载请参考：
-> - [Windows 电脑端 Clash Verge 配置教程](/airport/client-windows.html)
-> - [iOS 苹果端 Shadowrocket 配置教程](/airport/client-ios.html)
-> - [Android 安卓端 Clash Meta 配置教程](/airport/client-android.html)
+> - [Windows 电脑端 Clash Verge 配置教程](/airport/client-windows)
+> - [iOS 苹果端 Shadowrocket 配置教程](/airport/client-ios)
+> - [Android 安卓端 Clash Meta 配置教程](/airport/client-android)
 
 ---
 

@@ -21,7 +21,7 @@ Telegram 拥有庞大的频道、群组和文件资源生态。但如何在海�
 在使用搜索机器人之前，你需要做好以下准备：
 
 1. **能访问外** 不会科学上网的同学请参考：[便宜好用的翻墙机场推荐](/airport/)
-2. **安装 Telegram 客户端并注册账号** 参考：[Telegram 注册使用教程](./telegram-guide.html)
+2. **安装 Telegram 客户端并注册账号** 参考：[Telegram 注册使用教程](./telegram-guide)
 
 ## 什么是 Telegram 搜索机器人？
 
@@ -73,7 +73,7 @@ Telegram 搜索机器人让资源获取变得前所未有的简单和高效。�
 
 ---
 
-- [Telegram 注册使用教程](./telegram-guide.html)
+- [Telegram 注册使用教程](./telegram-guide)
 - [机场推荐](/airport/)
 - [科学上网知识库](./README.md)
 - [回到首页](/)

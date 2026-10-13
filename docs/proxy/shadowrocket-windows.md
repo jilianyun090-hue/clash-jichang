@@ -65,7 +65,7 @@ flowchart LR
 **Clash Verge Rev** 是目前替代 Clash for Windows 的新一代开源神器，界面现代美观，原生支持中文，且内核完全兼容最新的 Hysteria2 和 VLESS 协议。
 
 - **优势**：支持一键导入小火箭订阅、智能分流、节点延迟测试、开机自启与 TUN 虚拟网卡模式（游戏全局加速）。
-- **下载与教程**：参考本站 [Windows 端 Clash Verge 保姆级配置教程](/airport/client-windows.html)。
+- **下载与教程**：参考本站 [Windows 端 Clash Verge 保姆级配置教程](/airport/client-windows)。
 
 ### 2. Sing-box Windows（高性能专业选择 ⭐⭐⭐⭐）
 **Sing-box** 是由独立团队维护的新一代通用网络代理引擎，性能极其强悍，网络延迟极低。
@@ -85,21 +85,21 @@ flowchart LR
 
 你在小火箭里使用的机场订阅链接，在 Windows 端同样可以 **1 秒快速复用**：
 
-1. **复制订阅链接**：打开你所购买的机场（如 [极连云](/airport/jilianyun.html) 或 [瞬云](/airport/shunyun.html)）用户后台，点击 **“复制 Clash / 通用订阅链接”**。
+1. **复制订阅链接**：打开你所购买的机场（如 [极连云](/airport/jilianyun) 或 [瞬云](/airport/shunyun)）用户后台，点击 **“复制 Clash / 通用订阅链接”**。
 2. **导入 Clash Verge Rev**：
    - 打开 Clash Verge Rev 客户端；
    - 点击左侧导航栏 **「订阅 (Profiles)」**；
    - 在顶部 URL 输入框中粘贴订阅链接，点击 **「导入 (Import)」**；
    - 导入成功后选中该配置文件，在 **「代理 (Proxies)」** 中选择合适的海外节点即可开启翻墙！
 3. **免费获取共享账号与工具**：
-   - 如需在 iOS 端体验小火箭，可前往 [小火箭共享账号网站与免费美区 ID 专区](/airport/apple-id-shared.html) 获取正版已购账号。
+   - 如需在 iOS 端体验小火箭，可前往 [小火箭共享账号网站与免费美区 ID 专区](/airport/apple-id-shared) 获取正版已购账号。
 
 ---
 
 ## 📖 延伸阅读与相关资源
 
-- 🚀 [暗影火箭(Shadowrocket)官网正版下载与共享账号全指南](/proxy/shadowrocket-official-download.html)
-- 📱 [小火箭共享账号网站：2026 免费美区 Apple ID 每日更新](/proxy/xiaohuojian-gongxiang-zhanghao.html)
-- ✈️ [2026年最新梯子推荐：机场梯子 vs VPN 梯子全方位对比](/proxy/tizi-guide-2026.html)
-- 💰 [高性价比机场与 Clash 梯子选购避坑指南](/proxy/cost-effective-airport-guide.html)
-- 💻 [Windows 端 Clash Verge 详细配置与使用教程](/airport/client-windows.html)
+- 🚀 [暗影火箭(Shadowrocket)官网正版下载与共享账号全指南](/proxy/shadowrocket-official-download)
+- 📱 [小火箭共享账号网站：2026 免费美区 Apple ID 每日更新](/proxy/xiaohuojian-gongxiang-zhanghao)
+- ✈️ [2026年最新梯子推荐：机场梯子 vs VPN 梯子全方位对比](/proxy/tizi-guide-2026)
+- 💰 [高性价比机场与 Clash 梯子选购避坑指南](/proxy/cost-effective-airport-guide)
+- 💻 [Windows 端 Clash Verge 详细配置与使用教程](/airport/client-windows)

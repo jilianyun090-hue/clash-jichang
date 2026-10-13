@@ -76,7 +76,7 @@ Google Gemini (原名 Bard) 是 Google 最强大的多模态 AI 模型，深度�
 
 1.  **科学上网准备**：需要稳定的代理节点（美国/日本/新加坡）→ [机场推荐](/airport/)
 2.  **账号准备**：优先推荐使用 **美区 Google 账号** 登录，访问 [gemini.google.com](https://gemini.google.com)
-3.  **订阅建议**：Gemini Advanced 包含在 Google One 2TB 方案中（$19.99/月）。如果您想低价体验，可以参考 **[合租平台指南](/account/platforms.html)** 的相应板块。
+3.  **订阅建议**：Gemini Advanced 包含在 Google One 2TB 方案中（$19.99/月）。如果您想低价体验，可以参考 **[合租平台指南](/account/platforms)** 的相应板块。
 4.  **App 下载**：美版 iOS 用户可通过 App Store 搜索 "Google Gemini" 单独版应用。
 
 ---
@@ -94,7 +94,7 @@ Google Gemini (原名 Bard) 是 Google 最强大的多模态 AI 模型，深度�
 
 ---
 
-- [科学上网避坑指南](/airport/choose-guide.html)
+- [科学上网避坑指南](/airport/choose-guide)
 - [ChatGPT 使用指南](./chatgpt.md)
 - [Claude 使用攻略](./claude-guide.md)
 - [回到 AI 工具大全](./README.md)

@@ -105,7 +105,7 @@ category:
 - 支持4K超清播放
 - 适用场景：流媒体追剧、体育赛事直播
 
-**👉 详细机场推荐列表请查看：[2026年稳定机场推荐排行榜](/airport/best-airport-2026.html)**
+**👉 详细机场推荐列表请查看：[2026年稳定机场推荐排行榜](/airport/best-airport-2026)**
 
 ## 各平台梯子客户端选择
 
@@ -117,7 +117,7 @@ category:
 - 支持规则分流
 - 自动更新订阅
 
-**配置教程：** [Windows端Clash Verge教程](/airport/client-windows.html)
+**配置教程：** [Windows端Clash Verge教程](/airport/client-windows)
 
 ### Mac梯子软件
 
@@ -133,7 +133,7 @@ category:
 - 功能强大
 - 价格：$2.99（需要美区Apple ID）
 
-**免费获取美区账号：** [免费美区Apple ID共享](/airport/apple-id-shared.html)
+**免费获取美区账号：** [免费美区Apple ID共享](/airport/apple-id-shared)
 
 ### Android梯子软件
 
@@ -142,7 +142,7 @@ category:
 - 功能完整
 - 支持所有主流协议
 
-**配置教程：** [Android端Clash Meta教程](/airport/client-android.html)
+**配置教程：** [Android端Clash Meta教程](/airport/client-android)
 
 ## 梯子配置教程：从购买到使用
 
@@ -161,7 +161,7 @@ category:
 - iOS：Shadowrocket（小火箭）
 - Android：Clash Meta
 
-**全平台客户端下载：** [客户端下载汇总](/airport/software.html)
+**全平台客户端下载：** [客户端下载汇总](/airport/software)
 
 ### 步骤3：导入订阅链接
 
@@ -178,7 +178,7 @@ category:
 3. 访问 Google.com 测试是否成功
 4. 可以访问即表示梯子配置成功
 
-**详细订阅导入教程：** [机场订阅导入与配置指南](/airport/subscription-guide.html)
+**详细订阅导入教程：** [机场订阅导入与配置指南](/airport/subscription-guide)
 
 ## 免费梯子 vs 付费梯子
 
@@ -281,7 +281,7 @@ category:
 - 日常浏览、看视频完全够用
 - 适合了解梯子工具的基本使用
 
-**代表机场：** [查看入门级机场推荐](/airport/cheap-airport.html)
+**代表机场：** [查看入门级机场推荐](/airport/cheap-airport)
 
 ### 进阶级梯子（月付¥15-30）
 
@@ -293,7 +293,7 @@ category:
 - 性价比最高的选择
 - 支持Netflix、Disney+等解锁
 
-**代表机场：** [查看性价比机场推荐](/airport/best-airport-2026.html)
+**代表机场：** [查看性价比机场推荐](/airport/best-airport-2026)
 
 ### 专业级梯子（月付¥30-50）
 
@@ -305,7 +305,7 @@ category:
 - 24/7客服支持
 - 不限速、不限流量
 
-**代表机场：** [查看专线机场对比](/airport/iepl-iplc.html)
+**代表机场：** [查看专线机场对比](/airport/iepl-iplc)
 
 ### 梯子推荐与选购要点
 
@@ -318,7 +318,7 @@ category:
 5. **客服** - 有Telegram或工单系统
 6. **试用** - 支持月付或退款保证
 
-**完整选购指南：** [科学上网机场避坑指南](/airport/choose-guide.html)
+**完整选购指南：** [科学上网机场避坑指南](/airport/choose-guide)
 
 ## 梯子工具与梯子下载
 
@@ -367,7 +367,7 @@ category:
 - 点击连接
 - 测试是否能访问Google、YouTube
 
-**详细图文教程：** [VPN下载与梯子工具完整安装指南](/proxy/vpn-download-guide-2026.html)
+**详细图文教程：** [VPN下载与梯子工具完整安装指南](/proxy/vpn-download-guide-2026)
 
 ### 小火箭梯子配置教程
 
@@ -391,7 +391,7 @@ category:
 - 添加自定义规则：屏蔽广告、优化速度
 - 定期更新订阅：保持节点最新
 
-**完整教程：** [iOS小火箭Shadowrocket详细配置教程](/airport/client-ios.html)
+**完整教程：** [iOS小火箭Shadowrocket详细配置教程](/airport/client-ios)
 
 ## 机场梯子与VPN梯子选择建议
 
@@ -447,7 +447,7 @@ category:
 - 预算充足（月付¥50+）
 - 对速度要求不高
 
-**更多对比：** [2026年VPN推荐完整指南](/proxy/vpn-tuijian-2026.html)
+**更多对比：** [2026年VPN推荐完整指南](/proxy/vpn-tuijian-2026)
 
 ## 梯子推荐总结
 
@@ -473,43 +473,43 @@ category:
 - 选择：高性价比机场梯子
 - 预算：15-25元/月
 - 流量：100-200GB
-- 👉 [便宜机场推荐](/airport/cheap-airport.html)
+- 👉 [便宜机场推荐](/airport/cheap-airport)
 
 **💼 上班族 / 日常使用**
 - 选择：稳定中端机场梯子
 - 预算：25-40元/月
 - 流量：200-500GB
-- 👉 [稳定机场推荐](/airport/best-airport-2026.html)
+- 👉 [稳定机场推荐](/airport/best-airport-2026)
 
 **🎮 游戏玩家 / 高速需求**
 - 选择：专线机场梯子
 - 预算：40-60元/月
 - 线路：IEPL/IPLC专线
-- 👉 [专线机场对比](/airport/iepl-iplc.html)
+- 👉 [专线机场对比](/airport/iepl-iplc)
 
 **📺 流媒体爱好者**
 - 选择：原生IP机场梯子
 - 预算：30-50元/月
 - 需求：解锁Netflix、Disney+
-- 👉 [流媒体解锁指南](/proxy/streaming-unlock-guide.html)
+- 👉 [流媒体解锁指南](/proxy/streaming-unlock-guide)
 
 **⚙️ 技术玩家**
 - 选择：自建VPS梯子
 - 预算：50+元/月
 - 优势：完全掌控、隐私性高
-- 👉 [自建教程](/proxy/vpn-guide.html)
+- 👉 [自建教程](/proxy/vpn-guide)
 
 ## 相关资源
 
-- 🚀 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows.html)
-- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide.html)
-- 📱 [2026 最新小火箭共享账号网站推荐与免费 Apple ID 获取](/proxy/xiaohuojian-gongxiang-zhanghao.html)
-- 🪐 [账号星球合租优惠码 Lucky](/account/zhanghaoxingqiu.html) | 🎬 [银河录像局合租优惠码 Theo](/account/yinheluxiangju.html)
+- 🚀 [Shadowrocket Windows 电脑版与 Shadowsocks Windows 替代配置全指南](/proxy/shadowrocket-windows)
+- 🎬 [2026 奈飞(Netflix)账号合租与购买防封指南：银河录像局 vs 账号星球](/account/netflix-hezu-guide)
+- 📱 [2026 最新小火箭共享账号网站推荐与免费 Apple ID 获取](/proxy/xiaohuojian-gongxiang-zhanghao)
+- 🪐 [账号星球合租优惠码 Lucky](/account/zhanghaoxingqiu) | 🎬 [银河录像局合租优惠码 Theo](/account/yinheluxiangju)
 - ✈️ [2026年机场推荐完整列表](/airport/)
-- 💻 [全平台客户端下载指南](/airport/software.html)
-- ⚙️ [机场订阅配置教程](/airport/subscription-guide.html)
+- 💻 [全平台客户端下载指南](/airport/software)
+- ⚙️ [机场订阅配置教程](/airport/subscription-guide)
 - ❓ [科学上网常见问题解答](/faq/)
-- 🌐 [翻墙后必访问的海外热门网站](/proxy/after-fanqiang-guide.html)
+- 🌐 [翻墙后必访问的海外热门网站](/proxy/after-fanqiang-guide)
 
 ---
 

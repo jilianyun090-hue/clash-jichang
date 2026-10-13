@@ -48,7 +48,7 @@ flowchart TD
   - 提供 **“翻车必赔”** 售后服务，账号异常自动秒换新号；
   - 支持 **ChatGPT Plus、Claude 3.5、Disney+、YouTube Premium** 全套合租。
 - **专属优惠码**：结账输入 `Theo` 享全站 **95 折** 优惠。
-- **评测详情**：[银河录像局深度评测与优惠码使用指南](/account/yinheluxiangju.html)。
+- **评测详情**：[银河录像局深度评测与优惠码使用指南](/account/yinheluxiangju)。
 
 ### 2. 账号星球（高性价比清爽平台 ⭐⭐⭐⭐⭐）
 
@@ -59,7 +59,7 @@ flowchart TD
   - 在 **Spotify Premium、YouTube Premium、Apple Music** 音频品类上价格极其亲民；
   - 自动发号，支付宝/微信秒付款。
 - **专属优惠码**：结账输入 `Lucky` 享全站 **9 折** 优惠。
-- **评测详情**：[账号星球深度评测与优惠码 Lucky 指南](/account/zhanghaoxingqiu.html)。
+- **评测详情**：[账号星球深度评测与优惠码 Lucky 指南](/account/zhanghaoxingqiu)。
 
 ---
 
@@ -79,7 +79,7 @@ flowchart TD
 ### 1. 节点必须支持奈飞解锁（Native IP）
 不是所有的翻墙梯子都能看奈飞！普通直连节点容易被 Netflix 识别为代理机房 IP，出现“仅能观看自制剧”或“显示错误代码”的情况。
 - 建议选择支持 **Netflix 4K 全解锁原生节点** 的机场代理；
-- 推荐使用 [2026年稳定科学上网机场推荐列表](/airport/) 或 [高性价比机场选购指南](/proxy/cost-effective-airport-guide.html)。
+- 推荐使用 [2026年稳定科学上网机场推荐列表](/airport/) 或 [高性价比机场选购指南](/proxy/cost-effective-airport-guide)。
 
 ### 2. 认识并设置个人 PIN 码
 合租账号后，登录 Netflix 并在选车位界面找到分给你的 Profile 编号（如车位 3）。设置 4 位数的 **Profile PIN 锁**，防止同车其他网友误入你的车位破坏播放记录。
@@ -88,8 +88,8 @@ flowchart TD
 
 ## 📖 相关推荐阅读
 
-- 🎬 [银河录像局怎么样？优惠码 Theo 与深度评测](/account/yinheluxiangju.html)
-- 🪐 [账号星球怎么样？优惠码 Lucky 与拼车价格指南](/account/zhanghaoxingqiu.html)
-- 🛒 [2026 奈飞与 AI 账号合租平台汇总对比](/account/platforms.html)
-- ✈️ [适合观看 4K 奈飞流媒体的稳定科学上网机场推荐](/airport/best-airport-2026.html)
-- 🚀 [小火箭 Shadowrocket 下载与分流规则配置](/proxy/shadowrocket-official-download.html)
+- 🎬 [银河录像局怎么样？优惠码 Theo 与深度评测](/account/yinheluxiangju)
+- 🪐 [账号星球怎么样？优惠码 Lucky 与拼车价格指南](/account/zhanghaoxingqiu)
+- 🛒 [2026 奈飞与 AI 账号合租平台汇总对比](/account/platforms)
+- ✈️ [适合观看 4K 奈飞流媒体的稳定科学上网机场推荐](/airport/best-airport-2026)
+- 🚀 [小火箭 Shadowrocket 下载与分流规则配置](/proxy/shadowrocket-official-download)
