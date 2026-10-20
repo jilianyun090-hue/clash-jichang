@@ -74,16 +74,16 @@ AI 中转站适合需要在国内模型、海外模型、代码模型和生图�
 
 ## 国内 AI 镜像站推荐
 
-无需翻墙即可使用主流 AI 工具，以下镜像站均经过长期测试：
+以下第三方站点提供主流 AI 工具的网页入口，国内网络可能可直接访问。它们由第三方运营，本站未做安全或稳定性审计，请勿输入敏感信息：
 
-| 平台名称 | 访问地址 | 支持模型 | 推荐指数 |
-| :--- | :--- | :--- | :--- |
-| XSimpleChat | [点击访问](https://xsimplechat.com/) | GPT-4o, Claude, Gemini | ⭐⭐⭐⭐⭐ |
-| 蓝鲸AI | [点击访问](https://chat.lanjingchat.com/) | 多模型 + 联网搜索 | ⭐⭐⭐⭐ |
-| Claude 中文网 | [点击访问](https://www.claude-chinese.com/) | Claude 3.5 Sonnet | ⭐⭐⭐⭐ |
-| Gemini 中文网 | [点击访问](https://www.gemini-chinese.com/) | Gemini Pro | ⭐⭐⭐⭐ |
+| 平台名称 | 访问地址 | 支持模型 |
+| :--- | :--- | :--- |
+| XSimpleChat | [点击访问](https://xsimplechat.com/) | GPT、Claude、Gemini 等 |
+| 蓝鲸AI | [点击访问](https://chat.lanjingchat.com/) | 多模型 + 联网搜索 |
+| Claude 中文网 | [点击访问](https://www.claude-chinese.com/) | Claude |
+| Gemini 中文网 | [点击访问](https://www.gemini-chinese.com/) | Gemini |
 
-> 💡 上述镜像站无需注册海外账号，国内直连即可使用。
+> 💡 镜像站背后调用的模型、版本和额度由运营方决定，可能与官方不完全一致。
 
 ## 相关资源
 

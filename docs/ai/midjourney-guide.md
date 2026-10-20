@@ -1,6 +1,6 @@
 ---
 title: "2026 Midjourney AI 绘画完整教程：注册、参数设置与实战案例全面解析"
-description: "2026年 Midjourney AI 绘图完整使用指南：账号注册、Prompt 提示词写作技巧、V6 版本新功能详解与订阅方案性价比分析。涵盖常用参数（--ar、--style、--no）的使用方法、以图生图技巧，以及与 DALL-E 3、Stable Diffusion 的对比。帮助设计师和创作者高效利用 Midjourney 生成高质量 AI 图片。"
+description: "2026年 Midjourney AI 绘图完整使用指南：账号注册、Prompt 提示词写作技巧、版本差异与参数说明与订阅方案性价比分析。涵盖常用参数（--ar、--style、--no）的使用方法、以图生图技巧，以及与其他 AI 绘图工具的对比。帮助设计师和创作者高效利用 Midjourney 生成高质量 AI 图片。"
 head:
   - - meta
     - name: keywords
@@ -12,26 +12,30 @@ tag:
   - 设计工具
 ---
 
-Midjourney 是目前最强大的 AI 图像生成工具之一，通过文字描述（Prompt）即可生成高质量、风格多样的图像。无论你是设计师、插画师还是普通用户，都能用它创作令人惊叹的视觉作品。
+Midjourney 是一款 AI 图像生成工具，通过文字描述（Prompt）即可生成风格多样的图像，设计师、插画师和普通用户都可以用它做视觉创作。
+
+::: tip 关于模型版本
+Midjourney 会持续发布新版本，默认版本和可用参数以其官方文档与更新日志为准（可在 [updates.midjourney.com](https://updates.midjourney.com/) 查看），本页不再写死具体版本号。
+:::
 
 ## Midjourney 是什么
 
-Midjourney 是一个独立研究实验室开发的 AI 图像生成工具，主要通过 Discord 平台使用。用户输入文字描述（Prompt），AI 即可在约 60 秒内生成 4 张高质量图像。
+Midjourney 由独立研究实验室开发，可通过其官网和 Discord 使用。用户输入文字描述（Prompt），AI 即可生成图像，具体出图数量与耗时以当前版本和套餐为准。
 
 **核心优势：**
 
 | 特点 | 说明 |
 | :--- | :--- |
-| **图像质量** | 目前 AI 绘画工具中画质最高，细节最丰富 |
+| **图像质量** | 以细节丰富、画面风格感强著称（主观评价） |
 | **风格多样** | 支持写实、油画、水彩、赛博朋克、动漫等数十种风格 |
 | **上手简单** | 只需输入文字描述，无需任何设计基础 |
-| **迭代快速** | 约 60 秒生成 4 张图，支持放大、变化、重新生成 |
+| **迭代快速** | 支持放大、变化、重新生成 |
 
 ## 注册与准备
 
 ### 1. 注册 Discord 账号
 
-Midjourney 目前主要通过 Discord 使用，你需要先注册一个 Discord 账号：
+Midjourney 可通过官网或 Discord 使用，如果选择 Discord，需要先注册账号：
 
 1. 访问 [discord.com](https://discord.com) 注册账号
 2. 下载 Discord 客户端（或使用网页版）
@@ -42,18 +46,13 @@ Midjourney 目前主要通过 Discord 使用，你需要先注册一个 Discord 
 ### 2. 加入 Midjourney 服务器
 
 1. 访问 [midjourney.com](https://www.midjourney.com) 官网
-2. 点击 "Join the Beta" 加入 Discord 服务器
-3. 在任意 `#newbies` 频道中开始使用
+2. 按官网指引登录并开始使用；如果使用 Discord，请按官网提示加入官方服务器
 
 ### 3. 订阅套餐
 
-| 套餐 | 价格 | 说明 |
-| :--- | :--- | :--- |
-| **Basic** | $10/月 | 约 200 张图/月，适合轻度使用 |
-| **Standard** | $30/月 | 无限生成（放松模式），推荐 |
-| **Pro** | $60/月 | 隐身模式 + 更快速度 |
+Midjourney 提供多档付费订阅，各档的出图额度、快速模式时长和价格会调整，请以官方订阅页 [midjourney.com](https://www.midjourney.com) 为准。
 
-> 💡 可通过 [合租平台](/account/) 降低订阅费用
+> 💡 通过合租平台订阅存在账号被收回的风险，请先阅读[合租避坑指南](/account/how-to-share)。
 
 ## Prompt 提示词技巧
 
@@ -87,7 +86,7 @@ Midjourney 目前主要通过 Discord 使用，你需要先注册一个 Discord 
 | 参数 | 作用 | 示例 |
 | :--- | :--- | :--- |
 | `--ar` | 画面比例 | `--ar 16:9`（横版）、`--ar 9:16`（竖版） |
-| `--v` | 模型版本 | `--v 6`（最新版本） |
+| `--v` | 指定模型版本 | `--v` 后接版本号，可用版本以官方文档为准 |
 | `--q` | 质量控制 | `--q 2`（高质量） |
 | `--s` | 风格强度 | `--s 750`（默认 100） |
 | `--no` | 排除元素 | `--no text, watermark` |

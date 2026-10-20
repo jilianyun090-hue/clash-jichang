@@ -1,10 +1,10 @@
 ---
 title: "2026 Cursor AI 智能代码编辑器完整教程与实战指南：提升10倍编程效率的AI工具"
-description: "2026年 Cursor AI 代码编辑器完整使用指南：Cursor 的安装配置、GPT-4 加持的代码补全功能、Chat 对话编程技巧，以及与 GitHub Copilot 的深度对比。涵盖 Python、JavaScript、Go 等主流语言的 Cursor 实战案例，帮助开发者提升编程效率，并解析 Cursor Pro 会员的性价比。"
+description: "Cursor AI 代码编辑器使用指南：安装配置、代码补全与 Chat 编程用法、与 GitHub Copilot 的区别，以及订阅方案的选择。"
 head:
   - - meta
     - name: keywords
-      content: Cursor,AI编程,智能编辑器,Cursor教程,AI代码补全,VS Code,GPT-4编程,Claude编程,AI开发工具,Cursor安装
+      content: Cursor,AI编程,智能编辑器,Cursor教程,AI代码补全,VS Code,AI模型,AI编程助手,AI开发工具,Cursor安装
 tag:
   - AI工具
   - Cursor
@@ -12,7 +12,7 @@ tag:
   - 开发效率
 ---
 
-Cursor 是一款基于 VS Code 的 AI 驱动代码编辑器，内置 GPT-4 和 Claude 等顶级 AI 模型，让你直接在编辑器中与 AI 对话编程。它正在改变开发者的工作方式，被誉为"程序员的 AI 副驾驶"。
+Cursor 是一款基于 VS Code 的 AI 驱动代码编辑器，内置多家厂商的主流 AI 模型（具体列表以 Cursor 内显示为准），让你直接在编辑器中与 AI 对话编程。它正在改变开发者的工作方式，被誉为"程序员的 AI 副驾驶"。
 
 ## Cursor 是什么
 
@@ -23,16 +23,17 @@ Cursor 由 Anysphere 公司开发，基于 VS Code 构建，保留了 VS Code �
 | 功能 | Cursor | VS Code + Copilot |
 | :--- | :--- | :--- |
 | **AI 对话** | 内置完整对话窗口 | 需要 Copilot Chat 插件 |
-| **多模型支持** | GPT-4, Claude, 自定义 | 仅 GPT-4 |
+| **多模型支持** | 多厂商模型可切换，可自定义 | 取决于所订阅的 Copilot 套餐 |
 | **代码编辑** | AI 可直接修改当前文件 | 主要是建议和补全 |
-| **上下文理解** | 自动索引整个项目 | 仅当前文件 |
-| **价格** | $20/月 (Pro) | $10/月 |
+| **上下文理解** | 可索引整个项目 | 以所用 Copilot 版本为准 |
+
+两者的功能和价格都在持续更新，上表只列常见差异，选购前请查看各自官网。
 
 ## 安装与配置
 
 ### 1. 下载安装
 
-1. 访问 [cursor.sh](https://cursor.sh) 官网
+1. 访问 [cursor.com](https://cursor.com) 官网
 2. 下载对应系统版本（Windows / macOS / Linux）
 3. 安装并启动
 
@@ -48,13 +49,9 @@ Cursor 由 Anysphere 公司开发，基于 VS Code 构建，保留了 VS Code �
 
 ### 3. 订阅套餐
 
-| 套餐 | 价格 | 说明 |
-| :--- | :--- | :--- |
-| **Free** | 免费 | 每月 2000 次补全 + 50 次高级请求 |
-| **Pro** | $20/月 | 无限补全 + 500 次高级请求 |
-| **Business** | $40/月 | 团队协作 + 管理控制台 |
+Cursor 提供免费版、个人付费版和团队版等套餐，各档的模型额度、请求次数和价格调整较频繁，请以官方定价页 [cursor.com/pricing](https://cursor.com/pricing) 为准。建议先用免费版确认适合自己的工作流，再决定是否订阅。
 
-> 💡 可通过 [合租平台](/account/) 降低 Pro 订阅费用
+> 💡 通过合租平台订阅存在账号被收回的风险，请先阅读[合租避坑指南](/account/how-to-share)。
 
 ## 核心 AI 功能
 
