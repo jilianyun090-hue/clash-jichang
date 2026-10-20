@@ -8,6 +8,7 @@
  * 环境变量：
  *   INDEXNOW_DAYS=7      调整时间窗口
  *   INDEXNOW_ALL=1       强制提交全部 URL
+ *   INDEXNOW_URLS=a,b    只提交指定 URL（逗号分隔，优先级最高）
  *   INDEXNOW_DRY_RUN=1   只打印将要提交的 URL，不发送
  *
  * 手动运行: node scripts/submit-indexnow.js
@@ -35,7 +36,8 @@ const entries = [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].map((m) => ({
 }));
 
 const cutoff = Date.now() - DAYS * 24 * 3600 * 1000;
-const selected = entries
+const explicit = (process.env.INDEXNOW_URLS || "").split(",").map((s) => s.trim()).filter(Boolean);
+const selected = explicit.length ? explicit : entries
   .filter((e) => e.loc)
   .filter((e) => process.env.INDEXNOW_ALL === "1" || !e.lastmod || new Date(e.lastmod).getTime() >= cutoff)
   .map((e) => e.loc);
