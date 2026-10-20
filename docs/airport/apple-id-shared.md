@@ -23,6 +23,7 @@ head:
   - - meta
     - name: author
       content: "道一博客"
+date: 2026-05-16
 ---
 
 ![Apple ID](https://i.ibb.co/V0QLjfy5/apple-ID.jpg)

@@ -35,7 +35,7 @@ date: 2026-09-19
 与闲鱼、贴吧个人卖家相比，银河录像局具备正规商业公司的运营保障：
 
 1. ⚡ **品类全、现货秒发**
-   不仅包含 Netflix、Disney+、Spotify、Apple TV+、HBOMax，还深度覆盖了 **ChatGPT Plus、Claude 3.5 Sonnet、Midjourney、Runway、Poe** 等全套 AI 工具与 Productivity 办公软件。
+   不仅包含 Netflix、Disney+、Spotify、Apple TV+、HBOMax，还深度覆盖了 **ChatGPT Plus、Claude、Midjourney、Runway、Poe** 等全套 AI 工具与 Productivity 办公软件。
 
 2. 🛡️ **自动化续费与独立车位**
    系统为每个用户分配独立的 Profile（观组车位）与专属 PIN 码，个人观看记录与聊天历史完全隔离，保护隐私。
@@ -53,8 +53,8 @@ date: 2026-09-19
 | 热门服务 | 订阅规格 | 市场独立订阅价 | 银河录像局合租价 | 优惠码折扣价 (`Theo`) | 适合人群 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Netflix 4K** | Premium 最高画质 4K HDR | ~$20/月 | ~¥20/月 | **¥19/月 (按年更便宜)** | 4K 追剧党、家庭影院 |
-| **ChatGPT Plus** | 共享/独享车位 (GPT-4o) | $20/月 | ~¥35/月 | **¥33.25/月** | 开发者、科研、AI 办公 |
-| **Claude Pro** | Claude 3.5 Sonnet 高级版 | $20/月 | ~¥45/月 | **¥42.75/月** | 代码编写、长文本处理 |
+| **ChatGPT Plus** | 共享/独享车位 | $20/月 | ~¥35/月 | **¥33.25/月** | 开发者、科研、AI 办公 |
+| **Claude Pro** | Claude Pro 套餐 | $20/月 | ~¥45/月 | **¥42.75/月** | 代码编写、长文本处理 |
 | **Disney+** | 4K HDR 全解锁 | ~$14/月 | ~¥12/月 | **¥11.4/月** | 漫威/迪士尼动画爱好者 |
 | **YouTube Premium** | 无广告 + 后台播放 | ~$14/月 | ~¥9.5/月 | **¥9/月** | 重度 YouTube 视频用户 |
 | **Spotify** | Premium 独立家庭组车位 | ~$11/月 | ~¥8.5/月 | **¥8/月** | 音乐无损听歌爱好者 |

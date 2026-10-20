@@ -88,9 +88,9 @@ Clash、v2rayN、Shadowrocket 等客户端天生支持导入多个订阅链接�
 
 | 机场 | 套餐示例 | 特点 | 注册链接 |
 | :--- | :--- | :--- | :--- |
-| 极连云 | 399 元/600G（永久有效） | 全 IPLC 专线，不限时不过期 | [立即注册](https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13) |
-| 寰宇云 | 268 元/2000G（永久有效） | IEPL 全专线，流量超大 | [立即注册](https://vip3.huanyuyunbest.com/#/register?code=K6h5VWw2) |
-| 瞬云机场 | 99 元/59G/月（年付） | ANYCAST 专线，年付最划算 | [立即注册](https://ddd.jichang.best/#/register?code=o4I4kToe) |
+| 极连云 | 399 元/600G（永久有效） | 全 IPLC 专线，不限时不过期 | [立即注册](https://clash-jichang.com/go/jilianyun) |
+| 寰宇云 | 268 元/2000G（永久有效） | IEPL 全专线，流量超大 | [立即注册](https://clash-jichang.com/go/huanyuyun) |
+| 瞬云机场 | 99 元/59G/月（年付） | ANYCAST 专线，年付最划算 | [立即注册](https://clash-jichang.com/go/shunyun) |
 
 > 如需完整机场列表，请查看：[2026 机场推荐](/airport/)
 

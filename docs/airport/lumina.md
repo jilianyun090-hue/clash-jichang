@@ -1,5 +1,5 @@
 ---
-title: "Lumina怎么样？2026 Lumina机场中转与直连高速Hysteria2/AnyTLS深度测评"
+title: "Lumina机场怎么样？2026Lumina机场测评：价格、速度、线路与优缺点"
 description: "Lumina机场2026年最新深度评测：本篇详细评测Lumina的节点速度、稳定性和套餐价格。本文专为需要中转与Hysteria2直连高速网络加速的用户提供客观推荐，支持Clash、Shadowrocket等主流代理软件，提供优质的Netflix、YouTube与ChatGPT解锁，是高性价比的科学上网翻墙机场推荐。"
 head:
 - - meta
@@ -15,7 +15,7 @@ tag:
 category: 机场测评
 date: 2026-06-28
 ---
-Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多协议混合机场。其提供基于 xTom 数据中心的优质 Hysteria2 直连套餐，以及基于 GoMAMI HK 中转入口的 AnyTLS 中转套餐，覆盖全球核心地区，深受大流量用户与多终端团队的喜爱。本文将从**线路质量**、**流媒体/AI工具解锁**、**套餐价格**和**客户端配置**等多个维度进行深度实测，帮助您判断 Lumina 是否适合作为您的日常科学上网主力工具。
+Lumina（Lumina Airport）是一家主打高性价比、不限设备数量的多协议混合机场。其提供基于 xTom 数据中心的优质 Hysteria2 直连套餐，以及基于 GoMAMI HK 中转入口的 AnyTLS 中转套餐，覆盖全球核心地区，深受大流量用户与多终端团队的喜爱。本文将从**线路质量**、**流媒体/AI工具解锁**、**套餐价格**和**客户端配置**等多个维度整理信息，帮助您判断 Lumina 是否适合作为您的日常科学上网主力工具。
 
 ---
 
@@ -33,11 +33,11 @@ Lumina 提供极其灵活的套餐选择，支持月付：
 
 | 套餐名称 | 每月流量 | 价格 | 限制 | 协议及架构 | 购买链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Nano** | 200GB/月 | ¥10.00/月 | 不限设备，1000Mbps | xTom优质直连，Hysteria2协议，覆盖美德荷日 | [购买链接](https://luminak.net/?token=lumina#/register?code=dCgHyjFi) |
-| **Basic** | 200GB/月 | ¥15.00/月 | 不限设备，1000Mbps | GoMAMI HK中转，AnyTLS协议，覆盖香港/日本/新加坡等 | [购买链接](https://luminak.net/?token=lumina#/register?code=dCgHyjFi) |
-| **Premium** | 500GB/月 | ¥30.00/月 | 不限设备，1000Mbps | 进阶三网中转，AnyTLS协议，覆盖34+全球节点 | [购买链接](https://luminak.net/?token=lumina#/register?code=dCgHyjFi) |
+| **Nano** | 200GB/月 | ¥10.00/月 | 不限设备，1000Mbps | xTom优质直连，Hysteria2协议，覆盖美德荷日 | [购买链接](https://clash-jichang.com/go/lumina) |
+| **Basic** | 200GB/月 | ¥15.00/月 | 不限设备，1000Mbps | GoMAMI HK中转，AnyTLS协议，覆盖香港/日本/新加坡等 | [购买链接](https://clash-jichang.com/go/lumina) |
+| **Premium** | 500GB/月 | ¥30.00/月 | 不限设备，1000Mbps | 进阶三网中转，AnyTLS协议，覆盖34+全球节点 | [购买链接](https://clash-jichang.com/go/lumina) |
 
-👉 **[前往 Lumina 官网购买 (直达链接)](https://luminak.net/?token=lumina#/register?code=dCgHyjFi)**
+👉 **[前往 Lumina 官网购买 (直达链接)](https://clash-jichang.com/go/lumina)**
 
 ---
 

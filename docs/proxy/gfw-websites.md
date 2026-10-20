@@ -53,7 +53,7 @@ tag:
 - **核心定位**：Anthropic 开发的 AI 助手，代码和写作能力极强。
 - **必看理由**：Artifacts 实时预览功能独一无二。200K 超长上下文窗口，翻译和写作质量极高，被认为是最像人类的 AI。
 
-👉 **详细教程**：[Claude 3.5 使用攻略](/ai/claude-guide) | [合租平台推荐](/account/platforms)
+👉 **详细教程**：[Claude 使用攻略](/ai/claude-guide) | [合租平台推荐](/account/platforms)
 
 ### Midjourney
 - **官网地址**：[https://www.midjourney.com](https://www.midjourney.com)

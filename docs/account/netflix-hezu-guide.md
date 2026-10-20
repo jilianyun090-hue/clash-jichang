@@ -46,7 +46,7 @@ flowchart TD
   - 提供 **Netflix 独立 Profile + 专属 PIN 码** 隔离，观看历史与推荐算法互不干扰；
   - 针对 Netflix 同户装置限制，提供**自动化验证码接收与一键解锁验证**功能；
   - 提供 **“翻车必赔”** 售后服务，账号异常自动秒换新号；
-  - 支持 **ChatGPT Plus、Claude 3.5、Disney+、YouTube Premium** 全套合租。
+  - 支持 **ChatGPT Plus、Claude、Disney+、YouTube Premium** 全套合租。
 - **专属优惠码**：结账输入 `Theo` 享全站 **95 折** 优惠。
 - **评测详情**：[银河录像局深度评测与优惠码使用指南](/account/yinheluxiangju)。
 
