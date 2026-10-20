@@ -66,6 +66,7 @@ ${active.map((a) => `| [${a.name}](${a.path}) | ${price(a)} | ${lines(a)} | ${a.
 - **线路类型**决定晚高峰体验，区别见[IEPL/IPLC 专线对比](/airport/iepl-iplc)和[线路类型指南](/proxy/line-type-guide)。
 - 想按预算挑，直接看[性价比机场排行](/airport/best-value)；想核对优惠，看[机场优惠码](/airport/coupons)。
 - 已出现跑路或失联迹象的机场不在表内，见[跑路预警名单](/airport/paolu)。
+- 想从头了解怎么选，回到[机场推荐总览](/airport/)。
 `,
 );
 
@@ -95,7 +96,7 @@ ${byPrice.map((a, i) => `| ${i + 1} | ${a.name} | ${price(a)} | ${lines(a)} | [�
 2. **付款周期**：折合月价多为年付，年付一般不支持退款；建议先买月付试用。
 3. **跑路风险**：低价且要求预付长周期的套餐风险更高，参考[跑路预警](/airport/paolu)。
 
-更完整的选购方法见[便宜机场推荐](/airport/cheap-airport)、[一元机场真实成本](/airport/one-yuan-airport-cost-2026)和[稳定机场排行榜](/airport/best-airport-2026)。
+更完整的选购方法见[机场推荐总览](/airport/)、[便宜机场推荐](/airport/cheap-airport)、[一元机场真实成本](/airport/one-yuan-airport-cost-2026)和[稳定机场排行榜](/airport/best-airport-2026)。
 `,
 );
 
@@ -125,6 +126,7 @@ ${withCoupon.map((a) => `| ${a.name} | \`${a.coupon}\` | ${a.date} | [查看评�
 - 先看适用套餐，部分优惠码只适用于特定周期。
 - 不要因为优惠力度大而直接买年付，先月付试用，见[购买前核查清单](/airport/clash-airport-purchase-checklist)。
 - 如果某个优惠码已失效，欢迎通过[关于页](/about)的联系方式告知。
+- 想先对比再决定，回到[机场推荐总览](/airport/)。
 `,
 );
 
@@ -151,7 +153,7 @@ ${[...active].sort((a, b) => a.name.localeCompare(b.name, "zh-CN")).map((a) => `
 
 ${warning.map((a) => `- [${a.name}](${a.path})：详见[跑路预警名单](/airport/paolu)`).join("\n")}
 
-对比、性价比和优惠码页面不收录以上机场。
+对比、性价比和优惠码页面不收录以上机场。想按用途挑选，请看[机场推荐总览](/airport/)。
 `,
 );
 

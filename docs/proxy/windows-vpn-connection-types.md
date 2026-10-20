@@ -18,6 +18,9 @@ head:
 
 看到 Windows 的“添加 VPN”或“设置安全 VPN 连接”窗口，很多人以为填一个机场订阅地址就能连接。实际上，这个入口只是 Windows 提供的连接客户端：你还需要单位或服务商给出的服务器地址、VPN 类型和登录凭据。微软的[官方连接说明](https://support.microsoft.com/en-us/windows/connect-to-a-vpn-in-windows-3d29aeb1-f497-f6b7-7633-115722c1009c)也先要求用户取得这些信息。搜索“Radmin VPN”“FortiClient VPN”和“set up a secure vpn connection windows”的用户，常常需要的是三套不同流程。
 
+<!-- internal-link:airport -->
+> 延伸阅读：这类企业或远程办公 VPN 不用于翻墙；如果需要科学上网，可参考[VPN机场推荐](/airport/)。
+
 ## 先辨认你要连接的网络
 
 | 需求 | 常见工具 | 需要谁提供信息 |

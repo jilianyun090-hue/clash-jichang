@@ -18,6 +18,9 @@ tag:
 
 MetaCubeX 核心及兼容客户端列表与维护状态，涵盖 Windows、macOS、Linux、Android、iOS、路由器、鸿蒙等全平台。
 
+<!-- internal-link:airport -->
+> 延伸阅读：选好客户端后，可到[机场推荐](/airport/)挑选订阅。
+
 <div class="client-container">
 
 <section id="windows">

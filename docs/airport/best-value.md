@@ -58,4 +58,4 @@ date: 2026-10-20
 2. **付款周期**：折合月价多为年付，年付一般不支持退款；建议先买月付试用。
 3. **跑路风险**：低价且要求预付长周期的套餐风险更高，参考[跑路预警](/airport/paolu)。
 
-更完整的选购方法见[便宜机场推荐](/airport/cheap-airport)、[一元机场真实成本](/airport/one-yuan-airport-cost-2026)和[稳定机场排行榜](/airport/best-airport-2026)。
+更完整的选购方法见[机场推荐总览](/airport/)、[便宜机场推荐](/airport/cheap-airport)、[一元机场真实成本](/airport/one-yuan-airport-cost-2026)和[稳定机场排行榜](/airport/best-airport-2026)。

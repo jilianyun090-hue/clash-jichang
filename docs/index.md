@@ -44,6 +44,7 @@ footer: '<a href="/airport/">机场推荐</a> · <a href="/airport/compare">机�
 
 ### 核心入口
 
+- [机场推荐总览](/airport/)：机场推荐、梯子推荐、机场节点与 VPN 推荐的总入口
 - [稳定机场排行榜](/airport/best-airport-2026)：晚高峰稳定性优先的机场推荐
 - [性价比机场排行](/airport/best-value)：按起步月价整理，附线路与评测入口
 - [机场对比表](/airport/compare)：起步价、线路、优惠码一张表看完

@@ -20,6 +20,9 @@ date: 2026-10-02
 
 在 iOS 苹果移动端，**Shadowrocket（小火箭）** 毫无疑问是第一梯子代理工具。许多用户在习惯了小火箭简单高效的操作后，经常会在 Google 或百度中搜索 **“Shadowrocket Windows”**、**“Shadowrocket 电脑版”** 或 **“Shadowsocks Windows”**，试图在 Windows PC 上下载和小火箭界面一模一样的客户端。
 
+<!-- internal-link:airport -->
+> 延伸阅读：无论使用哪个客户端，都需要可用节点，可先看[机场推荐与评测](/airport/)。
+
 然而，市场上关于 **Shadowrocket Windows 官网下载** 的搜索结果鱼龙混杂，不少站点挂羊头卖狗肉，甚至诱导用户下载捆绑病毒软件。本文将为你系统澄清 **Shadowrocket 在 Windows 系统的真实情况**，并提供目前最完美、最流畅的 PC 端翻墙替代配置方案！
 
 ---

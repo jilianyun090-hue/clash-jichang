@@ -60,4 +60,4 @@ date: 2026-10-20
 - [奈云](/airport/naiyun)：详见[跑路预警名单](/airport/paolu)
 - [隐云](/airport/yinyun)：详见[跑路预警名单](/airport/paolu)
 
-对比、性价比和优惠码页面不收录以上机场。
+对比、性价比和优惠码页面不收录以上机场。想按用途挑选，请看[机场推荐总览](/airport/)。

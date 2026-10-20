@@ -18,6 +18,9 @@ date: 2026-03-07
 
 本教程以 **Shadowrocket (暗影火箭 / 影子火箭 / 小火箭)** 为例，手把手教您在 iPhone / iPad 上完成科学上网配置。Shadowrocket 是 iOS 端最普及、最易用的梯子代理客户端。在使用本软件前，你需要有可用的机场节点订阅，可以从 [2026年稳定便宜好用机场推荐列表](./README.md) 或专为学生推荐的 [学生党高性价比便宜机场精选](./cheap-airport.md) 中获取。
 
+<!-- internal-link:airport -->
+> 延伸阅读：使用小火箭前需要有可用的订阅，可先参考[机场推荐与节点评测](/airport/)。
+
 <br/>
 
 ## Shadowrocket 介绍

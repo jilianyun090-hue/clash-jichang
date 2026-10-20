@@ -61,3 +61,4 @@ date: 2026-10-20
 - **线路类型**决定晚高峰体验，区别见[IEPL/IPLC 专线对比](/airport/iepl-iplc)和[线路类型指南](/proxy/line-type-guide)。
 - 想按预算挑，直接看[性价比机场排行](/airport/best-value)；想核对优惠，看[机场优惠码](/airport/coupons)。
 - 已出现跑路或失联迹象的机场不在表内，见[跑路预警名单](/airport/paolu)。
+- 想从头了解怎么选，回到[机场推荐总览](/airport/)。
