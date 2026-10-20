@@ -49,7 +49,7 @@ date: 2026-10-20
 | [星岛梦](/airport/xingdaomeng) | ¥16/月起 | BGP / 中转 / 专线 | 2026-05-16 |
 | [迅达VPN](/airport/xundavpn) | ¥15/月起 | BGP / 中转 / 专线 | 2026-05-24 |
 | [影子](/airport/yingzi) | ¥18.8/月起 | IEPL / 专线 | 2026-06-28 |
-| [云图](/airport/yuntu) | ¥25/月起 | 中转 / 专线 | 2026-08-06 |
+| [云图](/airport/yuntu) | ¥20/月起 | 中转 / 专线 | 2026-08-06 |
 | [Edge-X](/airport/edge-x) | ¥16.8/月起 | IPLC / IEPL / 专线 | 2026-05-30 |
 | [LiZione](/airport/lizione) | ¥10/月起 | BGP / 中转 / 专线 | 2026-05-19 |
 | [Lumina](/airport/lumina) | ¥10/月起 | 中转 | 2026-06-28 |

@@ -527,6 +527,22 @@
     ]
   },
   {
+    "slug": "yuntu",
+    "name": "云图",
+    "title": "云图机场怎么样？2026云图机场测评：价格、速度、线路与优缺点",
+    "date": "2026-08-06",
+    "path": "/airport/yuntu",
+    "priceText": "起步价 ¥20.00/月（岚图套餐，含 150G 流量，支持 5 台设备）",
+    "fromMonthly": 20,
+    "coupon": "yt88",
+    "status": "active",
+    "affiliateUrl": "https://super.ytjcok.org/#/register?code=qPHQtI9a",
+    "lineTypes": [
+      "中转",
+      "专线"
+    ]
+  },
+  {
     "slug": "yinyun",
     "name": "隐云",
     "title": "隐云机场怎么样？2026隐云机场测评：价格、速度、线路与优缺点",
@@ -539,22 +555,6 @@
     "affiliateUrl": "",
     "lineTypes": [
       "IPLC",
-      "专线"
-    ]
-  },
-  {
-    "slug": "yuntu",
-    "name": "云图",
-    "title": "云图机场怎么样？2026云图机场测评：价格、速度、线路与优缺点",
-    "date": "2026-08-06",
-    "path": "/airport/yuntu",
-    "priceText": "起步价 ¥25.00/月（岚图套餐，含 150G 流量，支持 5 台设备）",
-    "fromMonthly": 25,
-    "coupon": "yt88",
-    "status": "active",
-    "affiliateUrl": "https://super.ytjcok.org/#/register?code=qPHQtI9a",
-    "lineTypes": [
-      "中转",
       "专线"
     ]
   },

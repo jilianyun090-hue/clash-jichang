@@ -50,7 +50,7 @@ date: 2026-10-20
 | [影子](/airport/yingzi) | ¥18.8/月起 | IEPL / 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/yingzi) |
 | [大哥云](/airport/dageyun) | ¥19.9/月起 | IPLC / IEPL / 专线 | — | 2026-05-14 | — |
 | [全球云](/airport/quanqiuyun) | ¥20/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-17 | [官网](https://clash-jichang.com/go/quanqiuyun) |
-| [云图](/airport/yuntu) | ¥25/月起 | 中转 / 专线 | `yt88` | 2026-08-06 | [官网](https://clash-jichang.com/go/yuntu) |
+| [云图](/airport/yuntu) | ¥20/月起 | 中转 / 专线 | `yt88` | 2026-08-06 | [官网](https://clash-jichang.com/go/yuntu) |
 | [灵猫网络](/airport/lingmao) | 见评测页 | IPLC / 专线 | — | 2026-08-03 | [官网](https://clash-jichang.com/go/lingmao) |
 | [秒秒云](/airport/miaomiaoyun) | 见评测页 | BGP / 中转 / 专线 | — | 2026-05-25 | [官网](https://clash-jichang.com/go/miaomiaoyun) |
 | [Nice加速](/airport/nice) | 见评测页 | IPLC / IEPL / 专线 | — | 2026-08-01 | [官网](https://clash-jichang.com/go/nice) |

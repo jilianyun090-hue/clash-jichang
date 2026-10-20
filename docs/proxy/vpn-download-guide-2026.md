@@ -529,7 +529,7 @@ mkdir -p ~/.config/clash
 - 原生IP，解锁ChatGPT/Netflix
 - 👉 [查看详情](/airport/#飞猫云)
 
-**云图机场 - ¥25/月**
+**云图机场 - ¥20/月**
 - 金融级专线
 - AI工具全解锁
 - 👉 [查看详情](/airport/#云图)

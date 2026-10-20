@@ -50,7 +50,7 @@ date: 2026-10-20
 | 30 | 影子 | ¥18.8/月起 | IEPL / 专线 | [查看评测](/airport/yingzi) |
 | 31 | 大哥云 | ¥19.9/月起 | IPLC / IEPL / 专线 | [查看评测](/airport/dageyun) |
 | 32 | 全球云 | ¥20/月起 | IEPL / BGP / 中转 / 专线 | [查看评测](/airport/quanqiuyun) |
-| 33 | 云图 | ¥25/月起 | 中转 / 专线 | [查看评测](/airport/yuntu) |
+| 33 | 云图 | ¥20/月起 | 中转 / 专线 | [查看评测](/airport/yuntu) |
 
 ## 排序只按价格，购买前还要核对
 
