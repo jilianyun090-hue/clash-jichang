@@ -57,22 +57,22 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue';
+import { ref, computed, onMounted, nextTick } from 'vue';
 
 const searchQuery = ref('');
 
 // 热门问题（手动精选前 10 个高频问题）
 const hotQuestions = [
-  { question: '机场和 VPN 有什么区别？', link: '#basics' },
-  { question: 'Clash 订阅链接如何导入？', link: '#import' },
-  { question: '为什么晚高峰速度变慢？', link: '#troubleshooting' },
-  { question: '哪些机场支持 Netflix 4K 解锁？', link: '#unlock' },
-  { question: '什么是 IEPL 和 IPLC 专线？', link: '#lines' },
-  { question: '如何防止机场跑路？', link: '#run-away' },
-  { question: '学生党适合买多少钱的套餐？', link: '#buying-value' },
-  { question: 'ChatGPT 为什么显示不可用地区？', link: '#unlock' },
-  { question: '一个账号可以几台设备同时用？', link: '#accounts-devices' },
-  { question: '机场推荐榜单可信吗？', link: '#rankings-trust' },
+  { question: '机场和 VPN 有什么区别？', link: '#q-basics-2' },
+  { question: 'Clash 订阅链接如何导入？', link: '#q-import-1' },
+  { question: '为什么晚高峰速度变慢？', link: '#q-troubleshooting-3' },
+  { question: '哪些机场支持 Netflix 4K 解锁？', link: '#q-unlock-1' },
+  { question: '什么是 IEPL 和 IPLC 专线？', link: '#q-lines-1' },
+  { question: '如何防止机场跑路？', link: '#q-run-away-1' },
+  { question: '学生党适合买多少钱的套餐？', link: '#q-buying-value-1' },
+  { question: 'ChatGPT 为什么显示不可用地区？', link: '#q-unlock-2' },
+  { question: '一个账号可以几台设备同时用？', link: '#q-accounts-devices-2' },
+  { question: '机场推荐榜单可信吗？', link: '#q-rankings-trust-1' },
 ];
 
 // 完整问题库（从实际 FAQ 中提取，简化版）
@@ -186,7 +186,23 @@ const allQuestions = [
   { question: '账号被封了怎么办？', category: '账号设备', link: '#accounts-devices' },
   { question: '忘记机场账号密码了怎么办？', category: '账号设备', link: '#accounts-devices' },
   { question: '可以改绑邮箱吗？', category: '账号设备', link: '#accounts-devices' },
-  { question: '机场能看到我的上网记录吗？', category: '账号设备', link: '#accounts-devices' },
+
+  // 安全、隐私与合规
+  { question: '机场能看到我的上网记录吗？', category: '安全隐私', link: '#q-security-privacy-1' },
+  { question: '机场会保存我的浏览历史吗？', category: '安全隐私', link: '#q-security-privacy-2' },
+  { question: '机场订阅链接泄露后有什么风险？', category: '安全隐私', link: '#q-security-privacy-3' },
+  { question: '机场订阅链接可以放在在线转换器里吗？', category: '安全隐私', link: '#q-security-privacy-4' },
+  { question: '如何安全下载 Clash 客户端？', category: '安全隐私', link: '#q-security-privacy-5' },
+  { question: '机场客户端需要关闭杀毒软件吗？', category: '安全隐私', link: '#q-security-privacy-6' },
+  { question: '机场登录密码和邮箱密码要一样吗？', category: '安全隐私', link: '#q-security-privacy-7' },
+  { question: '机场支付时要注意什么？', category: '安全隐私', link: '#q-security-privacy-8' },
+  { question: '机场是否适合处理敏感工作资料？', category: '安全隐私', link: '#q-security-privacy-9' },
+  { question: '使用机场时应该开全局模式吗？', category: '安全隐私', link: '#q-security-privacy-10' },
+  { question: '为什么不建议在公共 Wi-Fi 下登录机场后台？', category: '安全隐私', link: '#q-security-privacy-11' },
+  { question: '机场更换域名后如何确认是真官网？', category: '安全隐私', link: '#q-security-privacy-12' },
+  { question: '机场可以记录我的真实 IP 吗？', category: '安全隐私', link: '#q-security-privacy-13' },
+  { question: '机场服务在不同地区使用有什么合规风险？', category: '安全隐私', link: '#q-security-privacy-14' },
+  { question: '如何减少机场账号被盗或被封的风险？', category: '安全隐私', link: '#q-security-privacy-15' },
 ];
 
 // 搜索结果
@@ -207,6 +223,25 @@ const onSearch = () => {
 const clearSearch = () => {
   searchQuery.value = '';
 };
+
+// 通过搜索结果或外部链接直达问题时，自动展开对应折叠项
+const openQuestionFromHash = () => {
+  if (typeof window === 'undefined' || !window.location.hash) return;
+  const targetId = decodeURIComponent(window.location.hash.slice(1));
+  if (!targetId.startsWith('q-')) return;
+  nextTick(() => {
+    const target = document.getElementById(targetId);
+    if (target && target.tagName.toLowerCase() === 'details') {
+      target.open = true;
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+};
+
+onMounted(() => {
+  openQuestionFromHash();
+  window.addEventListener('hashchange', openQuestionFromHash);
+});
 
 const highlightText = (text) => {
   if (!searchQuery.value) return text;
