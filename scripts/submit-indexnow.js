@@ -76,9 +76,9 @@ const post = (apiHost) =>
   });
 
 // IndexNow 协议规定：提交到任一参与的搜索引擎即会共享给其他引擎，无需向每个引擎都提交。
-// 先提交到 api.indexnow.org，失败时再回退到 Bing。
+// 依次尝试 api.indexnow.org、Bing、Yandex，任一成功即停止。
 (async () => {
-  for (const apiHost of ["api.indexnow.org", "www.bing.com"]) {
+  for (const apiHost of ["api.indexnow.org", "www.bing.com", "yandex.com"]) {
     const { status, body } = await post(apiHost);
     console.log(`[IndexNow] ${apiHost} 响应状态: ${status}`);
     if (status === 200 || status === 202) {
