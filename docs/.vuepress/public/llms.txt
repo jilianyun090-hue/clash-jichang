@@ -8,6 +8,10 @@ This file contains an index of core guides and reference materials formatted for
 
 ### 机场推荐与深度评测
 - [2026年科学上网机场推荐与梯子选购指南](https://clash-jichang.com/airport/): 精选稳定高速 BGP 中转与 IEPL/IPLC 专线翻墙机场，提供详细的价格、测速、流媒体解锁与解锁 ChatGPT 兼容性数据。
+- [2026机场对比](https://clash-jichang.com/airport/compare): 汇总各机场评测页中的起步价、线路类型、优惠码与更新日期。
+- [2026性价比机场排行](https://clash-jichang.com/airport/best-value): 按起步月价从低到高整理，附线路与评测入口。
+- [2026机场优惠码](https://clash-jichang.com/airport/coupons): 已收录的机场优惠码与使用说明。
+- [机场库](https://clash-jichang.com/airport/brands): 全部机场评测索引与风险状态。
 - [2026年稳定机场推荐排行榜](https://clash-jichang.com/airport/best-airport-2026.html): 针对追求晚高峰无卡顿、高可用率的企业与重度用户，评测并汇总全网最稳定老牌机场。
 - [2026年便宜机场推荐 (学生党首选)](https://clash-jichang.com/airport/cheap-airport.html): 汇总月付 10 元以下的高性价比性价比机场，涵盖按量付费不限时流量包与低门槛套餐。
 - [一元机场与便宜机场真实成本算法](https://clash-jichang.com/airport/one-yuan-airport-cost-2026): 按流量倍率、实际可用量、晚高峰表现和预付风险评估低价套餐。

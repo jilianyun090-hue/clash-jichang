@@ -1,6 +1,15 @@
 /**
- * IndexNow 提交脚本（ESM 格式）
- * 每次 npm run build 后自动执行，将所有 URL 推送到 Bing 加速收录
+ * IndexNow 提交脚本（ESM）
+ * 构建后自动执行，只提交“近期有改动”的 URL，避免每次全站重复提交。
+ *
+ * 选取规则（来自构建产物 sitemap.xml）：
+ *   - <lastmod> 在最近 INDEXNOW_DAYS 天内（默认 3 天）的页面
+ *   - 没有 <lastmod> 的页面（新建、尚无 git 历史），视为新页面
+ * 环境变量：
+ *   INDEXNOW_DAYS=7      调整时间窗口
+ *   INDEXNOW_ALL=1       强制提交全部 URL
+ *   INDEXNOW_DRY_RUN=1   只打印将要提交的 URL，不发送
+ *
  * 手动运行: node scripts/submit-indexnow.js
  */
 import https from "https";
@@ -10,90 +19,76 @@ import path from "path";
 const INDEXNOW_KEY = "7ed17addd6714c9bb9398a7251d90866";
 const HOST = "clash-jichang.com";
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`;
+const DAYS = Number(process.env.INDEXNOW_DAYS || 3);
+const MAX_URLS = 500;
 
-// 动态从构建后的 sitemap.xml 中读取所有 URL
 const sitemapPath = path.resolve("docs/.vuepress/dist/sitemap.xml");
-let urlList = [];
-
-if (fs.existsSync(sitemapPath)) {
-  try {
-    const sitemapContent = fs.readFileSync(sitemapPath, "utf8");
-    const locRegex = /<loc>(.*?)<\/loc>/g;
-    let match;
-    while ((match = locRegex.exec(sitemapContent)) !== null) {
-      const url = match[1].trim();
-      // 排除不必要的系统页面（如果需要），这里全部提交以加速收录
-      urlList.push(url);
-    }
-    console.log(`[IndexNow] 成功从 sitemap.xml 解析出 ${urlList.length} 个 URL`);
-  } catch (err) {
-    console.error("[IndexNow] 读取/解析 sitemap.xml 失败，采用备用 URL 列表:", err);
-  }
+if (!fs.existsSync(sitemapPath)) {
+  console.log("[IndexNow] 未找到 sitemap.xml，已跳过。");
+  process.exit(0);
 }
+
+const xml = fs.readFileSync(sitemapPath, "utf8");
+const entries = [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].map((m) => ({
+  loc: (m[1].match(/<loc>(.*?)<\/loc>/) || [])[1]?.trim(),
+  lastmod: (m[1].match(/<lastmod>(.*?)<\/lastmod>/) || [])[1]?.trim(),
+}));
+
+const cutoff = Date.now() - DAYS * 24 * 3600 * 1000;
+const selected = entries
+  .filter((e) => e.loc)
+  .filter((e) => process.env.INDEXNOW_ALL === "1" || !e.lastmod || new Date(e.lastmod).getTime() >= cutoff)
+  .map((e) => e.loc);
+
+const urlList = [...new Set(selected)].slice(0, MAX_URLS);
+console.log(`[IndexNow] sitemap 共 ${entries.length} 个 URL，其中近 ${DAYS} 天有改动或为新页面的有 ${selected.length} 个，本次提交 ${urlList.length} 个`);
 
 if (urlList.length === 0) {
-  console.log("[IndexNow] ⚠️ 警告: 未能从 sitemap.xml 中提取到 URL。使用基础 URL 列表进行兜底提交。");
-  urlList = [
-    `https://${HOST}/`,
-    `https://${HOST}/airport/`,
-    `https://${HOST}/streaming/`,
-    `https://${HOST}/account/platforms.html`,
-    `https://${HOST}/ai/`,
-    `https://${HOST}/proxy/`,
-  ];
+  console.log("[IndexNow] 没有需要提交的 URL，已跳过。");
+  process.exit(0);
+}
+if (process.env.INDEXNOW_DRY_RUN === "1") {
+  urlList.forEach((u) => console.log("  " + u));
+  console.log("[IndexNow] DRY RUN：未发送。");
+  process.exit(0);
 }
 
+const payload = JSON.stringify({ host: HOST, key: INDEXNOW_KEY, keyLocation: KEY_LOCATION, urlList });
 
-const payload = JSON.stringify({
-  host: HOST,
-  key: INDEXNOW_KEY,
-  keyLocation: KEY_LOCATION,
-  urlList,
-});const targets = ["yandex.com", "www.bing.com", "api.indexnow.org"];
-
-async function submitToTarget(apiHost) {
-  return new Promise((resolve) => {
-    const options = {
-      hostname: apiHost,
-      path: "/indexnow",
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json; charset=utf-8",
-        "Content-Length": Buffer.byteLength(payload),
+const post = (apiHost) =>
+  new Promise((resolve) => {
+    const req = https.request(
+      {
+        hostname: apiHost,
+        path: "/indexnow",
+        method: "POST",
+        headers: { "Content-Type": "application/json; charset=utf-8", "Content-Length": Buffer.byteLength(payload) },
       },
-    };
-
-    console.log(`[IndexNow] 正在提交 ${urlList.length} 个 URL 到 ${apiHost}...`);
-
-    const req = https.request(options, (res) => {
-      let body = "";
-      res.on("data", (chunk) => body += chunk);
-      res.on("end", () => {
-        console.log(`[IndexNow] ${apiHost} 响应状态: ${res.statusCode}`);
-        if (res.statusCode === 200 || res.statusCode === 202) {
-          console.log(`[IndexNow] ✅ ${apiHost} 提交成功！`);
-        } else {
-          console.log(`[IndexNow] ❌ ${apiHost} 提交失败，状态码: ${res.statusCode}`);
-          if (body) {
-            console.log(`[IndexNow] ${apiHost} 详情: ${body}`);
-          }
-        }
-        resolve(res.statusCode);
-      });
-    });
-
-    req.on("error", (e) => {
-      console.error(`[IndexNow] ${apiHost} 请求错误: ${e.message}`);
-      resolve(0);
-    });
-
+      (res) => {
+        let body = "";
+        res.on("data", (c) => (body += c));
+        res.on("end", () => resolve({ status: res.statusCode, body }));
+      },
+    );
+    req.on("error", (e) => resolve({ status: 0, body: e.message }));
     req.write(payload);
     req.end();
   });
-}
 
+// IndexNow 协议规定：提交到任一参与的搜索引擎即会共享给其他引擎，无需向每个引擎都提交。
+// 先提交到 api.indexnow.org，失败时再回退到 Bing。
 (async () => {
-  for (const target of targets) {
-    await submitToTarget(target);
+  for (const apiHost of ["api.indexnow.org", "www.bing.com"]) {
+    const { status, body } = await post(apiHost);
+    console.log(`[IndexNow] ${apiHost} 响应状态: ${status}`);
+    if (status === 200 || status === 202) {
+      console.log(`[IndexNow] ✅ 已通过 ${apiHost} 提交 ${urlList.length} 个 URL`);
+      return;
+    }
+    if (body) console.log(`[IndexNow] ${apiHost} 详情: ${body}`);
+    if (status === 403) {
+      console.log("[IndexNow] 403 通常表示该站点在 IndexNow 一侧未通过 key 验证：请在 Bing Webmaster 的 IndexNow 页面确认 key 已关联到本站，并检查 Cloudflare 防火墙/Bot 规则是否拦截了 Bing 对 key 文件的抓取。");
+    }
   }
+  console.log("[IndexNow] ❌ 所有端点均提交失败（不影响构建）。");
 })();

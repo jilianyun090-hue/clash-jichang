@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs";
 import { hopeTheme } from "vuepress-theme-hope";
 
 export default hopeTheme({
@@ -7,18 +8,19 @@ export default hopeTheme({
     locales: {
         "/": {
             toc: true,
+            // 自动生成的聚合页只用于站内浏览，不参与索引（见 customHead 中的 noindex），标题保持简短
             blogLocales: {
-                article: "2026年科学上网机场推荐与翻墙梯子全部文章列表 - 涵盖最新稳定专线机场评测、Netflix流媒体解锁指南与ChatGPT等AI工具使用教程",
-                articleList: "科学上网机场推荐与使用教程资讯文章完整索引 - 2026年最新稳定翻墙机场深度评测、Netflix/Disney+流媒体解锁详细指南与人工智能工具实战攻略",
-                category: "翻墙机场推荐文章分类导航：机场推荐、AI工具教程、流媒体解锁与账号合租完整指南汇总",
-                categoryList: "2026年科学上网与翻墙机场相关文章全部分类导航 - 涵盖节点推荐、网络代理知识、流媒体平台解锁、AI智能工具实操等各大核心板块",
-                tag: "2026年科学上网机场推荐完整标签分类索引 - 通过标签快速定位翻墙节点类型、流媒体平台教程或AI人工智能工具使用攻略",
-                tagList: "2026年科学上网与翻墙全部文章标签汇总索引 - 机场推荐、VPN翻墙、AI工具与流媒体标签一览 - 高效检索所需技术指南",
-                timeline: "2026年科学上网机场推荐最新发布时间轴 - 持续更新翻墙方案 - 按时间线浏览每一次机场评测、网络代理教程与优质资源分享",
-                timelineList: "2026年最新科学上网与翻墙机场推荐文章发布时间线完整索引 - 回顾历次重要机场评测更新、流媒体解锁技术进展及AI工具实操案例",
-                star: "精选推荐文章合集 - 2026年科学上网与翻墙机场最佳实战指南与进阶技巧 - 年度最具价值的高性价比机场评测与流媒体合租避坑干货",
-                slides: "科学上网技术分享幻灯片 - 网络代理配置及流媒体解锁技术演示文稿",
-                encrypt: "加密保护内容 - 专属节点福利、深度机场评测数据及高级翻墙进阶教程",
+                article: "全部文章",
+                articleList: "文章列表",
+                category: "分类",
+                categoryList: "全部分类",
+                tag: "标签",
+                tagList: "全部标签",
+                timeline: "时间轴",
+                timelineList: "文章时间轴",
+                star: "精选文章",
+                slides: "幻灯片",
+                encrypt: "加密内容",
             },
         },
     },
@@ -32,18 +34,29 @@ export default hopeTheme({
 
     // 网站 Logo
     logo: "/globe.png",
-    logoAlt: "2026年科学上网VPN机场推荐 - clash-jichang.com",
+    logoAlt: "Clash机场推荐指南",
     
     docsDir: "docs",
 
-    footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/about">关于与评测方法</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网',
+    footer: '<a href="/airport/">机场推荐</a> · <a href="/airport/compare">机场对比</a> · <a href="/airport/best-value">性价比机场</a> · <a href="/airport/coupons">优惠码</a> · <a href="/airport/brands">机场库</a> · <a href="/airport/paolu">跑路预警</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a><br/><a href="/about">关于与评测方法</a> · <a href="/disclosure">推广披露</a> · <a href="/privacy">隐私政策</a> · <a href="/terms">使用条款</a> · <a href="/links">友链</a><br/>本站部分链接为推广链接，详见推广披露',
     displayFooter: true,
     copyright: "© 2026 clash-jichang.com",
 
     // 顶部导航：按用户任务分为机场、AI、账号与知识库四条主路径。
     navbar: [
         { text: "首页", link: "/" },
-        { text: "机场推荐", link: "/airport/" },
+        {
+            text: "机场推荐",
+            children: [
+                { text: "机场推荐总览", link: "/airport/" },
+                { text: "稳定机场排行榜", link: "/airport/best-airport-2026" },
+                { text: "性价比机场", link: "/airport/best-value" },
+                { text: "机场对比", link: "/airport/compare" },
+                { text: "机场优惠码", link: "/airport/coupons" },
+                { text: "机场库", link: "/airport/brands" },
+                { text: "跑路预警", link: "/airport/paolu" },
+            ],
+        },
         { text: "AI使用指南", link: "/ai/" },
         { text: "账号与合租", link: "/account/" },
         { text: "科学上网知识库", link: "/proxy/" },
@@ -95,6 +108,10 @@ export default hopeTheme({
                 children: [
                     { text: "机场推荐总览", link: "" },
                     { text: "稳定机场推荐排行榜", link: "best-airport-2026" },
+                    { text: "性价比机场排行（按价格）", link: "best-value" },
+                    { text: "机场对比表", link: "compare" },
+                    { text: "机场优惠码", link: "coupons" },
+                    { text: "机场库（全部评测索引）", link: "brands" },
                     { text: "便宜机场推荐（学生党）", link: "cheap-airport" },
                     { text: "一元机场与真实成本计算", link: "one-yuan-airport-cost-2026" },
                     { text: "按场景选择机场", link: "scenario-airport-ranking-2026" },
@@ -130,7 +147,7 @@ export default hopeTheme({
                 children: [
                     { text: "AI使用指南首页", link: "" },
                     { text: "ChatGPT国内注册与使用", link: "chatgpt" },
-                    { text: "Claude 3.5国内注册教程", link: "claude-guide" },
+                    { text: "Claude国内注册与使用教程", link: "claude-guide" },
                     { text: "Google Gemini使用指南", link: "gemini" },
                     { text: "Grok AI注册与访问教程", link: "grok-guide" },
                 ],
@@ -226,6 +243,9 @@ export default hopeTheme({
         "/timeline/": false,
         "/links": false,
         "/stats": false,
+        "/disclosure": false,
+        "/privacy": false,
+        "/terms": false,
         "/about": false,
         "/about/": false,
     },
@@ -247,26 +267,10 @@ export default hopeTheme({
                     }
                 };
 
-                // 为自动生成的博客聚合页面（标签、分类、文章列表等）提供独特且足够长的 meta description
-                if (page.path.startsWith('/tag/') || page.path.startsWith('/category/') || page.path.startsWith('/article/') || page.path.startsWith('/timeline/') || page.path.startsWith('/star/')) {
-                    const pageName = page.title || '科学上网';
-                    
-                    // 根据不同页面类型生成差异化描述
-                    let desc;
-                    if (page.path.startsWith('/tag/')) {
-                        desc = `浏览「${pageName}」相关文章合集。本站收录2026年最新科学上网机场推荐与翻墙指南，精选稳定高速的VPN机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT 等前沿 AI 工具使用攻略。标签：${pageName}。`;
-                    } else if (page.path.startsWith('/category/')) {
-                        desc = `「${pageName}」分类下的全部文章。2026年最新科学上网机场推荐与翻墙指南，精选稳定高速的VPN机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT、Claude 等前沿 AI 工具使用攻略。`;
-                    } else if (page.path.startsWith('/article/')) {
-                        desc = `2026年科学上网机场推荐全部文章列表。精选稳定高速的翻墙机场评测，提供 Netflix、Disney+、YouTube 4K 流媒体解锁教程与合租方案，分享 ChatGPT、Claude、Gemini 等前沿 AI 工具使用攻略，助您畅享全球互联网自由。`;
-                    } else if (page.path.startsWith('/timeline/')) {
-                        desc = `按时间线浏览2026年最新科学上网机场推荐与翻墙指南文章。持续更新稳定高速的VPN机场评测、Netflix/Disney+ 流媒体解锁教程与 ChatGPT 等 AI 工具使用攻略，记录每一次重要评测与资源分享。`;
-                    } else if (page.path.startsWith('/star/')) {
-                        desc = `精选推荐文章合集：2026年最具价值的科学上网机场推荐、翻墙攻略与流媒体解锁指南。经过严格筛选的高性价比VPN机场评测、Netflix合租技巧与 ChatGPT 使用攻略，助您快速找到最优方案。`;
-                    } else {
-                        desc = `这是「${pageName}」的相关内容归档。2026年最新科学上网机场推荐与翻墙指南，为您精选稳定高速的翻墙机场评测，提供 Netflix、Disney+ 等流媒体解锁教程与合租方案，分享 ChatGPT 等前沿 AI 工具使用攻略。`;
-                    }
-                    
+                // 自动生成的聚合页（标签、分类、文章列表、时间轴等）不参与索引。
+                // noindex 与 sitemap 排除由 config.mjs 的 extendsPage 处理，这里只补一份简短描述。
+                if (/^\/(tag|category|article|timeline|star)\//.test(page.path)) {
+                    const desc = `「${page.title || '文章'}」相关文章归档，本站机场测评与科学上网教程的站内浏览入口。`;
                     upsertMeta({ name: 'description' }, desc);
                     upsertMeta({ property: 'og:description' }, desc);
                 }
@@ -286,30 +290,50 @@ export default hopeTheme({
                 else head.push(['link', { rel: 'canonical', href: pageUrl }]);
                 upsertMeta({ property: 'og:url' }, pageUrl);
 
-                // 为内容页注入 BreadcrumbList JSON-LD 标签
-                const breadcrumbLd = {
-                    "@context": "https://schema.org",
-                    "@type": "BreadcrumbList",
-                    "itemListElement": [
-                        {
-                            "@type": "ListItem",
-                            "position": 1,
-                            "name": "首页",
-                            "item": "https://clash-jichang.com/"
-                        },
-                        {
-                            "@type": "ListItem",
-                            "position": 2,
-                            "name": page.title || "正文",
-                            "item": pageUrl
-                        }
-                    ]
+                // BreadcrumbList：按目录层级生成（首页 > 栏目 > 当前页）
+                const SECTION_NAMES = {
+                    airport: '机场推荐',
+                    ai: 'AI使用指南',
+                    account: '账号与合租',
+                    proxy: '科学上网知识库',
+                    faq: '常见问题',
+                    tools: '工具',
                 };
+                const segments = page.path.replace(/\.html$/, '').split('/').filter(Boolean);
+                const crumbs = [{ name: '首页', url: 'https://clash-jichang.com/' }];
+                if (segments.length > 1 && SECTION_NAMES[segments[0]]) {
+                    crumbs.push({ name: SECTION_NAMES[segments[0]], url: `https://clash-jichang.com/${segments[0]}/` });
+                }
+                if (segments.length > 0) {
+                    crumbs.push({ name: page.title || '正文', url: pageUrl });
+                }
                 if (page.path !== '/') {
                     head.push([
-                        "script",
-                        { type: "application/ld+json" },
-                        JSON.stringify(breadcrumbLd)
+                        'script',
+                        { type: 'application/ld+json' },
+                        JSON.stringify({
+                            '@context': 'https://schema.org',
+                            '@type': 'BreadcrumbList',
+                            itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.url })),
+                        }),
+                    ]);
+                }
+
+                // Article 结构化数据（含 datePublished / dateModified）由 SEO 插件按页面生成，这里不重复输出。
+
+                // 对比 / 性价比 / 机场库页：ItemList，条目来自 airports.json
+                if (['/airport/compare', '/airport/best-value', '/airport/brands'].includes(page.path.replace(/\.html$/, ''))) {
+                    const airports = JSON.parse(readFileSync(new URL('./data/airports.json', import.meta.url), 'utf8')).filter((a) => a.status === 'active');
+                    const list = page.path.includes('best-value') ? airports.filter((a) => a.fromMonthly != null) : airports;
+                    head.push([
+                        'script',
+                        { type: 'application/ld+json' },
+                        JSON.stringify({
+                            '@context': 'https://schema.org',
+                            '@type': 'ItemList',
+                            name: pageTitle,
+                            itemListElement: list.map((a, i) => ({ '@type': 'ListItem', position: i + 1, name: a.name + '机场', url: 'https://clash-jichang.com' + a.path })),
+                        }),
                     ]);
                 }
 

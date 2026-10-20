@@ -8,7 +8,7 @@ head:
       content: 机场推荐,VPN推荐,梯子推荐,稳定机场,便宜机场,性价比机场,机场测评,节点推荐,机场节点,机场订阅,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,流媒体机场,ChatGPT机场
 heroImage: /network-globe-logo.png
 heroText: 机场推荐 · VPN梯子 · Clash测评
-tagline: 2026年稳定机场、便宜机场与节点推荐指南，持续更新35家机场测评、IPLC/IEPL专线对比和全平台订阅配置教程。
+tagline: 2026年稳定机场、便宜机场与节点推荐指南，持续更新36家机场测评、IPLC/IEPL专线对比和全平台订阅配置教程。
 actions:
   - text: 查看机场推荐与测评
     link: /airport/
@@ -16,28 +16,41 @@ actions:
   - text: AI 使用指南
     link: /ai/
 features:
-  - title: 机场推荐
-    details: 精选稳定专线机场，解锁流媒体与 AI 工具。
-    link: /airport/
+  - title: 机场对比
+    details: 起步价、线路类型、优惠码一张表对比。
+    link: /airport/compare
+  - title: 性价比机场
+    details: 按起步月价从低到高整理，附评测入口。
+    link: /airport/best-value
+  - title: 机场优惠码
+    details: 已收录的机场优惠码与使用说明。
+    link: /airport/coupons
+  - title: 跑路预警
+    details: 已跑路与高风险机场名单，购买前先查。
+    link: /airport/paolu
   - title: AI 使用指南
     details: ChatGPT、Claude、Gemini 等工具使用教程。
     link: /ai/
-  - title: 常见问题
-    details: 169 个科学上网常见问题解答。
-    link: /faq/
-  - title: 合租平台
-    details: 精选可靠的流媒体与工具账号合租服务。
-    link: /account/platforms
   - title: 知识库
     details: 翻墙基础、Clash 配置、协议科普。
     link: /proxy/
 copyright: Copyright © 2026 clash-jichang.com
-footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a> · <a href="/links">友链</a><br/>优质资源共享 · 助你畅享全球互联网'
+footer: '<a href="/airport/">机场推荐</a> · <a href="/airport/compare">机场对比</a> · <a href="/airport/best-value">性价比机场</a> · <a href="/airport/coupons">优惠码</a> · <a href="/airport/brands">机场库</a> · <a href="/airport/paolu">跑路预警</a> · <a href="/ai/">AI指南</a> · <a href="/proxy/">知识库</a> · <a href="/faq/">常见问题</a><br/><a href="/about">关于与评测方法</a> · <a href="/disclosure">推广披露</a> · <a href="/privacy">隐私政策</a> · <a href="/terms">使用条款</a> · <a href="/links">友链</a><br/>本站部分链接为推广链接，详见推广披露'
 ---
 
 ## 2026年机场推荐与VPN梯子指南：如何选择稳定、便宜、好用的机场？
 
 很多新手在选择 VPN、机场梯子和翻墙工具时，容易被“无限速”“永久免费”等宣传误导。本站持续整理稳定机场、便宜机场和性价比机场的实测信息，并把线路、协议、设备数、倍率、流媒体与 AI 解锁能力放在同一套标准中比较。你可以先看[机场推荐与测评列表](/airport/)，再按设备阅读 [Clash](/airport/client-windows)、[Shadowrocket 小火箭](/airport/client-ios) 或 [Android Clash Meta](/airport/client-android) 配置教程。
+
+### 核心入口
+
+- [稳定机场排行榜](/airport/best-airport-2026)：晚高峰稳定性优先的机场推荐
+- [性价比机场排行](/airport/best-value)：按起步月价整理，附线路与评测入口
+- [机场对比表](/airport/compare)：起步价、线路、优惠码一张表看完
+- [机场优惠码](/airport/coupons)：已收录的优惠码与使用说明
+- [机场库](/airport/brands)：全部机场评测索引与风险状态
+- [跑路预警](/airport/paolu)：已跑路与高风险机场名单
+- [评测方法与推广披露](/about)：评测怎么做，推广链接如何标注，详见[推广披露](/disclosure)
 
 ### 按搜索需求快速找到合适的机场方案
 
@@ -93,20 +106,6 @@ footer: '<a href="/airport/">机场推荐</a> · <a href="/ai/">AI指南</a> · 
 **第四步：导入配置使用**
 - [机场订阅导入教程](/airport/subscription-guide) - 图文详解
 - [常见问题解答](/faq/) - 169个问题解答
-
-### 热门关键词快速导航
-
-**VPN相关：**
-- [VPN推荐](/proxy/vpn-tuijian-2026) | [VPN下载](/proxy/vpn-download-guide-2026) | [免费VPN真相](/proxy/mianfei-vpn-guide-2026) | [VPN是什么](/proxy/vpn-tuijian-2026#vpn是什么vpn的工作原理)
-
-**梯子工具：**
-- [梯子推荐](/proxy/tizi-guide-2026) | [好用的梯子](/proxy/tizi-guide-2026#2026年好用的梯子推荐) | [梯子下载](/proxy/vpn-download-guide-2026) | [机场梯子](/proxy/tizi-guide-2026#机场梯子与vpn梯子选择建议)
-
-**机场推荐：**
-- [机场推荐排行榜](/airport/best-airport-2026) | [便宜机场](/airport/cheap-airport) | [IPLC专线机场](/airport/iepl-iplc) | [机场避坑指南](/airport/choose-guide)
-
-**客户端下载：**
-- [Clash下载](/proxy/vpn-download-guide-2026#windows-vpn下载) | [小火箭下载](/airport/client-ios) | [V2Ray下载](/proxy/vpn-download-guide-2026) | [科学上网客户端](/proxy/clients)
 
 <NewbieFloatButton />
 

@@ -1,44 +1,84 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # Google & Google AI 爬虫
 User-agent: Googlebot
 User-agent: Google-Extended
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # Bing 必应 & Bing AI 爬虫
 User-agent: Bingbot
 User-agent: AdIdxBot
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # OpenAI / ChatGPT 爬虫
 User-agent: GPTBot
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # DeepSeek 智能爬虫
 User-agent: DeepSeek-Bot
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # 字节跳动 / 豆包 AI 爬虫
 User-agent: Bytespider
 User-agent: Bytespider-AI
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # 百度 / 文心一言 & 搜索引擎
 User-agent: Baiduspider
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # 阿里 / 通义千问 & 夸克搜索
 User-agent: YisouSpider
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # 搜狗搜索
 User-agent: Sogou web spider
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 # 360 智脑 / 奇虎搜索
 User-agent: 360Spider
 Allow: /
+Disallow: /api/
+Allow: /api/appleid
+Disallow: /umami/
+Disallow: /go/
 
 Sitemap: https://clash-jichang.com/sitemap.xml
