@@ -1,0 +1,43 @@
+name: Submit updated URLs to IndexNow
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      submit_all:
+        description: "提交 sitemap 中全部 URL（默认只提交最近 3 天更新的 URL）"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 构建站点并生成 sitemap
+        run: npm run build
+
+      - name: 提交更新 URL 到 IndexNow
+        env:
+          INDEXNOW_ALL: ${{ inputs.submit_all == true && '1' || '0' }}
+        run: npm run indexnow
