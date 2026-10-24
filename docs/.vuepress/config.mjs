@@ -16,7 +16,7 @@ export default defineUserConfig({
         // Twitter Card meta tags
         ["meta", { name: "twitter:card", content: "summary_large_image" }],
         ["meta", { name: "twitter:image", content: "https://clash-jichang.com/globe.png" }],
-        ["meta", { name: "keywords", content: "机场推荐,VPN推荐,梯子推荐,机场测评,稳定机场,便宜机场,性价比机场,机场节点,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,机场订阅,节点推荐,流媒体机场,ChatGPT机场" }],
+        ["meta", { name: "keywords", content: "机场观察,机场推荐,VPN推荐,梯子推荐,机场测评,稳定机场,便宜机场,性价比机场,机场节点,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,机场订阅,节点推荐,流媒体机场,ChatGPT机场" }],
         // Umami 实时统计
         // 脚本从 cloud.umami.is 直接加载（翻墙用户本身开代理可正常访问）
         // data-host-url 指向同域代理，让 /api/send 上报走代理，绕过部分地区屏蔽

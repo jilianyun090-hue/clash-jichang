@@ -1,11 +1,12 @@
 ---
-title: "2026机场推荐排行榜：梯子推荐、VPN推荐与机场节点测评"
-description: "2026机场推荐排行榜：整理机场节点的价格、IPLC/IEPL线路和流媒体、AI解锁信息，附梯子推荐、VPN推荐、机场对比、优惠码与跑路预警，支持Clash、Shadowrocket、V2Ray订阅。"
+title: "机场观察：2026机场推荐排行榜、梯子推荐与节点测评"
+description: "机场观察栏目整理2026机场推荐排行榜、机场节点价格、IPLC/IEPL线路和流媒体、AI解锁信息，附梯子推荐、VPN推荐、机场对比、优惠码与跑路预警，支持Clash、Shadowrocket、V2Ray订阅。"
 head:
   - - meta
     - name: keywords
-      content: 机场推荐,机场推荐排行榜,VPN推荐,梯子推荐,稳定机场,便宜机场,性价比机场,机场测评,节点推荐,机场节点,机场订阅,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,流媒体机场,ChatGPT机场,原生IP机场,香港机场,日本机场,美国机场
+      content: 机场观察,机场推荐,机场推荐排行榜,VPN推荐,梯子推荐,稳定机场,便宜机场,性价比机场,机场测评,节点推荐,机场节点,机场订阅,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,流媒体机场,ChatGPT机场,原生IP机场,香港机场,日本机场,美国机场
 tag:
+  - 机场观察
   - 梯子推荐
   - VPN推荐
   - 机场推荐
