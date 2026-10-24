@@ -1,12 +1,11 @@
 ---
-title: "机场观察：2026机场推荐排行榜、梯子推荐与节点测评"
-description: "机场观察栏目整理2026机场推荐排行榜、机场节点价格、IPLC/IEPL线路和流媒体、AI解锁信息，附梯子推荐、VPN推荐、机场对比、优惠码与跑路预警，支持Clash、Shadowrocket、V2Ray订阅。"
+title: "2026年10月更新：机场推荐排名、梯子推荐、翻墙VPN推荐与性价比VPN"
+description: "2026年10月更新的机场推荐排名与机场测评页面，整理稳定机场、便宜机场、性价比VPN、梯子推荐、IPLC/IEPL线路和流媒体、AI解锁信息，附机场对比、优惠码与跑路预警。"
 head:
   - - meta
     - name: keywords
-      content: 机场观察,机场推荐,机场推荐排行榜,VPN推荐,梯子推荐,稳定机场,便宜机场,性价比机场,机场测评,节点推荐,机场节点,机场订阅,IPLC机场,IEPL机场,Clash机场,Shadowrocket机场,V2Ray机场,流媒体机场,ChatGPT机场,原生IP机场,香港机场,日本机场,美国机场
+      content: 机场推荐,机场推荐排名,机场推荐排行榜,翻墙VPN推荐,VPN推荐,梯子推荐,稳定机场,便宜机场,性价比VPN,性价比机场,机场测评,机场订阅,IPLC机场,IEPL机场,Shadowrocket机场,V2Ray机场,流媒体机场,ChatGPT机场,原生IP机场,香港机场,日本机场,美国机场
 tag:
-  - 机场观察
   - 梯子推荐
   - VPN推荐
   - 机场推荐
@@ -55,6 +54,8 @@ tag:
 ---
 
 > **快速入口**：[机场对比](/airport/compare) · [性价比机场](/airport/best-value) · [机场优惠码](/airport/coupons) · [机场库](/airport/brands) · [跑路预警](/airport/paolu)
+>
+> 最后更新：2026年10月25日。各机场独立评测页仅在完成实际复测后更新对应日期。
 
 # 2026年机场推荐排行榜：稳定、便宜、好用的VPN机场与梯子完整指南
 
