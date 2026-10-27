@@ -1,5 +1,5 @@
 ---
-title: "账号星球怎么样？2026最新账号星球合租优惠码 Lucky、奈飞/Spotify/YouTube Premium 账号合租深度评测"
+title: "账号星球怎么样？2026优惠码与账号合租评测"
 description: "账号星球2026年最新深度评测：本篇详细评测账号星球官网服务、奈飞(Netflix)、Spotify Premium、YouTube Premium、Apple Music 等音视频合租价格与购买流程。附2026最新账号星球专属优惠码 Lucky（全站9折）。"
 head:
   - - meta

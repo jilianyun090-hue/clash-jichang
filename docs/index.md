@@ -7,6 +7,7 @@ head:
     - name: keywords
       content: 机场推荐,机场推荐排名,VPN推荐,翻墙VPN推荐,梯子推荐,稳定机场,便宜机场,性价比VPN,性价比机场,机场测评,机场订阅,IPLC机场,IEPL机场,Shadowrocket机场,V2Ray机场,流媒体机场,ChatGPT机场
 heroImage: /network-globe-logo.png
+heroAlt: 全球网络连接示意图
 heroText: 机场推荐 · 梯子推荐 · 翻墙VPN
 tagline: 2026年稳定机场、便宜机场与性价比VPN推荐指南，持续更新机场排名、机场测评、IPLC/IEPL专线对比和全平台订阅配置教程。
 actions:

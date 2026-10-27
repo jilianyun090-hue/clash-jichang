@@ -4,7 +4,7 @@ description: "说明 clash-jichang.com 收集哪些访问数据、用于什么�
 date: 2026-10-20
 ---
 
-# 隐私政策
+## 隐私政策
 
 ## 我们收集什么
 

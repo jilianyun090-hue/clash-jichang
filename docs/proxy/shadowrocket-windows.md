@@ -1,5 +1,5 @@
 ---
-title: "Shadowrocket Windows 电脑版下载与安装配置教程：Shadowsocks Windows / Clash Verge 替代全指南"
+title: "Shadowrocket Windows 下载与安装配置指南"
 description: "2026年最新 Shadowrocket Windows (小火箭 PC 电脑版) 下载与替代解决方案全攻略！解答 Shadowrocket 是否有 Windows 官方客户端，手把手教你利用 WSA 安卓子系统或使用 Shadowsocks Windows / Clash Verge Rev / Sing-box 实现 PC 端高效科学上网与节点导入。"
 head:
   - - meta
@@ -16,7 +16,7 @@ category:
 date: 2026-10-02
 ---
 
-# Shadowrocket Windows 电脑版下载与安装配置教程：Shadowsocks Windows / Clash Verge 替代全指南
+## Shadowrocket Windows 电脑版下载与安装配置教程：Shadowsocks Windows / Clash Verge 替代全指南
 
 在 iOS 苹果移动端，**Shadowrocket（小火箭）** 毫无疑问是第一梯子代理工具。许多用户在习惯了小火箭简单高效的操作后，经常会在 Google 或百度中搜索 **“Shadowrocket Windows”**、**“Shadowrocket 电脑版”** 或 **“Shadowsocks Windows”**，试图在 Windows PC 上下载和小火箭界面一模一样的客户端。
 

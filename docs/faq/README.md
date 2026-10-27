@@ -20,7 +20,7 @@ sidebar: false
 <SchemaOrg />
 <FAQSearch />
 
-# 科学上网常见问题完整解答（184题）
+## 科学上网常见问题完整解答（184题）
 
 - [基础概念 (8题)](#basics)
 - [新手入门 (4题)](#getting-started)

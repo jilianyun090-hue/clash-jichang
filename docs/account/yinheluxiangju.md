@@ -1,5 +1,5 @@
 ---
-title: "银河录像局怎么样？2026最新银河录像局优惠码 Theo、奈飞/ChatGPT/Claude/Disney+ 账号合租深度测评"
+title: "银河录像局怎么样？2026优惠码与账号合租评测"
 description: "银河录像局2026年最新深度测评：本篇详细评测银河录像局官网服务、奈飞(Netflix 4K)、ChatGPT Plus、Claude Pro、YouTube Premium、Spotify 等账号合租价格行情与翻车必赔保障。附2026最新银河录像局专属优惠码 Theo（全站95折）。"
 head:
   - - meta

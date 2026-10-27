@@ -1,5 +1,5 @@
 ---
-title: "2026最新小火箭共享账号网站推荐：Shadowrocket 免费美区 Apple ID 账号分享、下载与安全配置教程"
+title: "小火箭共享账号与 Apple ID 使用安全指南"
 description: "2026年最新免费小火箭(Shadowrocket)共享账号网站与下载指南！提供安全免费的美区/台区 Apple ID 共享账号，教你如何在 iOS 苹果设备上免费安装小火箭 Shadowrocket，避开账号被锁风险，并附带节点导入与科学上网配置教程。"
 head:
   - - meta

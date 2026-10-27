@@ -49,6 +49,7 @@ export default hopeTheme({
             text: "机场推荐",
             children: [
                 { text: "机场推荐总览", link: "/airport/" },
+                { text: "机场测评合集", link: "/airport/reviews" },
                 { text: "稳定机场排行榜", link: "/airport/best-airport-2026" },
                 { text: "性价比机场", link: "/airport/best-value" },
                 { text: "机场对比", link: "/airport/compare" },
@@ -64,7 +65,6 @@ export default hopeTheme({
         {
             text: "更多",
             children: [
-                { text: "机场测评合集", link: "/airport/reviews" },
                 { text: "客户端下载", link: "/airport/software" },
                 { text: "关于与评测方法", link: "/about" },
                 { text: "友链", link: "/links" },

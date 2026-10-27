@@ -14,7 +14,7 @@ head:
       content: Proton VPN,NordVPN,Urban VPN,free VPN,VPN free,VPN gratis,free VPN for Windows,VPN下载
 ---
 
-# Proton VPN、NordVPN 与 Urban VPN：先弄清需求再下载
+## Proton VPN、NordVPN 与 Urban VPN：先弄清需求再下载
 
 搜索“Proton VPN”“NordVPN”“Urban VPN”或“free VPN for Windows”的人，可能都想找一个能连接的工具，但这几个名字并不代表同一种产品或同一种免费方案。先分清“保护公共 Wi-Fi 下的连接”“连接公司网络”和“使用机场订阅访问特定网站”三个目标，再决定下载什么，比照着热门词安装软件更有效。中文搜索里的“免费 VPN”、英文的“free VPN / VPN free”和西语的“VPN gratis”，也常常指向同一个免费使用意图，没有必要把它们拆成多篇内容相近的文章。
 
