@@ -60,7 +60,7 @@ export default defineUserConfig({
     // 自动生成的聚合页与辅助页：noindex,follow。sitemap 插件会跳过带 noindex 的页面。
     extendsPage: (page) => {
         const p = page.path.replace(/\.html$/, "");
-        const lowValue = /^\/(tag|category|article|timeline|star)(\/|$)/.test(p) || p === "/stats";
+        const lowValue = /^\/(tag|category|article|timeline|star)(\/|$)/.test(p) || p === "/stats" || p === "/404";
         if (lowValue) {
             page.frontmatter.head = [...(page.frontmatter.head || []), ["meta", { name: "robots", content: "noindex,follow" }]];
         }

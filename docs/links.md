@@ -1,6 +1,6 @@
 ---
 title: "友情链接"
-description: "与本站互换友链的科学上网相关站点，以及申请友链的条件和提交方式。"
+description: "clash-jichang.com 友情链接页面，收录科学上网、机场评测、VPN工具、流媒体和 AI 使用相关站点，并说明友链交换条件、页面要求、联系方式和申请方式。"
 head:
   - - meta
     - name: keywords

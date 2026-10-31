@@ -1,6 +1,6 @@
 ---
 title: "2026 Claude 注册、国内访问与高级使用攻略：写作与代码 AI 完整教程"
-description: "Claude 注册与国内访问指南：账号注册流程、访问网络要求、订阅方式，以及 Claude 在写作、代码和长文本处理上的使用技巧。"
+description: "Claude 注册与国内访问指南，整理账号注册、网络环境、订阅方式和常见登录问题，并介绍 Claude 在写作、代码、Artifacts 与长文本处理中的实际使用方法。"
 head:
   - - meta
     - name: keywords

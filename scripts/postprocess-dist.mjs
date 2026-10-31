@@ -47,13 +47,18 @@ const walk = (dir) => {
 const REL = "sponsored nofollow noopener";
 const rewrite = (file) => {
   const before = fs.readFileSync(file, "utf8");
-  const after = before.replace(/<a\b([^>]*?)>/g, (tag, attrs) => {
+  let after = before.replace(/<a\b([^>]*?)>/g, (tag, attrs) => {
     const href = (attrs.match(/\shref="([^"]*)"/) || [])[1];
     if (!href || !isSponsored(href)) return tag;
     changedLinks++;
     if (/\srel="/.test(attrs)) return `<a${attrs.replace(/\srel="[^"]*"/, ` rel="${REL}"`)}>`;
     return `<a${attrs} rel="${REL}">`;
   });
+  // vuepress-theme-hope 输出的导航 Logo 与 Telegram 图标默认使用空 alt。
+  // 它们会在每个页面重复出现，补充稳定的可访问性文本可显著减少 Bing 图片 alt 警告。
+  after = after
+    .replace(/<img class="vp-nav-logo" src="\/globe\.png" alt>/g, '<img class="vp-nav-logo" src="/globe.png" alt="Clash机场推荐指南">')
+    .replace(/<img class="vp-icon" src="\/tg-plane\.svg" alt aria-hidden/g, '<img class="vp-icon" src="/tg-plane.svg" alt="Telegram频道" aria-hidden');
   if (after !== before) {
     fs.writeFileSync(file, after);
     changedFiles++;

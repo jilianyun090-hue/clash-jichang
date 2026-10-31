@@ -1,6 +1,6 @@
 ---
 title: 关于本站、内容整理方法与推广披露
-description: 说明 clash-jichang.com 的内容如何整理、评测页包含与不包含什么、推广链接如何标注，以及联系方式。
+description: "了解 clash-jichang.com 如何整理机场推荐、机场观察和科学上网教程，评测页包含价格、线路、风险与配置哪些信息，哪些内容不会声称实测，以及推广链接、更新日期和联系方式如何标注。"
 head:
   - - meta
     - name: keywords
