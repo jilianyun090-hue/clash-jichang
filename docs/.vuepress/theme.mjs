@@ -4,6 +4,9 @@ import { hopeTheme } from "vuepress-theme-hope";
 export default hopeTheme({
     hostname: "https://clash-jichang.com",
 
+    // 顶部品牌名称；保留站点 title 作为 SEO 页面标题后缀。
+    navbarTitle: "道一博客",
+
     // 博客自动生成页面标题配置（解决 Bing 标题太短的 SEO 警告）
     locales: {
         "/": {
@@ -34,7 +37,7 @@ export default hopeTheme({
 
     // 网站 Logo
     logo: "/globe.png",
-    logoAlt: "Clash机场推荐指南",
+    logoAlt: "道一博客",
     
     docsDir: "docs",
 
@@ -405,12 +408,12 @@ export default hopeTheme({
                             },
                             author: {
                                 '@type': 'Organization',
-                                name: 'Clash机场推荐指南团队',
+                                name: '道一博客团队',
                                 url: 'https://clash-jichang.com/about',
                             },
                             publisher: {
                                 '@type': 'Organization',
-                                name: 'Clash机场推荐指南团队',
+                                name: '道一博客团队',
                                 logo: {
                                     '@type': 'ImageObject',
                                     url: 'https://clash-jichang.com/logo.png',

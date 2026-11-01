@@ -39,7 +39,7 @@ export default defineUserConfig({
                         "@type": "WebSite",
                         "@id": "https://clash-jichang.com/#website",
                         "url": "https://clash-jichang.com/",
-                        "name": "Clash机场推荐指南",
+                        "name": "道一博客",
                         "description": "2026年机场推荐与VPN梯子指南，持续更新稳定机场、性价比机场、IPLC/IEPL专线测评，以及Clash、Shadowrocket和V2Ray配置教程。",
                         "inLanguage": "zh-CN",
                         "publisher": {
@@ -49,7 +49,7 @@ export default defineUserConfig({
                     {
                         "@type": "Organization",
                         "@id": "https://clash-jichang.com/#organization",
-                        "name": "Clash机场推荐指南团队",
+                        "name": "道一博客团队",
                         "url": "https://clash-jichang.com/about",
                         "logo": "https://clash-jichang.com/globe.png"
                     }
