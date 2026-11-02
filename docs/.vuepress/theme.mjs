@@ -330,8 +330,8 @@ export default hopeTheme({
 
                 // Article 结构化数据（含 datePublished / dateModified）由 SEO 插件按页面生成，这里不重复输出。
 
-                // 对比 / 性价比 / 机场库页：ItemList，条目来自 airports.json
-                if (['/airport/compare', '/airport/best-value', '/airport/brands'].includes(page.path.replace(/\.html$/, ''))) {
+                // 对比 / 性价比 / 机场库 / 稳定机场榜：ItemList，条目来自 airports.json
+                if (['/airport/compare', '/airport/best-value', '/airport/brands', '/airport/best-airport-2026'].includes(page.path.replace(/\.html$/, ''))) {
                     const airports = JSON.parse(readFileSync(new URL('./data/airports.json', import.meta.url), 'utf8')).filter((a) => a.status === 'active');
                     const list = page.path.includes('best-value') ? airports.filter((a) => a.fromMonthly != null) : airports;
                     head.push([
@@ -344,6 +344,26 @@ export default hopeTheme({
                             itemListElement: list.map((a, i) => ({ '@type': 'ListItem', position: i + 1, name: a.name + '机场', url: 'https://clash-jichang.com' + a.path })),
                         }),
                     ]);
+                }
+
+                // FAQ 页：FAQPage。SchemaOrg.vue 用 v-html 注入，SSR 静态 HTML 里取不到，故在构建期输出。
+                if (page.path === '/faq/' || page.path === '/faq/index.html') {
+                    try {
+                        const faq = JSON.parse(readFileSync(new URL('./data/faq.json', import.meta.url), 'utf8'));
+                        head.push([
+                            'script',
+                            { type: 'application/ld+json' },
+                            JSON.stringify({
+                                '@context': 'https://schema.org',
+                                '@type': 'FAQPage',
+                                mainEntity: faq.map((f) => ({
+                                    '@type': 'Question',
+                                    name: f.q,
+                                    acceptedAnswer: { '@type': 'Answer', text: f.a },
+                                })),
+                            }),
+                        ]);
+                    } catch {}
                 }
 
                 // 机场目录页使用 CollectionPage + FAQPage，帮助搜索引擎理解榜单与排障内容。

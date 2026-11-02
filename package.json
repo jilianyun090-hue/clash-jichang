@@ -7,7 +7,7 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "postbuild": "node scripts/fix-clean-links.js && node scripts/fix-sitemap.js && node scripts/postprocess-dist.mjs",
-    "prebuild": "node scripts/check-frontmatter.mjs && node scripts/check-internal-links.mjs && node scripts/build-airport-data.mjs && node scripts/generate-airport-pages.mjs",
+    "prebuild": "node scripts/check-frontmatter.mjs && node scripts/check-internal-links.mjs && node scripts/build-airport-data.mjs && node scripts/build-faq-data.mjs && node scripts/generate-airport-pages.mjs",
     "indexnow": "node scripts/submit-indexnow.js"
   },
   "type": "module",
