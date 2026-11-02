@@ -19,7 +19,12 @@ date: 2026-10-20
 | 机场 | 优惠码 | 评测更新 | 评测 | 官网 |
 | :--- | :--- | :--- | :--- | :--- |
 | 99吧 | `2026-99` | 2026-06-28 | [查看评测](/airport/99bar) | [官网](https://clash-jichang.com/go/99bar) |
+| 光年梯 | `GNT80` | 2026-05-28 | [查看评测](/airport/guangnianti) | [官网](https://clash-jichang.com/go/guangnianti) |
+| 速界 | `sujie888` | 2026-06-28 | [查看评测](/airport/sujie) | [官网](https://clash-jichang.com/go/sujie) |
 | 极连云 | `JLY888` | 2026-06-03 | [查看评测](/airport/jilianyun) | [官网](https://clash-jichang.com/go/jilianyun) |
+| 可信云 | `kxy80` | 2026-06-28 | [查看评测](/airport/kexinyun) | [官网](https://clash-jichang.com/go/kexinyun) |
+| 快狸 | `kl888` | 2026-06-28 | [查看评测](/airport/kuaili) | [官网](https://clash-jichang.com/go/kuaili) |
+| Edge-X | `xk808` | 2026-05-30 | [查看评测](/airport/edge-x) | [官网](https://clash-jichang.com/go/edge-x) |
 | 云图 | `yt88` | 2026-08-06 | [查看评测](/airport/yuntu) | [官网](https://clash-jichang.com/go/yuntu) |
 
 ## 使用建议

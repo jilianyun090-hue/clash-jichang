@@ -22,10 +22,10 @@ date: 2026-10-20
 | [山海](/airport/shanhai) | ¥6/月起 | 专线 | — | 2026-05-20 | [官网](https://clash-jichang.com/go/shanhai) |
 | [寰宇云](/airport/huanyuyun) | ¥7.4/月起 | IEPL / 专线 | — | 2026-06-01 | [官网](https://clash-jichang.com/go/huanyuyun) |
 | [99吧](/airport/99bar) | ¥7.5/月起 | 见评测页 | `2026-99` | 2026-06-28 | [官网](https://clash-jichang.com/go/99bar) |
-| [光年梯](/airport/guangnianti) | ¥7.5/月起 | IPLC / 专线 | — | 2026-05-28 | [官网](https://clash-jichang.com/go/guangnianti) |
-| [速界](/airport/sujie) | ¥7.5/月起 | 见评测页 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/sujie) |
+| [光年梯](/airport/guangnianti) | ¥7.5/月起 | IPLC / 专线 | `GNT80` | 2026-05-28 | [官网](https://clash-jichang.com/go/guangnianti) |
+| [速界](/airport/sujie) | ¥7.5/月起 | 见评测页 | `sujie888` | 2026-06-28 | [官网](https://clash-jichang.com/go/sujie) |
 | [极连云](/airport/jilianyun) | ¥8/月起 | IPLC / 专线 | `JLY888` | 2026-06-03 | [官网](https://clash-jichang.com/go/jilianyun) |
-| [可信云](/airport/kexinyun) | ¥8/月起 | IEPL / 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/kexinyun) |
+| [可信云](/airport/kexinyun) | ¥8/月起 | IEPL / 专线 | `kxy80` | 2026-06-28 | [官网](https://clash-jichang.com/go/kexinyun) |
 | [青云梯](/airport/qingyunti) | ¥8/月起 | IPLC / 专线 | — | 2026-05-11 | — |
 | [光速云](/airport/guangshuyun) | ¥8.25/月起 | BGP / 专线 | — | 2026-05-18 | [官网](https://clash-jichang.com/go/guangshuyun) |
 | [极速云](/airport/jisuyun) | ¥8.25/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-27 | [官网](https://clash-jichang.com/go/jisuyun) |
@@ -34,7 +34,7 @@ date: 2026-10-20
 | [拼好连](/airport/pinhaolian) | ¥9.9/月起 | IEPL / BGP / 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/pinhaolian) |
 | [哆啦A梦](/airport/duolaameng) | ¥10/月起 | IEPL / 专线 | — | 2026-05-15 | [官网](https://clash-jichang.com/go/duolaameng) |
 | [可达加速器](/airport/keda) | ¥10/月起 | 中转 / 专线 | — | 2026-05-23 | [官网](https://clash-jichang.com/go/keda) |
-| [快狸](/airport/kuaili) | ¥10/月起 | 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/kuaili) |
+| [快狸](/airport/kuaili) | ¥10/月起 | 专线 | `kl888` | 2026-06-28 | [官网](https://clash-jichang.com/go/kuaili) |
 | [LiZione](/airport/lizione) | ¥10/月起 | BGP / 中转 / 专线 | — | 2026-05-19 | [官网](https://clash-jichang.com/go/lizione) |
 | [Lumina](/airport/lumina) | ¥10/月起 | 中转 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/lumina) |
 | [花云](/airport/huayunjichang) | ¥10.6/月起 | IEPL / BGP / 专线 | — | 2026-05-10 | [官网](https://clash-jichang.com/go/huayunjichang) |
@@ -46,7 +46,7 @@ date: 2026-10-20
 | [迅达VPN](/airport/xundavpn) | ¥15/月起 | BGP / 中转 / 专线 | — | 2026-05-24 | [官网](https://clash-jichang.com/go/xundavpn) |
 | [星岛梦](/airport/xingdaomeng) | ¥16/月起 | BGP / 中转 / 专线 | — | 2026-05-16 | [官网](https://clash-jichang.com/go/xingdaomeng) |
 | [灯塔](/airport/dengta) | ¥16.6/月起 | 见评测页 | — | 2026-09-15 | [官网](https://clash-jichang.com/go/dengta) |
-| [Edge-X](/airport/edge-x) | ¥16.8/月起 | IPLC / IEPL / 专线 | — | 2026-05-30 | [官网](https://clash-jichang.com/go/edge-x) |
+| [Edge-X](/airport/edge-x) | ¥16.8/月起 | IPLC / IEPL / 专线 | `xk808` | 2026-05-30 | [官网](https://clash-jichang.com/go/edge-x) |
 | [影子](/airport/yingzi) | ¥18.8/月起 | IEPL / 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/yingzi) |
 | [大哥云](/airport/dageyun) | ¥19.9/月起 | IPLC / IEPL / 专线 | — | 2026-05-14 | — |
 | [全球云](/airport/quanqiuyun) | ¥20/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-17 | [官网](https://clash-jichang.com/go/quanqiuyun) |
