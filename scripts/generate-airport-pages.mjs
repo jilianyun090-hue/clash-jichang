@@ -60,6 +60,32 @@ ${DISCLOSURE}
 | :--- | :--- | :--- | :--- | :--- | :--- |
 ${active.map((a) => `| [${a.name}](${a.path}) | ${price(a)} | ${lines(a)} | ${a.coupon ? `\`${a.coupon}\`` : "—"} | ${a.date} | ${go(a)} |`).join("\n")}
 
+## 按需求快速筛选
+
+下面按常见需求从上表中筛出候选，条件来自评测页中的线路描述、起步价和设备说明；具体可用性请以服务商官网和个人测试为准。
+
+### 专线机场（IPLC / IEPL） {#special-line}
+
+对稳定性要求高、看重晚高峰表现的用户优先看专线。原理见[IEPL/IPLC 专线对比](/airport/iepl-iplc)。
+
+${active.filter((a) => a.lineTypes.some((l) => l === "IPLC" || l === "IEPL")).map((a) => `- [${a.name}](${a.path})（${price(a)}，${lines(a)}）`).join("\n") || "- 暂无"}
+
+### 不限设备机场 {#unlimited-device}
+
+全家多设备、宿舍或路由器共享可优先看不限设备数的机场（以评测页与官网说明为准）。
+
+${active.filter((a) => a.unlimitedDevice).map((a) => `- [${a.name}](${a.path})（${price(a)}）`).join("\n") || "- 暂无"}
+
+### 低价入门机场（起步 ¥10/月以内） {#budget}
+
+预算有限或第一次尝试，先用低价月付试水。更系统的比较见[性价比机场排行](/airport/best-value)与[便宜机场推荐](/airport/cheap-airport)。
+
+${active.filter((a) => a.fromMonthly != null && a.fromMonthly <= 10).map((a) => `- [${a.name}](${a.path})（${price(a)}，${lines(a)}）`).join("\n") || "- 暂无"}
+
+### ChatGPT / Netflix 等解锁需求 {#unlock}
+
+多数机场宣称支持 ChatGPT、Netflix 等平台，但解锁随 IP 和地区变化，**务必先用月付套餐实际登录目标平台测试**。解锁原理见[流媒体解锁指南](/proxy/streaming-unlock-guide)，AI 使用见[AI 指南](/ai/)。上表中线路为专线的机场通常更适合对地区识别敏感的服务。
+
 ## 怎么用这张表
 
 - **只看价格会选错**：低价套餐往往流量少、设备数少，先到评测页确认流量、设备数和退款规则。

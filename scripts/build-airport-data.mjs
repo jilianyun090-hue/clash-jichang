@@ -51,6 +51,7 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
   const status = /跑路|停止服务|已停服/.test(body.slice(0, 800)) ? "warning" : "active";
   const lines = [];
   ["IPLC", "IEPL", "BGP", "Anycast", "ANYCAST", "中转", "专线"].forEach((k) => body.includes(k) && lines.push(k.toUpperCase() === "ANYCAST" ? "Anycast" : k));
+  const unlimitedDevice = /不限设备|不限制设备|设备不限/.test(body);
 
   airports.push({
     slug,
@@ -64,6 +65,7 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
     status,
     affiliateUrl,
     lineTypes: [...new Set(lines)],
+    unlimitedDevice,
   });
 }
 

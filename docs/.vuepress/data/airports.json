@@ -13,7 +13,8 @@
     "lineTypes": [
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "shanhai",
@@ -28,7 +29,8 @@
     "affiliateUrl": "https://shanhai.sbs/#/register?code=qVTbPfWP",
     "lineTypes": [
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "huanyuyun",
@@ -44,7 +46,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "99bar",
@@ -57,7 +60,8 @@
     "coupon": "2026-99",
     "status": "active",
     "affiliateUrl": "https://99vpn.bar/#/register?code=Uni7IOJh",
-    "lineTypes": []
+    "lineTypes": [],
+    "unlimitedDevice": false
   },
   {
     "slug": "guangnianti",
@@ -73,7 +77,8 @@
     "lineTypes": [
       "IPLC",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "sujie",
@@ -86,7 +91,8 @@
     "coupon": "sujie888",
     "status": "active",
     "affiliateUrl": "https://everett7623.speedworldaff.com/#/register?code=r7IOqoY7",
-    "lineTypes": []
+    "lineTypes": [],
+    "unlimitedDevice": true
   },
   {
     "slug": "jilianyun",
@@ -102,7 +108,8 @@
     "lineTypes": [
       "IPLC",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "kexinyun",
@@ -118,7 +125,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": true
   },
   {
     "slug": "qingyunti",
@@ -134,7 +142,8 @@
     "lineTypes": [
       "IPLC",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "guangshuyun",
@@ -150,7 +159,8 @@
     "lineTypes": [
       "BGP",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "jisuyun",
@@ -168,7 +178,8 @@
       "BGP",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "shunyun",
@@ -184,7 +195,8 @@
     "lineTypes": [
       "Anycast",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "bianyuanjiedian",
@@ -199,7 +211,8 @@
     "affiliateUrl": "https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ",
     "lineTypes": [
       "中转"
-    ]
+    ],
+    "unlimitedDevice": true
   },
   {
     "slug": "pinhaolian",
@@ -216,7 +229,8 @@
       "IEPL",
       "BGP",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "duolaameng",
@@ -232,7 +246,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "keda",
@@ -248,7 +263,8 @@
     "lineTypes": [
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "kuaili",
@@ -263,7 +279,8 @@
     "affiliateUrl": "https://yyo649929.kuailiaff.com/#/register?code=G56QwHto",
     "lineTypes": [
       "专线"
-    ]
+    ],
+    "unlimitedDevice": true
   },
   {
     "slug": "lizione",
@@ -280,7 +297,8 @@
       "BGP",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "lumina",
@@ -295,7 +313,8 @@
     "affiliateUrl": "https://luminak.net/?token=lumina#/register?code=dCgHyjFi",
     "lineTypes": [
       "中转"
-    ]
+    ],
+    "unlimitedDevice": true
   },
   {
     "slug": "huayunjichang",
@@ -312,7 +331,8 @@
       "IEPL",
       "BGP",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "naiyun",
@@ -328,7 +348,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "kunpeng",
@@ -343,7 +364,8 @@
     "affiliateUrl": "https://kunpengjiasu.com/#/register?code=QAo8sMhc",
     "lineTypes": [
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "bianjiyun",
@@ -361,7 +383,8 @@
       "IEPL",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": true
   },
   {
     "slug": "shanshuiyun",
@@ -377,7 +400,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "feiniaojichang",
@@ -393,7 +417,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "longmaoyun",
@@ -409,7 +434,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "xundavpn",
@@ -426,7 +452,8 @@
       "BGP",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "xingdaomeng",
@@ -443,7 +470,8 @@
       "BGP",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "dengta",
@@ -456,7 +484,8 @@
     "coupon": "",
     "status": "active",
     "affiliateUrl": "https://www.dengta12.com/reg?ref=DlYrVig6",
-    "lineTypes": []
+    "lineTypes": [],
+    "unlimitedDevice": false
   },
   {
     "slug": "edge-x",
@@ -473,7 +502,8 @@
       "IPLC",
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "yingzi",
@@ -489,7 +519,8 @@
     "lineTypes": [
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "dageyun",
@@ -506,7 +537,8 @@
       "IPLC",
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "quanqiuyun",
@@ -524,7 +556,8 @@
       "BGP",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "yuntu",
@@ -540,7 +573,8 @@
     "lineTypes": [
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "yinyun",
@@ -556,7 +590,8 @@
     "lineTypes": [
       "IPLC",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "lingmao",
@@ -572,7 +607,8 @@
     "lineTypes": [
       "IPLC",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "miaomiaoyun",
@@ -589,7 +625,8 @@
       "BGP",
       "中转",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   },
   {
     "slug": "nice",
@@ -606,6 +643,7 @@
       "IPLC",
       "IEPL",
       "专线"
-    ]
+    ],
+    "unlimitedDevice": false
   }
 ]
