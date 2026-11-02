@@ -45,27 +45,36 @@ export default hopeTheme({
     displayFooter: true,
     copyright: "© 2026 clash-jichang.com",
 
-    // 顶部导航：按用户任务分为机场、AI、账号与知识库四条主路径。
+    // 顶部导航：机场、梯子/VPN、AI、知识库、账号五条主路径（仅调整显示名与分组，不改链接）。
     navbar: [
         { text: "首页", link: "/" },
         {
             text: "机场推荐",
             children: [
                 { text: "机场推荐总览", link: "/airport/" },
-                { text: "机场观察与状态核对", link: "/airport/observation" },
-                { text: "便宜机场", link: "/airport/cheap-airport" },
-                { text: "机场测评合集", link: "/airport/reviews" },
-                { text: "稳定机场选择参考", link: "/airport/best-airport-2026" },
+                { text: "稳定机场推荐", link: "/airport/best-airport-2026" },
                 { text: "性价比机场", link: "/airport/best-value" },
+                { text: "便宜机场", link: "/airport/cheap-airport" },
                 { text: "机场对比", link: "/airport/compare" },
                 { text: "机场优惠码", link: "/airport/coupons" },
                 { text: "机场库", link: "/airport/brands" },
+                { text: "机场测评合集", link: "/airport/reviews" },
                 { text: "跑路预警", link: "/airport/paolu" },
+                { text: "机场观察与状态核对", link: "/airport/observation" },
+            ],
+        },
+        {
+            text: "梯子 · VPN",
+            children: [
+                { text: "梯子推荐指南", link: "/proxy/tizi-guide-2026" },
+                { text: "VPN 推荐指南", link: "/proxy/vpn-tuijian-2026" },
+                { text: "免费 VPN 真相", link: "/proxy/mianfei-vpn-guide-2026" },
+                { text: "线路类型科普", link: "/proxy/line-type-guide" },
             ],
         },
         { text: "AI使用指南", link: "/ai/" },
+        { text: "知识库", link: "/proxy/" },
         { text: "账号与合租", link: "/account/" },
-        { text: "科学上网知识库", link: "/proxy/" },
         { text: "常见问题", link: "/faq/" },
         {
             text: "更多",
