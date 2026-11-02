@@ -68,3 +68,12 @@ date: 2026-09-26
 - **Android 安卓**：支持 Clash for Android, Surfboard 一键订阅。
 
 👉 **[前往软件下载与保姆级配置指南](/airport/software)**
+
+---
+
+## 相关导航
+
+- 返回[机场推荐总览](/airport/)查看全部服务商与选购参考
+- 比较价格与线路：[机场对比](/airport/compare) · [性价比机场排行](/airport/best-value)
+- 购买前先看：[机场优惠码](/airport/coupons) · [跑路预警](/airport/paolu)
+

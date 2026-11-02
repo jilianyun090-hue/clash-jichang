@@ -23,9 +23,18 @@ date: 2026-10-20
 | 速界 | `sujie888` | 2026-06-28 | [查看评测](/airport/sujie) | [官网](https://clash-jichang.com/go/sujie) |
 | 极连云 | `JLY888` | 2026-06-03 | [查看评测](/airport/jilianyun) | [官网](https://clash-jichang.com/go/jilianyun) |
 | 可信云 | `kxy80` | 2026-06-28 | [查看评测](/airport/kexinyun) | [官网](https://clash-jichang.com/go/kexinyun) |
+| 边缘节点 | `airport` | 2026-06-28 | [查看评测](/airport/bianyuanjiedian) | [官网](https://clash-jichang.com/go/bianyuanjiedian) |
+| 拼好连 | `airport` | 2026-06-28 | [查看评测](/airport/pinhaolian) | [官网](https://clash-jichang.com/go/pinhaolian) |
 | 快狸 | `kl888` | 2026-06-28 | [查看评测](/airport/kuaili) | [官网](https://clash-jichang.com/go/kuaili) |
+| Lumina | `airport` | 2026-06-28 | [查看评测](/airport/lumina) | [官网](https://clash-jichang.com/go/lumina) |
+| 鲲鹏加速 | `airport` | 2026-09-26 | [查看评测](/airport/kunpeng) | [官网](https://clash-jichang.com/go/kunpeng) |
+| 边界云 | `airport` | 2026-05-29 | [查看评测](/airport/bianjiyun) | [官网](https://clash-jichang.com/go/bianjiyun) |
+| 灯塔 | `airport` | 2026-09-15 | [查看评测](/airport/dengta) | [官网](https://clash-jichang.com/go/dengta) |
 | Edge-X | `xk808` | 2026-05-30 | [查看评测](/airport/edge-x) | [官网](https://clash-jichang.com/go/edge-x) |
+| 影子 | `airport` | 2026-06-28 | [查看评测](/airport/yingzi) | [官网](https://clash-jichang.com/go/yingzi) |
 | 云图 | `yt88` | 2026-08-06 | [查看评测](/airport/yuntu) | [官网](https://clash-jichang.com/go/yuntu) |
+| 灵猫网络 | `airport` | 2026-08-03 | [查看评测](/airport/lingmao) | [官网](https://clash-jichang.com/go/lingmao) |
+| Nice加速 | `airport` | 2026-08-01 | [查看评测](/airport/nice) | [官网](https://clash-jichang.com/go/nice) |
 
 ## 使用建议
 

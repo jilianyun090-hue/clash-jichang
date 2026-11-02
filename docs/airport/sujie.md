@@ -52,3 +52,12 @@ date: 2026-06-28
 * 💻 **Windows 电脑端**：我们推荐使用最新的 [Clash Verge Rev Windows 配置教程](/airport/client-windows)。一键导入订阅，支持自动分流。
 * 📱 **Android 手机端**：请参考 [Clash Meta Android 安卓端配置指南](/airport/client-android)。
 * 🍎 **iOS 苹果端**：请参考 [Shadowrocket 小火箭配置教程](/airport/client-ios)。
+
+---
+
+## 相关导航
+
+- 返回[机场推荐总览](/airport/)查看全部服务商与选购参考
+- 比较价格与线路：[机场对比](/airport/compare) · [性价比机场排行](/airport/best-value)
+- 购买前先看：[机场优惠码](/airport/coupons) · [跑路预警](/airport/paolu)
+

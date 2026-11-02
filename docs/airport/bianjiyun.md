@@ -129,3 +129,12 @@ date: 2026-05-29
 ---
 
 👉 [立即注册边界云机场](https://clash-jichang.com/go/bianjiyun) | 💬 TG群：[@lvpnchat](https://t.me/lvpnchat)
+
+---
+
+## 相关导航
+
+- 返回[机场推荐总览](/airport/)查看全部服务商与选购参考
+- 比较价格与线路：[机场对比](/airport/compare) · [性价比机场排行](/airport/best-value)
+- 购买前先看：[机场优惠码](/airport/coupons) · [跑路预警](/airport/paolu)
+

@@ -30,30 +30,30 @@ date: 2026-10-20
 | [光速云](/airport/guangshuyun) | ¥8.25/月起 | BGP / 专线 | — | 2026-05-18 | [官网](https://clash-jichang.com/go/guangshuyun) |
 | [极速云](/airport/jisuyun) | ¥8.25/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-27 | [官网](https://clash-jichang.com/go/jisuyun) |
 | [瞬云](/airport/shunyun) | ¥8.25/月起 | Anycast / 专线 | — | 2026-06-02 | [官网](https://clash-jichang.com/go/shunyun) |
-| [边缘节点](/airport/bianyuanjiedian) | ¥9/月起 | 中转 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/bianyuanjiedian) |
-| [拼好连](/airport/pinhaolian) | ¥9.9/月起 | IEPL / BGP / 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/pinhaolian) |
+| [边缘节点](/airport/bianyuanjiedian) | ¥9/月起 | 中转 | `airport` | 2026-06-28 | [官网](https://clash-jichang.com/go/bianyuanjiedian) |
+| [拼好连](/airport/pinhaolian) | ¥9.9/月起 | IEPL / BGP / 专线 | `airport` | 2026-06-28 | [官网](https://clash-jichang.com/go/pinhaolian) |
 | [哆啦A梦](/airport/duolaameng) | ¥10/月起 | IEPL / 专线 | — | 2026-05-15 | [官网](https://clash-jichang.com/go/duolaameng) |
 | [可达加速器](/airport/keda) | ¥10/月起 | 中转 / 专线 | — | 2026-05-23 | [官网](https://clash-jichang.com/go/keda) |
 | [快狸](/airport/kuaili) | ¥10/月起 | 专线 | `kl888` | 2026-06-28 | [官网](https://clash-jichang.com/go/kuaili) |
 | [LiZione](/airport/lizione) | ¥10/月起 | BGP / 中转 / 专线 | — | 2026-05-19 | [官网](https://clash-jichang.com/go/lizione) |
-| [Lumina](/airport/lumina) | ¥10/月起 | 中转 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/lumina) |
+| [Lumina](/airport/lumina) | ¥10/月起 | 中转 | `airport` | 2026-06-28 | [官网](https://clash-jichang.com/go/lumina) |
 | [花云](/airport/huayunjichang) | ¥10.6/月起 | IEPL / BGP / 专线 | — | 2026-05-10 | [官网](https://clash-jichang.com/go/huayunjichang) |
-| [鲲鹏加速](/airport/kunpeng) | ¥12/月起 | 专线 | — | 2026-09-26 | [官网](https://clash-jichang.com/go/kunpeng) |
-| [边界云](/airport/bianjiyun) | ¥12.33/月起 | IPLC / IEPL / 中转 / 专线 | — | 2026-05-29 | [官网](https://clash-jichang.com/go/bianjiyun) |
+| [鲲鹏加速](/airport/kunpeng) | ¥12/月起 | 专线 | `airport` | 2026-09-26 | [官网](https://clash-jichang.com/go/kunpeng) |
+| [边界云](/airport/bianjiyun) | ¥12.33/月起 | IPLC / IEPL / 中转 / 专线 | `airport` | 2026-05-29 | [官网](https://clash-jichang.com/go/bianjiyun) |
 | [山水云](/airport/shanshuiyun) | ¥14.99/月起 | IEPL / 专线 | — | 2026-05-26 | [官网](https://clash-jichang.com/go/shanshuiyun) |
 | [飞鸟](/airport/feiniaojichang) | ¥15/月起 | IEPL / 专线 | — | 2026-05-12 | — |
 | [龙猫云](/airport/longmaoyun) | ¥15/月起 | IEPL / 专线 | — | 2026-05-13 | — |
 | [迅达VPN](/airport/xundavpn) | ¥15/月起 | BGP / 中转 / 专线 | — | 2026-05-24 | [官网](https://clash-jichang.com/go/xundavpn) |
 | [星岛梦](/airport/xingdaomeng) | ¥16/月起 | BGP / 中转 / 专线 | — | 2026-05-16 | [官网](https://clash-jichang.com/go/xingdaomeng) |
-| [灯塔](/airport/dengta) | ¥16.6/月起 | 见评测页 | — | 2026-09-15 | [官网](https://clash-jichang.com/go/dengta) |
+| [灯塔](/airport/dengta) | ¥16.6/月起 | 见评测页 | `airport` | 2026-09-15 | [官网](https://clash-jichang.com/go/dengta) |
 | [Edge-X](/airport/edge-x) | ¥16.8/月起 | IPLC / IEPL / 专线 | `xk808` | 2026-05-30 | [官网](https://clash-jichang.com/go/edge-x) |
-| [影子](/airport/yingzi) | ¥18.8/月起 | IEPL / 专线 | — | 2026-06-28 | [官网](https://clash-jichang.com/go/yingzi) |
+| [影子](/airport/yingzi) | ¥18.8/月起 | IEPL / 专线 | `airport` | 2026-06-28 | [官网](https://clash-jichang.com/go/yingzi) |
 | [大哥云](/airport/dageyun) | ¥19.9/月起 | IPLC / IEPL / 专线 | — | 2026-05-14 | — |
 | [全球云](/airport/quanqiuyun) | ¥20/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-17 | [官网](https://clash-jichang.com/go/quanqiuyun) |
 | [云图](/airport/yuntu) | ¥20/月起 | 中转 / 专线 | `yt88` | 2026-08-06 | [官网](https://clash-jichang.com/go/yuntu) |
-| [灵猫网络](/airport/lingmao) | 见评测页 | IPLC / 专线 | — | 2026-08-03 | [官网](https://clash-jichang.com/go/lingmao) |
+| [灵猫网络](/airport/lingmao) | 见评测页 | IPLC / 专线 | `airport` | 2026-08-03 | [官网](https://clash-jichang.com/go/lingmao) |
 | [秒秒云](/airport/miaomiaoyun) | 见评测页 | BGP / 中转 / 专线 | — | 2026-05-25 | [官网](https://clash-jichang.com/go/miaomiaoyun) |
-| [Nice加速](/airport/nice) | 见评测页 | IPLC / IEPL / 专线 | — | 2026-08-01 | [官网](https://clash-jichang.com/go/nice) |
+| [Nice加速](/airport/nice) | 见评测页 | IPLC / IEPL / 专线 | `airport` | 2026-08-01 | [官网](https://clash-jichang.com/go/nice) |
 
 ## 按需求快速筛选
 

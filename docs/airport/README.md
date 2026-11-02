@@ -53,7 +53,7 @@ tag:
   - Nice加速
 ---
 
-> **快速入口**：[机场观察与状态核对](/airport/observation) · [机场测评合集](/airport/reviews) · [机场对比](/airport/compare) · [性价比机场](/airport/best-value) · [机场优惠码](/airport/coupons) · [机场库](/airport/brands) · [跑路预警](/airport/paolu)
+> **快速入口**：[稳定机场推荐](/airport/best-airport-2026) · [性价比机场](/airport/best-value) · [便宜机场](/airport/cheap-airport) · [机场对比](/airport/compare) · [机场优惠码](/airport/coupons) · [机场库](/airport/brands) · [机场测评合集](/airport/reviews) · [跑路预警](/airport/paolu) · [机场观察](/airport/observation)
 >
 > 本页结构整理：2026年11月2日。该日期不代表所有服务商价格、线路或可用性均已复核；独立资料页的日期与验证范围请分别查看。
 

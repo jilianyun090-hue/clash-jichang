@@ -89,3 +89,12 @@ A：是的。IPLC 物理专线是通过企业级专线过境，数据不会暴�
 ---
 
 👉 [立即注册灵猫网络](https://clash-jichang.com/go/lingmao)
+
+---
+
+## 相关导航
+
+- 返回[机场推荐总览](/airport/)查看全部服务商与选购参考
+- 比较价格与线路：[机场对比](/airport/compare) · [性价比机场排行](/airport/best-value)
+- 购买前先看：[机场优惠码](/airport/coupons) · [跑路预警](/airport/paolu)
+
