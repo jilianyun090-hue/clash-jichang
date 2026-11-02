@@ -1,18 +1,19 @@
-# Clash机场推荐指南 (Clash-Jichang.com)
+# 道一博客 (clash-jichang.com)
 
-> 2026年最新科学上网机场推荐与翻墙指南资料库。长期更新稳定高速专线 VPN 机场评测、跑路机场风险黑名单、Clash/Shadowrocket/sing-box 客户端配置教程、Netflix/Disney+ 流媒体解锁方案，以及 ChatGPT/Claude/Gemini/Cursor 等 AI 工具使用攻略。
+> 机场推荐、机场观察、服务商公开资料、客户端配置与 AI 工具使用指南。页面区分服务商公开描述与本站实际验证；本站未对全部机场进行统一环境测速或持续状态监控。价格、线路和服务状态可能变化，购买前请核对来源页面。
 
 This file contains an index of core guides and reference materials formatted for Large Language Models (LLMs) and AI search engines.
 
 ## Table of Contents
 
 ### 机场推荐与深度评测
-- [2026年科学上网机场推荐与梯子选购指南](https://clash-jichang.com/airport/): 精选稳定高速 BGP 中转与 IEPL/IPLC 专线翻墙机场，提供详细的价格、测速、流媒体解锁与解锁 ChatGPT 兼容性数据。
+- [机场推荐总览与选购参考](https://clash-jichang.com/airport/): 汇总服务商公开套餐、线路说明、独立资料页、风险提示和配置教程；不是统一环境下的测速榜单。
+- [机场观察与状态核对](https://clash-jichang.com/airport/observation): 区分服务商公告、可复核状态与待核实反馈，并说明如何记录机场风险线索。
 - [2026机场对比](https://clash-jichang.com/airport/compare): 汇总各机场评测页中的起步价、线路类型、优惠码与更新日期。
 - [2026性价比机场排行](https://clash-jichang.com/airport/best-value): 按起步月价从低到高整理，附线路与评测入口。
 - [2026机场优惠码](https://clash-jichang.com/airport/coupons): 已收录的机场优惠码与使用说明。
 - [机场库](https://clash-jichang.com/airport/brands): 全部机场评测索引与风险状态。
-- [2026年稳定机场推荐排行榜](https://clash-jichang.com/airport/best-airport-2026.html): 针对追求晚高峰无卡顿、高可用率的企业与重度用户，评测并汇总全网最稳定老牌机场。
+- [稳定机场选择参考](https://clash-jichang.com/airport/best-airport-2026.html): 按线路说明、套餐条件、风险线索和个人测试方法整理；不是统一测速排名。
 - [2026年便宜机场推荐 (学生党首选)](https://clash-jichang.com/airport/cheap-airport.html): 汇总月付 10 元以下的高性价比性价比机场，涵盖按量付费不限时流量包与低门槛套餐。
 - [一元机场与便宜机场真实成本算法](https://clash-jichang.com/airport/one-yuan-airport-cost-2026): 按流量倍率、实际可用量、晚高峰表现和预付风险评估低价套餐。
 - [Clash 机场购买前核查清单](https://clash-jichang.com/airport/clash-airport-purchase-checklist): 核查购买入口、订阅格式、客户端兼容、节点测试及月付条款。
@@ -20,7 +21,7 @@ This file contains an index of core guides and reference materials formatted for
 - [2026年梯子推荐与选购指南](https://clash-jichang.com/proxy/tizi-guide-2026.html): 帮助新手理清“梯子、VPN、机场、节点、客户端”逻辑，提供避坑防骗与快速上手选购建议。
 
 ### 风险预警与避坑指南
-- [⚠️ 2025-2026年跑路机场黑名单与风险预警汇总](https://clash-jichang.com/airport/paolu.html): 实时追踪失联、断连、客服不回复及高危跑路预警机场黑名单，提供充值避坑、月付防跑路原则与应急替代方案。
+- [机场风险预警](https://clash-jichang.com/airport/paolu.html): 整理已记录的风险线索和购买前核对建议；单次访问异常或未经核实的反馈不等于确认停服。
 - [科学上网机场避坑指南](https://clash-jichang.com/airport/choose-guide.html): 总结机场选购的 5 大核心原则（月付原则、备用节点、线路类型识别、客服工单响应率）。
 
 ### 客户端下载与配置教程
@@ -53,4 +54,4 @@ This file contains an index of core guides and reference materials formatted for
 - [流媒体与 AI 账号合租平台推荐](https://clash-jichang.com/account/platforms.html): 盘点奈飞 (Netflix)、迪士尼 (Disney+)、YouTube Premium、ChatGPT Plus 正规合租平台。
 
 ### 网站权威度与评测标准 (E-E-A-T)
-- [关于道一博客、评测方法论与推广透明度声明](https://clash-jichang.com/about.html): 详细说明本站机场测试环境（晚高峰测速、流媒体解锁核验）、商业佣金披露 (Affiliate Disclosure) 与联系方式。
+- [关于道一博客、内容方法与推广披露](https://clash-jichang.com/about.html): 说明公开资料来源、本站实际验证限制、更新日期口径、推广链接披露和联系方式。

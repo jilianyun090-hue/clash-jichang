@@ -5,8 +5,8 @@ import theme from "./theme.mjs";
 export default defineUserConfig({
     base: "/",
     lang: "zh-CN",
-    title: "机场推荐与翻墙VPN指南",
-    description: "2026年机场推荐排名与翻墙VPN指南：持续更新稳定机场、便宜机场、性价比VPN、梯子推荐及IPLC/IEPL专线测评。",
+    title: "道一博客｜机场推荐与VPN选购指南",
+    description: "道一博客整理机场推荐、机场观察、价格与线路对比、服务状态核查及客户端教程；区分服务商公开信息与本站实际验证内容。",
     head: [
         ["link", { rel: "icon", href: "/favicon.png" }],
         // 页面标题、摘要和类型由 SEO 插件按页面生成，避免全站重复首页元信息
@@ -16,7 +16,7 @@ export default defineUserConfig({
         // Twitter Card meta tags
         ["meta", { name: "twitter:card", content: "summary_large_image" }],
         ["meta", { name: "twitter:image", content: "https://clash-jichang.com/globe.png" }],
-        ["meta", { name: "keywords", content: "机场推荐,机场推荐排名,翻墙VPN推荐,VPN推荐,梯子推荐,机场测评,稳定机场,便宜机场,性价比VPN,性价比机场,IPLC机场,IEPL机场,Shadowrocket机场,V2Ray机场,机场订阅,流媒体机场,ChatGPT机场" }],
+        ["meta", { name: "keywords", content: "机场推荐,机场观察,机场测评,稳定机场,便宜机场,性价比机场,机场对比,机场订阅,IPLC机场,IEPL机场" }],
         // Umami 实时统计
         // 脚本从 cloud.umami.is 直接加载（翻墙用户本身开代理可正常访问）
         // data-host-url 指向同域代理，让 /api/send 上报走代理，绕过部分地区屏蔽
@@ -40,7 +40,7 @@ export default defineUserConfig({
                         "@id": "https://clash-jichang.com/#website",
                         "url": "https://clash-jichang.com/",
                         "name": "道一博客",
-                        "description": "2026年机场推荐与VPN梯子指南，持续更新稳定机场、性价比机场、IPLC/IEPL专线测评，以及Clash、Shadowrocket和V2Ray配置教程。",
+                        "description": "道一博客整理机场推荐、机场观察、价格与线路对比、服务状态核查及客户端教程；区分服务商公开信息与本站实际验证内容。",
                         "inLanguage": "zh-CN",
                         "publisher": {
                             "@id": "https://clash-jichang.com/#organization"

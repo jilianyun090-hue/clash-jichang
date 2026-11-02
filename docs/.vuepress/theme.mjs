@@ -52,8 +52,10 @@ export default hopeTheme({
             text: "机场推荐",
             children: [
                 { text: "机场推荐总览", link: "/airport/" },
+                { text: "机场观察与状态核对", link: "/airport/observation" },
+                { text: "便宜机场", link: "/airport/cheap-airport" },
                 { text: "机场测评合集", link: "/airport/reviews" },
-                { text: "稳定机场排行榜", link: "/airport/best-airport-2026" },
+                { text: "稳定机场选择参考", link: "/airport/best-airport-2026" },
                 { text: "性价比机场", link: "/airport/best-value" },
                 { text: "机场对比", link: "/airport/compare" },
                 { text: "机场优惠码", link: "/airport/coupons" },
@@ -110,7 +112,8 @@ export default hopeTheme({
                 text: "机场推荐与选型",
                 children: [
                     { text: "机场推荐总览", link: "" },
-                    { text: "稳定机场推荐排行榜", link: "best-airport-2026" },
+                    { text: "机场观察与状态核对", link: "observation" },
+                    { text: "稳定机场选择参考", link: "best-airport-2026" },
                     { text: "性价比机场排行（按价格）", link: "best-value" },
                     { text: "机场对比表", link: "compare" },
                     { text: "机场优惠码", link: "coupons" },
@@ -258,6 +261,9 @@ export default hopeTheme({
     // 关闭不必要的图标插件
     plugins: {
         blog: true,
+        sitemap: {
+            changefreq: "weekly",
+        },
         seo: {
             customHead: (head, page, app) => {
                 const upsertMeta = (attrs, content) => {

@@ -1,16 +1,18 @@
-# Clash机场推荐指南 (Clash-Jichang.com) 完整知识库索引
+# 道一博客 (clash-jichang.com) 内容索引
 
-> 2026年最新科学上网机场推荐、VPN梯子选购、客户端下载配置与 AI 工具指南全量索引。
+> 机场推荐、机场观察、服务商公开资料、客户端配置与 AI 工具指南索引。本站未对全部机场进行统一环境测速或持续状态监控；请区分公开描述与实际验证，套餐和服务状态以来源页面当前信息为准。
 
 ## 1. 机场推荐与评测 (Airport Recommendations)
 - Page URL: https://clash-jichang.com/airport/
-  Summary: 2026年最新科学上网机场推荐与翻墙梯子选购指南。实测包含各大 BGP 中转与 IEPL 专线机场，涵盖价格、倍率、流媒体解锁能力。
+  Summary: 服务商公开套餐、线路说明、独立资料页和风险提示的机场推荐导航；不是统一环境测速榜单。
+- Page URL: https://clash-jichang.com/airport/observation
+  Summary: 机场状态、套餐变化和风险线索核对方法，区分公告、可复核状态与未核实反馈。
 - Page URL: https://clash-jichang.com/airport/best-airport-2026.html
-  Summary: 2026年稳定机场排行榜。专注高可用率、低延迟与晚高峰不卡顿的优质专线机场。
+  Summary: 稳定机场选择参考，介绍线路、套餐、风险与个人测试维度；不构成统一测速排名。
 - Page URL: https://clash-jichang.com/airport/cheap-airport.html
   Summary: 2026便宜机场推荐。月付 10 元以下低门槛套餐与不限时按量计费流量包汇总。
 - Page URL: https://clash-jichang.com/airport/reviews.html
-  Summary: 机场单篇评测汇总索引。记录具体机场节点、测速截图与价格条款。
+  Summary: 机场服务商资料与独立页面索引，说明公开信息与本站实际验证范围。
 
 ## 2. 风险预警与黑名单 (Scam & Risk Warnings)
 - Page URL: https://clash-jichang.com/airport/paolu.html
@@ -70,4 +72,4 @@
 
 ## 6. 权威认证与透明度 (E-E-A-T)
 - Page URL: https://clash-jichang.com/about.html
-  Summary: 关于道一博客、机场评测方法论与推广佣金披露声明。
+  Summary: 关于道一博客、公开资料来源、实际验证范围、更新口径与推广披露。
