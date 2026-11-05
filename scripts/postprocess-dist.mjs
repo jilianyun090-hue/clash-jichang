@@ -67,7 +67,21 @@ const rewrite = (file) => {
 walk(dist);
 console.log(`postprocess-dist: rel 已写入 ${changedLinks} 个链接（${changedFiles} 个文件）`);
 
-fs.writeFileSync(path.join(dist, "_headers"), "/go/*\n  X-Robots-Tag: noindex, nofollow\n");
+fs.writeFileSync(
+  path.join(dist, "_headers"),
+  [
+    "/*",
+    "  Strict-Transport-Security: max-age=31536000; includeSubDomains",
+    "  X-Content-Type-Options: nosniff",
+    "  X-Frame-Options: SAMEORIGIN",
+    "  Referrer-Policy: strict-origin-when-cross-origin",
+    "  Permissions-Policy: geolocation=(), microphone=(), camera=()",
+    "",
+    "/go/*",
+    "  X-Robots-Tag: noindex, nofollow",
+    "",
+  ].join("\n"),
+);
 
 const sitemapPath = path.join(dist, "sitemap.xml");
 if (fs.existsSync(sitemapPath)) {

@@ -50,5 +50,5 @@ clash-jichang.com 整理科学上网机场、客户端教程和 AI 工具使用�
 
 发现数据失效、优惠码失效或机场异常，欢迎联系：
 
-- **Telegram**：[t.me/JIAN6688](http://t.me/JIAN6688)
+- **Telegram**：[t.me/JIAN6688](https://t.me/JIAN6688)
 - **邮箱**：[haozevpn@gmail.com](mailto:haozevpn@gmail.com)

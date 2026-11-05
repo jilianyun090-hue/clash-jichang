@@ -87,9 +87,10 @@ export default hopeTheme({
             ],
         },
         {
-            text: "",
+            text: "TG",
+            ariaLabel: "Telegram 频道",
             icon: "/tg-plane.svg",
-            link: "http://t.me/JIAN6688"
+            link: "https://t.me/JIAN6688"
         }
     ],
 

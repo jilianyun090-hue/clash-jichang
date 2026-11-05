@@ -9,6 +9,8 @@ export default defineUserConfig({
     description: "道一博客整理机场推荐、机场观察、价格与线路对比、服务状态核查及客户端教程；区分服务商公开信息与本站实际验证内容。",
     head: [
         ["link", { rel: "icon", href: "/favicon.png" }],
+        // 面向 AI/LLM 的内容索引声明，提升生成式检索可发现性
+        ["link", { rel: "alternate", type: "text/plain", title: "llms.txt", href: "/llms.txt" }],
         // 页面标题、摘要和类型由 SEO 插件按页面生成，避免全站重复首页元信息
         ["meta", { property: "og:image", content: "https://clash-jichang.com/globe.png" }],
         ["meta", { property: "og:image:width", content: "610" }],
