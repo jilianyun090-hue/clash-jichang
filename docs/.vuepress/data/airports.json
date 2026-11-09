@@ -206,7 +206,7 @@
     "path": "/airport/bianyuanjiedian",
     "priceText": "月均起价低至 ¥9/月（年付），支持微信/支付宝付款",
     "fromMonthly": 9,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://zoio.edgenovaaff.cc/#/register?code=Oy1wZvzJ",
     "lineTypes": [
@@ -222,7 +222,7 @@
     "path": "/airport/pinhaolian",
     "priceText": "月均起价 ¥9.90/月，支持微信/支付宝付款",
     "fromMonthly": 9.9,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://sxzofrnamc.runwayhz.com/#/register?code=A63zaSvx",
     "lineTypes": [
@@ -308,7 +308,7 @@
     "path": "/airport/lumina",
     "priceText": "月均起价 ¥10.00/月，支持微信/支付宝付款",
     "fromMonthly": 10,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://luminak.net/?token=lumina#/register?code=dCgHyjFi",
     "lineTypes": [
@@ -359,7 +359,7 @@
     "path": "/airport/kunpeng",
     "priceText": "1元/1G扶摇尝鲜试用，常规订阅低至 ¥12.00/月（逍遥畅游套餐，含 99GB 基础流量，支持 5 台设备）",
     "fromMonthly": 12,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://kunpengjiasu.com/#/register?code=QAo8sMhc",
     "lineTypes": [
@@ -375,7 +375,7 @@
     "path": "/airport/bianjiyun",
     "priceText": "月均起价约 ¥12.33/月，支持微信/支付宝付款",
     "fromMonthly": 12.33,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://www.lvpn.cc/r/6UQDZT",
     "lineTypes": [
@@ -481,7 +481,7 @@
     "path": "/airport/dengta",
     "priceText": "轻量版折合低至 ¥16.6/月（年付 ¥200），支持微信/支付宝付款",
     "fromMonthly": 16.6,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://www.dengta12.com/reg?ref=DlYrVig6",
     "lineTypes": [],
@@ -513,7 +513,7 @@
     "path": "/airport/yingzi",
     "priceText": "月均起价 ¥18.80/月，支持微信/支付宝付款",
     "fromMonthly": 18.8,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://www.yingzi03.com/register?code=X7XPN1cS",
     "lineTypes": [
@@ -601,7 +601,7 @@
     "path": "/airport/lingmao",
     "priceText": "最低年付小包仅需 85元/年（平均每月 45GB 流量，折合 7.08元/月）",
     "fromMonthly": null,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://haozevpn.civetaff.com/#/?code=1pboeliL",
     "lineTypes": [
@@ -636,7 +636,7 @@
     "path": "/airport/nice",
     "priceText": "最便宜订阅 10元 40G/月（年付），支持多种周期付款",
     "fromMonthly": null,
-    "coupon": "",
+    "coupon": "airport",
     "status": "active",
     "affiliateUrl": "https://web.nicecc.cc/#/register?code=7nNS5xdG",
     "lineTypes": [
