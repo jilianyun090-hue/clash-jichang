@@ -199,7 +199,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 1. 极连云 {#极连云}
 
-极连云官网地址：[jlyvipaff.com](https://clash-jichang.com/go/jilianyun)
+极连云官网地址：[haozevpn.jlyvipaff.com](https://clash-jichang.com/go/jilianyun)
 
 最便宜的订阅有 **8元 60G/月**。
 
@@ -532,7 +532,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 13. 边界云机场 {#边界云机场}
 
-边界云机场官网地址：[lvpn.cc](https://clash-jichang.com/go/bianjiyun)
+边界云机场官网地址：[bianjiecloud.com](https://clash-jichang.com/go/bianjiyun)
 
 最便宜的订阅有 **12.33元 50GB/月**（年付折算）。
 
@@ -679,7 +679,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 19. 寰宇云机场 {#寰宇云机场}
 
-寰宇云机场官网地址：[vip3.huanyuyunbest.com](https://clash-jichang.com/go/huanyuyun)
+寰宇云机场官网地址：[hyy.52kok.cn](https://clash-jichang.com/go/huanyuyun)
 
 最便宜的订阅有 **89元/年 60G/月**（折合约¥7.4/月）。
 
@@ -755,7 +755,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 22. 99吧 {#99吧}
 
-99吧官网地址：[99vpn.bar](https://clash-jichang.com/go/99bar)
+99吧官网地址：[99ba.net](https://clash-jichang.com/go/99bar)
 
 最便宜的订阅有 **7.5元 66GB/月**（年付折算）。
 
