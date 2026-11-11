@@ -510,7 +510,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 12. 影子 {#影子}
 
-影子官网地址：[yingzi03.com](https://clash-jichang.com/go/yingzi)
+影子官网地址：[yingzi01.com](https://clash-jichang.com/go/yingzi)
 
 最便宜的订阅有 **18.80元 150GB/月**。
 
@@ -838,7 +838,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 25. 山水云 {#山水云}
 
-山水云官网地址：[ss2.byvvcsx.com](https://clash-jichang.com/go/shanshuiyun)
+山水云官网地址：[47.86.34.254:5210](https://clash-jichang.com/go/shanshuiyun)
 
 最便宜的订阅有 **14.99元 100GB/月**（月付琴套餐）。
 
