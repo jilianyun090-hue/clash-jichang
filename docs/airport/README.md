@@ -510,7 +510,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 12. 影子 {#影子}
 
-影子官网地址：[yingzi01.com](https://clash-jichang.com/go/yingzi)
+影子官网地址：[yingzi03.com](https://clash-jichang.com/go/yingzi)
 
 最便宜的订阅有 **18.80元 150GB/月**。
 
@@ -710,7 +710,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 20. Lumina {#Lumina}
 
-Lumina官网地址：[luminak.net](https://clash-jichang.com/go/lumina)
+Lumina官网地址：[lumina.yakit.de5.net](https://clash-jichang.com/go/lumina)
 
 最便宜的订阅有 **10.00元 200GB/月**。
 
