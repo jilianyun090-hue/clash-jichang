@@ -1,6 +1,6 @@
 ---
 title: "飞猫云机场评测：全IPLC专线高速机场深度测评"
-description: "飞猫云机场2026最新评测，全IPLC专线网络，最高2.5Gbps速率，原生IP解锁Netflix、Disney+、ChatGPT、TikTok等服务，不限设备数量，年付8折优惠。"
+description: "飞猫云机场评测：全IPLC专线高速机场深度测评：提供详细的信息整理、使用指南和选购建议。涵盖核心功能介绍、配置方法、常见问题解答和实用技巧，帮助你全面了解并高效使用相关服务。"
 head:
   - - meta
     - name: keywords

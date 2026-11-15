@@ -1,6 +1,6 @@
 ---
 title: "快AI模型评测 2026：多供应商 AI 中转、Claude、GPT 与 DeepSeek 使用指南"
-description: "快AI模型提供多供应商 AI 聚合入口，本文结合页面展示的 Anthropic、DeepSeek、Google、Mistral、Moonshot、OpenAI、xAI、智谱、腾讯和讯飞等分类，评测模型选择、API 兼容、成本与适用场景。"
+description: "快AI模型评测 2026：多供应商 AI 中转、Claude、GPT 与 DeepSeek 使用完整指南：从入门到进阶的详细教程，涵盖配置步骤、常见问题排查、优化技巧和最佳实践。适合新手快速上手，也包含进阶用户需要的深度内容。"
 head:
   - - meta
     - name: keywords

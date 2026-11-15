@@ -1,6 +1,6 @@
 ---
 title: "科学上网知识库2026：翻墙梯子工具、机场推荐与Shadowrocket小火箭配置教程"
-description: "科学上网知识库：涵盖机场推荐、梯子推荐、Shadowrocket小火箭共享账号、Clash配置教程、IEPL/IPLC专线解析、流媒体解锁原理与VPN选购指南。全方位助你安全高速畅享全球互联网。"
+description: "科学上网知识库2026：翻墙梯子工具、机场推荐与Shadowrocket小火箭配置完整指南：从入门到进阶的详细教程，涵盖配置步骤、常见问题排查、优化技巧和最佳实践。适合新手快速上手，也包含进阶用户需要的深度内容。"
 head:
   - - meta
     - name: keywords

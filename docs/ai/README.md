@@ -1,6 +1,6 @@
 ---
 title: "2026 AI使用指南：ChatGPT、Claude、国内模型与AI中转站评测"
-description: "2026年 AI 使用指南：覆盖 ChatGPT、Claude、Gemini、Grok、Midjourney、Cursor、国内大模型与 AI 中转站评测，整理模型选择、API 接入、节点环境、隐私和成本控制方法。"
+description: "2026 AI使用：ChatGPT、Claude、国内模型与AI中转站评测完整指南：从入门到进阶的详细教程，涵盖配置步骤、常见问题排查、优化技巧和最佳实践。适合新手快速上手，也包含进阶用户需要的深度内容。"
 head:
   - - meta
     - name: keywords

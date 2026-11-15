@@ -1,6 +1,6 @@
 ---
 title: "极速cloud机场评测：高性价比三网优化线路深度测评"
-description: "极速cloud机场2026最新评测，三网优化精品线路，支持解锁Netflix、Disney+、YouTube等流媒体及ChatGPT等AI平台，24小时稳定高速，工单快速响应。"
+description: "极速cloud机场评测：高性价比三网优化线路深度测评：提供详细的信息整理、使用指南和选购建议。涵盖核心功能介绍、配置方法、常见问题解答和实用技巧，帮助你全面了解并高效使用相关服务。"
 head:
   - - meta
     - name: keywords

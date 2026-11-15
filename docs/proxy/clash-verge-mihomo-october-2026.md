@@ -1,6 +1,6 @@
 ---
 title: "2026年10月Clash Verge Rev 2.5.8与mihomo更新：机场订阅用户要注意什么"
-description: "核对Clash Verge Rev v2.5.8、mihomo v1.19.32及Android Clash Meta近期官方发布说明，解释同名节点、Windows服务、macOS DNS和TUN等修复与机场订阅故障的关系。"
+description: "2026年10月Clash Verge Rev 2.5.8与mihomo更新：机场订阅用户要注意什么：提供详细的信息整理、使用指南和选购建议。涵盖核心功能介绍、配置方法、常见问题解答和实用技巧，帮助你全面了解并高效使用相关服务。"
 date: 2026-10-11
 category:
   - 科学上网知识库

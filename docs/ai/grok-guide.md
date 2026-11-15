@@ -1,6 +1,6 @@
 ---
 title: "Grok AI国内怎么用？2026最新Grok官网使用与注册保姆级教程"
-description: "Grok 国内使用指南，说明 X 平台账号注册、访问网络要求、联网搜索和订阅差异，比较 Grok 与 ChatGPT、Claude 的适用场景，并给出隐私与账号安全建议。"
+description: "Grok AI国内怎么用？2026最新Grok官网使用与注册保姆级完整指南：从入门到进阶的详细教程，涵盖配置步骤、常见问题排查、优化技巧和最佳实践。适合新手快速上手，也包含进阶用户需要的深度内容。"
 head:
   - - meta
     - name: keywords

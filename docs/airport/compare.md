@@ -1,6 +1,6 @@
 ---
 title: "机场对比 2026：机场推荐价格、线路类型与优惠码一览"
-description: "机场对比表汇总36家评测页的起步月价、线路类型、优惠码和评测更新日期，可按预算快速比较直连、BGP、IPLC/IEPL等方案，并点击机场名称查看完整评测，购买前还可核对流量、设备数和退款规则。"
+description: "机场对比表汇总33家评测页的起步月价、线路类型、优惠码和评测更新日期，可按预算快速比较直连、BGP、IPLC/IEPL等方案，并点击机场名称查看完整评测，购买前还可核对流量、设备数和退款规则。"
 head:
   - - meta
     - name: keywords
@@ -36,7 +36,6 @@ date: 2026-10-20
 | [可达加速器](/airport/keda) | ¥10/月起 | 中转 / 专线 | — | 2026-05-23 | [官网](https://clash-jichang.com/go/keda) |
 | [快狸](/airport/kuaili) | ¥10/月起 | 专线 | `kl888` | 2026-06-28 | [官网](https://clash-jichang.com/go/kuaili) |
 | [LiZione](/airport/lizione) | ¥10/月起 | BGP / 中转 / 专线 | — | 2026-05-19 | [官网](https://clash-jichang.com/go/lizione) |
-| [Lumina](/airport/lumina) | ¥10/月起 | 中转 | `airport` | 2026-06-28 | [官网](https://clash-jichang.com/go/lumina) |
 | [花云](/airport/huayunjichang) | ¥10.6/月起 | IEPL / BGP / 专线 | — | 2026-05-10 | [官网](https://clash-jichang.com/go/huayunjichang) |
 | [鲲鹏加速](/airport/kunpeng) | ¥12/月起 | 专线 | `airport` | 2026-09-26 | [官网](https://clash-jichang.com/go/kunpeng) |
 | [边界云](/airport/bianjiyun) | ¥12.33/月起 | IPLC / IEPL / 中转 / 专线 | `airport` | 2026-05-29 | [官网](https://clash-jichang.com/go/bianjiyun) |
@@ -45,9 +44,7 @@ date: 2026-10-20
 | [龙猫云](/airport/longmaoyun) | ¥15/月起 | IEPL / 专线 | — | 2026-05-13 | — |
 | [迅达VPN](/airport/xundavpn) | ¥15/月起 | BGP / 中转 / 专线 | — | 2026-05-24 | [官网](https://clash-jichang.com/go/xundavpn) |
 | [星岛梦](/airport/xingdaomeng) | ¥16/月起 | BGP / 中转 / 专线 | — | 2026-05-16 | [官网](https://clash-jichang.com/go/xingdaomeng) |
-| [灯塔](/airport/dengta) | ¥16.6/月起 | 见评测页 | `airport` | 2026-09-15 | [官网](https://clash-jichang.com/go/dengta) |
 | [Edge-X](/airport/edge-x) | ¥16.8/月起 | IPLC / IEPL / 专线 | `xk808` | 2026-05-30 | [官网](https://clash-jichang.com/go/edge-x) |
-| [影子](/airport/yingzi) | ¥18.8/月起 | IEPL / 专线 | `airport` | 2026-06-28 | [官网](https://clash-jichang.com/go/yingzi) |
 | [大哥云](/airport/dageyun) | ¥19.9/月起 | IPLC / IEPL / 专线 | — | 2026-05-14 | — |
 | [全球云](/airport/quanqiuyun) | ¥20/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-17 | [官网](https://clash-jichang.com/go/quanqiuyun) |
 | [云图](/airport/yuntu) | ¥20/月起 | 中转 / 专线 | `yt88` | 2026-08-06 | [官网](https://clash-jichang.com/go/yuntu) |
@@ -77,7 +74,6 @@ date: 2026-10-20
 - [飞鸟](/airport/feiniaojichang)（¥15/月起，IEPL / 专线）
 - [龙猫云](/airport/longmaoyun)（¥15/月起，IEPL / 专线）
 - [Edge-X](/airport/edge-x)（¥16.8/月起，IPLC / IEPL / 专线）
-- [影子](/airport/yingzi)（¥18.8/月起，IEPL / 专线）
 - [大哥云](/airport/dageyun)（¥19.9/月起，IPLC / IEPL / 专线）
 - [全球云](/airport/quanqiuyun)（¥20/月起，IEPL / BGP / 中转 / 专线）
 - [灵猫网络](/airport/lingmao)（见评测页，IPLC / 专线）
@@ -91,7 +87,6 @@ date: 2026-10-20
 - [可信云](/airport/kexinyun)（¥8/月起）
 - [边缘节点](/airport/bianyuanjiedian)（¥9/月起）
 - [快狸](/airport/kuaili)（¥10/月起）
-- [Lumina](/airport/lumina)（¥10/月起）
 - [边界云](/airport/bianjiyun)（¥12.33/月起）
 
 ### 低价入门机场（起步 ¥10/月以内） {#budget}
@@ -116,7 +111,6 @@ date: 2026-10-20
 - [可达加速器](/airport/keda)（¥10/月起，中转 / 专线）
 - [快狸](/airport/kuaili)（¥10/月起，专线）
 - [LiZione](/airport/lizione)（¥10/月起，BGP / 中转 / 专线）
-- [Lumina](/airport/lumina)（¥10/月起，中转）
 
 ### ChatGPT / Netflix 等解锁需求 {#unlock}
 

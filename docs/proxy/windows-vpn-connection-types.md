@@ -1,6 +1,6 @@
 ---
 title: "Windows设置安全VPN连接：Radmin VPN、FortiClient与机场客户端有什么区别"
-description: "解释 Windows 11 的添加 VPN 连接窗口、Radmin VPN 虚拟局域网、FortiClient 企业远程接入及机场订阅客户端各自用途。提供需要准备的服务器和凭据、连接失败排查顺序，避免把不同类型的 VPN 混用。"
+description: "Windows设置安全VPN连接：Radmin VPN、FortiClient与机场客户端有什么区别：提供详细的信息整理、使用指南和选购建议。涵盖核心功能介绍、配置方法、常见问题解答和实用技巧，帮助你全面了解并高效使用相关服务。"
 date: 2026-10-06
 category:
   - 科学上网知识库

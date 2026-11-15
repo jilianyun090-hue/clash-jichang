@@ -1,6 +1,6 @@
 ---
 title: "2026 Cursor AI 智能代码编辑器完整教程与实战指南：提升10倍编程效率的AI工具"
-description: "Cursor AI 代码编辑器教程，覆盖安装配置、代码补全、Agent 与 Chat 编程、项目规则、模型选择和常见故障，并比较 Cursor 与 GitHub Copilot 的适用场景和订阅方案。"
+description: "2026 Cursor AI 智能代码编辑器教程与实战指南：提升10倍编程效率的AI工具完整指南：从入门到进阶的详细教程，涵盖配置步骤、常见问题排查、优化技巧和最佳实践。适合新手快速上手，也包含进阶用户需要的深度内容。"
 head:
   - - meta
     - name: keywords
