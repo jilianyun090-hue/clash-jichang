@@ -435,6 +435,14 @@ export default hopeTheme({
                             description: pageDescription,
                             url: pageUrl,
                             inLanguage: 'zh-CN',
+                            spatialCoverage: {
+                                '@type': 'Place',
+                                name: '中国大陆、香港、台湾及全球华人地区',
+                                geo: {
+                                    '@type': 'GeoCoordinates',
+                                    addressCountry: 'CN'
+                                }
+                            },
                             about: {
                                 '@type': 'Thing',
                                 name: 'AI工具、国内模型与AI中转站',
@@ -454,6 +462,45 @@ export default hopeTheme({
                             },
                         }),
                     ]);
+                }
+
+                // 机场推荐页面添加地理覆盖与受众定位
+                if (page.path.startsWith('/airport/') && !page.path.includes('compare') && !page.path.includes('brands')) {
+                    const existingLd = head.find(item => item[0] === 'script' && item[1].type === 'application/ld+json');
+                    if (!existingLd) {
+                        head.push([
+                            'script',
+                            { type: 'application/ld+json' },
+                            JSON.stringify({
+                                '@context': 'https://schema.org',
+                                '@type': 'Article',
+                                headline: pageTitle,
+                                description: pageDescription,
+                                url: pageUrl,
+                                inLanguage: 'zh-CN',
+                                spatialCoverage: {
+                                    '@type': 'Place',
+                                    name: '中国大陆、香港、台湾、澳门及海外华人地区',
+                                    geo: {
+                                        '@type': 'GeoCoordinates',
+                                        addressCountry: 'CN'
+                                    }
+                                },
+                                audience: {
+                                    '@type': 'PeopleAudience',
+                                    audienceType: '需要科学上网、机场代理服务的中文用户',
+                                    geographicArea: {
+                                        '@type': 'AdministrativeArea',
+                                        name: '中国大陆、香港、台湾、澳门'
+                                    }
+                                },
+                                author: {
+                                    '@type': 'Organization',
+                                    name: '道一博客团队'
+                                }
+                            }),
+                        ]);
+                    }
                 }
             }
         },

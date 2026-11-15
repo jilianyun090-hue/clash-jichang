@@ -1,6 +1,16 @@
 ---
-title: "Lumina机场怎么样？套餐、线路与订阅信息整理"
-description: "Lumina机场怎么样？整理公开套餐价格、线路说明、设备限制和订阅信息，并标明本站验证边界。套餐与服务状态可能变化，购买前请以服务商当前页面和个人测试为准。"
+title: "Lumina机场测评：套餐价格与线路配置"
+description: "Lumina机场测评：整理套餐价格、节点线路、流量倍率和订阅配置。提供多地节点覆盖,支持Clash/Shadowrocket等主流客户端,适合日常科学上网需求。"
+head:
+- - meta
+  - name: keywords
+    content: Lumina机场,Lumina机场测评,Lumina机场套餐,Lumina机场价格,Clash订阅,机场代理
+tag:
+- 机场推荐
+- Lumina机场
+- 机场测评
+category: 机场测评
+---
 head:
 - - meta
   - name: keywords

@@ -1,11 +1,11 @@
 ---
 home: true
-title: "机场推荐 2026：稳定机场、便宜机场与梯子推荐实测"
-description: "机场推荐与梯子推荐总览：汇总 38 家稳定机场、便宜机场的价格、线路与优惠码，覆盖 IPLC/IEPL 专线机场、性价比机场与流媒体机场，附机场观察、跑路预警与 Clash/Shadowrocket 客户端教程。"
+title: "机场推荐2026：稳定机场与便宜机场测评对比"
+description: "机场推荐与梯子推荐指南：汇总38家稳定机场、便宜机场的价格、线路与优惠码，覆盖IPLC/IEPL专线机场、性价比机场与流媒体机场，附机场观察、跑路预警与Clash/Shadowrocket客户端教程。"
 head:
   - - meta
     - name: keywords
-      content: 机场推荐,机场观察,机场测评,稳定机场,便宜机场,性价比机场,机场对比,机场订阅,IPLC机场,IEPL机场
+      content: 机场推荐,机场测评,稳定机场,便宜机场,性价比机场,机场对比,IPLC机场,IEPL机场,Clash配置,Shadowrocket
 heroImage: /network-globe-logo.png
 heroAlt: 全球网络连接示意图
 heroText: 机场推荐 · 梯子推荐 · 翻墙VPN
