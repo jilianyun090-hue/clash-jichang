@@ -1,6 +1,6 @@
 ---
 title: "2026性价比机场排行：按起步月价从低到高"
-description: "性价比机场排行按评测页起步月均价整理30家机场，展示线路类型、流量与独立评测入口；同时提醒倍率、设备数、退款规则、年付折算和低价套餐的真实使用成本，适合学生党与预算有限的用户先做月付比较。"
+description: "性价比机场排行按评测页起步月均价整理31家机场，展示线路类型、流量与独立评测入口；同时提醒倍率、设备数、退款规则、年付折算和低价套餐的真实使用成本，适合学生党与预算有限的用户先做月付比较。"
 head:
   - - meta
     - name: keywords
@@ -44,10 +44,11 @@ date: 2026-10-20
 | 24 | 龙猫云 | ¥15/月起 | IEPL / 专线 | [查看评测](/airport/longmaoyun) |
 | 25 | 迅达VPN | ¥15/月起 | BGP / 中转 / 专线 | [查看评测](/airport/xundavpn) |
 | 26 | 星岛梦 | ¥16/月起 | BGP / 中转 / 专线 | [查看评测](/airport/xingdaomeng) |
-| 27 | Edge-X | ¥16.8/月起 | IPLC / IEPL / 专线 | [查看评测](/airport/edge-x) |
-| 28 | 大哥云 | ¥19.9/月起 | IPLC / IEPL / 专线 | [查看评测](/airport/dageyun) |
-| 29 | 全球云 | ¥20/月起 | IEPL / BGP / 中转 / 专线 | [查看评测](/airport/quanqiuyun) |
-| 30 | 云图 | ¥20/月起 | 中转 / 专线 | [查看评测](/airport/yuntu) |
+| 27 | 灯塔 | ¥16.6/月起 | 见评测页 | [查看评测](/airport/dengta) |
+| 28 | Edge-X | ¥16.8/月起 | IPLC / IEPL / 专线 | [查看评测](/airport/edge-x) |
+| 29 | 大哥云 | ¥19.9/月起 | IPLC / IEPL / 专线 | [查看评测](/airport/dageyun) |
+| 30 | 全球云 | ¥20/月起 | IEPL / BGP / 中转 / 专线 | [查看评测](/airport/quanqiuyun) |
+| 31 | 云图 | ¥20/月起 | 中转 / 专线 | [查看评测](/airport/yuntu) |
 
 ## 排序只按价格，购买前还要核对
 

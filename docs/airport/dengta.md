@@ -58,5 +58,5 @@ date: 2026-09-15
 
 - 返回[机场推荐总览](/airport/)查看全部服务商与选购参考
 - 比较价格与线路：[机场对比](/airport/compare) · [性价比机场排行](/airport/best-value)
-- 购买前先看：[机场优惠码](/airport/coupons) · [跑路预警](/airport/paolu)
+- 购买前先看：[优惠活动汇总](/airport/coupons) · [跑路预警](/airport/paolu)
 

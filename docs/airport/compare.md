@@ -1,6 +1,6 @@
 ---
 title: "机场对比 2026：机场推荐价格、线路类型与优惠码一览"
-description: "机场对比表汇总33家评测页的起步月价、线路类型、优惠码和评测更新日期，可按预算快速比较直连、BGP、IPLC/IEPL等方案，并点击机场名称查看完整评测，购买前还可核对流量、设备数和退款规则。"
+description: "机场对比表汇总34家评测页的起步月价、线路类型、优惠码和评测更新日期，可按预算快速比较直连、BGP、IPLC/IEPL等方案，并点击机场名称查看完整评测，购买前还可核对流量、设备数和退款规则。"
 head:
   - - meta
     - name: keywords
@@ -44,6 +44,7 @@ date: 2026-10-20
 | [龙猫云](/airport/longmaoyun) | ¥15/月起 | IEPL / 专线 | — | 2026-05-13 | — |
 | [迅达VPN](/airport/xundavpn) | ¥15/月起 | BGP / 中转 / 专线 | — | 2026-05-24 | [官网](https://clash-jichang.com/go/xundavpn) |
 | [星岛梦](/airport/xingdaomeng) | ¥16/月起 | BGP / 中转 / 专线 | — | 2026-05-16 | [官网](https://clash-jichang.com/go/xingdaomeng) |
+| [灯塔](/airport/dengta) | ¥16.6/月起 | 见评测页 | — | 2026-09-15 | [官网](https://clash-jichang.com/go/dengta) |
 | [Edge-X](/airport/edge-x) | ¥16.8/月起 | IPLC / IEPL / 专线 | `xk808` | 2026-05-30 | [官网](https://clash-jichang.com/go/edge-x) |
 | [大哥云](/airport/dageyun) | ¥19.9/月起 | IPLC / IEPL / 专线 | — | 2026-05-14 | — |
 | [全球云](/airport/quanqiuyun) | ¥20/月起 | IEPL / BGP / 中转 / 专线 | — | 2026-05-17 | [官网](https://clash-jichang.com/go/quanqiuyun) |

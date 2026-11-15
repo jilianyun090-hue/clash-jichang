@@ -458,6 +458,20 @@
     "unlimitedDevice": false
   },
   {
+    "slug": "dengta",
+    "name": "灯塔",
+    "title": "灯塔机场测评：套餐价格与线路配置",
+    "date": "2026-09-15",
+    "path": "/airport/dengta",
+    "priceText": "轻量版折合低至 ¥16.6/月（年付 ¥200），支持微信/支付宝付款",
+    "fromMonthly": 16.6,
+    "coupon": "",
+    "status": "active",
+    "affiliateUrl": "https://www.dengta12.com/reg?ref=Fz0wIDwv&utm_source=invite&utm_medium=referral&utm_campaign=web",
+    "lineTypes": [],
+    "unlimitedDevice": false
+  },
+  {
     "slug": "edge-x",
     "name": "Edge-X",
     "title": "Edge-X机场怎么样？套餐、线路与订阅信息整理",
