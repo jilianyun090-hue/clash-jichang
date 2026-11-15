@@ -25,16 +25,17 @@ const readFm = (text) => {
 // 联盟链接被改写为 /go/<slug> 后，页面里不再有原始地址，沿用上一次数据文件中的值
 const previous = fs.existsSync(outFile) ? JSON.parse(fs.readFileSync(outFile, "utf8")) : [];
 const previousAff = new Map(previous.map((p) => [p.slug, p.affiliateUrl]));
+const previousNames = new Map(previous.map((p) => [p.slug, p.name]));
 
 const airports = [];
 for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
   const slug = file.replace(/\.md$/, "");
   const text = fs.readFileSync(path.join(dir, file), "utf8");
   const { fm, body } = readFm(text);
-  // 评测页：标题形如“XX怎么样？…”，榜单、教程页不收录
-  if (!/^.{1,12}?(机场)?怎么样/.test(fm.title || "")) continue;
+  // 已收录的机场允许修改标题，避免重建时丢失其数据和 /go/ 跳转。
+  if (!/^.{1,12}?(机场)?怎么样/.test(fm.title || "") && !previousNames.has(slug)) continue;
 
-  const name = (fm.title.match(/^(.+?)(?:机场)?怎么样/) || [])[1] || slug;
+  const name = (fm.title.match(/^(.+?)(?:机场)?怎么样/) || [])[1] || previousNames.get(slug) || slug;
 
   // 注册链接：出现次数最多、且看起来是邀请/注册地址的外链
   const urls = [...body.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)].map((m) => m[1]).filter((u) => !u.includes("t.me") && AFF.test(u));
