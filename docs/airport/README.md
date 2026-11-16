@@ -151,7 +151,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 > 下表为本站已收录的套餐信息摘要，不是实时价格接口；本次页面结构调整未逐项核验各官网报价。购买前请打开服务商页面复核套餐、优惠、流量倍率和退款规则。
 
-| 名称 | 官网地址 | 试用 | 最便宜订阅 | 不限时 | 群 | 详情 |
+| 名称 | 直达官网 | 试用 | 最便宜订阅 | 不限时 | 群 | 详情 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**极连云**](#极连云) | [直达官网](https://clash-jichang.com/go/jilianyun) | 无 | 8元 60GB/月 | ✅ | [TG](https://t.me/JLYCloud) | [前往](#极连云) |
 | [**光年梯**](#光年梯) | [直达官网](https://clash-jichang.com/go/guangnianti) | 无 | 7.5元 50GB/月（年付） | ✅ | [TG](https://t.me/guangnianti) | [前往](#光年梯) |
@@ -189,10 +189,10 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 | [**山海机场**](#山海机场) | [直达官网](https://clash-jichang.com/go/shanhai) | 无 | 6元 45GB/月 | ✅ | [TG](https://t.me/shanhai_me) | [前往](#山海机场) |
 | [**LiZione**](#LiZione) | [直达官网](https://clash-jichang.com/go/lizione) | 无 | 10元 100GB/月 | ❌ | [TG](https://t.me/LiZione_Chat) | [前往](#LiZione) |
 | [**哆啦A梦**](#哆啦A梦) | [直达官网](https://clash-jichang.com/go/duolaameng) | 无 | 10元 100GB/月 | ✅ | 暂无 | [前往](#哆啦A梦) |
-| [**大哥云**](#大哥云) | [直达官网](https://airportgo.org/go.php) | 有 | 19.9元 100GB/月 | ❌ | [TG](https://t.me/dageyun) | [前往](#大哥云) |
-| [**龙猫云**](#龙猫云) | [直达官网](https://airportgo.org/go.php) | 无 | 15元 150GB/月 | ❌ | [TG](https://t.me/totoro_clouds) | [前往](#龙猫云) |
-| [**飞鸟机场**](#飞鸟机场) | [直达官网](https://airportgo.org/go.php) | 无 | 15元 100GB/月 | ✅ | [TG](https://t.me/feiniaocloud) | [前往](#飞鸟机场) |
-| [**青云梯**](#青云梯) | [直达官网](https://airportgo.org/go.php) | 无 | 8元 60GB/月 | ✅ | 暂无 | [前往](#青云梯) |
+| [**大哥云**](#大哥云) | [直达官网](https://clash-jichang.com/go/dageyun) | 有 | 19.9元 100GB/月 | ❌ | [TG](https://t.me/dageyun) | [前往](#大哥云) |
+| [**龙猫云**](#龙猫云) | [直达官网](https://clash-jichang.com/go/longmaoyun) | 无 | 15元 150GB/月 | ❌ | [TG](https://t.me/totoro_clouds) | [前往](#龙猫云) |
+| [**飞鸟机场**](#飞鸟机场) | [直达官网](https://clash-jichang.com/go/feiniaojichang) | 无 | 15元 100GB/月 | ✅ | [TG](https://t.me/feiniaocloud) | [前往](#飞鸟机场) |
+| [**青云梯**](#青云梯) | [直达官网](https://clash-jichang.com/go/qingyunti) | 无 | 8元 60GB/月 | ✅ | 暂无 | [前往](#青云梯) |
 | [**花云 (FlowerCloud)**](#花云机场) | [直达官网](https://clash-jichang.com/go/huayunjichang) | 无 | 128元/年 20GB/月 | ❌ | [TG](https://t.me/FlowerCloud_News) | [前往](#花云机场) |
 
 ---
@@ -201,7 +201,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 1. 极连云 {#极连云}
 
-极连云官网地址：[haozevpn.jlyvipaff.com](https://clash-jichang.com/go/jilianyun)
+👉 **[直达官网](https://clash-jichang.com/go/jilianyun)**
 
 最便宜的订阅有 **8元 60G/月**。
 
@@ -222,7 +222,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 2. 光年梯 {#光年梯}
 
-光年梯官网地址：[gntvipaff.cc](https://clash-jichang.com/go/guangnianti)
+👉 **[直达官网](https://clash-jichang.com/go/guangnianti)**
 
 最便宜的订阅有 **7.5元 50G/月**（年付）。
 
@@ -244,7 +244,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 3. 飞猫云 {#飞猫云}
 
-飞猫云官网地址：[flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
+👉 **[直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)**
 
 最便宜的订阅有 **¥84.00/年（学生版）**，月流量 50GB。
 
@@ -277,7 +277,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 4. 云图机场 {#云图}
 
-云图机场官网地址：[直达官网](https://clash-jichang.com/go/yuntu)
+👉 **[直达官网](https://clash-jichang.com/go/yuntu)**
 
 最便宜的订阅有 **岚图 ¥20.00/月付（150G流量）**。
 
@@ -299,7 +299,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 5. 鲲鹏加速 {#鲲鹏加速}
 
-鲲鹏加速官网地址：[直达官网](https://clash-jichang.com/go/kunpeng)
+👉 **[直达官网](https://clash-jichang.com/go/kunpeng)**
 
 最便宜的常规订阅有 **12元 99G/月**（另有 **1元 1G 扶摇尝鲜** 试用体验包）。
 
@@ -319,7 +319,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 6. 极速cloud {#极速cloud}
 
-极速cloud官网地址：[august.jsjc456789.com](https://august.jsjc456789.com)
+👉 **[直达官网](https://august.jsjc456789.com)**
 
 最便宜的订阅有 **新人100G体验套餐 ¥8.90/月**。
 
@@ -349,7 +349,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 7. 九云机场 {#九云}
 
-九云机场官网地址：[直达官网](https://daoyi.jiuyyq.com)
+👉 **[直达官网](https://daoyi.jiuyyq.com)**
 
 最便宜的订阅有 **招财版 ¥6.00/月付（150G流量）**。
 
@@ -375,7 +375,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 8. 可信云 {#可信云}
 
-可信云官网地址：[haibing822.kosingaff.com](https://clash-jichang.com/go/kexinyun)
+👉 **[直达官网](https://clash-jichang.com/go/kexinyun)**
 
 最便宜的订阅有 **8元 60G/月**（年付折算）。
 
@@ -398,7 +398,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 9. 速界 {#速界}
 
-速界官网地址：[speedworldaff.com](https://clash-jichang.com/go/sujie)
+👉 **[直达官网](https://clash-jichang.com/go/sujie)**
 
 最便宜的订阅有 **7.5元 50G/月**（年付折算）。
 
@@ -421,7 +421,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 10. 快狸 {#快狸}
 
-快狸官网地址：[kuailiaff.com](https://clash-jichang.com/go/kuaili)
+👉 **[直达官网](https://clash-jichang.com/go/kuaili)**
 
 最便宜的订阅有 **10元 30GB/月**（年付折算）。
 
@@ -444,7 +444,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 11. 边缘节点 {#边缘节点}
 
-边缘节点官网地址：[zoio.edgenovaaff.cc](https://clash-jichang.com/go/bianyuanjiedian)
+👉 **[直达官网](https://clash-jichang.com/go/bianyuanjiedian)**
 
 最便宜的订阅有 **9元 45GB/月**（年付折算）。
 
@@ -467,7 +467,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 11. 灯塔机场 {#灯塔机场}
 
-灯塔机场官网地址：[dengta12.com](https://clash-jichang.com/go/dengta)
+👉 **[直达官网](https://clash-jichang.com/go/dengta)**
 
 最便宜的订阅有 **16.6元 120GB/月**（年付折算）。
 
@@ -491,7 +491,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 11. 光速云 {#光速云}
 
-光速云官网地址：[gsyvipaff.cc](https://clash-jichang.com/go/guangshuyun)
+👉 **[直达官网](https://clash-jichang.com/go/guangshuyun)**
 
 最便宜的订阅有 **8.25元 59G/月**（年付折算）。
 
@@ -512,7 +512,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 12. 影子 {#影子}
 
-影子官网地址：[yingzi03.com](https://clash-jichang.com/go/yingzi)
+👉 **[直达官网](https://clash-jichang.com/go/yingzi)**
 
 最便宜的订阅有 **18.80元 150GB/月**。
 
@@ -534,7 +534,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 13. 边界云机场 {#边界云机场}
 
-边界云机场官网地址：[bianjiecloud.com](https://clash-jichang.com/go/bianjiyun)
+👉 **[直达官网](https://clash-jichang.com/go/bianjiyun)**
 
 最便宜的订阅有 **12.33元 50GB/月**（年付折算）。
 
@@ -565,7 +565,7 @@ A: Windows、macOS、iOS、Android 及路由器等主流设备均可支持。
 
 ### 14. Nice加速 {#Nice加速}
 
-Nice加速官网地址：[web.nicecc.cc](https://clash-jichang.com/go/nice)
+👉 **[直达官网](https://clash-jichang.com/go/nice)**
 
 最便宜的订阅有 **10元 40G/月**（年付）。
 
@@ -596,7 +596,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 15. 灵猫网络 {#灵猫网络}
 
-灵猫网络官网地址：[lingmaovpn.com](https://clash-jichang.com/go/lingmao)
+👉 **[直达官网](https://clash-jichang.com/go/lingmao)**
 
 最便宜的订阅有 **85元 45G/月（年付）**。
 
@@ -612,7 +612,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 16. 星岛梦 {#星岛梦}
 
-星岛梦官网地址：[xdmvipaff.cc](https://clash-jichang.com/go/xingdaomeng)
+👉 **[直达官网](https://clash-jichang.com/go/xingdaomeng)**
 
 最便宜的订阅有 **16元 100G/月**。
 
@@ -632,7 +632,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 17. 全球云 {#全球云}
 
-全球云官网地址：[gcvipaff.cc](https://clash-jichang.com/go/quanqiuyun)
+👉 **[直达官网](https://clash-jichang.com/go/quanqiuyun)**
 
 最便宜的订阅有 **20元 120G/月**。
 
@@ -653,7 +653,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 18. 瞬云机场 {#瞬云机场}
 
-瞬云机场官网地址：[ddd.jichang.best](https://clash-jichang.com/go/shunyun)
+👉 **[直达官网](https://clash-jichang.com/go/shunyun)**
 
 最便宜的订阅有 **8.25元 59G/月**（年付）。
 
@@ -681,7 +681,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 19. 寰宇云机场 {#寰宇云机场}
 
-寰宇云机场官网地址：[hyy.52kok.cn](https://clash-jichang.com/go/huanyuyun)
+👉 **[直达官网](https://clash-jichang.com/go/huanyuyun)**
 
 最便宜的订阅有 **89元/年 60G/月**（折合约¥7.4/月）。
 
@@ -712,7 +712,7 @@ Nice加速是站长长期自用的一款机场，机场运营超过2年，平时
 
 ### 20. Lumina {#Lumina}
 
-Lumina官网地址：[lumina.yakit.de5.net](https://clash-jichang.com/go/lumina)
+👉 **[直达官网](https://clash-jichang.com/go/lumina)**
 
 最便宜的订阅有 **10.00元 200GB/月**。
 
@@ -735,7 +735,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 21. 拼好连（原Runway Cloud） {#拼好连}
 
-拼好连官网地址：[runwayhz.com](https://clash-jichang.com/go/pinhaolian)
+👉 **[直达官网](https://clash-jichang.com/go/pinhaolian)**
 
 最便宜的订阅有 **9.90元 100GB/月**。
 
@@ -757,7 +757,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 22. 99吧 {#99吧}
 
-99吧官网地址：[99ba.net](https://clash-jichang.com/go/99bar)
+👉 **[直达官网](https://clash-jichang.com/go/99bar)**
 
 最便宜的订阅有 **7.5元 66GB/月**（年付折算）。
 
@@ -780,7 +780,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 23. 锦云机场 {#锦云}
 
-锦云官网地址：[直达官网](https://clash-jichang.com/go/jinyun)
+👉 **[直达官网](https://clash-jichang.com/go/jinyun)**
 
 最便宜的订阅有 **6元 50GB/月**。
 
@@ -805,7 +805,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 24. 极速云机场 {#极速云机场}
 
-极速云机场官网地址：[极速云](https://clash-jichang.com/go/jisuyun)
+👉 **[直达官网](https://clash-jichang.com/go/jisuyun)**
 
 最便宜的订阅有 **8.25元 800G/月**（年付折算）。
 
@@ -840,7 +840,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 25. 山水云 {#山水云}
 
-山水云官网地址：[47.86.34.254:5210](https://clash-jichang.com/go/shanshuiyun)
+👉 **[直达官网](https://clash-jichang.com/go/shanshuiyun)**
 
 最便宜的订阅有 **14.99元 100GB/月**（月付琴套餐）。
 
@@ -877,7 +877,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 26. 秒秒云 {#秒秒云}
 
-秒秒云官网地址：[141.11.77.26](https://clash-jichang.com/go/miaomiaoyun)
+👉 **[直达官网](https://clash-jichang.com/go/miaomiaoyun)**
 
 最便宜的订阅有 **14元 128GB/月**（月付探花套餐）。
 
@@ -913,7 +913,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 27. 迅达VPN {#迅达VPN}
 
-迅达VPN官网地址：[sulianproxy.com](https://clash-jichang.com/go/xundavpn)
+👉 **[直达官网](https://clash-jichang.com/go/xundavpn)**
 
 最便宜的订阅有 **15元 150GB/月**。
 
@@ -943,7 +943,7 @@ Lumina（Lumina Airport）是一家提供直连大带宽与高速中转的多协
 
 ### 28. Edge-X机场 {#Edge-X机场}
 
-Edge-X 机场官网地址：[edge-invite.net](https://clash-jichang.com/go/edge-x)
+👉 **[直达官网](https://clash-jichang.com/go/edge-x)**
 
 最便宜的订阅有 **16.8元 100GB/月**。
 
@@ -973,7 +973,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ### 29. 可达加速器 {#可达加速器}
 
-可达加速器官网地址：[mkd997.com](https://clash-jichang.com/go/keda)
+👉 **[直达官网](https://clash-jichang.com/go/keda)**
 
 最便宜的订阅有 **10元 100GB/月**（Basic 月付）。
 
@@ -1000,7 +1000,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ### 30. 奈云 (⚠️ 已确认跑路) {#奈云}
 
-奈云官网地址：~~[v2naiun.com](https://airportgo.org/go.php)~~ (已失效)
+👉 ~~[直达官网](https://airportgo.org/go.php)~~ (已失效)
 
 👉 **[前往奈云跑路情况说明](/airport/naiyun)**
 
@@ -1012,7 +1012,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ### 31. 隐云 (⚠️ 联动跑路高危) {#隐云}
 
-隐云机场官网地址：~~[airportgo.org](https://airportgo.org/go.php)~~ (已异常)
+👉 ~~[直达官网](https://airportgo.org/go.php)~~ (已异常)
 
 👉 **[前往隐云预警情况说明](/airport/yinyun)**
 
@@ -1024,7 +1024,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ### 32. 山海机场 {#山海机场}
 
-山海机场官网地址：[shanhai.sbs](https://clash-jichang.com/go/shanhai)
+👉 **[直达官网](https://clash-jichang.com/go/shanhai)**
 
 最便宜的订阅有 **3元 128G/月**（三网直连版）。
 
@@ -1050,7 +1050,7 @@ Edge-X 是一家专注于高品质 IEPL 内网专线的机场服务商，采用�
 
 ### 33. LiZione {#LiZione}
 
-LiZione 官网地址：[lizione.vip](https://clash-jichang.com/go/lizione)
+👉 **[直达官网](https://clash-jichang.com/go/lizione)**
 
 最便宜的订阅有 **10元 100G/月**。
 
@@ -1070,7 +1070,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ### 34. 哆啦A梦 {#哆啦A梦}
 
-哆啦A梦官网地址：[yyds2-doraemon.site](https://clash-jichang.com/go/duolaameng)
+👉 **[直达官网](https://clash-jichang.com/go/duolaameng)**
 
 最便宜的订阅有 **10元 100G/月**。
 
@@ -1092,7 +1092,7 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ### 35. 大哥云 {#大哥云}
 
-大哥云官网地址：[airportgo.org](https://airportgo.org/go.php)
+👉 **[直达官网](https://clash-jichang.com/go/dageyun)**
 
 最便宜的订阅有 **19.9元 100G/月**，且提供免费试用。
 
@@ -1103,19 +1103,19 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 | 套餐名称 | 价格 | 流量 | 时长 | 购买 |
 | :--- | :--- | :--- | :--- | :--- |
-| 单月套餐 A | ¥19.90 | 100G/月 | 按自然月 | [立即购买](https://airportgo.org/go.php) |
-| 单月套餐 B | ¥29.90 | 150G/月 | 按自然月 | [立即购买](https://airportgo.org/go.php) |
-| 季付套餐 A | ¥69.00 | 200G/月 | 90 天 | [立即购买](https://airportgo.org/go.php) |
-| VIP1 年付 | ¥88.00 | 15G/月 | 365 天 | [立即购买](https://airportgo.org/go.php) |
-| 年付套餐 A | ¥199.00 | 300G/月 | 365 天 | [立即购买](https://airportgo.org/go.php) |
-| 年付套餐 B | ¥299.00 | 500G/月 | 365 天 | [立即购买](https://airportgo.org/go.php) |
-| 年付(1000GB) | ¥699.00 | 1000G/月 | 365 天 | [立即购买](https://airportgo.org/go.php) |
+| 单月套餐 A | ¥19.90 | 100G/月 | 按自然月 | [立即购买](https://clash-jichang.com/go/dageyun) |
+| 单月套餐 B | ¥29.90 | 150G/月 | 按自然月 | [立即购买](https://clash-jichang.com/go/dageyun) |
+| 季付套餐 A | ¥69.00 | 200G/月 | 90 天 | [立即购买](https://clash-jichang.com/go/dageyun) |
+| VIP1 年付 | ¥88.00 | 15G/月 | 365 天 | [立即购买](https://clash-jichang.com/go/dageyun) |
+| 年付套餐 A | ¥199.00 | 300G/月 | 365 天 | [立即购买](https://clash-jichang.com/go/dageyun) |
+| 年付套餐 B | ¥299.00 | 500G/月 | 365 天 | [立即购买](https://clash-jichang.com/go/dageyun) |
+| 年付(1000GB) | ¥699.00 | 1000G/月 | 365 天 | [立即购买](https://clash-jichang.com/go/dageyun) |
 
 ---
 
 ### 36. 龙猫云 {#龙猫云}
 
-龙猫云官网地址：[airportgo.org](https://airportgo.org/go.php)
+👉 **[直达官网](https://clash-jichang.com/go/longmaoyun)**
 
 最便宜的订阅有 **15元 150G/月**。
 
@@ -1126,14 +1126,14 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 | 套餐名称 | 价格 | 流量 | 购买链接 |
 | :--- | :--- | :--- | :--- |
-| 萌宠套餐 | ¥15/月 | 150GB | [购买链接](https://airportgo.org/go.php) |
-| 巨猫套餐 | ¥35/月 | 400GB | [购买链接](https://airportgo.org/go.php) |
+| 萌宠套餐 | ¥15/月 | 150GB | [购买链接](https://clash-jichang.com/go/longmaoyun) |
+| 巨猫套餐 | ¥35/月 | 400GB | [购买链接](https://clash-jichang.com/go/longmaoyun) |
 
 ---
 
 ### 37. 飞鸟机场 {#飞鸟机场}
 
-飞鸟机场官网地址：[airportgo.org](https://airportgo.org/go.php)
+👉 **[直达官网](https://clash-jichang.com/go/feiniaojichang)**
 
 最便宜的订阅有 **15元 100G/月**。
 
@@ -1144,16 +1144,16 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 购买 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 青铜套餐 | 100G | ¥15 | ¥41 | ¥77 | ¥144 | [立即购买](https://airportgo.org/go.php) |
-| 白银套餐 | 200G | ¥30 | ¥81 | ¥153 | ¥288 | [立即购买](https://airportgo.org/go.php) |
-| 黄金套餐 | 500G | ¥75 | ¥203 | ¥383 | ¥720 | [立即购买](https://airportgo.org/go.php) |
-| 钻石套餐 | 1000G | ¥150 | ¥405 | ¥765 | ¥1440 | [立即购买](https://airportgo.org/go.php) |
+| 青铜套餐 | 100G | ¥15 | ¥41 | ¥77 | ¥144 | [立即购买](https://clash-jichang.com/go/feiniaojichang) |
+| 白银套餐 | 200G | ¥30 | ¥81 | ¥153 | ¥288 | [立即购买](https://clash-jichang.com/go/feiniaojichang) |
+| 黄金套餐 | 500G | ¥75 | ¥203 | ¥383 | ¥720 | [立即购买](https://clash-jichang.com/go/feiniaojichang) |
+| 钻石套餐 | 1000G | ¥150 | ¥405 | ¥765 | ¥1440 | [立即购买](https://clash-jichang.com/go/feiniaojichang) |
 
 ---
 
 ### 38. 青云梯 {#青云梯}
 
-青云梯官网地址：[airportgo.org](https://airportgo.org/go.php)
+👉 **[直达官网](https://clash-jichang.com/go/qingyunti)**
 
 最便宜的订阅有 **8元 60G/月**（年付折算）。
 
@@ -1171,13 +1171,13 @@ LiZione 致力于提供极高性价比的中转与专线服务。全节点支持
 
 ✨ 长期订阅优惠：季付9折 | 半年付85折 | 年付8折 | 两年付70折 | 三年付仅需60折！
 
-👉 [立即注册青云梯](https://airportgo.org/go.php)
+👉 [立即注册青云梯](https://clash-jichang.com/go/qingyunti)
 
 ---
 
 ### 39. 花云机场 (FlowerCloud) {#花云机场}
 
-花云机场官网地址：[api-flowercloud.com](https://clash-jichang.com/go/huayunjichang)
+👉 **[直达官网](https://clash-jichang.com/go/huayunjichang)**
 
 最便宜的订阅为 **128元/年 20G/月**。
 

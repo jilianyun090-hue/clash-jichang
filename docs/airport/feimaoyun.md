@@ -14,7 +14,7 @@ date: 2026-09-08
 
 飞猫云是一家专注于提供高品质IPLC专线服务的机场，采用全IPLC专线网络，提供最高2.5Gbps稳定速率。所有节点使用原生IP线路，轻松解锁Netflix、Disney+、ChatGPT、TikTok等主流服务，高峰时段不降速。
 
-**官网地址：** [flycat.flycatvipaff.cc](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)
+👉 **[直达官网](https://flycat.flycatvipaff.cc/#/?code=1arEKHqh)**
 
 ## 核心特性
 

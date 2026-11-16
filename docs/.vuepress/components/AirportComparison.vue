@@ -174,10 +174,10 @@ const availableAirports = [
   { id: 'shanhai', name: '山海机场', price: '6元/月起', line: 'IEPL专线', traffic: '45GB', devices: '不限', netflix: true, chatgpt: true, years: '2年+', trial: '无', link: 'https://shanhai.sbs/#/register?code=qVTbPfWP' },
   { id: 'lizione', name: 'LiZione', price: '10元/月起', line: 'IPLC专线', traffic: '100GB', devices: '3台', netflix: true, chatgpt: false, years: '2年+', trial: '无', link: 'https://lizione.vip?path=register&code=Wmf3jYMy' },
   { id: 'duolaameng', name: '哆啦A梦', price: '10元/月起', line: 'IEPL专线', traffic: '100GB', devices: '不限', netflix: true, chatgpt: true, years: '1年+', trial: '无', link: 'https://store.yyds2-doraemon.site/login/register?invite_code=5VxQMw0k' },
-  { id: 'dageyun', name: '大哥云', price: '19.9元/月起', line: 'IPLC专线', traffic: '100GB', devices: '5台', netflix: true, chatgpt: false, years: '3年+', trial: '试用', link: 'https://airportgo.org/go.php' },
-  { id: 'longmaoyun', name: '龙猫云', price: '15元/月起', line: 'IEPL专线', traffic: '150GB', devices: '5台', netflix: true, chatgpt: false, years: '2年+', trial: '无', link: 'https://airportgo.org/go.php' },
-  { id: 'feiniao', name: '飞鸟机场', price: '15元/月起', line: 'IPLC专线', traffic: '100GB', devices: '不限', netflix: true, chatgpt: true, years: '2年+', trial: '无', link: 'https://airportgo.org/go.php' },
-  { id: 'qingyunti', name: '青云梯', price: '8元/月起', line: 'IEPL专线', traffic: '60GB', devices: '不限', netflix: true, chatgpt: true, years: '2年+', trial: '无', link: 'https://airportgo.org/go.php' },
+  { id: 'dageyun', name: '大哥云', price: '19.9元/月起', line: 'IPLC专线', traffic: '100GB', devices: '5台', netflix: true, chatgpt: false, years: '3年+', trial: '试用', link: 'https://airportgo.org/' },
+  { id: 'longmaoyun', name: '龙猫云', price: '15元/月起', line: 'IEPL专线', traffic: '150GB', devices: '5台', netflix: true, chatgpt: false, years: '2年+', trial: '无', link: 'https://airportgo.org/' },
+  { id: 'feiniao', name: '飞鸟机场', price: '15元/月起', line: 'IPLC专线', traffic: '100GB', devices: '不限', netflix: true, chatgpt: true, years: '2年+', trial: '无', link: 'https://airportgo.org/' },
+  { id: 'qingyunti', name: '青云梯', price: '8元/月起', line: 'IEPL专线', traffic: '60GB', devices: '不限', netflix: true, chatgpt: true, years: '2年+', trial: '无', link: 'https://airportgo.org/' },
   { id: 'huayun', name: '花云(FlowerCloud)', price: '10.67元/月起', line: 'IPLC专线', traffic: '20GB', devices: '3台', netflix: true, chatgpt: false, years: '5年+', trial: '无', link: 'https://api-flowercloud.com/aff.php?aff=16018' },
 ];
 

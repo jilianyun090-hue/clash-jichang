@@ -18,7 +18,7 @@ const warning = airports.filter((a) => a.status === "warning");
 
 const price = (a) => (a.fromMonthly != null ? `¥${a.fromMonthly}/月起` : "见评测页");
 const lines = (a) => (a.lineTypes.length ? a.lineTypes.join(" / ") : "见评测页");
-const go = (a) => (a.affiliateUrl ? `[官网](${SITE}/go/${a.slug})` : "—");
+const go = (a) => (a.affiliateUrl ? `[直达官网](${SITE}/go/${a.slug})` : "—");
 
 const frontmatter = (title, description, keywords) => `---
 title: "${title}"
@@ -56,7 +56,7 @@ ${NOTE}
 
 ${DISCLOSURE}
 
-| 机场 | 起步价 | 线路 | 优惠码 | 评测更新 | 官网 |
+| 机场 | 起步价 | 线路 | 优惠码 | 评测更新 | 直达官网 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 ${active.map((a) => `| [${a.name}](${a.path}) | ${price(a)} | ${lines(a)} | ${a.coupon ? `\`${a.coupon}\`` : "—"} | ${a.date} | ${go(a)} |`).join("\n")}
 
@@ -142,7 +142,7 @@ ${DISCLOSURE}
 
 以下优惠码来自各机场评测页，“评测更新”是该评测页的更新日期，**不代表优惠码在该日期被重新核对**。优惠码可能随时失效，请在结算页确认折扣后再付款。
 
-| 机场 | 优惠码 | 评测更新 | 评测 | 官网 |
+| 机场 | 优惠码 | 评测更新 | 评测 | 直达官网 |
 | :--- | :--- | :--- | :--- | :--- |
 ${withCoupon.map((a) => `| ${a.name} | \`${a.coupon}\` | ${a.date} | [查看评测](${a.path}) | ${go(a)} |`).join("\n")}
 
@@ -206,10 +206,16 @@ const walk = (d) =>
 
 let rewritten = 0;
 let files = 0;
+// 多家机场可能共用同一个分流入口，不能把所有链接都归到第一家。
+const destinationCounts = new Map();
+for (const a of active.filter((a) => a.affiliateUrl)) {
+  destinationCounts.set(a.affiliateUrl, (destinationCounts.get(a.affiliateUrl) || 0) + 1);
+}
+const uniqueDestinations = active.filter((a) => a.affiliateUrl && destinationCounts.get(a.affiliateUrl) === 1);
 for (const file of walk("docs")) {
   let text = fs.readFileSync(file, "utf8");
   const before = text;
-  for (const a of airports.filter((x) => x.affiliateUrl && x.status === "active")) {
+  for (const a of uniqueDestinations) {
     const n = text.split(a.affiliateUrl).length - 1;
     if (n) {
       text = text.split(a.affiliateUrl).join(`${SITE}/go/${a.slug}`);

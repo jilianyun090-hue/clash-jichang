@@ -138,7 +138,7 @@
     "fromMonthly": 8,
     "coupon": "",
     "status": "active",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://airportgo.org/",
     "lineTypes": [
       "IPLC",
       "专线"
@@ -413,7 +413,7 @@
     "fromMonthly": 15,
     "coupon": "",
     "status": "active",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://airportgo.org/",
     "lineTypes": [
       "IEPL",
       "专线"
@@ -430,7 +430,7 @@
     "fromMonthly": 15,
     "coupon": "",
     "status": "active",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://airportgo.org/",
     "lineTypes": [
       "IEPL",
       "专线"
@@ -532,7 +532,7 @@
     "fromMonthly": 19.9,
     "coupon": "",
     "status": "active",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://airportgo.org/",
     "lineTypes": [
       "IPLC",
       "IEPL",

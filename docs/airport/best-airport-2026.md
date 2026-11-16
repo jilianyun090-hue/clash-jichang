@@ -224,19 +224,19 @@ date: 2026-09-26
 
 21. **[大哥云](/airport/dageyun)** (最低 ¥19.9/月)
     * **定位**：4年老牌一键式翻墙。提供自研定制客户端，无需复杂配置，对中老年与小白极友好。
-    * **直达官网**：[直达官网](https://airportgo.org/go.php)
+    * **直达官网**：[直达官网](https://clash-jichang.com/go/dageyun)
 
 22. **[龙猫云](/airport/longmaoyun)** (最低 ¥15/月)
     * **定位**：性价比极高的高速 IEPL 专线。提供多周期优惠，完美解锁 Netflix 和 ChatGPT。
-    * **直达官网**：[直达官网](https://airportgo.org/go.php)
+    * **直达官网**：[直达官网](https://clash-jichang.com/go/longmaoyun)
 
 23. **[飞鸟机场](/airport/feiniaojichang)** (最低 ¥15/月)
     * **定位**：高端全 IEPL 物理专线。敏感时期和晚高峰抗干扰性能优异，突发带宽大。
-    * **直达官网**：[直达官网](https://airportgo.org/go.php)
+    * **直达官网**：[直达官网](https://clash-jichang.com/go/feiniaojichang)
 
 24. **[青云梯](/airport/qingyunti)** (最低 ¥8/月)
     * **定位**：大流量低价直连优化，适合以浏览网页和偶尔查看学术文献为主的轻度用户。
-    * **直达官网**：[直达官网](https://airportgo.org/go.php)
+    * **直达官网**：[直达官网](https://clash-jichang.com/go/qingyunti)
 
 25. **[花云 (FlowerCloud)](/airport/huayunjichang)** (最低 ¥10.6/月)
     * **定位**：行业金牌旗舰级 IEPL 专线。资费起步为年付 128 元起，拥有首屈一指的稳定性。

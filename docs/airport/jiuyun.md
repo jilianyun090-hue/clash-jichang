@@ -14,7 +14,7 @@ date: 2026-09-08
 
 九云机场是一家采用海外中转线路的高性价比机场服务，使用VLESS协议，节点覆盖香港、日本、台湾、新加坡、美国等常用地区。主打日常上网、流媒体以及AI服务使用，支持ChatGPT、Gemini等常见AI平台，同时提供Netflix、YouTube等常规流媒体解锁。
 
-**官网地址：** [daoyi.jiuyyq.com](https://daoyi.jiuyyq.com)
+👉 **[直达官网](https://daoyi.jiuyyq.com)**
 
 ## 核心特性
 
