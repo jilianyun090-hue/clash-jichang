@@ -191,9 +191,11 @@ const redirects = ["/streaming/* /proxy/streaming-unlock-guide 301"];
 for (const a of airports.filter((x) => x.affiliateUrl && x.status === "active")) {
   redirects.push(`/go/${a.slug} ${a.affiliateUrl} 302`);
   redirects.push(`/go/${a.slug}/ ${a.affiliateUrl} 302`);
+  // 兼容旧页面或客户端导航产生的 .html 地址。
+  redirects.push(`/go/${a.slug}.html ${a.affiliateUrl} 302`);
 }
 fs.writeFileSync("docs/.vuepress/public/_redirects", redirects.join("\n") + "\n");
-console.log(`_redirects: ${(redirects.length - 1) / 2} brands + 1 static rule`);
+console.log(`_redirects: ${(redirects.length - 1) / 3} brands (3 routes each) + 1 static rule`);
 
 const walk = (d) =>
   fs.readdirSync(d, { withFileTypes: true }).flatMap((e) => {

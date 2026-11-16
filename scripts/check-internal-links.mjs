@@ -22,6 +22,12 @@ for (const f of files) {
   pages.add("/" + rel.replace(/\/$/, ""));
 }
 const publicDir = path.join(root, ".vuepress/public");
+const redirectsFile = path.join(publicDir, "_redirects");
+const redirects = new Set(
+  fs.existsSync(redirectsFile)
+    ? fs.readFileSync(redirectsFile, "utf8").split(/\r?\n/).map((line) => line.trim().split(/\s+/)[0])
+    : [],
+);
 const ASSET = /\.(png|jpg|jpeg|svg|webp|txt|xml|ico|gif)$/i;
 // 博客插件自动生成的聚合页
 const generated = ["/tag", "/category", "/article", "/timeline", "/star", "/404"];
@@ -35,11 +41,15 @@ const add = (link, src) => {
 for (const f of files) {
   const text = fs.readFileSync(f, "utf8");
   const src = "/" + path.relative(root, f).split(path.sep).join("/");
-  const re = /\]\((\/[^)\s#?]*)|href="(\/[^"#?]*)/g;
+  const re = /\]\(((?:https:\/\/clash-jichang\.com)?\/[^)\s#?]*)|href="((?:https:\/\/clash-jichang\.com)?\/[^"#?]*)/g;
   for (const m of text.matchAll(re)) {
-    const raw = m[1] ?? m[2];
+    const raw = (m[1] ?? m[2]).replace(/^https:\/\/clash-jichang\.com/, "");
     const link = raw.replace(/\.html$/, "").replace(/\/$/, "");
-    if (link === "" || link.startsWith("/go/")) continue;
+    if (link === "") continue;
+    if (link.startsWith("/go/")) {
+      if (!redirects.has(raw)) add(raw, src);
+      continue;
+    }
     if (ASSET.test(raw)) {
       if (!fs.existsSync(path.join(publicDir, raw))) add(raw, src);
       continue;

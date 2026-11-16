@@ -32,10 +32,11 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
   const slug = file.replace(/\.md$/, "");
   const text = fs.readFileSync(path.join(dir, file), "utf8");
   const { fm, body } = readFm(text);
-  // 已收录的机场允许修改标题，避免重建时丢失其数据和 /go/ 跳转。
-  if (!/^.{1,12}?(机场)?怎么样/.test(fm.title || "") && !previousNames.has(slug)) continue;
+  // 兼容“机场怎么样”和“机场测评：”标题；已收录的机场改名后仍保留跳转。
+  const reviewTitle = (fm.title || "").match(/^(.{1,12}?)(?:机场)?(?:怎么样|测评[：:])/);
+  if (!reviewTitle && !previousNames.has(slug)) continue;
 
-  const name = (fm.title.match(/^(.+?)(?:机场)?怎么样/) || [])[1] || previousNames.get(slug) || slug;
+  const name = reviewTitle?.[1] || previousNames.get(slug) || slug;
 
   // 注册链接：出现次数最多、且看起来是邀请/注册地址的外链
   const urls = [...body.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)].map((m) => m[1]).filter((u) => !u.includes("t.me") && AFF.test(u));
@@ -45,8 +46,8 @@ for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
 
   const priceLine = (body.match(/价格区间\*{0,2}[：:]\s*(.+)/) || [])[1]?.trim() || "";
   const firstPrice = (priceLine.match(/¥\s*(\d+(?:\.\d+)?)/) || [])[1];
-  // 优惠码：排除纯年份（如“2026”），保留 2026-99 这类带连字符的码
-  const couponRaw = (body.match(/优惠码[^A-Za-z0-9\n]{0,6}\**`?([A-Za-z0-9][A-Za-z0-9-]{2,15})`?\**/) || [])[1] || "";
+  // 排除纯年份和 Markdown 链接边界，避免把“[机场优惠码](/airport/...)”识别成优惠码。
+  const couponRaw = (body.match(/优惠码[^A-Za-z0-9\n\]]{0,6}\**`?([A-Za-z0-9][A-Za-z0-9-]{2,15})`?\**/) || [])[1] || "";
   const coupon = /^20\d\d$/.test(couponRaw) ? "" : couponRaw;
   // 页面开头出现跑路/停服警告的，只进预警列表，不进对比、性价比、优惠码
   const status = /跑路|停止服务|已停服/.test(body.slice(0, 800)) ? "warning" : "active";
