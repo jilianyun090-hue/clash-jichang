@@ -1,6 +1,6 @@
 ---
 title: "云图机场怎么样？套餐、线路与订阅信息整理"
-description: "云图机场怎么样？整理公开套餐价格、线路说明、设备限制和订阅信息，并标明本站验证边界。套餐与服务状态可能变化，购买前请以服务商当前页面和个人测试为准。"
+description: "云图机场评测2026：金融级专线机场，月均20元起，全线完美解锁Netflix/Disney+/YouTube和ChatGPT/TikTok等AI和流媒体平台，原生IP支持，全节点1倍率无扣费陷阱，专属优惠码yt88享八折。"
 head:
   - - meta
     - name: keywords

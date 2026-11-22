@@ -1,6 +1,6 @@
 ---
 title: "Lumina机场测评：套餐价格与线路配置"
-description: "Lumina机场测评：整理套餐价格、节点线路、流量倍率和订阅配置。提供多地节点覆盖,支持Clash/Shadowrocket等主流客户端,适合日常科学上网需求。"
+description: "Lumina机场评测2026：直连与中转大带宽混合网络，月均10元起，支持Hysteria2协议，不限制设备连接数，多地节点覆盖支持Clash/Shadowrocket等主流客户端，适合日常科学上网需求，套餐价格与订阅配置详解。"
 head:
 - - meta
   - name: keywords
