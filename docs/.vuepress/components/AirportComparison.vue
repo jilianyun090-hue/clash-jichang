@@ -142,7 +142,7 @@ const selectedAirports = ref(['', '']);
 
 // 机场数据库 - 完整列表(与 airport/README.md 同步)
 const availableAirports = [
-  { id: 'jilianyun', name: '极连云', price: '8元/月起', line: 'IPLC专线', traffic: '60GB', devices: '不限', netflix: true, chatgpt: true, years: '3年+', trial: '无', link: 'https://haozevpn.jlyvipaff.com/#/?code=KUKfOY13' },
+  { id: 'jilianyun', name: '极连云', price: '8元/月起', line: 'IPLC专线', traffic: '60GB', devices: '不限', netflix: true, chatgpt: true, years: '3年+', trial: '无', link: 'https://haozevpn02.jlyvipaff.com/#/?code=6aTAi9bW' },
   { id: 'guangnianti', name: '光年梯', price: '7.5元/月起', line: '物理内网专线', traffic: '50GB', devices: '不限', netflix: true, chatgpt: true, years: '4年+', trial: '无', link: 'https://gnt001.gntvipaff.cc/#/?code=j1ufpE44' },
   { id: 'feimao', name: '飞猫云', price: '25元/月起', line: 'IPLC专线', traffic: '150GB', devices: '不限', netflix: true, chatgpt: true, years: '2年+', trial: '无', link: 'https://flycat.flycatvipaff.cc/#/?code=1arEKHqh' },
   { id: 'yuntu', name: '云图机场', price: '25元/月起', line: '金融级专线', traffic: '150GB', devices: '5台', netflix: true, chatgpt: true, years: '3年+', trial: '无', link: 'https://super.yuntujc.cc/#/register?code=qPHQtI9a' },
