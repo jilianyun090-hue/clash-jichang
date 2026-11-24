@@ -28,7 +28,9 @@ features:
     link: /airport/cheap-airport
   - title: Clash机场推荐
     details: 适合Clash Verge使用的稳定机场订阅推荐。
-    link: /airport/compare
+    link: /airport/clash-jichang-tuijian-2026
+  - title: 机场优惠码
+    details: 最新机场优惠码与折扣码汇总。
     link: /airport/coupons
   - title: 跑路预警
     details: 已跑路与高风险机场名单，购买前先查。
