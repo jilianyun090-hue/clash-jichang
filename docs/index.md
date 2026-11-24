@@ -1,33 +1,34 @@
 ---
 home: true
-title: "机场推荐2026：稳定机场与便宜机场测评对比"
-description: "机场推荐与梯子推荐指南：汇总38家稳定机场、便宜机场的价格、线路与优惠码，覆盖IPLC/IEPL专线机场、性价比机场与流媒体机场，附机场观察、跑路预警与Clash/Shadowrocket客户端教程。"
+title: "机场推荐2026：稳定机场推荐、便宜机场推荐与专线机场排行榜"
+description: "2026最新机场推荐与机场排行榜：汇总38家稳定机场推荐、便宜机场推荐、专线机场推荐，对比IPLC/IEPL专线机场价格与线路，包含机场优惠码、跑路预警、Clash机场推荐与Shadowrocket订阅配置，帮助选择靠谱高速机场。"
 head:
   - - meta
     - name: keywords
-      content: 机场推荐,机场测评,稳定机场,便宜机场,性价比机场,机场对比,IPLC机场,IEPL机场,Clash配置,Shadowrocket
+      content: 机场推荐,机场推荐2026,稳定机场推荐,便宜机场推荐,专线机场推荐,机场排行榜,IPLC机场,IEPL机场,Clash机场推荐,Shadowrocket机场推荐
 heroImage: /network-globe-logo.png
 heroAlt: 全球网络连接示意图
-heroText: 机场推荐 · 梯子推荐 · 翻墙VPN
-tagline: 机场推荐、服务状态观察、套餐与线路对比，注明公开资料与实际验证范围。
+heroText: 机场推荐 2026 · 稳定机场排行榜
+tagline: 专线机场推荐、便宜机场推荐、高速机场推荐，附机场观察、套餐对比与Clash订阅教程。
 actions:
-  - text: 查看机场推荐与测评
+  - text: 查看机场推荐排行榜
     link: /airport/
     type: primary
   - text: AI 使用指南
     link: /ai/
 features:
-  - title: 机场对比
-    details: 起步价、线路类型、优惠码一张表对比。
+  - title: 机场推荐排行榜
+    details: 按价格、线路、稳定性整理的机场排行榜，含优惠码。
+    link: /airport/
+  - title: 专线机场推荐
+    details: IPLC、IEPL物理专线机场推荐，晚高峰稳定。
+    link: /airport/best-airport-2026
+  - title: 便宜机场推荐
+    details: 学生党高性价比机场推荐，月付8元起。
+    link: /airport/cheap-airport
+  - title: Clash机场推荐
+    details: 适合Clash Verge使用的稳定机场订阅推荐。
     link: /airport/compare
-  - title: 机场观察
-    details: 查看公开公告、套餐变化和风险线索的核对方法。
-    link: /airport/observation
-  - title: 性价比机场
-    details: 按起步月价从低到高整理，附评测入口。
-    link: /airport/best-value
-  - title: 机场优惠码
-    details: 已收录的机场优惠码与使用说明。
     link: /airport/coupons
   - title: 跑路预警
     details: 已跑路与高风险机场名单，购买前先查。
