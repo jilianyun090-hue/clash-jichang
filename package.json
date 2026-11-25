@@ -8,7 +8,9 @@
     "build": "vuepress build docs",
     "postbuild": "node scripts/fix-clean-links.js && node scripts/fix-sitemap.js && node scripts/postprocess-dist.mjs",
     "prebuild": "node scripts/check-frontmatter.mjs && node scripts/build-airport-data.mjs && node scripts/build-faq-data.mjs && node scripts/generate-airport-pages.mjs && node scripts/check-internal-links.mjs",
-    "indexnow": "node scripts/submit-indexnow.js"
+    "indexnow": "node scripts/submit-indexnow.js",
+    "bing:monitor": "node scripts/bing-monitor.mjs",
+    "bing:monitor:watch": "node -e \"setInterval(() => require('child_process').execSync('node scripts/bing-monitor.mjs'), 3600000)\""
   },
   "type": "module",
   "keywords": [],
