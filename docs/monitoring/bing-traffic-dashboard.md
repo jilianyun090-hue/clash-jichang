@@ -4,7 +4,7 @@ description: "实时监控网站在 Bing 搜索中的流量数据、关键词排
 head:
   - - meta
     - name: robots
-      content: noindex
+      content: noindex,follow
 tag:
   - 监控
   - SEO
