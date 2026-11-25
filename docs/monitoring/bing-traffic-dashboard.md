@@ -50,7 +50,7 @@ import { bingTrafficData, bingTrafficChartData } from '../.vuepress/data/bing-tr
 
 ### 1. 获取 Bing API 密钥
 
-访问 [Bing Webmaster Tools](https://www.bing.com/webmasters)，按照 [BING_API_SETUP.md](/BING_API_SETUP.md) 获取 API 密钥。
+访问 [Bing Webmaster Tools](https://www.bing.com/webmasters)，按照 [BING_API_SETUP.md](/monitoring/bing-api-setup.md) 获取 API 密钥。
 
 ### 2. 创建 .env 文件
 
@@ -90,4 +90,4 @@ npm run bing:monitor:watch
 **相关链接**：
 - [Bing Webmaster Tools](https://www.bing.com/webmasters)
 - [Google Search Console](https://search.google.com/search-console)
-- [API 获取指南](/BING_API_SETUP.md)
+- [API 获取指南](/monitoring/bing-api-setup.md)
