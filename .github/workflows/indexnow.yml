@@ -39,5 +39,6 @@ jobs:
 
       - name: 提交更新 URL 到 IndexNow
         env:
+          INDEXNOW_KEY: ${{ secrets.BING_INDEXNOW_KEY }}
           INDEXNOW_ALL: ${{ inputs.submit_all == true && '1' || '0' }}
         run: npm run indexnow

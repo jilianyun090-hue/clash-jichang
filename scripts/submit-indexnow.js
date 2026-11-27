@@ -17,7 +17,7 @@ import https from "https";
 import fs from "fs";
 import path from "path";
 
-const INDEXNOW_KEY = "7ed17addd6714c9bb9398a7251d90866";
+const INDEXNOW_KEY = process.env.INDEXNOW_KEY || "12a9889fbf3e4ca29d6272a042c1dc73";
 const HOST = "clash-jichang.com";
 const KEY_LOCATION = `https://${HOST}/${INDEXNOW_KEY}.txt`;
 const DAYS = Number(process.env.INDEXNOW_DAYS || 3);
